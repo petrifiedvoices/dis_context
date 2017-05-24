@@ -1,0 +1,1841 @@
+open source     > 1 > 1 > /usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv
+
+ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2017.2.24  int: english/english
+
+system          > 'cont-new.mkiv' loaded
+open source     > 2 > 2 > /usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv
+close source    > 2 > 2 > /usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv
+system          > files > jobname 'FullDis', input './FullDis', result 'FullDis'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > 2 > 3 > /home/mq20151400/petra/dis_context/FullDis.tex
+fonts           > beware: no fonts are loaded yet, using 'lm mono' in box
+backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1
+structure       > sectioning > chapter @ level 2 : 0.1 -> Úvod
+structure       > sectioning > section @ level 3 : 0.1.1 -> Představení tématu
+structure       > sectioning > section @ level 3 : 0.1.2 -> Cíle
+structure       > sectioning > section @ level 3 : 0.1.3 -> Hypotézy a zvolená metoda
+structure       > sectioning > section @ level 3 : 0.1.4 -> Význam studie v rámci zvolené problematiky
+structure       > sectioning > section @ level 3 : 0.1.5 -> Stručné nastínění obsahu práce
+structure       > sectioning > section @ level 3 : 0.1.6 -> Literární a historiografické prameny
+structure       > sectioning > subsection @ level 4 : 0.1.6.1 -> Informativní hodnota literárních pramenů
+structure       > sectioning > subsection @ level 4 : 0.1.6.2 -> Thrákie v literárních pramenech
+pages           > flushing realpage 2, userpage 2
+structure       > sectioning > subsection @ level 4 : 0.1.6.3 -> Charakteristika obyvatel Thrákie v literárních pramenech
+structure       > sectioning > subsection @ level 4 : 0.1.6.4 -> Společenská organizace Thráků z pohledu vnějšího pozorovatele
+pages           > flushing realpage 3, userpage 3
+structure       > sectioning > subsection @ level 4 : 0.1.6.5 -> Literární topos: nevyzpytatelní spojenci a nebezpeční nepřátelé
+structure       > sectioning > subsubsection @ level 5 : 0.1.6.5.1 -> Thrákové a literární žánr historiografie 5. a 4. st. př. n. l.
+structure       > sectioning > subsubsection @ level 5 : 0.1.6.5.2 -> Thrákové a attická komedie a řečnictví 5. a 4. st. př. n. l.
+structure       > sectioning > subsubsection @ level 5 : 0.1.6.5.3 -> Thrákové a pozdní literární zdroje
+pages           > flushing realpage 4, userpage 4
+structure       > sectioning > subsection @ level 4 : 0.1.6.6 -> Thrákie a Thrákové v literárních pramenech: shrnutí
+structure       > sectioning > section @ level 3 : 0.1.7 -> Historický nástin vývoje regionu
+structure       > sectioning > subsection @ level 4 : 0.1.7.1 -> Thrákie v 1. tis. př. n. l.
+structure       > sectioning > subsection @ level 4 : 0.1.7.2 -> Řecká kolonizace thráckého pobřeží
+structure       > sectioning > subsubsection @ level 5 : 0.1.7.2.1 -> Geografický rozsah řecké kolonizace
+pages           > flushing realpage 5, userpage 5
+structure       > sectioning > subsection @ level 4 : 0.1.7.3 -> Peršané a vznik dynastie Odrysů
+structure       > sectioning > subsection @ level 4 : 0.1.7.4 -> Makedonská kolonizace a období hellénismu
+pages           > flushing realpage 6, userpage 6
+structure       > sectioning > subsection @ level 4 : 0.1.7.5 -> Období vazalských králů
+structure       > sectioning > subsection @ level 4 : 0.1.7.6 -> Římské provincie Thracia a Moesia Inferior
+structure       > sectioning > subsection @ level 4 : 0.1.7.7 -> Společenské reformy 2. st. n. l.
+pages           > flushing realpage 7, userpage 7
+structure       > sectioning > subsection @ level 4 : 0.1.7.8 -> Krize 3. a 4. st. n. l. a transformace společnosti
+structure       > sectioning > subsection @ level 4 : 0.1.7.9 -> Thrákie v průběhu dějin: shrnutí
+pages           > flushing realpage 8, userpage 8
+structure       > sectioning > chapter @ level 2 : 0.2 -> Mezikulturní kontakty v antickém světě
+structure       > sectioning > section @ level 3 : 0.2.1 -> Koloniální teoretické modely
+structure       > sectioning > subsection @ level 4 : 0.2.1.1 -> Akulturace
+structure       > sectioning > subsubsection @ level 5 : 0.2.1.1.1 -> Akulturace v archeologii a historických vědách
+structure       > sectioning > subsection @ level 4 : 0.2.1.2 -> Hellénizace
+pages           > flushing realpage 9, userpage 9
+structure       > sectioning > subsubsection @ level 5 : 0.2.1.2.1 -> Srovnání teoretických konceptů hellénizace a romanizace
+structure       > sectioning > subsubsection @ level 5 : 0.2.1.2.2 -> Nejednotný charakter řecké kultury a identity
+structure       > sectioning > subsubsection @ level 5 : 0.2.1.2.3 -> Hellénizace v Thrákii
+pages           > flushing realpage 10, userpage 10
+structure       > sectioning > subsection @ level 4 : 0.2.1.3 -> Teorie světových systémů a její návaznost na hellénizaci
+structure       > sectioning > subsubsection @ level 5 : 0.2.1.3.1 -> Teorie světových systémů v Thrákii
+structure       > sectioning > section @ level 3 : 0.2.2 -> Přehled nejdůležitějších směrů: post-koloniální modely
+pages           > flushing realpage 11, userpage 11
+structure       > sectioning > subsection @ level 4 : 0.2.2.1 -> Lokalizace a zaměření na místní obyvatelstvo
+structure       > sectioning > subsection @ level 4 : 0.2.2.2 -> Kreativní síla mezikulturních kontaktů
+structure       > sectioning > subsection @ level 4 : 0.2.2.3 -> Kontextualizace mezikulturních kontaktů
+pages           > flushing realpage 12, userpage 12
+structure       > sectioning > section @ level 3 : 0.2.3 -> Alternativní přístup k mezikulturnímu kontaktu
+pages           > flushing realpage 13, userpage 13
+structure       > sectioning > chapter @ level 2 : 0.3 -> Nápisy a jejich hodnota pro studium antické společnosti
+structure       > sectioning > section @ level 3 : 0.3.1 -> Specifika epigrafických pramenů
+structure       > sectioning > subsection @ level 4 : 0.3.1.1 -> Nápis vs. literární pramen
+structure       > sectioning > subsection @ level 4 : 0.3.1.2 -> Statický a selektivní obraz epigrafické společnosti
+structure       > sectioning > section @ level 3 : 0.3.2 -> Důvody pro publikaci nápisů
+structure       > sectioning > section @ level 3 : 0.3.3 -> Epigrafická produkce a komplexní společnost
+pages           > flushing realpage 14, userpage 14
+structure       > sectioning > section @ level 3 : 0.3.4 -> Materializace životního stylu na nápisech
+structure       > sectioning > subsection @ level 4 : 0.3.4.1 -> Identita a identifikace na epigrafických památkách
+structure       > sectioning > subsection @ level 4 : 0.3.4.2 -> Jazyková identita
+structure       > sectioning > subsection @ level 4 : 0.3.4.3 -> Osobní jméno a identifikace jednotlivce
+pages           > flushing realpage 15, userpage 15
+structure       > sectioning > subsection @ level 4 : 0.3.4.4 -> Původ jako prostředek identifikace
+structure       > sectioning > subsection @ level 4 : 0.3.4.5 -> Identifikace s komunitou
+structure       > sectioning > subsubsection @ level 5 : 0.3.4.5.1 -> Kolektivní identita a legitimizace společenského postavení
+structure       > sectioning > subsubsection @ level 5 : 0.3.4.5.2 -> Politicko-administrativní komunity
+pages           > flushing realpage 16, userpage 16
+structure       > sectioning > subsubsection @ level 5 : 0.3.4.5.3 -> Kultovní a náboženské komunity
+structure       > sectioning > section @ level 3 : 0.3.5 -> Shrnutí
+pages           > flushing realpage 17, userpage 17
+structure       > sectioning > chapter @ level 2 : 0.4 -> Metodologie a zvolená metoda
+structure       > sectioning > section @ level 3 : 0.4.1 -> Zvolená metoda
+structure       > sectioning > subsection @ level 4 : 0.4.1.1 -> Funkce nápisů
+structure       > sectioning > subsection @ level 4 : 0.4.1.2 -> Celospolečenské trendy a složení společnosti
+structure       > sectioning > subsection @ level 4 : 0.4.1.3 -> Epigrafická produkční centra
+structure       > sectioning > section @ level 3 : 0.4.2 -> Použité epigrafické korpusy a jejich specifika
+structure       > sectioning > section @ level 3 : 0.4.3 -> Organizace a sběr dat
+pages           > flushing realpage 18, userpage 18
+structure       > sectioning > section @ level 3 : 0.4.4 -> Technické řešení: Heurist
+structure       > sectioning > subsection @ level 4 : 0.4.4.1 -> Struktura databáze a použitá metodologie
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.1 -> Identifikační čísla
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.2 -> Geografické údaje
+
+tex error       > tex error on line 593 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.593   \startblockquote
+                      
+
+583     \subsubsection[geografické-údaje]{Geografické údaje}
+584     
+585     Většina korpusů uvádí původ nápisu pouze velmi obecně, a tudíž určit konkrétní místo nálezu může být v určitých případech obtížné. Navíc se přístup jednotlivých editorů při popisu místa nálezu liší, a tím pádem i charakter dostupných informací. Pro systematické zpracování nápisů bylo nutné geografické informace sjednotit, abych bylo možné je později souhrnně analyzovat a zobrazit formou map. K tomuto účelu jsem využívala program Heurist a jeho mapovací součást {\em Heurist Digitizer}.\footnote{Heurist využívá mapovací software {\em Google Maps}, který umožňuje manipulací s mapou či satelitním snímkem zaznamenávat zeměpisné koordináty (zeměpisnou šířku a zeměpisnou délku, v sekci Geolocation). Obrázek 4.02 v Apendixu 2 zobrazuje rozhraní programu {\em Heurist Digitizer}, v němž se zadávalo místo nálezu každého nápisu.}
+586     
+587     Konkrétní bod míst nálezu nápisu je zvolen dle informací z informací poskytnutých editorem nápisů, uvedených v nápisném {\em lemmatu}. Editoři však udávají údaje o místě nálezu velmi obecně, a proto bylo nutné přijít s řešením zahrnujícím míru nejistoty určení místa nálezu. Na základě těchto specifik byl každému bodu přiřazen tzv. koeficient přesnosti místa nálezu ({\em Position certainty}), jehož hodnoty udávají hodnotu přesnosti místa nálezu.\footnote{Tzv. {\em buffer zone}, čili nárazníková zóna okolo daného bodu se vzdáleností do 1 km, do 5 km, do 20 km a nad 20 km, viz Tabulka 4.02 v Apendixu 1. Program Heurist udává každému místu nálezu jeden konkrétní bod na planetě, který je vyznačený zeměpisnými koordináty. Editoři nápisů naopak udávají spíše oblast, v níž byl nápis nalezen a nikoliv konkrétní bod. Zvolená metoda se snaží oba dva přístupy spojit a zároveň zaznamenat data o místu náletu v jednotné formě, díky níž je možné data vzájemně srovnávat a analyzovat. Podrobněji zvolenou metodologii rozebírám níže v této kapitole.} Nápisy, jejichž místo nálezu bylo možné určit s přesností do 20 km, využívám v rámci analýzy rozmístění nápisů v krajině v kapitole 7.
+588     
+589     Následující položky vysvětlují způsob zaznamenávání geografických údajů do databáze:\footnote{Ukázka záznamu v programu Heurist zaznamenávající zeměpisné údaje se nachází na obrázku 4.03 v Apendixu 2.}
+590     
+591     \startitemize
+592     \item
+593 >>    \startblockquote
+594       Místní údaje ({\em Location}) zaznamenávají místní jména tak, jak je obsahují epigrafické korpusy. Zaznamenává se jméno nejbližšího místa či osídlení, dále jméno antické lokality, pokud je známé, a region antického města, pod které nálezové místo spadalo ({\em Modern Location, Ancient Site, Ancient site - region}). Pokud se jedná o místní jméno, které již dnes neexistuje, pak je o tom poznámka v položce {\em Geography notes}. Do položky {\em Geography notes} se zaznamenávají veškeré údaje dostupné o místě nálezu, které není možné zadat do žádného jiného pole.
+595       \stopblockquote
+596     \item
+597       \startblockquote
+598       Položka {\em Reuse} zaznamenává, zda byl nápis sekundárně použitý, např. nalezený ve zdech budovy, či přenesený do kostela. Pokud je položka prázdná, nemáme informace o sekundárním použití nápisu.\footnote{Příkladem zmínky o sekundárním použití může být {\em IG Bulg} 1,2 393: „{\em Apolloniae, olim conservatum erat in aedibus quibusdam}.”}
+599       \stopblockquote
+600     \item
+601       \startblockquote
+602       Položka {\em Archaeological context} zaznamenává známý archeologický kontext nalezeného nápisu tak, jak ho udává epigrafický korpus ({\em Funerary} pro lokality s vyskytujícími se hroby, hrobkami, či archeologicky identifikovanými pohřebišti; {\em Habitation} pro lokality s archeologicky identifikovanými sídlišti, budovami a místy lidského osídlení; {\em Commercial} jako podkategorie {\em Habitation}, pro lokality s identifikovaných obchodním charakterem, jako například emporion, přístav, agora apod.; {\em Other} pro typy archeologické lokality nespadající do žádné z uvedených kategorií, s detaily uvedenými v poznámce; {\em Religious/Ritual} pro svatyně; {\em Secondary} pro nápisy nalezené v sekundárním kontextu).
+603       \stopblockquote
+
+
+? q
+OK, entering \batchmode...
+
+pages           > flushing realpage 19, userpage 19
+
+tex error       > tex error on line 597 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.597   \startblockquote
+                      
+
+587     Konkrétní bod míst nálezu nápisu je zvolen dle informací z informací poskytnutých editorem nápisů, uvedených v nápisném {\em lemmatu}. Editoři však udávají údaje o místě nálezu velmi obecně, a proto bylo nutné přijít s řešením zahrnujícím míru nejistoty určení místa nálezu. Na základě těchto specifik byl každému bodu přiřazen tzv. koeficient přesnosti místa nálezu ({\em Position certainty}), jehož hodnoty udávají hodnotu přesnosti místa nálezu.\footnote{Tzv. {\em buffer zone}, čili nárazníková zóna okolo daného bodu se vzdáleností do 1 km, do 5 km, do 20 km a nad 20 km, viz Tabulka 4.02 v Apendixu 1. Program Heurist udává každému místu nálezu jeden konkrétní bod na planetě, který je vyznačený zeměpisnými koordináty. Editoři nápisů naopak udávají spíše oblast, v níž byl nápis nalezen a nikoliv konkrétní bod. Zvolená metoda se snaží oba dva přístupy spojit a zároveň zaznamenat data o místu náletu v jednotné formě, díky níž je možné data vzájemně srovnávat a analyzovat. Podrobněji zvolenou metodologii rozebírám níže v této kapitole.} Nápisy, jejichž místo nálezu bylo možné určit s přesností do 20 km, využívám v rámci analýzy rozmístění nápisů v krajině v kapitole 7.
+588     
+589     Následující položky vysvětlují způsob zaznamenávání geografických údajů do databáze:\footnote{Ukázka záznamu v programu Heurist zaznamenávající zeměpisné údaje se nachází na obrázku 4.03 v Apendixu 2.}
+590     
+591     \startitemize
+592     \item
+593       \startblockquote
+594       Místní údaje ({\em Location}) zaznamenávají místní jména tak, jak je obsahují epigrafické korpusy. Zaznamenává se jméno nejbližšího místa či osídlení, dále jméno antické lokality, pokud je známé, a region antického města, pod které nálezové místo spadalo ({\em Modern Location, Ancient Site, Ancient site - region}). Pokud se jedná o místní jméno, které již dnes neexistuje, pak je o tom poznámka v položce {\em Geography notes}. Do položky {\em Geography notes} se zaznamenávají veškeré údaje dostupné o místě nálezu, které není možné zadat do žádného jiného pole.
+595       \stopblockquote
+596     \item
+597 >>    \startblockquote
+598       Položka {\em Reuse} zaznamenává, zda byl nápis sekundárně použitý, např. nalezený ve zdech budovy, či přenesený do kostela. Pokud je položka prázdná, nemáme informace o sekundárním použití nápisu.\footnote{Příkladem zmínky o sekundárním použití může být {\em IG Bulg} 1,2 393: „{\em Apolloniae, olim conservatum erat in aedibus quibusdam}.”}
+599       \stopblockquote
+600     \item
+601       \startblockquote
+602       Položka {\em Archaeological context} zaznamenává známý archeologický kontext nalezeného nápisu tak, jak ho udává epigrafický korpus ({\em Funerary} pro lokality s vyskytujícími se hroby, hrobkami, či archeologicky identifikovanými pohřebišti; {\em Habitation} pro lokality s archeologicky identifikovanými sídlišti, budovami a místy lidského osídlení; {\em Commercial} jako podkategorie {\em Habitation}, pro lokality s identifikovaných obchodním charakterem, jako například emporion, přístav, agora apod.; {\em Other} pro typy archeologické lokality nespadající do žádné z uvedených kategorií, s detaily uvedenými v poznámce; {\em Religious/Ritual} pro svatyně; {\em Secondary} pro nápisy nalezené v sekundárním kontextu).
+603       \stopblockquote
+604     \item
+605       \startblockquote
+606       Položka {\em Mound} zaznamenává, zda editor udává, že byl nápis nalezen v pohřební mohyle, či její bezprostřední blízkosti.
+607       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 601 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.601   \startblockquote
+                      
+
+591     \startitemize
+592     \item
+593       \startblockquote
+594       Místní údaje ({\em Location}) zaznamenávají místní jména tak, jak je obsahují epigrafické korpusy. Zaznamenává se jméno nejbližšího místa či osídlení, dále jméno antické lokality, pokud je známé, a region antického města, pod které nálezové místo spadalo ({\em Modern Location, Ancient Site, Ancient site - region}). Pokud se jedná o místní jméno, které již dnes neexistuje, pak je o tom poznámka v položce {\em Geography notes}. Do položky {\em Geography notes} se zaznamenávají veškeré údaje dostupné o místě nálezu, které není možné zadat do žádného jiného pole.
+595       \stopblockquote
+596     \item
+597       \startblockquote
+598       Položka {\em Reuse} zaznamenává, zda byl nápis sekundárně použitý, např. nalezený ve zdech budovy, či přenesený do kostela. Pokud je položka prázdná, nemáme informace o sekundárním použití nápisu.\footnote{Příkladem zmínky o sekundárním použití může být {\em IG Bulg} 1,2 393: „{\em Apolloniae, olim conservatum erat in aedibus quibusdam}.”}
+599       \stopblockquote
+600     \item
+601 >>    \startblockquote
+602       Položka {\em Archaeological context} zaznamenává známý archeologický kontext nalezeného nápisu tak, jak ho udává epigrafický korpus ({\em Funerary} pro lokality s vyskytujícími se hroby, hrobkami, či archeologicky identifikovanými pohřebišti; {\em Habitation} pro lokality s archeologicky identifikovanými sídlišti, budovami a místy lidského osídlení; {\em Commercial} jako podkategorie {\em Habitation}, pro lokality s identifikovaných obchodním charakterem, jako například emporion, přístav, agora apod.; {\em Other} pro typy archeologické lokality nespadající do žádné z uvedených kategorií, s detaily uvedenými v poznámce; {\em Religious/Ritual} pro svatyně; {\em Secondary} pro nápisy nalezené v sekundárním kontextu).
+603       \stopblockquote
+604     \item
+605       \startblockquote
+606       Položka {\em Mound} zaznamenává, zda editor udává, že byl nápis nalezen v pohřební mohyle, či její bezprostřední blízkosti.
+607       \stopblockquote
+608     \stopitemize
+609     
+610     \subsubsection[údaje-o-nosiči-nápisu]{Údaje o nosiči nápisu}
+611     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 605 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.605   \startblockquote
+                      
+
+595       \stopblockquote
+596     \item
+597       \startblockquote
+598       Položka {\em Reuse} zaznamenává, zda byl nápis sekundárně použitý, např. nalezený ve zdech budovy, či přenesený do kostela. Pokud je položka prázdná, nemáme informace o sekundárním použití nápisu.\footnote{Příkladem zmínky o sekundárním použití může být {\em IG Bulg} 1,2 393: „{\em Apolloniae, olim conservatum erat in aedibus quibusdam}.”}
+599       \stopblockquote
+600     \item
+601       \startblockquote
+602       Položka {\em Archaeological context} zaznamenává známý archeologický kontext nalezeného nápisu tak, jak ho udává epigrafický korpus ({\em Funerary} pro lokality s vyskytujícími se hroby, hrobkami, či archeologicky identifikovanými pohřebišti; {\em Habitation} pro lokality s archeologicky identifikovanými sídlišti, budovami a místy lidského osídlení; {\em Commercial} jako podkategorie {\em Habitation}, pro lokality s identifikovaných obchodním charakterem, jako například emporion, přístav, agora apod.; {\em Other} pro typy archeologické lokality nespadající do žádné z uvedených kategorií, s detaily uvedenými v poznámce; {\em Religious/Ritual} pro svatyně; {\em Secondary} pro nápisy nalezené v sekundárním kontextu).
+603       \stopblockquote
+604     \item
+605 >>    \startblockquote
+606       Položka {\em Mound} zaznamenává, zda editor udává, že byl nápis nalezen v pohřební mohyle, či její bezprostřední blízkosti.
+607       \stopblockquote
+608     \stopitemize
+609     
+610     \subsubsection[údaje-o-nosiči-nápisu]{Údaje o nosiči nápisu}
+611     
+612     Tato sekce zaznamenává údaje o nosiči, na němž se nápis nachází. Informace pochází jak z epigrafického {\em lemmatu}, tak z doprovodného vizuálního materiálu, pokud byl k dispozici, jako je fotografie, kresba, fotografie oklepku. Podle charakteru epigrafického objektu je možné alespoň relativně určit, zda se jednalo o místně produkovaný předmět, či se mohlo jednat o import.\footnote{Ukázka záznamu dat o nosiči nápisu v programu Heurist se nachází na obrázku 4.04 v Apendixu 2.}
+613     
+614     \startitemize
+615     \item
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.3 -> Údaje o nosiči nápisu
+
+tex error       > tex error on line 616 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.616   \startblockquote
+                      
+
+606       Položka {\em Mound} zaznamenává, zda editor udává, že byl nápis nalezen v pohřební mohyle, či její bezprostřední blízkosti.
+607       \stopblockquote
+608     \stopitemize
+609     
+610     \subsubsection[údaje-o-nosiči-nápisu]{Údaje o nosiči nápisu}
+611     
+612     Tato sekce zaznamenává údaje o nosiči, na němž se nápis nachází. Informace pochází jak z epigrafického {\em lemmatu}, tak z doprovodného vizuálního materiálu, pokud byl k dispozici, jako je fotografie, kresba, fotografie oklepku. Podle charakteru epigrafického objektu je možné alespoň relativně určit, zda se jednalo o místně produkovaný předmět, či se mohlo jednat o import.\footnote{Ukázka záznamu dat o nosiči nápisu v programu Heurist se nachází na obrázku 4.04 v Apendixu 2.}
+613     
+614     \startitemize
+615     \item
+616 >>    \startblockquote
+617       Položka {\em Material category} zaznamenává, z jakého materiálu byl předmět vyroben ({\em Metal} - kov; {\em Other} - jiný druh materiálu, detaily se uvádějí do poznámek {\em Decoration notes}, např. nápis vyrytý do omítky, či součástí mozaiky; {\em Perishable} - netrvanlivý materiál jako dřevo aj.; {\em Pottery} - keramika, terracotta; {\em Stone} - kámen). Pokud byl předmět vyroben z kamene, zajímá mě, z jakého druhu ({\em Stone}), případně zda je možné určit jeho původ ({\em Origin of stone}).
+618       \stopblockquote
+619     \item
+620       \startblockquote
+621       Položka {\em Object category} zaznamenává, o jaký druh předmětu se jedná: {\em Architectural feature} pro architektonické prvky nesoucí nápis, {\em Mosaic} pro mozaiku obsahující nápis, {\em Other} pro předmět nespadající ani do jedné z uvedených kategorií. Případné detaily o dekoraci nosiče jsou uvedené do poznámky {\em Decoration notes}, {\em Stele} pro stélu, či tabulku nesoucí nápis; {\em Sculpture} pro sochu či její součást nesoucí nápis, {\em Vessel} pro nádobu či její součást nesoucí nápis; {\em Wall} pro stěnu stavby, či zeď nesoucí nápis.
+622       \stopblockquote
+623     \stopitemize
+624     
+625     Dále databáze zaznamenává celou řadu dat získaných jednak z textu epigrafického {\em lemmatu}, ale zejména z doprovodných vizuálních příloh. Editoři často doplnili publikaci fotografií, kresbou, fotografií oklepku, či méně často textovým popisem stavu dochování, či dekorace. Pro usnadnění zaznamenávání a následné analýzy jsem vytvořila základní typologii popisu předmětu, doplněnou o konkrétní příklady s fotografiemi.
+626     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 620 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.620   \startblockquote
+                      
+
+610     \subsubsection[údaje-o-nosiči-nápisu]{Údaje o nosiči nápisu}
+611     
+612     Tato sekce zaznamenává údaje o nosiči, na němž se nápis nachází. Informace pochází jak z epigrafického {\em lemmatu}, tak z doprovodného vizuálního materiálu, pokud byl k dispozici, jako je fotografie, kresba, fotografie oklepku. Podle charakteru epigrafického objektu je možné alespoň relativně určit, zda se jednalo o místně produkovaný předmět, či se mohlo jednat o import.\footnote{Ukázka záznamu dat o nosiči nápisu v programu Heurist se nachází na obrázku 4.04 v Apendixu 2.}
+613     
+614     \startitemize
+615     \item
+616       \startblockquote
+617       Položka {\em Material category} zaznamenává, z jakého materiálu byl předmět vyroben ({\em Metal} - kov; {\em Other} - jiný druh materiálu, detaily se uvádějí do poznámek {\em Decoration notes}, např. nápis vyrytý do omítky, či součástí mozaiky; {\em Perishable} - netrvanlivý materiál jako dřevo aj.; {\em Pottery} - keramika, terracotta; {\em Stone} - kámen). Pokud byl předmět vyroben z kamene, zajímá mě, z jakého druhu ({\em Stone}), případně zda je možné určit jeho původ ({\em Origin of stone}).
+618       \stopblockquote
+619     \item
+620 >>    \startblockquote
+621       Položka {\em Object category} zaznamenává, o jaký druh předmětu se jedná: {\em Architectural feature} pro architektonické prvky nesoucí nápis, {\em Mosaic} pro mozaiku obsahující nápis, {\em Other} pro předmět nespadající ani do jedné z uvedených kategorií. Případné detaily o dekoraci nosiče jsou uvedené do poznámky {\em Decoration notes}, {\em Stele} pro stélu, či tabulku nesoucí nápis; {\em Sculpture} pro sochu či její součást nesoucí nápis, {\em Vessel} pro nádobu či její součást nesoucí nápis; {\em Wall} pro stěnu stavby, či zeď nesoucí nápis.
+622       \stopblockquote
+623     \stopitemize
+624     
+625     Dále databáze zaznamenává celou řadu dat získaných jednak z textu epigrafického {\em lemmatu}, ale zejména z doprovodných vizuálních příloh. Editoři často doplnili publikaci fotografií, kresbou, fotografií oklepku, či méně často textovým popisem stavu dochování, či dekorace. Pro usnadnění zaznamenávání a následné analýzy jsem vytvořila základní typologii popisu předmětu, doplněnou o konkrétní příklady s fotografiemi.
+626     
+627     \startitemize
+628     \item
+629       \startblockquote
+630       Položka {\em Preservation} zaznamenává stav dochování předmětu v době vydání korpusu. Stav dochování je odhadován na základě procentuálního dochování původního tvaru a velikosti nadepsaného předmětu (100 \letterpercent{}, 75 \letterpercent{}, 50 \letterpercent{}, 25 \letterpercent{}), či zda se předmět dochoval pouze ve formě oklepku, překresby, či zda je předmět ztracený, či není možné stav jeho dochování určit.\footnote{Obrazová galerie příkladů je součástí tabulky 4.03 v Apendixu 1.}
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 629 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.629   \startblockquote
+                      
+
+619     \item
+620       \startblockquote
+621       Položka {\em Object category} zaznamenává, o jaký druh předmětu se jedná: {\em Architectural feature} pro architektonické prvky nesoucí nápis, {\em Mosaic} pro mozaiku obsahující nápis, {\em Other} pro předmět nespadající ani do jedné z uvedených kategorií. Případné detaily o dekoraci nosiče jsou uvedené do poznámky {\em Decoration notes}, {\em Stele} pro stélu, či tabulku nesoucí nápis; {\em Sculpture} pro sochu či její součást nesoucí nápis, {\em Vessel} pro nádobu či její součást nesoucí nápis; {\em Wall} pro stěnu stavby, či zeď nesoucí nápis.
+622       \stopblockquote
+623     \stopitemize
+624     
+625     Dále databáze zaznamenává celou řadu dat získaných jednak z textu epigrafického {\em lemmatu}, ale zejména z doprovodných vizuálních příloh. Editoři často doplnili publikaci fotografií, kresbou, fotografií oklepku, či méně často textovým popisem stavu dochování, či dekorace. Pro usnadnění zaznamenávání a následné analýzy jsem vytvořila základní typologii popisu předmětu, doplněnou o konkrétní příklady s fotografiemi.
+626     
+627     \startitemize
+628     \item
+629 >>    \startblockquote
+630       Položka {\em Preservation} zaznamenává stav dochování předmětu v době vydání korpusu. Stav dochování je odhadován na základě procentuálního dochování původního tvaru a velikosti nadepsaného předmětu (100 \letterpercent{}, 75 \letterpercent{}, 50 \letterpercent{}, 25 \letterpercent{}), či zda se předmět dochoval pouze ve formě oklepku, překresby, či zda je předmět ztracený, či není možné stav jeho dochování určit.\footnote{Obrazová galerie příkladů je součástí tabulky 4.03 v Apendixu 1.}
+631       \stopblockquote
+632     \item
+633       \startblockquote
+634       Položka {\em Decoration} zaznamenává typy použitých dekoračních technik - zejména mě zajímá reliéf a malovaná dekorace; další techniky se popisují v {\em Decoration Notes}. Položka {\em Relief decoration} zaznamenává konkrétní typy reliéfní dekorace. Položka {\em Architectural relief} je první typ reliéfní dekorace, zaznamenávající všechny druhy použité architektonické dekorace a její možné kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.04 v Apendixu 1.} Položka {\em Figural relief} zaznamenává konkrétní druhy figurálního reliéfu, které se na předmětu vyskytují, a to i jejich kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.05 v Apendixu 1.} Položka {\em Decoration notes} zaznamenává informace nespadající ani do jedné z výše uvedených kategorií či podrobnější informace uvedené editory korpusu, případně zpozorované na vizuálním materiálu.
+635       \stopblockquote
+636     \item
+637       \startblockquote
+638       Položka {\em Visual record} availability zaznamenává, zda editoři korpusu přiložili též vizuální dokumentaci nápisu, jako fotografii, kresbu, fotografii oklepku.
+639       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 633 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.633   \startblockquote
+                      
+
+623     \stopitemize
+624     
+625     Dále databáze zaznamenává celou řadu dat získaných jednak z textu epigrafického {\em lemmatu}, ale zejména z doprovodných vizuálních příloh. Editoři často doplnili publikaci fotografií, kresbou, fotografií oklepku, či méně často textovým popisem stavu dochování, či dekorace. Pro usnadnění zaznamenávání a následné analýzy jsem vytvořila základní typologii popisu předmětu, doplněnou o konkrétní příklady s fotografiemi.
+626     
+627     \startitemize
+628     \item
+629       \startblockquote
+630       Položka {\em Preservation} zaznamenává stav dochování předmětu v době vydání korpusu. Stav dochování je odhadován na základě procentuálního dochování původního tvaru a velikosti nadepsaného předmětu (100 \letterpercent{}, 75 \letterpercent{}, 50 \letterpercent{}, 25 \letterpercent{}), či zda se předmět dochoval pouze ve formě oklepku, překresby, či zda je předmět ztracený, či není možné stav jeho dochování určit.\footnote{Obrazová galerie příkladů je součástí tabulky 4.03 v Apendixu 1.}
+631       \stopblockquote
+632     \item
+633 >>    \startblockquote
+634       Položka {\em Decoration} zaznamenává typy použitých dekoračních technik - zejména mě zajímá reliéf a malovaná dekorace; další techniky se popisují v {\em Decoration Notes}. Položka {\em Relief decoration} zaznamenává konkrétní typy reliéfní dekorace. Položka {\em Architectural relief} je první typ reliéfní dekorace, zaznamenávající všechny druhy použité architektonické dekorace a její možné kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.04 v Apendixu 1.} Položka {\em Figural relief} zaznamenává konkrétní druhy figurálního reliéfu, které se na předmětu vyskytují, a to i jejich kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.05 v Apendixu 1.} Položka {\em Decoration notes} zaznamenává informace nespadající ani do jedné z výše uvedených kategorií či podrobnější informace uvedené editory korpusu, případně zpozorované na vizuálním materiálu.
+635       \stopblockquote
+636     \item
+637       \startblockquote
+638       Položka {\em Visual record} availability zaznamenává, zda editoři korpusu přiložili též vizuální dokumentaci nápisu, jako fotografii, kresbu, fotografii oklepku.
+639       \stopblockquote
+640     \stopitemize
+641     
+642     \subsubsection[údaje-získané-z-textu]{Údaje získané z textu}
+643     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 637 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.637   \startblockquote
+                      
+
+627     \startitemize
+628     \item
+629       \startblockquote
+630       Položka {\em Preservation} zaznamenává stav dochování předmětu v době vydání korpusu. Stav dochování je odhadován na základě procentuálního dochování původního tvaru a velikosti nadepsaného předmětu (100 \letterpercent{}, 75 \letterpercent{}, 50 \letterpercent{}, 25 \letterpercent{}), či zda se předmět dochoval pouze ve formě oklepku, překresby, či zda je předmět ztracený, či není možné stav jeho dochování určit.\footnote{Obrazová galerie příkladů je součástí tabulky 4.03 v Apendixu 1.}
+631       \stopblockquote
+632     \item
+633       \startblockquote
+634       Položka {\em Decoration} zaznamenává typy použitých dekoračních technik - zejména mě zajímá reliéf a malovaná dekorace; další techniky se popisují v {\em Decoration Notes}. Položka {\em Relief decoration} zaznamenává konkrétní typy reliéfní dekorace. Položka {\em Architectural relief} je první typ reliéfní dekorace, zaznamenávající všechny druhy použité architektonické dekorace a její možné kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.04 v Apendixu 1.} Položka {\em Figural relief} zaznamenává konkrétní druhy figurálního reliéfu, které se na předmětu vyskytují, a to i jejich kombinace.\footnote{Jejich seznam a obrazová galerie je součástí tabulky 4.05 v Apendixu 1.} Položka {\em Decoration notes} zaznamenává informace nespadající ani do jedné z výše uvedených kategorií či podrobnější informace uvedené editory korpusu, případně zpozorované na vizuálním materiálu.
+635       \stopblockquote
+636     \item
+637 >>    \startblockquote
+638       Položka {\em Visual record} availability zaznamenává, zda editoři korpusu přiložili též vizuální dokumentaci nápisu, jako fotografii, kresbu, fotografii oklepku.
+639       \stopblockquote
+640     \stopitemize
+641     
+642     \subsubsection[údaje-získané-z-textu]{Údaje získané z textu}
+643     
+644     Tato sekce zaznamenává informace získané jednak z epigrafického {\em lemmatu}, jako je např. datace, ale i z formy a obsahu samotného nápisu. Přidržuji se standardní typologie řeckých nápisů, jak je známá z {\em Inscriptiones Graecae}, či jak je uvádí McLean (2002, 181-210).
+645     
+646     \subsubsection[datace]{Datace}
+647     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.4 -> Údaje získané z textu
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.5 -> Datace
+pages           > flushing realpage 20, userpage 20
+
+tex error       > tex error on line 654 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.654   \startblockquote
+                      
+
+644     Tato sekce zaznamenává informace získané jednak z epigrafického {\em lemmatu}, jako je např. datace, ale i z formy a obsahu samotného nápisu. Přidržuji se standardní typologie řeckých nápisů, jak je známá z {\em Inscriptiones Graecae}, či jak je uvádí McLean (2002, 181-210).
+645     
+646     \subsubsection[datace]{Datace}
+647     
+648     Datace nápisu patří ve velké míře o interpretaci autora korpusu na základě referencí v textu, provedení nápisu a na základě analogií. Datace nápisu je zaznamenána tak, jak jí uvádějí editoři korpusu, s výjimkou, že všechna data jsou převedena do číselného intervalu pro jejich snadnější zpracování a vzájemnou konzistentnost dat. Roky před naším letopočtem se zapisují jako záporné hodnoty, a roky po našem letopočtu jako plusové hodnoty. {\em Start Year} udává maximální možné datum v minulosti ({\em terminus post quem}), do nějž může být nápis dle editora datován. {\em End Year} udává minimální možné datum v minulosti ({\em terminus ante quem}), do nějž může být nápis dle editora datován. Editoři mohou používat dataci ohraničenou konkrétními roky, případně stoletími, ale mnohdy používají popisnou dataci, zařazení do období, bez jasného vymezení jeho hranic. Pokud není stanoveno jinak, držím se v těchto případech standardního členění dle řeckých dějin (archaická doba, klasická doba, hellénismus atp.). Pokud tedy editor datuje nápis do klasické doby, pak použitá datace odpovídá maximálnímu rozsahu standardní datace řeckých dějin (479 - 338 př. n. l.).\footnote{Přehledná chronologická tabulka 4.06 s použitou metodologií převodu různých forem datace do jednotných čísel je uvedena v Apendixu 1.}
+649     
+650     Každý editor epigrafického korpusu přistupoval k dataci jiným způsobem: někdo se snažil datovat všechny nápisy, ač někdy v rozmezí na několik století, a jiný editor dával přednost datovat jen nápisy, u nichž byl schopen přiřadit konkrétní datum, a nejisté nápisy ponechat bez datace. Tím ale vznikla poměrně velká skupina nedatovaných nápisů, kterou se mi však povedlo aplikací následujících pravidel zmenšit zhruba o třetinu, a přiřadit nápisům alespoň relativní dataci. Položka {\em Relative Date} obsahuje relativní dataci založenou na interpretaci výskytu osobních jmen, na vizuální kontrole užitého písma a výskytu osobních jmen, či jiných termínů, díky nimž je možné nápis alespoň relativně datovat jako římský, tj. spadajících do 1. - 5. st. n. l. Určujícími prvky jsou:
+651     
+652     \startitemize
+653     \item
+654 >>    \startblockquote
+655       Přítomnost jmen, které je možné označit jako římská, či ovlivněná římskými onomastickými zvyky, např. jména jako Aurelios, Gaios, Ailios, Klaudios apod.
+656       \stopblockquote
+657     \item
+658       \startblockquote
+659       Formy písma typicky užívané v době římské, a to zejména se zaměřením na písmena omega, lunární sigma, či na přítomnost ligatur. Proměnu stylu jsem zaznamenala u nápisů datovaných do římské doby a zpětně jsem tyto nové poznatky zpětně aplikovala na nedatované nápisy, v nichž se však vyskytovala stejná forma písma.
+660       \stopblockquote
+661     \stopitemize
+662     
+663     Položka {\em Century} je pak pouhým výčtem všech století, do nichž byl nápis datovaný. Tato položka byla vytvořena z praktického důvodu snadnějšího vyhledávaní a filtrování nápisů datovaných do hledaných století.
+664     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 658 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.658   \startblockquote
+                      
+
+648     Datace nápisu patří ve velké míře o interpretaci autora korpusu na základě referencí v textu, provedení nápisu a na základě analogií. Datace nápisu je zaznamenána tak, jak jí uvádějí editoři korpusu, s výjimkou, že všechna data jsou převedena do číselného intervalu pro jejich snadnější zpracování a vzájemnou konzistentnost dat. Roky před naším letopočtem se zapisují jako záporné hodnoty, a roky po našem letopočtu jako plusové hodnoty. {\em Start Year} udává maximální možné datum v minulosti ({\em terminus post quem}), do nějž může být nápis dle editora datován. {\em End Year} udává minimální možné datum v minulosti ({\em terminus ante quem}), do nějž může být nápis dle editora datován. Editoři mohou používat dataci ohraničenou konkrétními roky, případně stoletími, ale mnohdy používají popisnou dataci, zařazení do období, bez jasného vymezení jeho hranic. Pokud není stanoveno jinak, držím se v těchto případech standardního členění dle řeckých dějin (archaická doba, klasická doba, hellénismus atp.). Pokud tedy editor datuje nápis do klasické doby, pak použitá datace odpovídá maximálnímu rozsahu standardní datace řeckých dějin (479 - 338 př. n. l.).\footnote{Přehledná chronologická tabulka 4.06 s použitou metodologií převodu různých forem datace do jednotných čísel je uvedena v Apendixu 1.}
+649     
+650     Každý editor epigrafického korpusu přistupoval k dataci jiným způsobem: někdo se snažil datovat všechny nápisy, ač někdy v rozmezí na několik století, a jiný editor dával přednost datovat jen nápisy, u nichž byl schopen přiřadit konkrétní datum, a nejisté nápisy ponechat bez datace. Tím ale vznikla poměrně velká skupina nedatovaných nápisů, kterou se mi však povedlo aplikací následujících pravidel zmenšit zhruba o třetinu, a přiřadit nápisům alespoň relativní dataci. Položka {\em Relative Date} obsahuje relativní dataci založenou na interpretaci výskytu osobních jmen, na vizuální kontrole užitého písma a výskytu osobních jmen, či jiných termínů, díky nimž je možné nápis alespoň relativně datovat jako římský, tj. spadajících do 1. - 5. st. n. l. Určujícími prvky jsou:
+651     
+652     \startitemize
+653     \item
+654       \startblockquote
+655       Přítomnost jmen, které je možné označit jako římská, či ovlivněná římskými onomastickými zvyky, např. jména jako Aurelios, Gaios, Ailios, Klaudios apod.
+656       \stopblockquote
+657     \item
+658 >>    \startblockquote
+659       Formy písma typicky užívané v době římské, a to zejména se zaměřením na písmena omega, lunární sigma, či na přítomnost ligatur. Proměnu stylu jsem zaznamenala u nápisů datovaných do římské doby a zpětně jsem tyto nové poznatky zpětně aplikovala na nedatované nápisy, v nichž se však vyskytovala stejná forma písma.
+660       \stopblockquote
+661     \stopitemize
+662     
+663     Položka {\em Century} je pak pouhým výčtem všech století, do nichž byl nápis datovaný. Tato položka byla vytvořena z praktického důvodu snadnějšího vyhledávaní a filtrování nápisů datovaných do hledaných století.
+664     
+665     \subsubsection[typologie-nápisu]{Typologie nápisu}
+666     
+667     \startitemize
+668     \item
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.6 -> Typologie nápisu
+
+tex error       > tex error on line 669 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.669   \startblockquote
+                      
+
+659       Formy písma typicky užívané v době římské, a to zejména se zaměřením na písmena omega, lunární sigma, či na přítomnost ligatur. Proměnu stylu jsem zaznamenala u nápisů datovaných do římské doby a zpětně jsem tyto nové poznatky zpětně aplikovala na nedatované nápisy, v nichž se však vyskytovala stejná forma písma.
+660       \stopblockquote
+661     \stopitemize
+662     
+663     Položka {\em Century} je pak pouhým výčtem všech století, do nichž byl nápis datovaný. Tato položka byla vytvořena z praktického důvodu snadnějšího vyhledávaní a filtrování nápisů datovaných do hledaných století.
+664     
+665     \subsubsection[typologie-nápisu]{Typologie nápisu}
+666     
+667     \startitemize
+668     \item
+669 >>    \startblockquote
+670       Položka {\em Dialect} zaznamenává použitý řecký dialekt, alespoň nakolik ho bylo možné rozlišit z textu nápisu, či ve výjimečných případech z epigrafického {\em lemmatu}.
+671       \stopblockquote
+672     \item
+673       \startblockquote
+674       Položka {\em Latin} zaznamenává, zda se v textu nápis vyskytuje latinský text či nikoliv.
+675       \stopblockquote
+676     \item
+677       \startblockquote
+678       Položka {\em Language Form} zaznamenává literární formu jazyka, v němž je převážná většina textu napsána, tj. zda je psána ve verši či v próze.
+679       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 673 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.673   \startblockquote
+                      
+
+663     Položka {\em Century} je pak pouhým výčtem všech století, do nichž byl nápis datovaný. Tato položka byla vytvořena z praktického důvodu snadnějšího vyhledávaní a filtrování nápisů datovaných do hledaných století.
+664     
+665     \subsubsection[typologie-nápisu]{Typologie nápisu}
+666     
+667     \startitemize
+668     \item
+669       \startblockquote
+670       Položka {\em Dialect} zaznamenává použitý řecký dialekt, alespoň nakolik ho bylo možné rozlišit z textu nápisu, či ve výjimečných případech z epigrafického {\em lemmatu}.
+671       \stopblockquote
+672     \item
+673 >>    \startblockquote
+674       Položka {\em Latin} zaznamenává, zda se v textu nápis vyskytuje latinský text či nikoliv.
+675       \stopblockquote
+676     \item
+677       \startblockquote
+678       Položka {\em Language Form} zaznamenává literární formu jazyka, v němž je převážná většina textu napsána, tj. zda je psána ve verši či v próze.
+679       \stopblockquote
+680     \item
+681       \startblockquote
+682       Položka {\em Script} zaznamenává druh použitého písma. Písmo je interpretováno na základě studia vizuálního materiálu. Pokud vizuální materiál chybí, analýza nebyla provedena a položka zůstala nevyplněná, či přebírá informace poskytnuté editorem korpusu.
+683       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 677 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.677   \startblockquote
+                      
+
+667     \startitemize
+668     \item
+669       \startblockquote
+670       Položka {\em Dialect} zaznamenává použitý řecký dialekt, alespoň nakolik ho bylo možné rozlišit z textu nápisu, či ve výjimečných případech z epigrafického {\em lemmatu}.
+671       \stopblockquote
+672     \item
+673       \startblockquote
+674       Položka {\em Latin} zaznamenává, zda se v textu nápis vyskytuje latinský text či nikoliv.
+675       \stopblockquote
+676     \item
+677 >>    \startblockquote
+678       Položka {\em Language Form} zaznamenává literární formu jazyka, v němž je převážná většina textu napsána, tj. zda je psána ve verši či v próze.
+679       \stopblockquote
+680     \item
+681       \startblockquote
+682       Položka {\em Script} zaznamenává druh použitého písma. Písmo je interpretováno na základě studia vizuálního materiálu. Pokud vizuální materiál chybí, analýza nebyla provedena a položka zůstala nevyplněná, či přebírá informace poskytnuté editorem korpusu.
+683       \stopblockquote
+684     \item
+685       \startblockquote
+686       Položka {\em Layout} zaznamenává rozvržení nápisu a jeho pravidelnost. Zejména se jedná o zachycení datovatelných forem rozmístění textu, jako je např. {\em bústrofédon} či {\em stoichédon} (dle McLean 2002).
+687       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 681 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.681   \startblockquote
+                      
+
+671       \stopblockquote
+672     \item
+673       \startblockquote
+674       Položka {\em Latin} zaznamenává, zda se v textu nápis vyskytuje latinský text či nikoliv.
+675       \stopblockquote
+676     \item
+677       \startblockquote
+678       Položka {\em Language Form} zaznamenává literární formu jazyka, v němž je převážná většina textu napsána, tj. zda je psána ve verši či v próze.
+679       \stopblockquote
+680     \item
+681 >>    \startblockquote
+682       Položka {\em Script} zaznamenává druh použitého písma. Písmo je interpretováno na základě studia vizuálního materiálu. Pokud vizuální materiál chybí, analýza nebyla provedena a položka zůstala nevyplněná, či přebírá informace poskytnuté editorem korpusu.
+683       \stopblockquote
+684     \item
+685       \startblockquote
+686       Položka {\em Layout} zaznamenává rozvržení nápisu a jeho pravidelnost. Zejména se jedná o zachycení datovatelných forem rozmístění textu, jako je např. {\em bústrofédon} či {\em stoichédon} (dle McLean 2002).
+687       \stopblockquote
+688     \item
+689       \startblockquote
+690       Položka {\em Document Typology} zaznamenává druh dokumentu na základě studia textu a základních charakteristik předmětu nesoucí nápis. Jedná se o nápisy veřejné, soukromé, či o nápisy neurčitelné. Položka {\em Public Documents} obsahuje základní typologii veřejných nápisů (dle McLean 2002). Položka {\em Private Documents} obsahuje základní typologii soukromých nápisů (dle McLean 2002). Položka {\em Document Typology Notes} zaznamenává poznámky k typologii nápisu a obecně k intepretacím založeným na čtení textu.
+691       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 685 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.685   \startblockquote
+                      
+
+675       \stopblockquote
+676     \item
+677       \startblockquote
+678       Položka {\em Language Form} zaznamenává literární formu jazyka, v němž je převážná většina textu napsána, tj. zda je psána ve verši či v próze.
+679       \stopblockquote
+680     \item
+681       \startblockquote
+682       Položka {\em Script} zaznamenává druh použitého písma. Písmo je interpretováno na základě studia vizuálního materiálu. Pokud vizuální materiál chybí, analýza nebyla provedena a položka zůstala nevyplněná, či přebírá informace poskytnuté editorem korpusu.
+683       \stopblockquote
+684     \item
+685 >>    \startblockquote
+686       Položka {\em Layout} zaznamenává rozvržení nápisu a jeho pravidelnost. Zejména se jedná o zachycení datovatelných forem rozmístění textu, jako je např. {\em bústrofédon} či {\em stoichédon} (dle McLean 2002).
+687       \stopblockquote
+688     \item
+689       \startblockquote
+690       Položka {\em Document Typology} zaznamenává druh dokumentu na základě studia textu a základních charakteristik předmětu nesoucí nápis. Jedná se o nápisy veřejné, soukromé, či o nápisy neurčitelné. Položka {\em Public Documents} obsahuje základní typologii veřejných nápisů (dle McLean 2002). Položka {\em Private Documents} obsahuje základní typologii soukromých nápisů (dle McLean 2002). Položka {\em Document Typology Notes} zaznamenává poznámky k typologii nápisu a obecně k intepretacím založeným na čtení textu.
+691       \stopblockquote
+692     \item
+693       \startblockquote
+694       Položka {\em Extent of Lines} zaznamenává maximální dochovaný počet řádků textu tak, jak je text publikován v epigrafickém korpusu.\footnote{V případě nápisů rozdělených do několika sloupců se počet řádků sčítá.}
+695       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 689 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.689   \startblockquote
+                      
+
+679       \stopblockquote
+680     \item
+681       \startblockquote
+682       Položka {\em Script} zaznamenává druh použitého písma. Písmo je interpretováno na základě studia vizuálního materiálu. Pokud vizuální materiál chybí, analýza nebyla provedena a položka zůstala nevyplněná, či přebírá informace poskytnuté editorem korpusu.
+683       \stopblockquote
+684     \item
+685       \startblockquote
+686       Položka {\em Layout} zaznamenává rozvržení nápisu a jeho pravidelnost. Zejména se jedná o zachycení datovatelných forem rozmístění textu, jako je např. {\em bústrofédon} či {\em stoichédon} (dle McLean 2002).
+687       \stopblockquote
+688     \item
+689 >>    \startblockquote
+690       Položka {\em Document Typology} zaznamenává druh dokumentu na základě studia textu a základních charakteristik předmětu nesoucí nápis. Jedná se o nápisy veřejné, soukromé, či o nápisy neurčitelné. Položka {\em Public Documents} obsahuje základní typologii veřejných nápisů (dle McLean 2002). Položka {\em Private Documents} obsahuje základní typologii soukromých nápisů (dle McLean 2002). Položka {\em Document Typology Notes} zaznamenává poznámky k typologii nápisu a obecně k intepretacím založeným na čtení textu.
+691       \stopblockquote
+692     \item
+693       \startblockquote
+694       Položka {\em Extent of Lines} zaznamenává maximální dochovaný počet řádků textu tak, jak je text publikován v epigrafickém korpusu.\footnote{V případě nápisů rozdělených do několika sloupců se počet řádků sčítá.}
+695       \stopblockquote
+696     \stopitemize
+697     
+698     \subsubsection[textová-analýza-jednotlivých-termínů]{Textová analýza jednotlivých termínů}
+699     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 693 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.693   \startblockquote
+                      
+
+683       \stopblockquote
+684     \item
+685       \startblockquote
+686       Položka {\em Layout} zaznamenává rozvržení nápisu a jeho pravidelnost. Zejména se jedná o zachycení datovatelných forem rozmístění textu, jako je např. {\em bústrofédon} či {\em stoichédon} (dle McLean 2002).
+687       \stopblockquote
+688     \item
+689       \startblockquote
+690       Položka {\em Document Typology} zaznamenává druh dokumentu na základě studia textu a základních charakteristik předmětu nesoucí nápis. Jedná se o nápisy veřejné, soukromé, či o nápisy neurčitelné. Položka {\em Public Documents} obsahuje základní typologii veřejných nápisů (dle McLean 2002). Položka {\em Private Documents} obsahuje základní typologii soukromých nápisů (dle McLean 2002). Položka {\em Document Typology Notes} zaznamenává poznámky k typologii nápisu a obecně k intepretacím založeným na čtení textu.
+691       \stopblockquote
+692     \item
+693 >>    \startblockquote
+694       Položka {\em Extent of Lines} zaznamenává maximální dochovaný počet řádků textu tak, jak je text publikován v epigrafickém korpusu.\footnote{V případě nápisů rozdělených do několika sloupců se počet řádků sčítá.}
+695       \stopblockquote
+696     \stopitemize
+697     
+698     \subsubsection[textová-analýza-jednotlivých-termínů]{Textová analýza jednotlivých termínů}
+699     
+700     V této sekci se zaznamenává výskyt specifických termínů ({\em keywords}) v textu nápisu. Tyto termíny postihují základní struktury společenského uspořádání typického pro komplexní společnost, jako jsou názvy institucí, názvy funkcí státního aparátu, specializovaná povolání, názvy lokalit a aktivit spojených s fungováním komplexní společnosti apod. Při analýze nápisů mě zajímá nakolik se tyto termíny vyskytovaly v konkrétních společenských kontextech, zda je možné jejich výskyt spojit s určitou společenskou skupinou. Dále mě zajímá, zda se termíny postupem času rozšiřovaly jak místně, tak i v rámci hierarchie společnosti, a zda je možné sledovat posun v jejich použití a významu. U všech hledaných termínů se určuje i jejich společensko-kulturní původ, na kolik je možné ho stanovit.\footnote{Vzhledem k faktu, že se jedná o řecky psané nápisy, které se drží řeckých vzorů i v pozdějších dobách, pak i většina termínů nutně pochází původně z řeckého prostředí.}
+701     
+702     Hledané termíny jsou rozděleny do několika tematických skupin:
+703     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.7 -> Textová analýza jednotlivých termínů
+pages           > flushing realpage 21, userpage 21
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.8 -> Identita a identifikace
+
+tex error       > tex error on line 736 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.736   \startblockquote
+                      
+
+726         \stopblockquote
+727       \stopitemize
+728     \stopitemize
+729     
+730     \subsubsection[identita-a-identifikace]{Identita a identifikace}
+731     
+732     V této části se snažím určit společensko-kulturní kontext, v němž nápis vznikl. Na základě analýzy textu nápisu zaznamenávám, jak se lidé prezentovali na nápisech a pod jakou identitou se rozhodli vystupovat, či se k ní nějakým způsobem vyjádřit.\footnote{Podrobnější teoretický úvod k prezentaci identity na nápisech se nachází v kapitole 3.} Rozlišuji několik stupňů prezentace identity, a to jsou osobní jména a vazby na nejbližší okolí, jako např. rodinu, předky, partnery, přátele. Dále mě zajímají vazby na skupiny lidí a komunity, a společensko-politické jednotky jako jsou vesnice, města, regiony, státy apod.
+733     
+734     \startitemize
+735     \item
+736 >>    \startblockquote
+737       V sekci {\em Names} zaznamenávám všechny osoby, které je možné identifikovat dle osobního jména, či jejich kombinací (osobní jméno + {\em patronymikum}, jméno matky, partnera, předků, jména potomků, sourozenců apod.). U jednotlivých jmen zaznamenávám i jejich původ, tedy kontext, v němž se jména vyskytovala původně a nejčastěji, a tradičně bývají považována za řecká, thrácká, římská či jiného původu/není možné jejich původ určit. Dále rozlišuji, zda se jedná o jméno ženské, či mužské, či zda není možné jeho příslušnost určit dle dochovaných textů.
+738       \stopblockquote
+739     \item
+740       \startblockquote
+741       V rámci {\em Collective Group Names} zaznamenávám jména popisující skupinu lidí. Může se jednat jak o skupinu lidí založenou na etnickém principu, společném zájmu, či společensko-politické příslušnosti, či společném náboženském přesvědčení).\footnote{Jejich kompletní seznam je uveden v tabulce 4.12 v Apendixu 1.}
+742       \stopblockquote
+743     \item
+744       \startblockquote
+745       V sekci {\em Geographic Names} zaznamenávám místní jména, tak, jak jsou uvedené v textu nápisu (osídlení, regiony, pohoří, řeky apod.).\footnote{Jejich kompletní seznam je uveden v tabulce 4.13 v Apendixu 1.}
+746       \stopblockquote
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 740 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.740   \startblockquote
+                      
+
+730     \subsubsection[identita-a-identifikace]{Identita a identifikace}
+731     
+732     V této části se snažím určit společensko-kulturní kontext, v němž nápis vznikl. Na základě analýzy textu nápisu zaznamenávám, jak se lidé prezentovali na nápisech a pod jakou identitou se rozhodli vystupovat, či se k ní nějakým způsobem vyjádřit.\footnote{Podrobnější teoretický úvod k prezentaci identity na nápisech se nachází v kapitole 3.} Rozlišuji několik stupňů prezentace identity, a to jsou osobní jména a vazby na nejbližší okolí, jako např. rodinu, předky, partnery, přátele. Dále mě zajímají vazby na skupiny lidí a komunity, a společensko-politické jednotky jako jsou vesnice, města, regiony, státy apod.
+733     
+734     \startitemize
+735     \item
+736       \startblockquote
+737       V sekci {\em Names} zaznamenávám všechny osoby, které je možné identifikovat dle osobního jména, či jejich kombinací (osobní jméno + {\em patronymikum}, jméno matky, partnera, předků, jména potomků, sourozenců apod.). U jednotlivých jmen zaznamenávám i jejich původ, tedy kontext, v němž se jména vyskytovala původně a nejčastěji, a tradičně bývají považována za řecká, thrácká, římská či jiného původu/není možné jejich původ určit. Dále rozlišuji, zda se jedná o jméno ženské, či mužské, či zda není možné jeho příslušnost určit dle dochovaných textů.
+738       \stopblockquote
+739     \item
+740 >>    \startblockquote
+741       V rámci {\em Collective Group Names} zaznamenávám jména popisující skupinu lidí. Může se jednat jak o skupinu lidí založenou na etnickém principu, společném zájmu, či společensko-politické příslušnosti, či společném náboženském přesvědčení).\footnote{Jejich kompletní seznam je uveden v tabulce 4.12 v Apendixu 1.}
+742       \stopblockquote
+743     \item
+744       \startblockquote
+745       V sekci {\em Geographic Names} zaznamenávám místní jména, tak, jak jsou uvedené v textu nápisu (osídlení, regiony, pohoří, řeky apod.).\footnote{Jejich kompletní seznam je uveden v tabulce 4.13 v Apendixu 1.}
+746       \stopblockquote
+747     \stopitemize
+748     
+749     \subsubsection[text-nápisu]{Text nápisu}
+750     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+
+tex error       > tex error on line 744 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! \textfont0 is undefined (character 63)
+
+
+\textmath ...\normalstartimath #1\normalstopimath 
+                                                  \endgroup \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+\symb_place_retry ...name \symb_place_indeed {:#1}
+                                                  \else #1\fi 
+\symb_place_normal_c ...lace_retry \currentsymbol 
+                                                  \fi 
+\symb_place_normal_b ...else \symb_place_normal_c 
+                                                  \fi 
+\symb_place_indeed ...name \??symbol #1\endcsname 
+                                                  \relax \endgroup 
+...
+l.744   \startblockquote
+                      
+
+734     \startitemize
+735     \item
+736       \startblockquote
+737       V sekci {\em Names} zaznamenávám všechny osoby, které je možné identifikovat dle osobního jména, či jejich kombinací (osobní jméno + {\em patronymikum}, jméno matky, partnera, předků, jména potomků, sourozenců apod.). U jednotlivých jmen zaznamenávám i jejich původ, tedy kontext, v němž se jména vyskytovala původně a nejčastěji, a tradičně bývají považována za řecká, thrácká, římská či jiného původu/není možné jejich původ určit. Dále rozlišuji, zda se jedná o jméno ženské, či mužské, či zda není možné jeho příslušnost určit dle dochovaných textů.
+738       \stopblockquote
+739     \item
+740       \startblockquote
+741       V rámci {\em Collective Group Names} zaznamenávám jména popisující skupinu lidí. Může se jednat jak o skupinu lidí založenou na etnickém principu, společném zájmu, či společensko-politické příslušnosti, či společném náboženském přesvědčení).\footnote{Jejich kompletní seznam je uveden v tabulce 4.12 v Apendixu 1.}
+742       \stopblockquote
+743     \item
+744 >>    \startblockquote
+745       V sekci {\em Geographic Names} zaznamenávám místní jména, tak, jak jsou uvedené v textu nápisu (osídlení, regiony, pohoří, řeky apod.).\footnote{Jejich kompletní seznam je uveden v tabulce 4.13 v Apendixu 1.}
+746       \stopblockquote
+747     \stopitemize
+748     
+749     \subsubsection[text-nápisu]{Text nápisu}
+750     
+751     Text nápisu získávám z online databáze {\em Searchable Greek Inscriptions}\footnote{\useURL[url5][http://noapplet.epigraphy.packhum.org/][][{\em http://noapplet.epigraphy.packhum.org/}]\from[url5], 20. září 2016}, {\em Supplementum Epigraphicum Graecum}\footnote{\useURL[url6][http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum][][{\em http://referenceworks.brillonline.com/browse/supplementum-epigraphicum-graecum}]\from[url6], navštíveno 20. září 2016}, {\em Epigraphic Database Heidelberg}\footnote{\useURL[url7][http://edh-www.adw.uni-heidelberg.de/home][][{\em edh-www.adw.uni-heidelberg.de/home}]\from[url7], navštíveno 20. září 2016}, případně manuálním přepisem textů epigrafických korpusů. Heurist uchovává text ve formátu WYSIWYG\footnote{WYSIWYG je akronym anglické věty „{\em What you see is what you get”}, česky „co vidíš, to dostaneš”. Tato zkratka označuje způsob záznamu dokumentů v počítači, při kterém je verze zobrazená na obrazovce vzhledově totožná s výslednou verzí dokumentu, která je uložena v databázi.}, který se nejvíce podobá výsledné formě nápisu. Text užívám pro vnitřní potřebu projektu, jehož cílem není provádět nové edice nápisů, ale již vydané nápisy systematicky zpracovat a vzájemně porovnat zdroje, které nebylo pro svou nekompatibilnost nemožné konzistentně srovnávat. Texty samotné slouží jako doprovodné informace, vlastní data určená k analýze, extrahovaná z textů, jsou obsažena ve strukturované podobě databáze samotné.
+752     
+753     \subsubsection[přílohy]{Přílohy}
+754     
+
+Somewhere in the math formula just ended, you used the
+stated character from an undefined font family. For example,
+plain TeX doesn't allow \it or \sl in subscripts. Proceed,
+and I'll try to forget that I needed that character.
+
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.9 -> Text nápisu
+structure       > sectioning > subsubsection @ level 5 : 0.4.4.1.10 -> Přílohy
+pages           > flushing realpage 22, userpage 22
+structure       > sectioning > section @ level 3 : 0.4.5 -> Technické řešení: QGIS a geografická data
+structure       > sectioning > section @ level 3 : 0.4.6 -> Technické řešení: R a tabulární data
+structure       > sectioning > section @ level 3 : 0.4.7 -> Statistické zpracování epigrafických dat
+structure       > sectioning > subsection @ level 4 : 0.4.7.1 -> Pravděpodobnost a míra nejistoty datace nápisů
+pages           > flushing realpage 23, userpage 23
+structure       > sectioning > subsubsection @ level 5 : 0.4.7.1.1 -> Problém nadhodnocování epigrafické produkce
+structure       > sectioning > subsection @ level 4 : 0.4.7.2 -> Nejistota rozmístění nápisů v krajině
+structure       > sectioning > section @ level 3 : 0.4.8 -> Shrnutí
+pages           > flushing realpage 24, userpage 24
+pages           > flushing realpage 25, userpage 25
+structure       > sectioning > chapter @ level 2 : 0.5 -> Epigrafická produkce v Thrákii
+structure       > sectioning > section @ level 3 : 0.5.1 -> Přehled analyzovaného materiálu
+structure       > sectioning > subsection @ level 4 : 0.5.1.1 -> Zeměpisné uspořádání nápisů
+structure       > sectioning > subsection @ level 4 : 0.5.1.2 -> Použitý materiál a nosič nápisu
+structure       > sectioning > section @ level 3 : 0.5.2 -> Rozsah a typologie nápisů
+structure       > sectioning > subsection @ level 4 : 0.5.2.1 -> Funerální nápisy
+pages           > flushing realpage 26, userpage 26
+structure       > sectioning > subsection @ level 4 : 0.5.2.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.5.2.3 -> Veřejné nápisy
+structure       > sectioning > section @ level 3 : 0.5.3 -> Jazyk nápisů
+pages           > flushing realpage 27, userpage 27
+structure       > sectioning > subsection @ level 4 : 0.5.3.1 -> Identita a volba jazyka
+structure       > sectioning > subsection @ level 4 : 0.5.3.2 -> Postavení řečtiny v římské době
+structure       > sectioning > subsection @ level 4 : 0.5.3.3 -> Styl jazyka
+structure       > sectioning > section @ level 3 : 0.5.4 -> Onomastické zvyklosti a identita osobního jména
+pages           > flushing realpage 28, userpage 28
+structure       > sectioning > subsection @ level 4 : 0.5.4.1 -> Onomastické tradice
+structure       > sectioning > subsection @ level 4 : 0.5.4.2 -> Zastoupení pohlaví v závislosti na kulturním prostředí
+structure       > sectioning > subsection @ level 4 : 0.5.4.3 -> Smíšené svazky a prolínání tradic
+structure       > sectioning > section @ level 3 : 0.5.5 -> Shrnutí
+pages           > flushing realpage 29, userpage 29
+pages           > flushing realpage 30, userpage 30
+structure       > sectioning > chapter @ level 2 : 0.6 -> Epigrafická produkce napříč staletími
+structure       > sectioning > section @ level 3 : 0.6.1 -> Charakteristika epigrafické produkce v 6. st. př. n. l.\footnote {Dva potenciálně nejstarší nápisy z území Thrákie pocházejí z řeckého města Byzantion, které bylo založeno jako kolonie řecké Megary v roce 667 př. n. l. Dochované nápisy {\em IK Byzantion} 42 a 53a je možné datovat pouze velice široce: zhruba od poloviny 7. st. př. n. l. až do doby klasické, respektive hellénistické. Jejich datace je natolik široká, že je nelze přiřadit k jednomu či dvěma konkrétním stoletím. Protože se však může jednat o první řecky psané epigrafické památky nalezené na území Thrákie, považuji za nutné je zmínit. Typologicky se jednalo o označení váhové míry, a označení délky, v jednom případě s uvedenou příslušností ke komunitě obyvatel Byzantia. Pokud akceptujeme jejich ranou dataci, pak by se mohlo jednat o jeden z prvních projevů politické a ekonomické autority na území Thrákie, a to v rámci řecké komunity. Bohužel tyto dva nápisy jsou tak ojedinělé a nejistě datované, a tudíž jejich výpovědní hodnota je velmi nízká.}
+floatblocks     > '1' placed
+structure       > sectioning > subsection @ level 4 : 0.6.1.1 -> Typologie nápisů
+structure       > sectioning > subsection @ level 4 : 0.6.1.2 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.2 -> Charakteristika epigrafické produkce v 6. až 5. st. př. n. l.
+floatblocks     > '2' placed
+structure       > sectioning > subsection @ level 4 : 0.6.2.1 -> Typologie nápisů
+pages           > flushing realpage 31, userpage 31
+structure       > sectioning > subsection @ level 4 : 0.6.2.2 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.3 -> Charakteristika epigrafické produkce v 5. st. př. n. l.
+floatblocks     > '3' placed
+structure       > sectioning > subsection @ level 4 : 0.6.3.1 -> Funerální nápisy
+structure       > sectioning > subsubsection @ level 5 : 0.6.3.1.1 -> Primární funerální nápisy
+pages           > flushing realpage 32, userpage 32
+structure       > sectioning > subsubsection @ level 5 : 0.6.3.1.2 -> Sekundární funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.3.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.3.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.3.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.4 -> Charakteristika epigrafické produkce v 5. až 4. st. př. n. l.
+pages           > flushing realpage 33, userpage 33
+floatblocks     > '4' placed
+structure       > sectioning > subsection @ level 4 : 0.6.4.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.4.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.4.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.4.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.5 -> Charakteristika epigrafické produkce ve 4. st. př. n. l.
+floatblocks     > '5' placed
+structure       > sectioning > subsection @ level 4 : 0.6.5.1 -> Funerální nápisy
+pages           > flushing realpage 34, userpage 34
+structure       > sectioning > subsubsection @ level 5 : 0.6.5.1.1 -> Primární funerální nápisy
+structure       > sectioning > subsubsection @ level 5 : 0.6.5.1.2 -> Sekundární funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.5.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.5.3 -> Veřejné nápisy
+pages           > flushing realpage 35, userpage 35
+structure       > sectioning > subsection @ level 4 : 0.6.5.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.6 -> Charakteristika epigrafické produkce ve 4. až 3. st. př. n. l.
+floatblocks     > '6' placed
+structure       > sectioning > subsection @ level 4 : 0.6.6.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.6.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.6.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.6.4 -> Shrnutí
+pages           > flushing realpage 36, userpage 36
+structure       > sectioning > section @ level 3 : 0.6.7 -> Charakteristika epigrafické produkce ve 3. st. př. n. l.
+floatblocks     > '7' placed
+structure       > sectioning > subsection @ level 4 : 0.6.7.1 -> Funerální nápisy
+structure       > sectioning > subsubsection @ level 5 : 0.6.7.1.1 -> Primární funerální nápisy
+structure       > sectioning > subsubsection @ level 5 : 0.6.7.1.2 -> Sekundární funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.7.2 -> Dedikační nápisy
+pages           > flushing realpage 37, userpage 37
+structure       > sectioning > subsection @ level 4 : 0.6.7.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.7.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.8 -> Charakteristika epigrafické produkce ve 3. až 2. st. př. n. l.
+floatblocks     > 1 saved
+structure       > sectioning > subsection @ level 4 : 0.6.8.1 -> Funerální nápisy
+pages           > flushing realpage 38, userpage 38
+floatblocks     > 1 moved
+floatblocks     > '8' moved
+structure       > sectioning > subsection @ level 4 : 0.6.8.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.8.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.8.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.9 -> Charakteristika epigrafické produkce ve 2. st. př. n. l.
+floatblocks     > '9' placed
+pages           > flushing realpage 39, userpage 39
+structure       > sectioning > subsection @ level 4 : 0.6.9.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.9.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.9.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.9.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.10 -> Charakteristika epigrafické produkce ve 2. až 1. st. př. n. l.
+pages           > flushing realpage 40, userpage 40
+floatblocks     > '10' placed
+structure       > sectioning > subsection @ level 4 : 0.6.10.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.10.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.10.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.10.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.11 -> Charakteristika epigrafické produkce v 1. st. př. n. l.
+floatblocks     > '11' placed
+structure       > sectioning > subsection @ level 4 : 0.6.11.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.11.2 -> Dedikační nápisy
+pages           > flushing realpage 41, userpage 41
+structure       > sectioning > subsection @ level 4 : 0.6.11.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.11.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.12 -> Charakteristika epigrafické produkce 1. st. př. n. l. až 1. st. n. l.
+pages           > flushing realpage 42, userpage 42
+floatblocks     > '12' placed
+structure       > sectioning > subsection @ level 4 : 0.6.12.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.12.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.12.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.12.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.13 -> Charakteristika epigrafické produkce v 1. st. n. l.
+
+tex error       > tex error on line 1822 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  +2\d_framed_frameoffset \r...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1822 \stoptable
+               
+
+1812     
+1813     {\em Délka:} aritm. průměr 7,53 řádku, medián 5, max. délka 94, min. délka 1
+1814     
+1815     {\em Obsah:} latinský text 12 nápisů, písmo římského typu 1; hledané termíny (administrativní termíny 29 nápisů - celkem 52 výskytů, epigrafické formule 13 - 24 výskytů, honorifikační 5 - 7 výskytů, náboženské 25 - 45 výskytů, epiteton 5 - počet výskytů 9)
+1816     
+1817     {\em Identita:} řecká božstva 11, egyptská božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí, objevující se místní thrácká božstva, regionální epiteton 1, subregionální epiteton 4, kolektivní identita 6 termínů, celkem 10 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 3, mimo ni 0, kolektivní pojmenování Thráx 4, Rómaios 2, Kimbros 1; celkem 152 osob na nápisech, 27 nápisů s jednou osobou; max. 34 osob na nápis, aritm. průměr 2,35 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, thráckého prvku a narůstající pozicí římského prvku, jména pouze řecká (13,23 \letterpercent{}), pouze thrácká (4,4 \letterpercent{}), pouze římská (25 \letterpercent{}), kombinace řeckého a thráckého (8,82 \letterpercent{}), kombinace řeckého a římského (16,17 \letterpercent{}), kombinace thráckého a římského (4,4 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (5,88 \letterpercent{}), jména nejistého původu (7,31 \letterpercent{}), beze jména (14,7 \letterpercent{}); geografická jména z oblasti Thrákie 18, z toho pojmenování stratégií v Thrákii 11, geogr. jména mimo Thrákii 0;
+1818     
+1819     \NC\AR
+1820     \HL
+1821     \HL
+1822 >>  \stoptable
+1823     
+1824     Do 1. st. n. l. bylo celkem datováno 68 nápisů, což je zhruba stejně jako v 1. st. př. n. l. Jak je dobře vidět na mapě 6.07 v Apendixu 2, nápisy pocházejí převážně z pobřežních oblastí, nicméně osm nápisů bylo nalezeno i ve vnitrozemí. Zatímco velké produkční centrum v této době chybí, produkční centra střední velikosti se nacházejí i nadále v Byzantiu, dále v Perinthu a Maróneii.
+1825     
+1826     Téměř výhradně je použitým materiálem kámen, nejčastější formou nosiče jsou i nadále stély, avšak v malé míře se začínají objevovat i sarkofágy. Přes polovinu nápisů představují funerální texty, nicméně počet veřejných nápisů narostl na více než 40 \letterpercent{}, což naznačuje větší míru institucionálního zapojení na epigrafické produkci. Dělo se tak zejména v okolí Perinthu, který se stal v druhé polovině století hlavním městem nově vzniklé provincie {\em Thracia} (Sharankov 2005, 521; Sayar 1998, 74).
+1827     
+1828     \subsection[funerální-nápisy-11]{Funerální nápisy}
+1829     
+1830     Celkem se dochovalo 25 funerálních nápisů, z nichž většina pochází z Byzantia, Maróneie a Perinthu. V této době se poprvé objevily funerální sarkofágy, které nesly nápis, a zároveň sloužily jako úložiště tělesných pozůstatků zemřelého. Sarkofágy pocházely z Istanbulu, Perinthu a Maróneie, tedy měst, v němž měl Řím silné politické postavení.
+1831     
+1832     Převaha osobních jmen řeckého původu poukazuje na přetrvávající charakter produkčních center, avšak se silným římským vlivem na podobu osobních jmen. Celkem 27 osob neslo řecká jména, 18 jména římská, šest jmen thráckých a tři jména neznámého či cizího původu. K mísení řeckých a římských, případně thráckých jmen dochází zcela výjimečně, přijímání systému tří římských jmen není ještě rozšířené. Thrácká jména se vyskytují pouze na třech nápisech a jejich nositelé pocházejí z vyšších společenských vrstev.\footnote{Jako např. stratégos Rhoimetalkás, syn Diasenea se svou ženou Besoulou, dcerou Moukaporida, a dětmi Kaproubebou a Daroutourme na nápise {\em I Aeg Thrace} 387.} Poprvé se objevují osobní jména (Titos) Flavios/Flavia a (Titos) Klaudios.\footnote{{\em I Aeg Thrace} 317, {\em Perinthos-Herakleia} 72, {\em Perinthos-Herakleia} 128.} Přijímání jmen po rodových jménech římských císařů byla typická praxe při udílení římského občanství, kdy se přidávaly k původnímu jménu nositele jako ocenění za služby ve správě provincie či v armádě (Topalilov 2012, 13). V těchto konkrétních případech je jméno tvořeno i dalšími osobními jmény římského původu a nasvědčuje to spíše faktu, že se nejednalo o případy nově uděleného občanství, ale o osoby, které jména získali po svých předcích, a šlo tedy o Římany, nikoliv o Řeky či Thráky, kteří přijali nová jména.\footnote{Vyjádření kolektivní identity se vyskytují pouze jednou na podstavci, na němž byla pravděpodobně umístěna socha thráckého gladiátora. Nápis {\em I Aeg Thrace} 484 označuje etnický původ (Thráx) a označení druhu gladiátora ({\em mormillón}, lat. {\em mirmillo}).}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+tex error       > tex error on line 1822 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  \ht \b_framed_extra \ht \b...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1822 \stoptable
+               
+
+1812     
+1813     {\em Délka:} aritm. průměr 7,53 řádku, medián 5, max. délka 94, min. délka 1
+1814     
+1815     {\em Obsah:} latinský text 12 nápisů, písmo římského typu 1; hledané termíny (administrativní termíny 29 nápisů - celkem 52 výskytů, epigrafické formule 13 - 24 výskytů, honorifikační 5 - 7 výskytů, náboženské 25 - 45 výskytů, epiteton 5 - počet výskytů 9)
+1816     
+1817     {\em Identita:} řecká božstva 11, egyptská božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí, objevující se místní thrácká božstva, regionální epiteton 1, subregionální epiteton 4, kolektivní identita 6 termínů, celkem 10 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 3, mimo ni 0, kolektivní pojmenování Thráx 4, Rómaios 2, Kimbros 1; celkem 152 osob na nápisech, 27 nápisů s jednou osobou; max. 34 osob na nápis, aritm. průměr 2,35 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, thráckého prvku a narůstající pozicí římského prvku, jména pouze řecká (13,23 \letterpercent{}), pouze thrácká (4,4 \letterpercent{}), pouze římská (25 \letterpercent{}), kombinace řeckého a thráckého (8,82 \letterpercent{}), kombinace řeckého a římského (16,17 \letterpercent{}), kombinace thráckého a římského (4,4 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (5,88 \letterpercent{}), jména nejistého původu (7,31 \letterpercent{}), beze jména (14,7 \letterpercent{}); geografická jména z oblasti Thrákie 18, z toho pojmenování stratégií v Thrákii 11, geogr. jména mimo Thrákii 0;
+1818     
+1819     \NC\AR
+1820     \HL
+1821     \HL
+1822 >>  \stoptable
+1823     
+1824     Do 1. st. n. l. bylo celkem datováno 68 nápisů, což je zhruba stejně jako v 1. st. př. n. l. Jak je dobře vidět na mapě 6.07 v Apendixu 2, nápisy pocházejí převážně z pobřežních oblastí, nicméně osm nápisů bylo nalezeno i ve vnitrozemí. Zatímco velké produkční centrum v této době chybí, produkční centra střední velikosti se nacházejí i nadále v Byzantiu, dále v Perinthu a Maróneii.
+1825     
+1826     Téměř výhradně je použitým materiálem kámen, nejčastější formou nosiče jsou i nadále stély, avšak v malé míře se začínají objevovat i sarkofágy. Přes polovinu nápisů představují funerální texty, nicméně počet veřejných nápisů narostl na více než 40 \letterpercent{}, což naznačuje větší míru institucionálního zapojení na epigrafické produkci. Dělo se tak zejména v okolí Perinthu, který se stal v druhé polovině století hlavním městem nově vzniklé provincie {\em Thracia} (Sharankov 2005, 521; Sayar 1998, 74).
+1827     
+1828     \subsection[funerální-nápisy-11]{Funerální nápisy}
+1829     
+1830     Celkem se dochovalo 25 funerálních nápisů, z nichž většina pochází z Byzantia, Maróneie a Perinthu. V této době se poprvé objevily funerální sarkofágy, které nesly nápis, a zároveň sloužily jako úložiště tělesných pozůstatků zemřelého. Sarkofágy pocházely z Istanbulu, Perinthu a Maróneie, tedy měst, v němž měl Řím silné politické postavení.
+1831     
+1832     Převaha osobních jmen řeckého původu poukazuje na přetrvávající charakter produkčních center, avšak se silným římským vlivem na podobu osobních jmen. Celkem 27 osob neslo řecká jména, 18 jména římská, šest jmen thráckých a tři jména neznámého či cizího původu. K mísení řeckých a římských, případně thráckých jmen dochází zcela výjimečně, přijímání systému tří římských jmen není ještě rozšířené. Thrácká jména se vyskytují pouze na třech nápisech a jejich nositelé pocházejí z vyšších společenských vrstev.\footnote{Jako např. stratégos Rhoimetalkás, syn Diasenea se svou ženou Besoulou, dcerou Moukaporida, a dětmi Kaproubebou a Daroutourme na nápise {\em I Aeg Thrace} 387.} Poprvé se objevují osobní jména (Titos) Flavios/Flavia a (Titos) Klaudios.\footnote{{\em I Aeg Thrace} 317, {\em Perinthos-Herakleia} 72, {\em Perinthos-Herakleia} 128.} Přijímání jmen po rodových jménech římských císařů byla typická praxe při udílení římského občanství, kdy se přidávaly k původnímu jménu nositele jako ocenění za služby ve správě provincie či v armádě (Topalilov 2012, 13). V těchto konkrétních případech je jméno tvořeno i dalšími osobními jmény římského původu a nasvědčuje to spíše faktu, že se nejednalo o případy nově uděleného občanství, ale o osoby, které jména získali po svých předcích, a šlo tedy o Římany, nikoliv o Řeky či Thráky, kteří přijali nová jména.\footnote{Vyjádření kolektivní identity se vyskytují pouze jednou na podstavci, na němž byla pravděpodobně umístěna socha thráckého gladiátora. Nápis {\em I Aeg Thrace} 484 označuje etnický původ (Thráx) a označení druhu gladiátora ({\em mormillón}, lat. {\em mirmillo}).}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+floatblocks     > '13' placed
+structure       > sectioning > subsection @ level 4 : 0.6.13.1 -> Funerální nápisy
+pages           > flushing realpage 43, userpage 43
+structure       > sectioning > subsection @ level 4 : 0.6.13.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.13.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.13.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.14 -> Charakteristika epigrafické produkce v 1. st. n. l. až 2. st. n. l.
+
+tex error       > tex error on line 1892 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  +2\d_framed_frameoffset \r...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1892 \stoptable
+               
+
+1882     
+1883     {\em Délka:} aritm. průměr 6,05 řádku, medián 5, max. délka 18, min. délka 1
+1884     
+1885     {\em Obsah:} dórský dialekt 1, latinský text 6 nápisů, písmo římského typu 14; hledané termíny (administrativní termíny 17 - celkem 44 výskytů, epigrafické formule 18 - 109 výskytů, honorifikační 2 - 2 výskytů, náboženské 20 - 35 výskytů, epiteton 5 - počet výskytů 5)
+1886     
+1887     {\em Identita:} řecká božstva 10, egyptská božstva 1, pojmenování míst a funkcí typických pro řecké náboženské prostředí, místní thrácká božstva, regionální epiteton 3, subregionální epiteton 2, kolektivní identita 7 termínů, celkem 7 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 7, mimo ni 0; celkem 132 osob na nápisech, 40 nápisů s jednou osobou; max. 8 osob na nápis, aritm. průměr 1,4 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, jména pouze řecká (23,4 \letterpercent{}), pouze thrácká (2,12 \letterpercent{}), pouze římská (18,08 \letterpercent{}), kombinace řeckého a thráckého (0 \letterpercent{}), kombinace řeckého a římského (22,34 \letterpercent{}), kombinace thráckého a římského (0 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (5,31 \letterpercent{}), jména nejistého původu (9,55 \letterpercent{}), beze jména (19,14 \letterpercent{}); geografická jména z oblasti Thrákie 2, geografická jména mimo Thrákii 4;
+1888     
+1889     \NC\AR
+1890     \HL
+1891     \HL
+1892 >>  \stoptable
+1893     
+1894     Nápisů pocházejících z období mezi 1. a 2. st. n. l. je přibližně o 67 \letterpercent{} víc než v předcházejícím období. Většina nápisů pochází z oblasti na pobřeží, z okolí původně řeckých měst. Nápisy ve vnitrozemí se objevují podél cest, které jsou pravidelně udržovány a spravovány od druhé poloviny 1. st. n. l., a zejména v okolí rozvíjejících se regionálních urbánních center, jako je Filippopolis či Kabylé, a dále v oblasti středního toku řeky Strýmón, jak ilustruje mapa 6.07 v Apendixu 2. Největším epigrafickým producentem je od druhé poloviny 1. st. n. l. Perinthos (Hérakleia) odkud pochází 56 \letterpercent{} celkové produkce.\footnote{Nárůst epigrafické produkce Perinthu souvisí s faktem, že se v polovině 1. st. n. l. stalo hlavním městem nově vytvořené provincie {\em Thracia} a je logické, že se zde soustředila většina produkce a byla zde nalezena většina nápisů.} Pozici středního producenta si i nadále udržuje Maróneia, zatímco Byzantion, které hrálo roli největšího epigrafického producenta v předchozích dvou stoletích, nyní produkuje zhruba 6 \letterpercent{} celkové produkce.
+1895     
+1896     Materiálem nosiče nápisů je z 94 \letterpercent{} kámen, z převážné části je to mramor, dále vápenec a místní zdroj kamene. Nápisy na kovových předmětech se dochovaly pouze dva.\footnote{Do skupiny nápisů datovaných do 1. až 2. st. n. l. patří vojenský diplom AE 2007, 1260 psaný na bronzové destičce, který uděluje římské občanství, právo nosit římské jméno, pořídit si manželku a právo na vlastní pozemek. Text je psaný latinsky a pochází z okolí vesnice Trapoklovo v jihovýchodním Bulharsku. Bohužel text je velmi poškozený, a tudíž není možné dělat žádné další závěry. Nicméně se jedná o jeden z prvních projevů udělení římského občanství vojákovi za jeho dlouholeté služby, který byl nalezen přímo na území Thrákie. Zároveň se jedná o další důkaz narůstajícího vlivu římské armády nejen na složení obyvatelstva, a jejich onomastické zvyky, ale ovlivňující i přítomnost veteránů ve vnitrozemské Thrákii (Dana 2013, 239-264).} Nejoblíbenější formou kamenného nápisu je i nadále stéla, nicméně v této době se stávají populární i funerální nápisy na sarkofázích, pocházejících v 15 případech z Perinthu (Hérakleii) a v jednom z Byzantia.
+1897     
+1898     \subsection[funerální-nápisy-12]{Funerální nápisy}
+1899     
+1900     Celkem 59 nápisů je interpretováno jako funerální\footnote{57 nápisů je soukromého charakteru a dva jsou veřejného charakteru.}, což představuje zhruba dvě třetiny celého souboru, přibližně stejně jako v 1. st. př. n. l. Většina nápisů je zhotovena na stéle, ale spadá sem i skupina 16 sarkofágů, které nesly nápis, a zároveň sloužily jako úložiště tělesných pozůstatků zemřelého. Hlavní produkční centra funerálních nápisů jsou Perinthos s 42 nápisy, Byzantion a Maróneia s pěti nápisy.
+1901     
+1902     Sarkofágy z Perinthu užívají téměř totožné formule a termíny, a na většině z nich se vyskytuje formule o ochraně sarkofágu a pozůstatku zemřelého politickou autoritou města, jako ve skupině nápisů z 1. st. př. n. l. Osobní jména na sarkofázích nesou asi v polovině případů římská jména, a ve zbývající polovině jména řecká. Thrácká jména se na sarkofázích vůbec nevyskytují, což naznačuje římský původ této zvyklosti.
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+tex error       > tex error on line 1892 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  \ht \b_framed_extra \ht \b...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1892 \stoptable
+               
+
+1882     
+1883     {\em Délka:} aritm. průměr 6,05 řádku, medián 5, max. délka 18, min. délka 1
+1884     
+1885     {\em Obsah:} dórský dialekt 1, latinský text 6 nápisů, písmo římského typu 14; hledané termíny (administrativní termíny 17 - celkem 44 výskytů, epigrafické formule 18 - 109 výskytů, honorifikační 2 - 2 výskytů, náboženské 20 - 35 výskytů, epiteton 5 - počet výskytů 5)
+1886     
+1887     {\em Identita:} řecká božstva 10, egyptská božstva 1, pojmenování míst a funkcí typických pro řecké náboženské prostředí, místní thrácká božstva, regionální epiteton 3, subregionální epiteton 2, kolektivní identita 7 termínů, celkem 7 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 7, mimo ni 0; celkem 132 osob na nápisech, 40 nápisů s jednou osobou; max. 8 osob na nápis, aritm. průměr 1,4 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, jména pouze řecká (23,4 \letterpercent{}), pouze thrácká (2,12 \letterpercent{}), pouze římská (18,08 \letterpercent{}), kombinace řeckého a thráckého (0 \letterpercent{}), kombinace řeckého a římského (22,34 \letterpercent{}), kombinace thráckého a římského (0 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (5,31 \letterpercent{}), jména nejistého původu (9,55 \letterpercent{}), beze jména (19,14 \letterpercent{}); geografická jména z oblasti Thrákie 2, geografická jména mimo Thrákii 4;
+1888     
+1889     \NC\AR
+1890     \HL
+1891     \HL
+1892 >>  \stoptable
+1893     
+1894     Nápisů pocházejících z období mezi 1. a 2. st. n. l. je přibližně o 67 \letterpercent{} víc než v předcházejícím období. Většina nápisů pochází z oblasti na pobřeží, z okolí původně řeckých měst. Nápisy ve vnitrozemí se objevují podél cest, které jsou pravidelně udržovány a spravovány od druhé poloviny 1. st. n. l., a zejména v okolí rozvíjejících se regionálních urbánních center, jako je Filippopolis či Kabylé, a dále v oblasti středního toku řeky Strýmón, jak ilustruje mapa 6.07 v Apendixu 2. Největším epigrafickým producentem je od druhé poloviny 1. st. n. l. Perinthos (Hérakleia) odkud pochází 56 \letterpercent{} celkové produkce.\footnote{Nárůst epigrafické produkce Perinthu souvisí s faktem, že se v polovině 1. st. n. l. stalo hlavním městem nově vytvořené provincie {\em Thracia} a je logické, že se zde soustředila většina produkce a byla zde nalezena většina nápisů.} Pozici středního producenta si i nadále udržuje Maróneia, zatímco Byzantion, které hrálo roli největšího epigrafického producenta v předchozích dvou stoletích, nyní produkuje zhruba 6 \letterpercent{} celkové produkce.
+1895     
+1896     Materiálem nosiče nápisů je z 94 \letterpercent{} kámen, z převážné části je to mramor, dále vápenec a místní zdroj kamene. Nápisy na kovových předmětech se dochovaly pouze dva.\footnote{Do skupiny nápisů datovaných do 1. až 2. st. n. l. patří vojenský diplom AE 2007, 1260 psaný na bronzové destičce, který uděluje římské občanství, právo nosit římské jméno, pořídit si manželku a právo na vlastní pozemek. Text je psaný latinsky a pochází z okolí vesnice Trapoklovo v jihovýchodním Bulharsku. Bohužel text je velmi poškozený, a tudíž není možné dělat žádné další závěry. Nicméně se jedná o jeden z prvních projevů udělení římského občanství vojákovi za jeho dlouholeté služby, který byl nalezen přímo na území Thrákie. Zároveň se jedná o další důkaz narůstajícího vlivu římské armády nejen na složení obyvatelstva, a jejich onomastické zvyky, ale ovlivňující i přítomnost veteránů ve vnitrozemské Thrákii (Dana 2013, 239-264).} Nejoblíbenější formou kamenného nápisu je i nadále stéla, nicméně v této době se stávají populární i funerální nápisy na sarkofázích, pocházejících v 15 případech z Perinthu (Hérakleii) a v jednom z Byzantia.
+1897     
+1898     \subsection[funerální-nápisy-12]{Funerální nápisy}
+1899     
+1900     Celkem 59 nápisů je interpretováno jako funerální\footnote{57 nápisů je soukromého charakteru a dva jsou veřejného charakteru.}, což představuje zhruba dvě třetiny celého souboru, přibližně stejně jako v 1. st. př. n. l. Většina nápisů je zhotovena na stéle, ale spadá sem i skupina 16 sarkofágů, které nesly nápis, a zároveň sloužily jako úložiště tělesných pozůstatků zemřelého. Hlavní produkční centra funerálních nápisů jsou Perinthos s 42 nápisy, Byzantion a Maróneia s pěti nápisy.
+1901     
+1902     Sarkofágy z Perinthu užívají téměř totožné formule a termíny, a na většině z nich se vyskytuje formule o ochraně sarkofágu a pozůstatku zemřelého politickou autoritou města, jako ve skupině nápisů z 1. st. př. n. l. Osobní jména na sarkofázích nesou asi v polovině případů římská jména, a ve zbývající polovině jména řecká. Thrácká jména se na sarkofázích vůbec nevyskytují, což naznačuje římský původ této zvyklosti.
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+pages           > flushing realpage 44, userpage 44
+floatblocks     > '14' placed
+structure       > sectioning > subsection @ level 4 : 0.6.14.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.14.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.14.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.14.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.15 -> Charakteristika epigrafické produkce ve 2. st. n. l.
+
+tex error       > tex error on line 1962 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  +2\d_framed_frameoffset \r...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1962 \stoptable
+               
+
+1952     
+1953     Délka: aritm. průměr 6,52 řádku, medián 5, max. délka 62, min. délka 1
+1954     
+1955     {\em Obsah:} dórský dialekt 2, latinský text 22 nápisů{\bf ,} písmo římského typu 85; hledané termíny (administrativní termíny 40 - celkem 284 výskytů, epigrafické formule 29 - 199 výskytů, honorifikační 10 - 13 výskytů, náboženské 46 - 156 výskytů, epiteton 26 - počet výskytů 33)
+1956     
+1957     {\em Identita:} řecká božstva 19, egyptská božstva 2, římská božstva 2, thrácká božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí{\bf ,} regionální epiteton 15, subregionální epiteton 11, kolektivní identita 18 termínů, celkem 55 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 12, mimo ni 0; kolektivní pojmenování etnik či kmenů (Thráx 13, Rómaios 9, barbaros 1, Asianos 1, Kappadox 1), člen fýly 1; celkem 511 osob na nápisech, 94 nápisů s jednou osobou; max. 29 osob na nápis, aritm. průměr 2,02 osoby na nápis, medián 1{\bf ;} komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se silnou přítomností římského prvku, jména pouze řecká (11,06 \letterpercent{}), pouze thrácká (1,18 \letterpercent{}), pouze římská (31,25 \letterpercent{}), kombinace řeckého a thráckého (3,95 \letterpercent{}), kombinace řeckého a římského (15,81 \letterpercent{}), kombinace thráckého a římského (3,95 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (6,32 \letterpercent{}), jména nejistého původu (12,23 \letterpercent{}), beze jména (14,22 \letterpercent{}); geografická jména z oblasti Thrákie 15, geografická jména mimo Thrákii 4;
+1958     
+1959     \NC\AR
+1960     \HL
+1961     \HL
+1962 >>  \stoptable
+1963     
+1964     Do 2. st. n. l. bylo datováno celkem 254 nápisů, což představuje nárůst o 272 \letterpercent{} oproti předcházejícímu období. Jak je patrné z mapy 6.08 v Apendixu 2, poprvé v tomto období převládá epigrafická produkce ve vnitrozemí, a nikoliv na pobřeží. Většina lokalit s nápisy ve vnitrozemí se nacházela v povodí velkých řek či na trase {\em Via Diagonalis}, římské cesty spojující severozápad s jihovýchodem, procházející skrz města Serdicu, Filippopolis, Perinthos a Byzantion (Jireček 1877; Madzharov 2009, 70-31). Nápisy pocházely převážně z níže položených sídel, v horských oblastech se našly jednotlivé nápisy pouze v oblasti cest a průsmyků či v okolí vojenských posádek. Hlavními produkčními centry byla oblast údolí středního toku Strýmónu s městy Hérakleia Sintská a Neiné, Filippopolis, Nicopolis ad Istrum, Augusta Traiana, Byzantion a Perinthos. Oproti předcházejícím obdobím dochází k přesunu epigrafické produkce do většího počtu měst do jednoho dominantního centra. Oproti 1. st. n. l. upadá celková produkce Byzantia a Perinthu, což souvisí s přesunem hlavního města provincie do Filippopole, kde je naopak možné pozorovat markantní nárůst nápisů (Topalilov 2012, 13).
+1965     
+1966     Použitým materiálem je výhradně kámen, a to zejména mramor ze 70 \letterpercent{}, vápenec z 18 \letterpercent{} a syenit z 2 \letterpercent{}. Nosiče nápisů mají ve dvou třetinách tvar stély, v necelé třetině tvar architektonického prvku, dále čtyři nápisy se nacházejí na sochách, jeden na mozaice a 19 na sarkofázích či jejich fragmentech.
+1967     
+1968     \subsection[funerální-nápisy-13]{Funerální nápisy}
+1969     
+1970     Funerálních nápisů se dochovalo celkem 84, z čehož 80 má povahu soukromého nápisu a čtyři byly zhotoveny na náklady města, konkrétně Maróneie. Oproti předcházejícímu období počet funerálních nápisů narostl více než třikrát, což je možné spojovat s nárůstem celkového počtu obyvatel, ale i proměnami přístupu obyvatelstva k zřizování funerálních nápisů. Nápisy pocházejí z celého území Thrákie, tedy jak pobřeží, tak vnitrozemí. Hlavními produkčními centry je údolí středního toku Strýmónu s městem Hérakleia Sintská, Neiné a Parthicopolis, odkud pochází 25 nápisů, dále Byzantion s 18 nápisy, Perinthos a Maróneia s 11 nápisy. Obecně funerální nápisy pocházejí z okolí velkých městských center, kde žilo nejvíce lidí.
+1971     
+1972     Text funerálních nápisů poukazují na proměňující se složení společnosti a nárůst důležitosti římského vojska. Texty nesou standardní formule, podobně jako v předcházejících stoletích, \footnote{Invokační formule {\em chaire} se objevuje 16krát, oslovení okolojdoucího ({\em parodeita}) 11krát. termín označující hrob ({\em tymbos}) se objevuje jednou, termín {\em stélé} třikrát, termín {\em mnémé} 15krát, {\em mnémeion} čtyřikrát, termín pro sarkofág celkem třikrát ({\em soros}). Také se objevuje termín {\em chamosorion}, popisující pravděpodobně sarkofág umístěný na podstavci či přímo na zemi. Poprvé se čtyřikrát objevuje invokační formule vzývající podsvětní bohy v latině ({\em Dis Manibus}) a dvakrát v řečtině ({\em Theoi Katachthonioi}).} a jsou zhotovovány členy nejbližší rodiny a hrobky slouží k pohřbům více členů rodiny.\footnote{Celkem 22 nápisů vyjmenovává několik členů rodiny, po čtyřech nápisy zmiňují potomky a sourozence, v jednom případě rodiče a ve dvou přítele. Ve dvou případech se setkáváme s nápisem zhotoveným propuštěným otrokem pro svého bývalého pána.} Celkem 20 nápisů, pocházejících zejména z Byzantia a Perinthu, uvádí věk zemřelého, což je zvyk typický pro římské nápisy. Latinský text se objevil na šesti nápisech, většinou u nápisů patřícím vojákům či veteránům, kteří nesli římská jména. Vojáků se na nápisech objevuje celkem pět, od běžných vojáků až po legionáře a jezdce. Jiná, než vojenská povolání zmiňují funkce vždy po jednom výskytu kněžího ({\em hiereus}), člena městské rady ({\em búleutés}), člena {\em gerúsie} ({\em gerúsiastés}). Na nápisech figurují taktéž čtyři otroci, z čehož dva jsou propuštěnci. Sarkofágy, podobně jako v 1. st. n. l., pocházejí převážně z Perinthu (Hérakleii) a Byzantia a dalších pobřežních lokalit, ale dva pocházejí i z thráckého vnitrozemí. Z osmi sarkofágů z Perinthu (Hérakleie) a Byzantia pouze dva nesou ochrannou formuli, která zakazuje nové použití sarkofágu pod peněžní pokutou\footnote{Tato formule se objevila již na sarkofázích z Perinthu (Hérakleii) v 1. st. n. l. a tento zvyk se rozšířil do nedalekého Byzantia.}, ale téměř na všech se udává věk zemřelého, případně jeho původ a kdo nechal sarkofág zhotovit.
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+tex error       > tex error on line 1962 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  \ht \b_framed_extra \ht \b...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.1962 \stoptable
+               
+
+1952     
+1953     Délka: aritm. průměr 6,52 řádku, medián 5, max. délka 62, min. délka 1
+1954     
+1955     {\em Obsah:} dórský dialekt 2, latinský text 22 nápisů{\bf ,} písmo římského typu 85; hledané termíny (administrativní termíny 40 - celkem 284 výskytů, epigrafické formule 29 - 199 výskytů, honorifikační 10 - 13 výskytů, náboženské 46 - 156 výskytů, epiteton 26 - počet výskytů 33)
+1956     
+1957     {\em Identita:} řecká božstva 19, egyptská božstva 2, římská božstva 2, thrácká božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí{\bf ,} regionální epiteton 15, subregionální epiteton 11, kolektivní identita 18 termínů, celkem 55 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 12, mimo ni 0; kolektivní pojmenování etnik či kmenů (Thráx 13, Rómaios 9, barbaros 1, Asianos 1, Kappadox 1), člen fýly 1; celkem 511 osob na nápisech, 94 nápisů s jednou osobou; max. 29 osob na nápis, aritm. průměr 2,02 osoby na nápis, medián 1{\bf ;} komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se silnou přítomností římského prvku, jména pouze řecká (11,06 \letterpercent{}), pouze thrácká (1,18 \letterpercent{}), pouze římská (31,25 \letterpercent{}), kombinace řeckého a thráckého (3,95 \letterpercent{}), kombinace řeckého a římského (15,81 \letterpercent{}), kombinace thráckého a římského (3,95 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (6,32 \letterpercent{}), jména nejistého původu (12,23 \letterpercent{}), beze jména (14,22 \letterpercent{}); geografická jména z oblasti Thrákie 15, geografická jména mimo Thrákii 4;
+1958     
+1959     \NC\AR
+1960     \HL
+1961     \HL
+1962 >>  \stoptable
+1963     
+1964     Do 2. st. n. l. bylo datováno celkem 254 nápisů, což představuje nárůst o 272 \letterpercent{} oproti předcházejícímu období. Jak je patrné z mapy 6.08 v Apendixu 2, poprvé v tomto období převládá epigrafická produkce ve vnitrozemí, a nikoliv na pobřeží. Většina lokalit s nápisy ve vnitrozemí se nacházela v povodí velkých řek či na trase {\em Via Diagonalis}, římské cesty spojující severozápad s jihovýchodem, procházející skrz města Serdicu, Filippopolis, Perinthos a Byzantion (Jireček 1877; Madzharov 2009, 70-31). Nápisy pocházely převážně z níže položených sídel, v horských oblastech se našly jednotlivé nápisy pouze v oblasti cest a průsmyků či v okolí vojenských posádek. Hlavními produkčními centry byla oblast údolí středního toku Strýmónu s městy Hérakleia Sintská a Neiné, Filippopolis, Nicopolis ad Istrum, Augusta Traiana, Byzantion a Perinthos. Oproti předcházejícím obdobím dochází k přesunu epigrafické produkce do většího počtu měst do jednoho dominantního centra. Oproti 1. st. n. l. upadá celková produkce Byzantia a Perinthu, což souvisí s přesunem hlavního města provincie do Filippopole, kde je naopak možné pozorovat markantní nárůst nápisů (Topalilov 2012, 13).
+1965     
+1966     Použitým materiálem je výhradně kámen, a to zejména mramor ze 70 \letterpercent{}, vápenec z 18 \letterpercent{} a syenit z 2 \letterpercent{}. Nosiče nápisů mají ve dvou třetinách tvar stély, v necelé třetině tvar architektonického prvku, dále čtyři nápisy se nacházejí na sochách, jeden na mozaice a 19 na sarkofázích či jejich fragmentech.
+1967     
+1968     \subsection[funerální-nápisy-13]{Funerální nápisy}
+1969     
+1970     Funerálních nápisů se dochovalo celkem 84, z čehož 80 má povahu soukromého nápisu a čtyři byly zhotoveny na náklady města, konkrétně Maróneie. Oproti předcházejícímu období počet funerálních nápisů narostl více než třikrát, což je možné spojovat s nárůstem celkového počtu obyvatel, ale i proměnami přístupu obyvatelstva k zřizování funerálních nápisů. Nápisy pocházejí z celého území Thrákie, tedy jak pobřeží, tak vnitrozemí. Hlavními produkčními centry je údolí středního toku Strýmónu s městem Hérakleia Sintská, Neiné a Parthicopolis, odkud pochází 25 nápisů, dále Byzantion s 18 nápisy, Perinthos a Maróneia s 11 nápisy. Obecně funerální nápisy pocházejí z okolí velkých městských center, kde žilo nejvíce lidí.
+1971     
+1972     Text funerálních nápisů poukazují na proměňující se složení společnosti a nárůst důležitosti římského vojska. Texty nesou standardní formule, podobně jako v předcházejících stoletích, \footnote{Invokační formule {\em chaire} se objevuje 16krát, oslovení okolojdoucího ({\em parodeita}) 11krát. termín označující hrob ({\em tymbos}) se objevuje jednou, termín {\em stélé} třikrát, termín {\em mnémé} 15krát, {\em mnémeion} čtyřikrát, termín pro sarkofág celkem třikrát ({\em soros}). Také se objevuje termín {\em chamosorion}, popisující pravděpodobně sarkofág umístěný na podstavci či přímo na zemi. Poprvé se čtyřikrát objevuje invokační formule vzývající podsvětní bohy v latině ({\em Dis Manibus}) a dvakrát v řečtině ({\em Theoi Katachthonioi}).} a jsou zhotovovány členy nejbližší rodiny a hrobky slouží k pohřbům více členů rodiny.\footnote{Celkem 22 nápisů vyjmenovává několik členů rodiny, po čtyřech nápisy zmiňují potomky a sourozence, v jednom případě rodiče a ve dvou přítele. Ve dvou případech se setkáváme s nápisem zhotoveným propuštěným otrokem pro svého bývalého pána.} Celkem 20 nápisů, pocházejících zejména z Byzantia a Perinthu, uvádí věk zemřelého, což je zvyk typický pro římské nápisy. Latinský text se objevil na šesti nápisech, většinou u nápisů patřícím vojákům či veteránům, kteří nesli římská jména. Vojáků se na nápisech objevuje celkem pět, od běžných vojáků až po legionáře a jezdce. Jiná, než vojenská povolání zmiňují funkce vždy po jednom výskytu kněžího ({\em hiereus}), člena městské rady ({\em búleutés}), člena {\em gerúsie} ({\em gerúsiastés}). Na nápisech figurují taktéž čtyři otroci, z čehož dva jsou propuštěnci. Sarkofágy, podobně jako v 1. st. n. l., pocházejí převážně z Perinthu (Hérakleii) a Byzantia a dalších pobřežních lokalit, ale dva pocházejí i z thráckého vnitrozemí. Z osmi sarkofágů z Perinthu (Hérakleie) a Byzantia pouze dva nesou ochrannou formuli, která zakazuje nové použití sarkofágu pod peněžní pokutou\footnote{Tato formule se objevila již na sarkofázích z Perinthu (Hérakleii) v 1. st. n. l. a tento zvyk se rozšířil do nedalekého Byzantia.}, ale téměř na všech se udává věk zemřelého, případně jeho původ a kdo nechal sarkofág zhotovit.
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+pages           > flushing realpage 45, userpage 45
+floatblocks     > '15' placed
+structure       > sectioning > subsection @ level 4 : 0.6.15.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.15.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.15.3 -> Veřejné nápisy
+pages           > flushing realpage 46, userpage 46
+structure       > sectioning > subsection @ level 4 : 0.6.15.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.16 -> Charakteristika epigrafické produkce ve 2. st. n. l. až 3. st. n. l.
+
+tex error       > tex error on line 2042 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  +2\d_framed_frameoffset \r...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.2042 \stoptable
+               
+
+2032     
+2033     {\em Délka:} aritm. průměr 5,0 řádku, medián 4, max. délka 48, min. délka 1
+2034     
+2035     {\em Obsah:} dórský dialekt 0, latinský text 4 nápisy, písmo římského typu 74; hledané termíny (administrativní termíny 31 - celkem 139 výskytů, epigrafické formule 24 - 128 výskytů, honorifikační 3 - 3 výskyty, náboženské 42 - 112 výskytů, epiteton 26 - počet výskytů 40)
+2036     
+2037     {\em Identita:} řecká božstva 19, egyptská božstva 4, římská božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí, nárůst počtu lokálních kultů, regionální epiteton 12, subregionální epiteton 14, kolektivní identita 13 termínů, celkem 24 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 7, mimo ni 2; kolektivní pojmenování etnik či kmenů (Thráx 2, Rómaios 3, Bíthýnos 1, Acháios 1); celkem 256 osob na nápisech, 85 nápisů s jednou osobou; max. 24 osob na nápis, aritm. průměr 1,41 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se silnou přítomností římského prvku, jména pouze řecká (11,53 \letterpercent{}), pouze thrácká (6,59 \letterpercent{}), pouze římská (24,72 \letterpercent{}), kombinace řeckého a thráckého (4,39 \letterpercent{}), kombinace řeckého a římského (12,08 \letterpercent{}), kombinace thráckého a římského (2,74 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (4,94 \letterpercent{}), jména nejistého původu (6,02 \letterpercent{}), beze jména (26,92 \letterpercent{}); geografická jména z oblasti Thrákie 12, geografická jména mimo Thrákii 4;
+2038     
+2039     \NC\AR
+2040     \HL
+2041     \HL
+2042 >>  \stoptable
+2043     
+2044     V případě skupiny 182 nápisů datovaných do 2. a 3. st. n. l. se jedná o nárůst o 93 \letterpercent{} oproti skupině nápisů z 1. až. 2. st. n. l. Nápisy pocházejí z většiny z thráckého vnitrozemí z okolí hlavních městských center a okolí hlavních komunikačních tepen, jak je patrné z mapy 6.08 v Apendixu 2. Největším producentem se stává Augusta Traiana, jakožto hlavní město provincie {\em Thracia}. Producenty střední velikosti jsou další velká centra městského typu, jako Perinthos, Nicopolis ad Istrum a oblast středního toku Strýmónu
+2045     
+2046     Převážná část nosičů nápisů je z kamene, nicméně dva nápisy jsou zhotovené z kovu, a jeden na mozaice.\footnote{Nápisy na kovu představují vojenský diplom ({\em AE} 2007, 1259) a {\em instrumentum domesticum} čili předmět běžné denní potřeby ({\em AE} 2004, 1302, {\em instrumentum domesticum}, Chaniotis 2005, 92). Nápis {\em SEG} 54:652 se nachází na mozaice. Užitá osobní jména poukazují jak na řecký původ, tak na římské onomastické tradice u osob, které na nápisech figurují, ať už jako majitelé, či zhotovitelé. Nápisy pocházejí z okolí vojenského tábora v Kabylé a z vojenského tábora ve městě Nicopolis ad Istrum na Dunaji. Nápisy pocházejí nepřímo z kontextu spojeného s přítomností a projevy armádních struktur na území Thrákie. Vzhledem k jejich malému počtu a krátkému rozsahu však není možné vyvozovat nic dalšího.}
+2047     
+2048     \subsection[funerální-nápisy-14]{Funerální nápisy}
+2049     
+2050     Funerálních nápisů se dochovalo celkem 54, z čehož 52 má povahu soukromého nápisu a dva byly zhotoveny na náklady města.\footnote{{\em SEG} 48:894 a {\em I Aeg Thrace} 217.} Nápisy pocházejí z celého území Thrákie, tedy jak z pobřeží, tak z vnitrozemí. Hlavními produkčními centry je údolí středního toku Strýmónu, odkud pochází 14 nápisů, dále Perinthos s devíti nápisy a Maróneia se šesti nápisy.
+2051     
+2052     Text nápisů pozvolna opouští od tradičně používaných formulí a stejně jako u skupiny nápisů z 2. st. n. l. se objevují nové termíny, které popisují nově vzniklé skutečnosti a předměty, jako termíny pro sarkofág a formule zajišťující právní ochranu jejich obsahu.\footnote{Invokační formule {\em chaire} se objevuje pouze čtyřikrát, oslovení okolojdoucího ({\em parodeita}) pouze čtyřikrát. termín označující hrob ({\em tymbos}) se objevuje jednou, termín {\em stélé} čtyřikrát, {\em mnémeion} jednou, termín pro sarkofág celkem pětkrát ({\em soros, latomeion, diathéké}). Třikrát objevuje invokační formule vzývající podsvětní bohy v latině ({\em Dis Manibus}) a ani jednou v řečtině ({\em Theoi Katachthonioi}). Celkem čtyři nápisy uvádí věk zemřelého, což je typický zvyk pro římské nápisy. Podobně jako u nápisů datovaných do 2. st. n. l. pochází skupina devíti sarkofágů zejména z lokalit v okolí Propontidy (Perinthos, Byzantion), z nichž čtyři nesou ochrannou formuli, která zakazuje nové použití sarkofágu pod peněžní pokutou. Osobní jména na těchto sarkofázích jsou převážně řeckého původu.} Obsah textů poukazuje na nadále se proměňující složení společnosti, či alespoň narůstající manifestaci nejrůznějších životních drah a profesí na nápisech. Stejně tak se i nadále objevují zvyklosti typické pro nápisy z římské doby, stejně jako u nápisů z 1. a zejména z 2. st. n. l.\footnote{Texty jsou zhotovovány členy nejbližší rodiny a hrobky slouží k pohřbům více členů rodiny. Celkem 26 nápisů zmiňuje společný hrob s partnerem zemřelého či zmiňuje členy rodiny. Vojáci se na nápisech objevují celkem třikrát, konkrétně jde o legionáře, jezdce a {\em carceraria}, hlídače vojenského vězení a jednou jako veterán. Jiná, než vojenská povolání zmiňují funkce vždy po jednom výskytu kněžího ({\em archiereus}, {\em hiereus}), člena městské rady ({\em búleutés}), námořního obchodníka ({\em naukléros}), či patrona. Geografický původ zemřelého nápisy neudávají.}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+tex error       > tex error on line 2042 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  \ht \b_framed_extra \ht \b...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.2042 \stoptable
+               
+
+2032     
+2033     {\em Délka:} aritm. průměr 5,0 řádku, medián 4, max. délka 48, min. délka 1
+2034     
+2035     {\em Obsah:} dórský dialekt 0, latinský text 4 nápisy, písmo římského typu 74; hledané termíny (administrativní termíny 31 - celkem 139 výskytů, epigrafické formule 24 - 128 výskytů, honorifikační 3 - 3 výskyty, náboženské 42 - 112 výskytů, epiteton 26 - počet výskytů 40)
+2036     
+2037     {\em Identita:} řecká božstva 19, egyptská božstva 4, římská božstva 2, pojmenování míst a funkcí typických pro řecké náboženské prostředí, nárůst počtu lokálních kultů, regionální epiteton 12, subregionální epiteton 14, kolektivní identita 13 termínů, celkem 24 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 7, mimo ni 2; kolektivní pojmenování etnik či kmenů (Thráx 2, Rómaios 3, Bíthýnos 1, Acháios 1); celkem 256 osob na nápisech, 85 nápisů s jednou osobou; max. 24 osob na nápis, aritm. průměr 1,41 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se silnou přítomností římského prvku, jména pouze řecká (11,53 \letterpercent{}), pouze thrácká (6,59 \letterpercent{}), pouze římská (24,72 \letterpercent{}), kombinace řeckého a thráckého (4,39 \letterpercent{}), kombinace řeckého a římského (12,08 \letterpercent{}), kombinace thráckého a římského (2,74 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (4,94 \letterpercent{}), jména nejistého původu (6,02 \letterpercent{}), beze jména (26,92 \letterpercent{}); geografická jména z oblasti Thrákie 12, geografická jména mimo Thrákii 4;
+2038     
+2039     \NC\AR
+2040     \HL
+2041     \HL
+2042 >>  \stoptable
+2043     
+2044     V případě skupiny 182 nápisů datovaných do 2. a 3. st. n. l. se jedná o nárůst o 93 \letterpercent{} oproti skupině nápisů z 1. až. 2. st. n. l. Nápisy pocházejí z většiny z thráckého vnitrozemí z okolí hlavních městských center a okolí hlavních komunikačních tepen, jak je patrné z mapy 6.08 v Apendixu 2. Největším producentem se stává Augusta Traiana, jakožto hlavní město provincie {\em Thracia}. Producenty střední velikosti jsou další velká centra městského typu, jako Perinthos, Nicopolis ad Istrum a oblast středního toku Strýmónu
+2045     
+2046     Převážná část nosičů nápisů je z kamene, nicméně dva nápisy jsou zhotovené z kovu, a jeden na mozaice.\footnote{Nápisy na kovu představují vojenský diplom ({\em AE} 2007, 1259) a {\em instrumentum domesticum} čili předmět běžné denní potřeby ({\em AE} 2004, 1302, {\em instrumentum domesticum}, Chaniotis 2005, 92). Nápis {\em SEG} 54:652 se nachází na mozaice. Užitá osobní jména poukazují jak na řecký původ, tak na římské onomastické tradice u osob, které na nápisech figurují, ať už jako majitelé, či zhotovitelé. Nápisy pocházejí z okolí vojenského tábora v Kabylé a z vojenského tábora ve městě Nicopolis ad Istrum na Dunaji. Nápisy pocházejí nepřímo z kontextu spojeného s přítomností a projevy armádních struktur na území Thrákie. Vzhledem k jejich malému počtu a krátkému rozsahu však není možné vyvozovat nic dalšího.}
+2047     
+2048     \subsection[funerální-nápisy-14]{Funerální nápisy}
+2049     
+2050     Funerálních nápisů se dochovalo celkem 54, z čehož 52 má povahu soukromého nápisu a dva byly zhotoveny na náklady města.\footnote{{\em SEG} 48:894 a {\em I Aeg Thrace} 217.} Nápisy pocházejí z celého území Thrákie, tedy jak z pobřeží, tak z vnitrozemí. Hlavními produkčními centry je údolí středního toku Strýmónu, odkud pochází 14 nápisů, dále Perinthos s devíti nápisy a Maróneia se šesti nápisy.
+2051     
+2052     Text nápisů pozvolna opouští od tradičně používaných formulí a stejně jako u skupiny nápisů z 2. st. n. l. se objevují nové termíny, které popisují nově vzniklé skutečnosti a předměty, jako termíny pro sarkofág a formule zajišťující právní ochranu jejich obsahu.\footnote{Invokační formule {\em chaire} se objevuje pouze čtyřikrát, oslovení okolojdoucího ({\em parodeita}) pouze čtyřikrát. termín označující hrob ({\em tymbos}) se objevuje jednou, termín {\em stélé} čtyřikrát, {\em mnémeion} jednou, termín pro sarkofág celkem pětkrát ({\em soros, latomeion, diathéké}). Třikrát objevuje invokační formule vzývající podsvětní bohy v latině ({\em Dis Manibus}) a ani jednou v řečtině ({\em Theoi Katachthonioi}). Celkem čtyři nápisy uvádí věk zemřelého, což je typický zvyk pro římské nápisy. Podobně jako u nápisů datovaných do 2. st. n. l. pochází skupina devíti sarkofágů zejména z lokalit v okolí Propontidy (Perinthos, Byzantion), z nichž čtyři nesou ochrannou formuli, která zakazuje nové použití sarkofágu pod peněžní pokutou. Osobní jména na těchto sarkofázích jsou převážně řeckého původu.} Obsah textů poukazuje na nadále se proměňující složení společnosti, či alespoň narůstající manifestaci nejrůznějších životních drah a profesí na nápisech. Stejně tak se i nadále objevují zvyklosti typické pro nápisy z římské doby, stejně jako u nápisů z 1. a zejména z 2. st. n. l.\footnote{Texty jsou zhotovovány členy nejbližší rodiny a hrobky slouží k pohřbům více členů rodiny. Celkem 26 nápisů zmiňuje společný hrob s partnerem zemřelého či zmiňuje členy rodiny. Vojáci se na nápisech objevují celkem třikrát, konkrétně jde o legionáře, jezdce a {\em carceraria}, hlídače vojenského vězení a jednou jako veterán. Jiná, než vojenská povolání zmiňují funkce vždy po jednom výskytu kněžího ({\em archiereus}, {\em hiereus}), člena městské rady ({\em búleutés}), námořního obchodníka ({\em naukléros}), či patrona. Geografický původ zemřelého nápisy neudávají.}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+floatblocks     > '16' placed
+structure       > sectioning > subsection @ level 4 : 0.6.16.1 -> Funerální nápisy
+pages           > flushing realpage 47, userpage 47
+structure       > sectioning > subsection @ level 4 : 0.6.16.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.16.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.16.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.17 -> Charakteristika epigrafické produkce ve 3. st. n. l.
+
+tex error       > tex error on line 2114 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  +2\d_framed_frameoffset \r...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.2114 \stoptable
+               
+
+2104     
+2105     {\em Délka:} aritm. průměr 8,62 řádku, medián 7, max. délka 270, min. délka 1
+2106     
+2107     {\em Obsah:} dórský dialekt 1, iónsko-attický 1, latinský text 12 nápisů, písmo římského typu 168; hledané termíny (administrativní termíny 53 - celkem 502 výskytů, epigrafické formule 26 - 315 výskytů, honorifikační 9 - 22 výskytů, náboženské 30 - 177 výskytů, epiteton 24 - počet výskytů 55)
+2108     
+2109     {\em Identita:} řecká božstva 13, egyptská božstva 0, římská božstva 1, pojmenování míst a funkcí typických pro řecké náboženské prostředí, nárůst počtu lokálních kultů, regionální epiteton 11, subregionální epiteton 13, kolektivní identita 38 termínů, celkem 162 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 20, mimo ni 3; kolektivní pojmenování etnik či kmenů (barbaros 3, Thráx 64, Rómaios 11, Kampános 1, Makedón 1), obyvatelé thráckých vesnic 10; celkem 1129 osob na nápisech, 134 nápisů s jednou osobou; max. 154 osob na nápis, aritm. průměr 2,89 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se nadpoloviční přítomností římského prvku, jména pouze řecká (6,66 \letterpercent{}), pouze thrácká (3,58 \letterpercent{}), pouze římská (27,43 \letterpercent{}), kombinace řeckého a thráckého (2,56 \letterpercent{}), kombinace řeckého a římského (19,23 \letterpercent{}), kombinace thráckého a římského (5,12 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (10,25 \letterpercent{}), jména nejistého původu (8,18 \letterpercent{}), beze jména (16,92 \letterpercent{}){\bf ;} geografická jména z oblasti Thrákie 24, geografická jména mimo Thrákii 19;
+2110     
+2111     \NC\AR
+2112     \HL
+2113     \HL
+2114 >>  \stoptable
+2115     
+2116     Ve 3. st. n. l. je úroveň epigrafické produkce přibližně o polovinu vyšší než v předcházejícím století. I nadále pocházejí tři čtvrtiny nápisů z vnitrozemských oblastí, a to zejména z lokalit nalézajících se podél římské cesty {\em Via Diagonalis,} jako je Augusta Traiana a Filippopolis. Tato cesta procházející ze severovýchodu na jihovýchod Thrákie spojovala Evropu s Malou Asií a sloužila k poměrně častému přesunu vojsk oběma směry (Madzharov 2009, 70-131). Zbývající čtvrtina epigrafické produkce i nadále pochází z tří regionů řeckých měst na pobřeží: z okolí Perinthu a Byzantia na pobřeží Marmarského moře, z okolí Abdéry a Maróneie na pobřeží Egejského moře, a dále z Odéssu a Dionýsopole na pobřeží Černého moře. Konkrétní polohu míst nálezů nápisů ilustruje mapa 6.09 v Apendixu 2.\footnote{Archeologický kontext je podobně jako u předcházejícího období z velké části neznámý, avšak zhruba u 18 \letterpercent{} lokalit je archeologický kontext náboženský a zhruba u 11 \letterpercent{} lokalit sídelní. Oproti předcházejícímu období dochází k mírnému nárůstu u obou kategorií, a téměř každý třetí nápis pochází buď z osídlení, či svatyně. Předpokládá se, že materiál na výrobu nápisů pocházel z místních zdrojů, jako např. z ostrova Prokonnésos v Marmarském moři. Zcela v tomto období chybí nápisy na kovových předmětech.}
+2117     
+2118     Soukromé nápisy představují přes polovinu celého souboru. Podobně jako u nápisů datovaných do 2. až 3. st. n. l. převládají dedikační nápisy nad nápisy funerálními. Celý souboru doplňuje nebývale vysoký počet veřejných nápisů, které představují 45 \letterpercent{} všech nápisů z daného období, a dále 2,5 \letterpercent{} nápisů, jejichž typ nebylo možné přesněji určit.
+2119     
+2120     \subsection[funerální-nápisy-15]{Funerální nápisy}
+2121     
+2122     Funerálních nápisů ze 3. st. n. l. se dochovalo celkem 76, což představuje zhruba nárůst o 40 \letterpercent{} oproti předcházejícímu století. Podobně jako v předcházejícím období si funerální nápisy uchovávají standardní formule, typické pro tento druh nápisů, nicméně jejich celkový počet se snižuje, pravděpodobně jako reakce na proměňující se funerální ritus.\footnote{Např. typická formule na památku ({\em mnémé charin} či {\em mnéiás charin)} ve dochovala ve 21 případech. Místo pohřbu je nejčastěji nazýváno {\em mnémeion} ve třech, {\em larnax} v jednom případě pro sarkofág, {\em latomeion} ve třech případech taktéž pro sarkofág, {\em soros} v sedmi případech pro urnu, {\em chamosorion} pro plochou hrobku umístěnou na zemi. Celkem tři nápisy zmiňují vztyčení stély a ve dvou případech i zhotovení textu nápisu. Celkem čtyři nápisy oslovují okolo jdoucího poutníka ({\em chaire/chairete parodeita}), což je znatelně méně než v předcházejícím období.}
+2123     
+2124     Typický text nápisu nese jméno nebožtíka, jeho zařazení v rámci komunity, jeho původ a jeho dosažené postavení či vykonané skutky. Dále je zde uveden zhotovitel nápisu a jeho vztah k zemřelému. Většinou se jedná o člena rodiny, přítele či kolegu z armády. Důvody pro uvádění pozůstalých jsou pravděpodobně spojeny s dědickými nároky a povinnostmi (MacMullen 1982; Meyer 1990). Geografická jména poukazují na původ nebožtíků či jejich blízkých, jednak z Filippopole a oblasti Haimu, ale i z měst Malé Asie jako je Níkaia či Smyrna, avšak výskyt na pouhých čtyřech nápisech svědčí o tom, že geografický původ nebyl nejdůležitějším faktorem identifikace jednotlivce.\footnote{V jednom případě se setkáváme s označením barbar, které popisuje skupinu lupičů neznámého původu, jimž se podařilo uniknout knězi Aureliovi Flaviovi Markovi na nápise {\em IG Bulg} 1,2 1 z lokality Tvardica v regionu Caron Limen. Termín {\em barbaros} tak nelze spojovat výlučně s thráckým etnikem, a pokud ano, jedná se o etický emotivně zabarvený popis nespecifické etnické skupiny. Etnická příslušnost tak ve 3. st. n. l. nehraje téměř žádnou roli, a pokud ano, pak pouze v samosprávě a rozdělení obyvatel v rámci provincie.} Povolání zemřelého se dochovala na pětině nápisů, což poukazuje na narůstající váhu prezentace povolání a dosaženého společenského postavení.\footnote{Setkáváme se s šesti vojáky různých hodností, dále s čtyřmi gladiátory nejrůznějších specializací, jedním strážným, jedním knězem, jedním propuštěncem, jedním členem {\em búlé} a jedním členem {\em gerúsie}.}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+tex error       > tex error on line 2114 in file /home/mq20151400/petra/dis_context/FullDis.tex: ! Dimension too large
+
+
+\pack_framed_add_outline ... \wd \b_framed_normal 
+                                                  \ht \b_framed_extra \ht \b...
+\pack_framed_finish ...e \pack_framed_add_outline 
+                                                  \fi \ifx \p_framed_backgro...
+\borderedfloatbox ...floatframed {\box \floatbox }
+                                                  \endgroup 
+\strc_floats_set_page_variant ...borderedfloatbox 
+                                                  }\let \strc_floats_align_c...
+\strc_floats_set_box ...c_floats_set_page_variant 
+                                                  \fi \strc_floats_set_local...
+\strc_floats_place_packaged_boxes_indeed ...t_box 
+                                                  \strc_floats_get_box \glob...
+...
+l.2114 \stoptable
+               
+
+2104     
+2105     {\em Délka:} aritm. průměr 8,62 řádku, medián 7, max. délka 270, min. délka 1
+2106     
+2107     {\em Obsah:} dórský dialekt 1, iónsko-attický 1, latinský text 12 nápisů, písmo římského typu 168; hledané termíny (administrativní termíny 53 - celkem 502 výskytů, epigrafické formule 26 - 315 výskytů, honorifikační 9 - 22 výskytů, náboženské 30 - 177 výskytů, epiteton 24 - počet výskytů 55)
+2108     
+2109     {\em Identita:} řecká božstva 13, egyptská božstva 0, římská božstva 1, pojmenování míst a funkcí typických pro řecké náboženské prostředí, nárůst počtu lokálních kultů, regionální epiteton 11, subregionální epiteton 13, kolektivní identita 38 termínů, celkem 162 výskytů - obyvatelé řeckých obcí z oblasti Thrákie 20, mimo ni 3; kolektivní pojmenování etnik či kmenů (barbaros 3, Thráx 64, Rómaios 11, Kampános 1, Makedón 1), obyvatelé thráckých vesnic 10; celkem 1129 osob na nápisech, 134 nápisů s jednou osobou; max. 154 osob na nápis, aritm. průměr 2,89 osoby na nápis, medián 1; komunita multikulturního charakteru se zastoupením řeckého, římského a thráckého prvku, se nadpoloviční přítomností římského prvku, jména pouze řecká (6,66 \letterpercent{}), pouze thrácká (3,58 \letterpercent{}), pouze římská (27,43 \letterpercent{}), kombinace řeckého a thráckého (2,56 \letterpercent{}), kombinace řeckého a římského (19,23 \letterpercent{}), kombinace thráckého a římského (5,12 \letterpercent{}), kombinovaná řecká, thrácká a římská jména (10,25 \letterpercent{}), jména nejistého původu (8,18 \letterpercent{}), beze jména (16,92 \letterpercent{}){\bf ;} geografická jména z oblasti Thrákie 24, geografická jména mimo Thrákii 19;
+2110     
+2111     \NC\AR
+2112     \HL
+2113     \HL
+2114 >>  \stoptable
+2115     
+2116     Ve 3. st. n. l. je úroveň epigrafické produkce přibližně o polovinu vyšší než v předcházejícím století. I nadále pocházejí tři čtvrtiny nápisů z vnitrozemských oblastí, a to zejména z lokalit nalézajících se podél římské cesty {\em Via Diagonalis,} jako je Augusta Traiana a Filippopolis. Tato cesta procházející ze severovýchodu na jihovýchod Thrákie spojovala Evropu s Malou Asií a sloužila k poměrně častému přesunu vojsk oběma směry (Madzharov 2009, 70-131). Zbývající čtvrtina epigrafické produkce i nadále pochází z tří regionů řeckých měst na pobřeží: z okolí Perinthu a Byzantia na pobřeží Marmarského moře, z okolí Abdéry a Maróneie na pobřeží Egejského moře, a dále z Odéssu a Dionýsopole na pobřeží Černého moře. Konkrétní polohu míst nálezů nápisů ilustruje mapa 6.09 v Apendixu 2.\footnote{Archeologický kontext je podobně jako u předcházejícího období z velké části neznámý, avšak zhruba u 18 \letterpercent{} lokalit je archeologický kontext náboženský a zhruba u 11 \letterpercent{} lokalit sídelní. Oproti předcházejícímu období dochází k mírnému nárůstu u obou kategorií, a téměř každý třetí nápis pochází buď z osídlení, či svatyně. Předpokládá se, že materiál na výrobu nápisů pocházel z místních zdrojů, jako např. z ostrova Prokonnésos v Marmarském moři. Zcela v tomto období chybí nápisy na kovových předmětech.}
+2117     
+2118     Soukromé nápisy představují přes polovinu celého souboru. Podobně jako u nápisů datovaných do 2. až 3. st. n. l. převládají dedikační nápisy nad nápisy funerálními. Celý souboru doplňuje nebývale vysoký počet veřejných nápisů, které představují 45 \letterpercent{} všech nápisů z daného období, a dále 2,5 \letterpercent{} nápisů, jejichž typ nebylo možné přesněji určit.
+2119     
+2120     \subsection[funerální-nápisy-15]{Funerální nápisy}
+2121     
+2122     Funerálních nápisů ze 3. st. n. l. se dochovalo celkem 76, což představuje zhruba nárůst o 40 \letterpercent{} oproti předcházejícímu století. Podobně jako v předcházejícím období si funerální nápisy uchovávají standardní formule, typické pro tento druh nápisů, nicméně jejich celkový počet se snižuje, pravděpodobně jako reakce na proměňující se funerální ritus.\footnote{Např. typická formule na památku ({\em mnémé charin} či {\em mnéiás charin)} ve dochovala ve 21 případech. Místo pohřbu je nejčastěji nazýváno {\em mnémeion} ve třech, {\em larnax} v jednom případě pro sarkofág, {\em latomeion} ve třech případech taktéž pro sarkofág, {\em soros} v sedmi případech pro urnu, {\em chamosorion} pro plochou hrobku umístěnou na zemi. Celkem tři nápisy zmiňují vztyčení stély a ve dvou případech i zhotovení textu nápisu. Celkem čtyři nápisy oslovují okolo jdoucího poutníka ({\em chaire/chairete parodeita}), což je znatelně méně než v předcházejícím období.}
+2123     
+2124     Typický text nápisu nese jméno nebožtíka, jeho zařazení v rámci komunity, jeho původ a jeho dosažené postavení či vykonané skutky. Dále je zde uveden zhotovitel nápisu a jeho vztah k zemřelému. Většinou se jedná o člena rodiny, přítele či kolegu z armády. Důvody pro uvádění pozůstalých jsou pravděpodobně spojeny s dědickými nároky a povinnostmi (MacMullen 1982; Meyer 1990). Geografická jména poukazují na původ nebožtíků či jejich blízkých, jednak z Filippopole a oblasti Haimu, ale i z měst Malé Asie jako je Níkaia či Smyrna, avšak výskyt na pouhých čtyřech nápisech svědčí o tom, že geografický původ nebyl nejdůležitějším faktorem identifikace jednotlivce.\footnote{V jednom případě se setkáváme s označením barbar, které popisuje skupinu lupičů neznámého původu, jimž se podařilo uniknout knězi Aureliovi Flaviovi Markovi na nápise {\em IG Bulg} 1,2 1 z lokality Tvardica v regionu Caron Limen. Termín {\em barbaros} tak nelze spojovat výlučně s thráckým etnikem, a pokud ano, jedná se o etický emotivně zabarvený popis nespecifické etnické skupiny. Etnická příslušnost tak ve 3. st. n. l. nehraje téměř žádnou roli, a pokud ano, pak pouze v samosprávě a rozdělení obyvatel v rámci provincie.} Povolání zemřelého se dochovala na pětině nápisů, což poukazuje na narůstající váhu prezentace povolání a dosaženého společenského postavení.\footnote{Setkáváme se s šesti vojáky různých hodností, dále s čtyřmi gladiátory nejrůznějších specializací, jedním strážným, jedním knězem, jedním propuštěncem, jedním členem {\em búlé} a jedním členem {\em gerúsie}.}
+
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+pages           > flushing realpage 48, userpage 48
+floatblocks     > '17' placed
+structure       > sectioning > subsection @ level 4 : 0.6.17.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.17.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.17.3 -> Veřejné nápisy
+pages           > flushing realpage 49, userpage 49
+structure       > sectioning > subsection @ level 4 : 0.6.17.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.18 -> Charakteristika epigrafické produkce ve 3. st. n. l. až 4. st. n. l.
+pages           > flushing realpage 50, userpage 50
+floatblocks     > '18' placed
+structure       > sectioning > subsection @ level 4 : 0.6.18.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.18.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.18.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.18.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.19 -> Charakteristika epigrafické produkce ve 4. st. n. l.
+pages           > flushing realpage 51, userpage 51
+floatblocks     > '19' placed
+structure       > sectioning > subsection @ level 4 : 0.6.19.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.19.2 -> Dedikační nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.19.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.19.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.20 -> Charakteristika epigrafické produkce ve 4. st. n. l. až 5. st. n. l.
+floatblocks     > '20' placed
+structure       > sectioning > subsection @ level 4 : 0.6.20.1 -> Funerální nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.20.2 -> Dedikační nápisy
+pages           > flushing realpage 52, userpage 52
+structure       > sectioning > subsection @ level 4 : 0.6.20.3 -> Veřejné nápisy
+structure       > sectioning > subsection @ level 4 : 0.6.20.4 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.21 -> Charakteristika epigrafické produkce v 5. st. n. l.
+floatblocks     > '21' placed
+structure       > sectioning > subsection @ level 4 : 0.6.21.1 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.22 -> Charakteristika epigrafické produkce v 5. st. n. l. až 6. st. n. l.
+pages           > flushing realpage 53, userpage 53
+floatblocks     > '22' placed
+structure       > sectioning > subsection @ level 4 : 0.6.22.1 -> Shrnutí
+structure       > sectioning > section @ level 3 : 0.6.23 -> Nápisy z 6. až 8. st. n. l.
+structure       > sectioning > section @ level 3 : 0.6.24 -> Epigrafická produkce a proměny společnosti
+structure       > sectioning > subsection @ level 4 : 0.6.24.1 -> Epigrafická produkce v jednotlivých obdobích
+pages           > flushing realpage 54, userpage 54
+pages           > flushing realpage 55, userpage 55
+structure       > sectioning > chapter @ level 2 : 0.7 -> Mapování kulturních změn
+structure       > sectioning > section @ level 3 : 0.7.1 -> Prostorová analýza epigrafické produkce
+structure       > sectioning > subsection @ level 4 : 0.7.1.1 -> Epigrafická produkční centra
+structure       > sectioning > subsection @ level 4 : 0.7.1.2 -> Faktory ovlivňující rozmístění nápisů
+structure       > sectioning > subsection @ level 4 : 0.7.1.3 -> Skupiny produkčních center nápisů
+structure       > sectioning > subsubsection @ level 5 : 0.7.1.3.1 -> Produkční centra městského charakteru
+pages           > flushing realpage 56, userpage 56
+structure       > sectioning > subsubsection @ level 5 : 0.7.1.3.2 -> Produkční centra neměstského charakteru
+structure       > sectioning > section @ level 3 : 0.7.2 -> Rozmístění nápisů v závislosti na jejich typologii
+structure       > sectioning > subsection @ level 4 : 0.7.2.1 -> Veřejné nápisy jako produkt komplexní společnosti
+structure       > sectioning > subsection @ level 4 : 0.7.2.2 -> Soukromé nápisy a projevy kulturních zvyklostí
+structure       > sectioning > subsubsection @ level 5 : 0.7.2.2.1 -> Funerální nápisy
+pages           > flushing realpage 57, userpage 57
+structure       > sectioning > subsubsection @ level 5 : 0.7.2.2.2 -> Dedikační nápisy
+structure       > sectioning > section @ level 3 : 0.7.3 -> Srovnání epigrafické produkce s archeologickými daty
+structure       > sectioning > subsection @ level 4 : 0.7.3.1 -> Příklad řeckých měst v Thrákii v 7. až 4. st. př. n. l.
+structure       > sectioning > subsection @ level 4 : 0.7.3.2 -> Příklad z thráckého vnitrozemí: Kazanlacké údolí v době římské
+pages           > flushing realpage 58, userpage 58
+structure       > sectioning > section @ level 3 : 0.7.4 -> Shrnutí
+pages           > flushing realpage 59, userpage 59
+structure       > sectioning > chapter @ level 2 : 0.8 -> Závěr
+structure       > sectioning > section @ level 3 : 0.8.1 -> Zhodnocení vlivu Hellénizace na epigrafickou produkci v Thrákii
+structure       > sectioning > section @ level 3 : 0.8.2 -> Charakter epigrafické produkce v Thrákii v předřímské době
+structure       > sectioning > subsection @ level 4 : 0.8.2.1 -> Pobřežní komunity
+structure       > sectioning > subsection @ level 4 : 0.8.2.2 -> Vnitrozemské komunity
+structure       > sectioning > section @ level 3 : 0.8.3 -> Charakter epigrafické produkce v Thrákii v římské době
+structure       > sectioning > subsection @ level 4 : 0.8.3.1 -> Proměny identity a vliv řecké kultury
+pages           > flushing realpage 60, userpage 60
+structure       > sectioning > section @ level 3 : 0.8.4 -> Zhodnocení použité metodologie
+structure       > sectioning > section @ level 3 : 0.8.5 -> Nastínění dalšího vývoje
+structure       > sectioning > section @ level 3 : 0.8.6 -> Shrnutí
+close source    > 2 > 3 > /home/mq20151400/petra/dis_context/FullDis.tex
+system          > invalid \starttext ... \stoptext structure
+pages           > flushing realpage 61, userpage 61
+close source    > 1 > 3 > /usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv
+
+system          > structure > start used structure
+
+used structure  > text: FullDis
+
+system          > structure > stop used structure
+
+
+system          > files > start used files
+
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=/home/mq20151400/petra/dis_context/FullDis.tex foundname=/home/mq20151400/petra/dis_context/FullDis.tex usedmethod=direct
+used file       >    6: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+used file       >    7: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+
+system          > files > stop used files
+
+
+system          > options > start commandline options
+
+used option     > currentrun="1"
+used option     > fulljobname="./FullDis.tex"
+used option     > input="./FullDis.tex"
+used option     > kindofrun="1"
+used option     > maxnofruns="9"
+used option     > no-parse-first-line="true"
+used option     > purgeall="true"
+
+system          > options > stop commandline options
+
+system          > options > start commandline files
+
+used file       >    1: ./FullDis.tex
+
+system          > options > stop commandline files
+
+
+mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/mq20151400/.texlive2016/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.059 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 7 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 387 modules (0.203 sec), 82 tables (0.006 sec), 469 chunks (0.209 sec)
+mkiv lua stats  > traced context: maxstack: 1176, freed: 1, unreachable: 1175
+mkiv lua stats  > cleaned up reserved nodes: 47 nodes, 9 lists of 444
+mkiv lua stats  > node memory usage: 29 hlist, 6 vlist, 5 rule, 80 disc, 1 local_par, 1 dir, 848 glue, 5 kern, 16 penalty, 1887 glyph, 2217 attribute, 38 glue_spec, 546 attribute_list, 2 temp, 1 late_lua
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 16908 calls
+mkiv lua stats  > h-node processing time: 0.093 seconds including kernel
+mkiv lua stats  > attribute processing time: 0.185 seconds front- and backend
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.000 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: 36544 direct, 2939 indirect, 39483 total
+mkiv lua stats  > v-node processing time: 0.047 seconds 
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > interactive elements: 0 references, 432 destinations
+mkiv lua stats  > result saved in file: FullDis.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 1 files: lmmono10-regular.otf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 2 instances, 1 shared in backend, 0 common vectors, 1 common hashes, load time 0.642 seconds 
+mkiv lua stats  > unknown math characters: • (U+02022) (n=21)
+mkiv lua stats  > math processing time: 5.155 seconds 
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
+mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016/debian)
+mkiv lua stats  > control sequences: 42164 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 57 MB (ctx: 54 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 8.573 seconds, 61 processed pages, 61 shipped pages, 7.115 pages/second
+
