@@ -1,0 +1,181 @@
+open source     > level 1, order 1, name '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2017.01.27 14:39 MKIV beta  fmt: 2017.2.2  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'dis_product', input './dis_product', result 'dis_product'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name '/home/petra/context/dis_product.tex'
+system          > jobfiles > using path: /home/petra/context/
+open source     > level 3, order 4, name 'env_dis.tex'
+regimes         > loading > vector '8859-2' is loaded
+colors          > 'rgb' color space is supported
+colors          > 'cmyk' color space is supported
+open source     > level 4, order 5, name '/home/petra/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv'
+close source    > level 4, order 5, name '/home/petra/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv'
+fonts           > preloading modern-designsize (math)
+fonts           > typescripts > unknown library 'modern-designsize'
+fonts           > 'fallback modern-designsize mm 12pt' is loaded
+fonts           > preloading modern-designsize (mono)
+fonts           > 'fallback modern-designsize tt 12pt' is loaded
+setup           > error in line 21, namespace 'notation', instance 'footnote', key '10pt'
+close source    > level 3, order 5, name 'env_dis.tex'
+backend         > profiles > setting format to 'pdf/a-1a:2005'
+backend         > profiles > forcing pdf version 1.4, compression level 3, object compression disabled
+colors          > defining > supported models: gray 'true', rgb 'true', cmyk 'true', spot 'true'
+transparencies  > support > transparency is not supported
+viewerlayers    > viewerlayers are not supported
+backend         > xmp > using file '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pda.xml'
+backend         > profiles > profile specification 'default_cmyk.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_cmyk.icc'
+backend         > profiles > no default profile 'default_cmyk.icc' for colorspace 'cmyk'
+backend         > profiles > profile specification 'default_rgb.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_rgb.icc'
+backend         > profiles > no default profile 'default_rgb.icc' for colorspace 'rgb'
+backend         > profiles > profile specification 'default_gray.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_gray.icc'
+backend         > profiles > no default profile 'default_gray.icc' for colorspace 'gray'
+backend         > profiles > profile specification 'ISO coated v2 300% (ECI)' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+languages       > setting righthyphenchar to U+00AD
+backend         > export > enabling export to xml
+backend         > profiles > setting format to 'pdf/a-1a:2005'
+backend         > xmp > discarding loaded file '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pda.xml'
+backend         > profiles > forcing pdf version 1.4, compression level 3, object compression disabled
+colors          > defining > supported models: gray 'true', rgb 'true', cmyk 'true', spot 'true'
+transparencies  > support > transparency is not supported
+viewerlayers    > viewerlayers are not supported
+backend         > xmp > using file '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pda.xml'
+backend         > profiles > profile specification 'default_cmyk.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_cmyk.icc'
+backend         > profiles > no default profile 'default_cmyk.icc' for colorspace 'cmyk'
+backend         > profiles > profile specification 'default_rgb.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_rgb.icc'
+backend         > profiles > no default profile 'default_rgb.icc' for colorspace 'rgb'
+backend         > profiles > profile specification 'default_gray.icc' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+backend         > profiles > error, couldn't locate profile 'default_gray.icc'
+backend         > profiles > no default profile 'default_gray.icc' for colorspace 'gray'
+backend         > profiles > profile specification 'ISO coated v2 300% (ECI)' loaded from '/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml'
+open source     > level 3, order 6, name 'titlepage.tex'
+pages           > flushing realpage 1, userpage 1, subpage 1
+pages           > flushing realpage 2, userpage 2
+pages           > flushing realpage 3, userpage 2
+pages           > flushing realpage 4, userpage 2
+close source    > level 3, order 6, name 'titlepage.tex'
+system          > jobfiles > unknown tex file 'abstract'
+system          > jobfiles > unknown tex file 'thanks'
+system          > jobfiles > unknown tex file 'toc'
+system          > jobfiles > unknown tex file 'chapter01'
+system          > jobfiles > unknown tex file 'chapter02'
+system          > jobfiles > unknown tex file 'chapter03'
+system          > jobfiles > unknown tex file 'chapter04'
+system          > jobfiles > unknown tex file 'chapter05'
+system          > jobfiles > unknown tex file 'chapter06'
+system          > jobfiles > unknown tex file 'chapter07'
+system          > jobfiles > unknown tex file 'chapter08'
+system          > jobfiles > unknown tex file 'appendix01'
+system          > jobfiles > unknown tex file 'appendix02'
+system          > jobfiles > unknown tex file 'appendix03'
+system          > jobfiles > unknown tex file 'indices'
+structure       > tags > ignoring end tag, previous chain: none
+backend         > export > 
+backend         > export > exporting xml, xhtml and html files
+backend         > export > 
+backend         > export > using exiting export path 'dis_product-export'
+backend         > export > using exiting images path 'dis_product-export/images'
+backend         > export > using exiting styles path 'dis_product-export/styles'
+backend         > export > adding css reference 'styles/dis_product-defaults.css'
+backend         > export > adding css reference 'styles/dis_product-images.css'
+backend         > export > adding css reference 'styles/dis_product-styles.css'
+backend         > export > saving xml data in 'dis_product-export/dis_product-raw.xml'
+backend         > export > saving css image definitions in 'dis_product-export/styles/dis_product-images.css'
+backend         > export > saving css style definitions in 'dis_product-export/styles/dis_product-styles.css'
+backend         > export > saving css template in 'dis_product-export/styles/dis_product-templates.css'
+backend         > export > saving xhtml variant in 'dis_product-export/dis_product-tag.xhtml'
+backend         > export > saving specification in 'dis_product-export/dis_product-pub.lua'
+backend         > export > saving div based alternative in 'dis_product-export/dis_product-div.xhtml'
+backend         > export > 
+backend         > export > create epub with: mtxrun --script epub --make "dis_product" [--purge --rename --svgmath]
+backend         > export > 
+close source    > level 2, order 6, name '/home/petra/context/dis_product.tex'
+close source    > level 1, order 6, name '/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+
+system          > structure > start used structure
+
+used structure  > text: dis_product
+used structure  >   environment: env_dis
+used structure  >   product: dis_product
+used structure  >     component: titlepage
+
+system          > structure > stop used structure
+
+
+system          > files > start used files
+
+used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=scripts foundname=/home/petra/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    5: filename=/home/petra/context/dis_product.tex foundname=/home/petra/context/dis_product.tex usedmethod=direct
+used file       >    6: filename=env_dis.tex foundname=env_dis.tex usedmethod=direct
+used file       >    7: filename=lang-cs.lua filetype=scripts foundname=/home/petra/context/tex/texmf-context/tex/context/patterns/mkiv/lang-cs.lua usedmethod=database
+used file       >    8: filename=regi-8859-2.lua filetype=scripts foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/regi-8859-2.lua usedmethod=database
+used file       >    9: filename=type-imp-gentium.mkiv filetype=tex foundname=/home/petra/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-gentium.mkiv usedmethod=database
+used file       >   10: filename=GentiumPlus-R filetype=ttf format=ttf foundname=/home/petra/context/tex/texmf/fonts/truetype/public/gentium-tug/GentiumPlus-R.ttf usedmethod=database
+used file       >   11: filename=lpdf-pda.xml filetype=tex foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pda.xml usedmethod=database
+used file       >   12: filename=colorprofiles.xml filetype=icc format=icc foundname=/home/petra/context/tex/texmf-context/colors/icc/context/colorprofiles.xml usedmethod=database
+used file       >   13: filename=ISOcoated_v2_300_eci.icc filetype=icc format=icc foundname=/home/petra/context/tex/texmf-context/colors/icc/profiles/isocoated_v2_300_eci.icc usedmethod=database
+used file       >   14: filename=titlepage.tex foundname=titlepage.tex usedmethod=direct
+used file       >   15: filename=GenBasB filetype=ttf format=ttf foundname=/home/petra/context/tex/texmf/fonts/truetype/public/gentium-tug/GenBasB.ttf usedmethod=database
+used file       >   16: filename=GentiumPlus-I filetype=ttf format=ttf foundname=/home/petra/context/tex/texmf/fonts/truetype/public/gentium-tug/GentiumPlus-I.ttf usedmethod=database
+used file       >   17: filename=export-example.css filetype=tex foundname=/home/petra/context/tex/texmf-context/tex/context/base/mkiv/export-example.css usedmethod=database
+
+system          > files > stop used files
+
+
+system          > options > start commandline options
+
+used option     > currentrun="3"
+used option     > fulljobname="./dis_product.tex"
+used option     > input="./dis_product.tex"
+used option     > kindofrun="2"
+used option     > maxnofruns="9"
+used option     > no-parse-first-line="true"
+
+system          > options > stop commandline options
+
+system          > options > start commandline files
+
+used file       >    1: ./dis_product.tex
+
+system          > options > stop commandline files
+
+
+mkiv lua stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: /home/petra/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
+mkiv lua stats  > resource resolver: loadtime 0.008 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 401 modules (0.255 sec), 88 tables (0.012 sec), 489 chunks (0.268 sec)
+mkiv lua stats  > traced context: maxstack: 1221, freed: 2, unreachable: 1219
+mkiv lua stats  > cleaned up reserved nodes: 48 nodes, 9 lists of 447
+mkiv lua stats  > node memory usage: 13 glue, 4 penalty, 37 attribute, 40 glue_spec, 11 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 6 instances (re)created, 151 calls
+mkiv lua stats  > inserted spaces in output: 84
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: 457 direct, 430 indirect, 887 total
+mkiv lua stats  > randomizer: resumed with value 0.43947911934903
+mkiv lua stats  > loaded patterns: cs::16 en::2, load time: 0.000
+mkiv lua stats  > xml load time: 0.011 seconds, 8 files, 8 converted
+mkiv lua stats  > lxml preparation time: 0.000 seconds, 0 nodes, 46 lpath calls, 18 cached calls
+mkiv lua stats  > structure elements: 1 element chains identified
+mkiv lua stats  > result saved in file: dis_product.pdf, compresslevel 3, objectcompresslevel 0
+mkiv lua stats  > loaded fonts: 3 files: genbasb.ttf, gentiumplus-i.ttf, gentiumplus-r.ttf
+mkiv lua stats  > font engine: otf 3.027, afm 1.512, tfm 1.000, 10 instances, 7 shared in backend, 0 common vectors, 7 common hashes, load time 0.169 seconds 
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: texmf-linux-64
+mkiv lua stats  > luatex banner: this is luatex, version 1.0.0 (tex live 2017/dev)
+mkiv lua stats  > control sequences: 44490 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 91 MB (ctx: 91 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.609 seconds, 4 processed pages, 4 shipped pages, 6.568 pages/second
+
