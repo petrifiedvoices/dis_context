@@ -1,3 +1,6 @@
 #!/bin/bash
 
-python sectionator.py
+python3 sectionator.py
+cd thesisBySection
+
+context --purgeall disproduct

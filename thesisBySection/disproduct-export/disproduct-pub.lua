@@ -1,0 +1,17 @@
+return {
+ ["author"]="Petra Janouchová",
+ ["htmlfiles"]={ "disproduct-div.xhtml" },
+ ["htmlroot"]="disproduct-div.xhtml",
+ ["identifier"]="1d3f494a-4069-9d49-8e5e-a2b23dd4938c",
+ ["imagefile"]="styles/disproduct-images.css",
+ ["imagepath"]="images",
+ ["images"]={},
+ ["language"]="cs",
+ ["name"]="disproduct",
+ ["stylepath"]="styles",
+ ["styles"]={ "disproduct-defaults.css", "disproduct-images.css", "disproduct-styles.css" },
+ ["subtitle"]="Hellenisation of Ancient Thrace based on epigraphical evidence",
+ ["title"]="Hellénizace antické Thrákie ve světle epigrafických nálezů",
+ ["xhtmlfiles"]={ "disproduct-tag.xhtml" },
+ ["xmlfiles"]={ "disproduct-raw.xml" },
+}
