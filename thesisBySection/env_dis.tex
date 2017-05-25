@@ -63,24 +63,33 @@
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
-
+\setupTABLE[split=yes] 
 \unprotect
 
 \def\startframedbox%
-{\startnarrower[right]%
-
-\startframed%
- [width=\hsize,%
-    corner=00,
-    frameoffset=5pt,
-    backgroundoffset=5pt,
-    align={width,nothyphenated,verytolerant,stretch},strut=no, background=color, backgroundcolor=gray] % maybe also stretch
+{%\startnarrower[right]%
+\bTABLE[split=repeat]
+%\bTABLEbody
+\bTR
+\bTD
+% \startframed%
+%  [width=\hsize,%
+%     corner=00,
+%     frameoffset=5pt,
+%     backgroundoffset=5pt,
+%     align={width,nothyphenated,verytolerant,stretch},strut=no, background=color, backgroundcolor=gray] % maybe also stretch
+%     \tfx
 \setupinterlinespace[line=2.8ex]%    
 }
 
 \def\stopframedbox%
-{\stopframed%
-\stopnarrower%
+{
+\eTD
+\eTR
+%\eTABLEbody
+\eTABLE
+%\stopframed%
+%\stopnarrower%
 }
 
 \protect
