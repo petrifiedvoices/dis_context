@@ -45,18 +45,6 @@ document, div.document {
     display: block ;
 }
 
-/* element="float" detail="table" chain="table" */
-
-float[detail=table], div.float.table {
-    display: block ;
-}
-
-/* element="floatcontent" detail="" chain="" */
-
-floatcontent, div.floatcontent {
-    display: inline ;
-}
-
 /* element="item" detail="" chain="" */
 
 item, div.item {

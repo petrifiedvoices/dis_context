@@ -45,7 +45,7 @@
 \setupitemize[autointro]    % prevent orphan list intro
 \setupitemize[indentnext=no]
 
-\setupalign[nothanging,hyphenated,justified, hz]
+\setupalign[hanging,hyphenated,justified, hz]
 \setupindenting[yes,medium,first]
 \setupitemize[indentnext=no]
 
@@ -64,7 +64,25 @@
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
 
+\unprotect
 
+\def\startframedbox%
+{\startnarrower[right]%
 
+\startframed%
+ [width=\hsize,%
+    corner=00,
+    frameoffset=5pt,
+    backgroundoffset=5pt,
+    align={width,nothyphenated,verytolerant,stretch},strut=no, background=color, backgroundcolor=gray] % maybe also stretch
+\setupinterlinespace[line=2.8ex]%    
+}
+
+\def\stopframedbox%
+{\stopframed%
+\stopnarrower%
+}
+
+\protect
 
 \stopenvironment
