@@ -57,14 +57,32 @@
 
 \setupexternalfigures[location=default]
 
-\setupTABLE[c][each][align=flushleft,style={\tfx}]
-\setupTABLE[r][1][background=color,backgroundcolor=gray,style={\tfx\bf}]
+\setupTABLE[c][each][align=flushleft]
+\setupTABLE[r][each][background=color,backgroundcolor=gray,style={\tfx\setupalign[nothyphenated, verytolerant, flushleft]  \setupinterlinespace[line=1.8ex]
+}, topframe=off, bottomframe=off]
+
+\setupTABLE[c][1][width=.2\textwidth]
+\setupTABLE[c][2][width=.8\textwidth]
+
+
+\setupTABLE[r][first][topframe=on]
+\setupTABLE[c][first][rightframe=off]
+\setupTABLE[c][last][leftframe=off]
+\setupTABLE[r][last][bottomframe=on]
+
 \setupTABLE[align=middle]
+\setupTABLE[split=repeat]
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
+\usemodule[database]
 
-
+\defineseparatedlist[CSV]
+  [separator={~},
+   quotechar={},
+   left=\bTD,right=\eTD,
+   first=\bTR,last=\eTR,
+   before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
 
 
 \stopenvironment
