@@ -85,4 +85,61 @@
    before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
 
 
+\unprotect
+
+\def\citet{\dosingleempty\doCiteT}
+\def\doCiteT[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryear,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryear][#2]%
+  \fi
+}
+
+\def\citep{\dosingleempty\doCiteP}
+\def\doCiteP[#1]#2{%
+  \iffirstargument
+    \cite[alternative=authoryears,extras={, #1}][#2]%
+  \else
+    \cite[alternative=authoryears][#2]%
+  \fi
+}
+
+\define[1]\citeyear{\cite[alternative=year,left={},right={}][#1]}
+\define[1]\citeauthor{\cite[alternative=author,left={},right={}][#1]}
+
+\protect
+
+%\usebtxdataset[mkiv-publications.bib]
+
+
+% \definebtxdataset[standard]
+% \usebtxdataset[standard][sample.bib]
+
+ \definebtxrendering
+ [dataset=sample,
+ method=local,
+ alternative=apa]
+
+\usebtxdataset[sample.bib]
+\usebtxdefinitions[apa] % see p.15
+
+% \usemodule[bib]
+
+% \setupbibtex[database={sample.bib}]
+% \setuppublications[alternative=apa]
+% %\setuppublications[refcommand=authoryear]
+
+% \setupcite
+%        [authoryears]
+%        [pubsep={, },
+%         lastpubsep={ and },
+%         compress=yes,
+%         inbetween={ },
+%         left={(},
+%         right={)}]
+
+% \setupheadtext[en][pubs=References]
+%\setupbtxcitevariant[authoryears][inbetween={,}]
+
 \stopenvironment
