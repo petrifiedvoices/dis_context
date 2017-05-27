@@ -122,3 +122,21 @@ sectiontitle, div.sectiontitle {
 sup, div.sup {
     display: inline ;
 }
+
+/* element="table" detail="" chain="" */
+
+table, div.table {
+    display: block ;
+}
+
+/* element="tablecell" detail="" chain="" */
+
+tablecell, div.tablecell {
+    display: inline ;
+}
+
+/* element="tablerow" detail="" chain="" */
+
+tablerow, div.tablerow {
+    display: block ;
+}
