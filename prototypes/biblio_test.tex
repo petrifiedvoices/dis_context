@@ -1,0 +1,86 @@
+\mainlanguage[cz]
+\environment env_dis
+
+\startluacode
+        sorters.setlanguage("cz")
+\stopluacode
+
+
+\usebtxdataset[bibliotest]
+\usebtxdefinitions[apa]
+
+\unprotect
+\def\textampersand{a}
+\protect
+
+
+\setupbtxlabeltext
+  [cz]
+  [apa:number={č.},
+   apa:edition={ed.}, % edición
+   apa:Editor={ed.}, % Ed./Eds.
+   apa:Editors={edd.},
+   apa:Volume={Vol.},   % Volumen
+   apa:Volumes={Vols.},
+   p={}, %single page
+   pp={} %prefix for pages
+   ] 
+
+
+\setupbtx
+[apa:cite:authoryear]
+[inbetween={\btxspace\space}]
+
+
+ \setupbtx
+ [apa:cite]
+ [left=,
+  right=,
+separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
+separator:3={\btxsemicolon},
+separator:4={\btxsemicolon},
+separator:names:2={\btxcomma},
+separator:names:3={\btxcomma\btxnobreakspace{a}\space},
+separator:names:4={\btxnobreakspace{a}\space},   
+etaldisplay=2,
+etallimit=2
+]
+
+\starttext
+\input knuth
+\cite[righttext={{123},{116-156}}][Danton2004, Cicikova2011].
+
+\input knuth
+\cite[Cicikova2011]
+
+\input knuth
+\cite[Chichikova1978]
+
+\cite[righttext={123-124}][Dietler1998]
+\cite[Wallerstein1974]
+\cite[Sam2015]
+\cite[Cicikova2012]
+\cite[Vajgl2011]
+\cite[Bart2011]
+
+\index{Cesta}cesta
+\index{Cha}cha
+\index{čus}čus
+\index{Chuligán}Chuligán
+\index{Cabajka}cabajka 
+\input knuth
+\index{Čabajka}čabajka
+\index{Chabajka}chabajka
+\index{Debil}debil
+\index{Blbec+maly}blbec
+\index{Blbec+velky}blbec
+\index{Blbec}blbec
+
+\placeindex
+
+\startsection[title=Bibliografie]
+  \placelistofpublications[method=dataset] 
+  \date
+\stopsection
+
+\stoptext
