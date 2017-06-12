@@ -1,0 +1,30 @@
+Příklady způsobů uvádění datace dle editora korpusu,Hodnota Start Year (Terminus post quem),Hodnota End Year (Terminus ante quem)
+anno 337-361 p,337,361
+anno 232/3 a,-232,-233
+inter annos 161/0a - 75/6p,-161,76
+saeculo 1a,-100,0
+saeculo 1p,0,99
+saeculo 3-2a,-300,-101
+,100,212
+annis Tito imperatore,79,81
+half of the 3rd c. BC,-260,-240
+first half of the 3rd c. BC / partis prioris,-300,-250
+second half of the 3rd c. BC,-250,-200
+last third of the 2nd c. AD,270,299
+end of the 2nd c. BC,-215,-201
+beginning of the 2nd c. BC,-300,-285
+after mid-2nd c. BC,-250,-230
+last years of 2nc c. BC,-210,-201
+Archaic p.,-700,-479
+Classic p.,-479,-338
+Hellenistic p.,-338,-30
+Mid-hellenistic,-280,-201
+Late-hellenistic,-200,-30
+Roman,-30,476
+Imperial,-27,284
+Principate,-27,284
+Dominate,284,476
+ante anno 212,-27,212
+post anno 212,212,476
+ante ABC,-700,ABC
+post XYZ,XYZ,476
