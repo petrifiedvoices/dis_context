@@ -4,9 +4,9 @@
 \setuplocalinterlinespace[line=2.0ex]
 
 
-\placetable[3_01]{Charakteristika komplexní společnosti dle Tainter (1988): kmenově uspořádaná společnost vs. státní organizace.}
+\placetable[3_01]{Charakteristika komplexní společnosti \crlf dle Tainter (1988): kmenově uspořádaná společnost vs. státní organizace.}
 {\bTABLE
-\bTR \bTD Charakteristika společnosti dle Tainter (1988, 22-31) \eTD
+\bTR \bTD Charakteristika společnosti \crlf dle Tainter (1988, 22-31) \eTD
 \bTD Kmenově uspořádaná společnost ({\em Big Man society, chiefdom}) \eTD \bTD Státní uspořádání ({\em Early state}) \eTD \eTR
 \bTR \bTD Rozložení moci \eTD
 \bTD Úzká vrstva aristokratů, v čele s jedním panovníkem, dědičnost moci založena na příbuzenských vztazích \eTD \bTD Profesionalizovaná vrstva vládnoucích jedinců; centralizace moci \eTD \eTR
@@ -20,7 +20,1239 @@
 
 
 
+\placetable[split][4_01]{Schéma databáze {\em Hellenization of Ancient Thrace} s vysvětlením jednotlivých položek.}
+{\bTABLE[split=repeat,option=stretch]
+\bTABLEhead 
+\bTR \bTD Položka v HAT \crlf databázi \eTD \bTD Popis \eTD \bTD Hodnoty \eTD \bTD Datový typ \eTD \bTD Formát při \crlf exportu \eTD \eTR \eTABLEhead
+\bTABLEbody
+\bTR \bTD Heurist ID \eTD \bTD Automaticky vytvořené identifikační číslo záznamu \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD Creator of the record \eTD \bTD Tvůrce záznamu v databázi \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Checked \eTD \bTD Záznam zkontrolován administrátorem \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf IDENTIFICATION section} \eTD \bTD Základní identifikace nápisu dle korpusu, v němž byl nápis vydán \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Corpus Name \eTD \bTD Jméno epigrafického korpusu \eTD \bTD I Aeg Thrace; IG Bulg 1; IG Bulg 2; IG Bulg 3,1; IG Bulg 3,2; IG Bulg 4; IG Bulg 5; IK Byzantion; IK Sestos; Other; Perinthos-Herakleia \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Corpus ID Number \eTD \bTD Identifikační číslo dle epigrafického korpusu \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Corpus ID Numeric \eTD \bTD HAT identifikační číslo; každý korpus má daný specifický rozsah čísel \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD SEG Number \eTD \bTD Identifikační číslo dle SEG \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf GEOGRAPHY section} \eTD \bTD Informace o místě náezu nápisu získané z korpusu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Location \eTD \bTD Moderní a antické jméno lokality, a region antického sídla, v nemž byl nápis nalezen  \eTD \bTD Modern location; Ancient site; Ancient site - region \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Geolocation \eTD \bTD Zeměpisné koordináty místa nálezu \eTD \bTD Latitude; Longitude; projekce WGS 84 \eTD \bTD Koordináty \eTD \bTD Koordináty \eTD \eTR
+\bTR \bTD Position certainty \eTD \bTD Koeficient přesnosti místa nálezu \eTD \bTD 1 Certain; 2 Vicinity; 3 Region; 4 Uncertain \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Geography Notes \eTD \bTD Poznámky k umístění nápisu \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Reuse \eTD \bTD Sekundární použití nápisu \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Archaeological Context \eTD \bTD Známý archeologický kontext \eTD \bTD Commercial; Funerary; Habitation; Other; Religious/Ritual; Secondary  \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Mound \eTD \bTD Nápis je možné připsat konkrétní mohyle, byl nalezen v její blízkosti či na mohyle \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf OBJECT METADATA section} \eTD \bTD Informace o nosiči nápisu získané z korpusu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Material Category \eTD \bTD Druh materiálu, z nějž byl předmět vyroben \eTD \bTD Metal; Other; Perishable; Pottery; Stone \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Stone \eTD \bTD Druh kamene \eTD \bTD Limestone; Marble; Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Origin of Stone \eTD \bTD Původ kamene \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Object Category \eTD \bTD Druh předmětu \eTD \bTD Architectural Feature; Mosaic; Other; Sculpture; Stele; Vessel; Wall \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Preservation \eTD \bTD Stupeň dochování, odhadovaný od původní podoby předmětu \eTD \bTD 1 Intact (100\%); 2 Slightly Damaged (75\%); 3 Heavily Damaged (50\%); 4 Almost Destroyed (25\%); 5 Squeeze; 6 Drawing; 7 Lost; 8 Underterminable \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Decoration \eTD \bTD Druh použité dekorativní techniky \eTD \bTD Relief; Painted; Other; N/A \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Relief Decoration \eTD \bTD Druh reliéfní dekorace předmětu \eTD \bTD Architectural/Ornamental; Figural; Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Architectural Relief \eTD \bTD Druh architektonické dekorace předmětu \eTD \bTD Altar; Architectural Moulding; Base; Column, Crown; Floral Motive; Geometric Motive; Naiskos, Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Figural Relief \eTD \bTD Druh figurální dekorace předmětu \eTD \bTD Animal; Artemis-like; Asclepius; Crowning; Fight/Hunt/Athletes; Funerary Portrait; Group of People;  Heracles; Horse Rider; Sacrifice; Sitting Woman; Standing Zeus/Poseidon; Funerary Scene/Symposion; Three Nymphs; Other, Dionysus; Nemesis; Sitting Man; Statue; Zeus and Hera; Standing Person \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Decoration Notes \eTD \bTD Poznámky k dekoraci \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Visual Record Availability \eTD \bTD Dostupnost vizuálního materiálu  \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf TEXTUAL METADATA section} \eTD \bTD Interpretace založené na základě obsahu a formátu nápisu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Start Year (StartYR) \eTD \bTD Počáteční rok nejzazší datace editora korpousu; terminus post quem; mínusové hodnoty znamenají rok př. n. l.; plusové hodnoty rok n. l. \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD End Year (EndYR) \eTD \bTD Konečný rok nejzazší datace editora korpusu; terminus ante quem; mínusové hodnoty znamenají rok př. n. l.; plusové hodnoty rok n. l. \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD Relative Date \eTD \bTD Relativní datace dle výskytu osobních jmen, ligatur, a tvaru písmen; interpretace na základě textu a vizuálního materiálu \eTD \bTD Not Roman; Roman \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Century \eTD \bTD Výčet všech století, do nichž byl nápis datován editorem korpusu \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD Dialect \eTD \bTD Dialekt; interpretace na základě textu \eTD \bTD Aeolic; Doric; Immitation; Ionic-Attic; Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Latin \eTD \bTD Přítomnost latiny v textu nápisu \eTD \bTD Yes; No \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Language Form \eTD \bTD Forma použitého jazyka; interpretace na základě textu \eTD \bTD Prose; Verse; Undistinguishable \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Script \eTD \bTD Druh použitého písma; interpretace na základě vizuálního materiálu \eTD \bTD Attic; Euboean; Thasos/Paros; Roman Style; Graffiti \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Layout \eTD \bTD Vizuální podoba uspořádání textu; interpretace na základě vizuálního materiálu \eTD \bTD Stoichedon; Irregular; Boustrophedon \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Document Typology \eTD \bTD Základní typologie nápisu; interpretace na základě textu \eTD \bTD Public; Private; Uncertain \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Public Documents \eTD \bTD Základní typologie veřejného nápisu; interpretace na základě textu \eTD \bTD Accounts/Lists; Religious/Ritual; Legal/Regulations; State Decrees; Honorary Decrees; Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Private Documents \eTD \bTD Základní typologie soukromého nápisu; interpretace na základě textu \eTD \bTD Dedicatory; Funerary; Ownership; Other \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Document Typology Notes \eTD \bTD Poznámky k typologii nápisu a obecně k intepretacím založeným na čtení textu \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD Extent of Lines \eTD \bTD Maximální dochovaný počet řádků textu \eTD \bTD  \eTD \bTD Číselná hodnota \eTD \bTD Číslovka \eTD \eTR
+\bTR \bTD {\bf KEYWORDS section} \eTD \bTD Hledané termíny vyskytující se v textu nápisu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Administrative Keywords \eTD \bTD Hledaná slova s administrativní tematikou \eTD \bTD viz Tabulka Administrative Keywords \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Formulaic Keywords \eTD \bTD Typické formulace vyskytující se v řeckých nápisech \eTD \bTD viz Tabulka Formulaic Keywords \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Honorific Keywords \eTD \bTD Hledaná slova s honorifikační tematikou \eTD \bTD viz Tabulka Honorific Keywords \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Religious Keywords \eTD \bTD Hledaná slova s náboženskou a rituální tematikou \eTD \bTD viz Tabulka Religious Keywords \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Epithet \eTD \bTD Epitheta náležející božstvům \eTD \bTD  \eTD \bTD Text \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf NAMES section} \eTD \bTD Jména vyskytující se v textu nápisu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Collective Group Names \eTD \bTD Názvy a pojmenování skupin lidí \eTD \bTD  \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Geographic Names \eTD \bTD Geografická jména a pojmenování \eTD \bTD  \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Imperial Titulature \eTD \bTD Přítomnost římské císařské titulatury \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD Currency \eTD \bTD Přítomnost zmínky peněžní měny \eTD \bTD Yes; No; Blank \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf PERSONAL NAMES section} \eTD \bTD Identifikace osob vyskytujících se v textu nápisu \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Person \eTD \bTD Identifikace konkrétní osoby vyskytující se na nápise \eTD \bTD  \eTD \bTD Předvolené hodnoty \eTD \bTD Text \eTD \eTR
+\bTR \bTD {\bf ATTACHMENTS section} \eTD \bTD Obrazové přílohy \eTD \bTD  \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD Visual Documentation \eTD \bTD Připojené vizuální dokumenty \eTD \bTD  \eTD \bTD Příloha \eTD \bTD Příloha \eTD \eTR
+\eTABLEbody
+\eTABLE}
 
+
+
+\placetable[4_02]{Přehled jednotlivých korpusů a přidělených řad identifikačních čísel nápisů.}
+{\bTABLE
+\bTR \bTD Jméno korpusu \eTD \bTD HAT Číselný kód: první nápis \eTD \bTD HAT Číselný kód: poslední nápis (k 12. září 2016) \eTD \bTD Celkový počet nápisů \eTD \eTR
+\bTR \bTD I Aeg Thrace \eTD \bTD 10001 \eTD \bTD 10499 \eTD \bTD 499 \eTD \eTR
+\bTR \bTD IG Bulg 1,2 \eTD \bTD 20001 \eTD \bTD 20479.3 \eTD \bTD 660 \eTD \eTR
+\bTR \bTD IG Bulg 2 \eTD \bTD 30480 \eTD \bTD 30877 \eTD \bTD 410 \eTD \eTR
+\bTR \bTD IG Bulg 3,1 \eTD \bTD 40878 \eTD \bTD 41551 \eTD \bTD 626 \eTD \eTR
+\bTR \bTD IG Bulg 3,2 \eTD \bTD 51552 \eTD \bTD 51897 \eTD \bTD 319 \eTD \eTR
+\bTR \bTD IG Bulg 4 \eTD \bTD 61902 \eTD \bTD 62353 \eTD \bTD 442 \eTD \eTR
+\bTR \bTD IG Bulg 5 \eTD \bTD 75003 \eTD \bTD 75932 \eTD \bTD 504 \eTD \eTR
+\bTR \bTD Perinthos-Herakleia \eTD \bTD 80001 \eTD \bTD 80315 \eTD \bTD 266 \eTD \eTR
+\bTR \bTD IK Sestos \eTD \bTD 90001 \eTD \bTD 90072 \eTD \bTD 72 \eTD \eTR
+\bTR \bTD IK Byzantion \eTD \bTD 95001 \eTD \bTD 96066 \eTD \bTD 454 \eTD \eTR
+\bTR \bTD Other - Jiné zdroje \eTD \bTD 100001 \eTD \bTD 100421 \eTD \bTD 413 \eTD \eTR
+\eTABLE}
+
+
+\placetable[4_03]{Koeficient přesnosti místa nálezu, jeho vyjádření v kilometrech a počet nápisů spadajících do dané kategorie.}
+{\bTABLE
+\bTR \bTD Index \crlf přesnosti \crlf místa nálezu \eTD \bTD Popis přesnosti místa nálezu \eTD \bTD Okruh v km okolo \crlf udávaného bodu \crlf (tzv. buffer-zone) \eTD \bTD Celkem nápisů \eTD \eTR
+\bTR \bTD 1 \eTD \bTD Místo nálezu identifikované s konkrétní archeologickou lokalitou, či lze místo identifikovat dle informací z lemmatu s přesností 1 km. \eTD \bTD Do 1 km \eTD \bTD 1540 \eTD \eTR
+\bTR \bTD 2 \eTD \bTD Místo nálezu je určeno pouze blízkostí nejbližšího města či vesnice, v jejichž regionu byl nápis nalezen. \eTD \bTD Do 5 km \eTD \bTD 2323 \eTD \eTR
+\bTR \bTD 3 \eTD \bTD Místo nálezu spadá do širšího regionu daného města, či byl nápis nalezen v sekundárním kontextu (v kostele, ve zdech apod.). \eTD \bTD Do 20 km \eTD \bTD 590 \eTD \eTR
+\bTR \bTD 4 \eTD \bTD Místo nálezu je neznámé, či dle editora pouze pravděpodobné, či známe pouze současné umístění např. v muzeu. \eTD \bTD Nad 20 km \eTD \bTD 212 \eTD \eTR
+\eTABLE}
+
+
+\placetable[split][4_04]{Příklady způsobů uvádění datace dle editora korpusu a jejich číselné ekvivalenty v HAT databázi.}
+{\bTABLE
+\bTR \bTD Příklady způsobů uvádění \crlf datace dle editora korpusu \eTD \bTD Hodnota {\em Start Year} \crlf ({\em terminus post quem}) \eTD \bTD Hodnota {\em End Year} \crlf ({\em terminus ante quem}) \eTD \eTR
+\bTR \bTD anno 337-361 p \eTD \bTD 337 \eTD \bTD 361 \eTD \eTR
+\bTR \bTD anno 232/3 a \eTD \bTD -232 \eTD \bTD -233 \eTD \eTR
+\bTR \bTD inter annos 161/0a - 75/6p \eTD \bTD -161 \eTD \bTD 76 \eTD \eTR
+\bTR \bTD saeculo 1a \eTD \bTD -100 \eTD \bTD 0 \eTD \eTR
+\bTR \bTD saeculo 1p \eTD \bTD 0 \eTD \bTD 99 \eTD \eTR
+\bTR \bTD saeculo 3-2a \eTD \bTD -300 \eTD \bTD -101 \eTD \eTR
+\bTR \bTD  \eTD \bTD 100 \eTD \bTD 212 \eTD \eTR
+\bTR \bTD annis Tito imperatore \eTD \bTD 79 \eTD \bTD 81 \eTD \eTR
+\bTR \bTD half of the 3rd c. BC \eTD \bTD -260 \eTD \bTD -240 \eTD \eTR
+\bTR \bTD first half of the 3rd c. BC / partis prioris \eTD \bTD -300 \eTD \bTD -250 \eTD \eTR
+\bTR \bTD second half of the 3rd c. BC \eTD \bTD -250 \eTD \bTD -200 \eTD \eTR
+\bTR \bTD last third of the 2nd c. AD \eTD \bTD 270 \eTD \bTD 299 \eTD \eTR
+\bTR \bTD end of the 2nd c. BC \eTD \bTD -215 \eTD \bTD -201 \eTD \eTR
+\bTR \bTD beginning of the 2nd c. BC \eTD \bTD -300 \eTD \bTD -285 \eTD \eTR
+\bTR \bTD after mid-2nd c. BC \eTD \bTD -250 \eTD \bTD -230 \eTD \eTR
+\bTR \bTD last years of 2nc c. BC \eTD \bTD -210 \eTD \bTD -201 \eTD \eTR
+\bTR \bTD Archaic p. \eTD \bTD -700 \eTD \bTD -479 \eTD \eTR
+\bTR \bTD Classic p. \eTD \bTD -479 \eTD \bTD -338 \eTD \eTR
+\bTR \bTD Hellenistic p. \eTD \bTD -338 \eTD \bTD -30 \eTD \eTR
+\bTR \bTD Mid-hellenistic \eTD \bTD -280 \eTD \bTD -201 \eTD \eTR
+\bTR \bTD Late-hellenistic \eTD \bTD -200 \eTD \bTD -30 \eTD \eTR
+\bTR \bTD Roman \eTD \bTD -30 \eTD \bTD 476 \eTD \eTR
+\bTR \bTD Imperial \eTD \bTD -27 \eTD \bTD 284 \eTD \eTR
+\bTR \bTD Principate \eTD \bTD -27 \eTD \bTD 284 \eTD \eTR
+\bTR \bTD Dominate \eTD \bTD 284 \eTD \bTD 476 \eTD \eTR
+\bTR \bTD ante anno 212 \eTD \bTD -27 \eTD \bTD 212 \eTD \eTR
+\bTR \bTD post anno 212 \eTD \bTD 212 \eTD \bTD 476 \eTD \eTR
+\bTR \bTD ante ABC \eTD \bTD -700 \eTD \bTD ABC \eTD \eTR
+\bTR \bTD post XYZ \eTD \bTD XYZ \eTD \bTD 476 \eTD \eTR
+\eTABLE}
+
+
+\placetable[split][4_05]{Přehled hledaných administrativních termínů, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch]
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Administrativní \crlf termín \eTD \bTD Typ \eTD \bTD Původ \eTD \bTD Krátký popis \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 2302 \eTD \bTD Agon \eTD \bTD Související s kulturou \eTD \bTD Řecký \eTD \bTD závod, soutěžní klání \eTD \eTR
+\bTR \bTD 1805 \eTD \bTD Agora \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD tržiště, místo ve městě vyhrazené obchodování a veřejnému setkávání \eTD \eTR
+\bTR \bTD 2606 \eTD \bTD Agoraios \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD notář, obhájce, související s agorou, navštěvující agoru \eTD \eTR
+\bTR \bTD 1808 \eTD \bTD Agoranomos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD dohlížitel na agoře \eTD \eTR
+\bTR \bTD 1809 \eTD \bTD Aisymnetes \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD sudí při atletickém klání \eTD \eTR
+\bTR \bTD 14125 \eTD \bTD Akropolis \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD citadela \eTD \eTR
+\bTR \bTD 1810 \eTD \bTD Analoma \eTD \bTD Finanční \eTD \bTD Řecký \eTD \bTD finanční náklady \eTD \eTR
+\bTR \bTD 10983 \eTD \bTD Anthypatos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD adjektivum nejčastěji spojené s funkcí prokonzula, legáta \eTD \eTR
+\bTR \bTD 7181 \eTD \bTD Antistrategos \eTD \bTD Vojenství \eTD \bTD Římský \eTD \bTD zastupující velitel, či guvernér provincie s hodností pro praetore \eTD \eTR
+\bTR \bTD 2895 \eTD \bTD Apeleutheros \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD propuštěnec \eTD \eTR
+\bTR \bTD 1811 \eTD \bTD Arche \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD vláda, moc, říše \eTD \eTR
+\bTR \bTD 4719 \eTD \bTD Archein,Arxantes \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD sloveso vládnout, mít moc, případně začínat \eTD \eTR
+\bTR \bTD 3540 \eTD \bTD Archiatros \eTD \bTD Specifické povolání \eTD \bTD Řecký \eTD \bTD hlavní lékař \eTD \eTR
+\bTR \bTD 1806 \eTD \bTD Archon \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD guvernér, úředník, zastupitel \eTD \eTR
+\bTR \bTD 2301 \eTD \bTD Argyrotamias \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD pokladník \eTD \eTR
+\bTR \bTD 7979 \eTD \bTD Astoi \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD obyvatel města \eTD \eTR
+\bTR \bTD 1814 \eTD \bTD Asty \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD území města \eTD \eTR
+\bTR \bTD 1807 \eTD \bTD Astynomos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD dohlížitel vě městě \eTD \eTR
+\bTR \bTD 2645 \eTD \bTD Autokrator \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD vojenský velitel, později titul užívaný pro římského císaře \eTD \eTR
+\bTR \bTD 1815 \eTD \bTD Basileia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD království, vláda \eTD \eTR
+\bTR \bTD 1816 \eTD \bTD Basileus \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD král, panovník, představený politické autority \eTD \eTR
+\bTR \bTD 1817 \eTD \bTD Boule \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD rada občanů v řecké polis, městské zastupitelstvo \eTD \eTR
+\bTR \bTD 1818 \eTD \bTD Bouleutai \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD členové rady města \eTD \eTR
+\bTR \bTD 1819 \eTD \bTD Bouleuterion \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD budova rady města \eTD \eTR
+\bTR \bTD 2663 \eTD \bTD Bouleutes \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD člen sněmu \eTD \eTR
+\bTR \bTD 1836 \eTD \bTD Chora \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD území řecké polis, mimo území města, venkovské oblasti v teritoriu řecké polis \eTD \eTR
+\bTR \bTD 13879 \eTD \bTD Choregia \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD druh liturgie, občanské povinnosti, povinnost platit a organizovat sbor herců při dramatických představeních \eTD \eTR
+\bTR \bTD 2336 \eTD \bTD Chremata \eTD \bTD Finanční \eTD \bTD Řecký \eTD \bTD peníze \eTD \eTR
+\bTR \bTD 1821 \eTD \bTD Demos \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD lid, představitelé řecké polis \eTD \eTR
+\bTR \bTD 8893 \eTD \bTD Dike \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD právo, soud \eTD \eTR
+\bTR \bTD 6687 \eTD \bTD Dogma \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD usnesení \eTD \eTR
+\bTR \bTD 2170 \eTD \bTD Doulos \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD otrok \eTD \eTR
+\bTR \bTD 2599 \eTD \bTD Efebarchos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD dohlížitel nad mladíky \eTD \eTR
+\bTR \bTD 1822 \eTD \bTD Efebos \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD mladík \eTD \eTR
+\bTR \bTD 1823 \eTD \bTD Ekklesia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD shromáždění občanů, lidové shromáždění  \eTD \eTR
+\bTR \bTD 2317 \eTD \bTD Eleutheria \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD svoboda \eTD \eTR
+\bTR \bTD 2171 \eTD \bTD Eleutheros \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD svobodný člověk, propuštěný otrok \eTD \eTR
+\bTR \bTD 2326 \eTD \bTD Emporion \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD osada specializující se na obchod \eTD \eTR
+\bTR \bTD 6218 \eTD \bTD Enadeus \eTD \bTD Související s kulturou \eTD \bTD Řecký \eTD \bTD člen sboru ? \eTD \eTR
+\bTR \bTD 6189 \eTD \bTD Epikoinoi \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD společné činnosti, hry \eTD \eTR
+\bTR \bTD 1824 \eTD \bTD Episkopos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD dohlížitel \eTD \eTR
+\bTR \bTD 6810 \eTD \bTD Epistole \eTD \bTD Související s kulturou \eTD \bTD Řecký \eTD \bTD dopis, poselství, psaná zpráva \eTD \eTR
+\bTR \bTD 12367 \eTD \bTD Fiskos \eTD \bTD Finanční \eTD \bTD Římský \eTD \bTD daňová povinnost \eTD \eTR
+\bTR \bTD 3168 \eTD \bTD Fylarchos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD dohlížitel na jednotky jednotlivých fýl \eTD \eTR
+\bTR \bTD 1826 \eTD \bTD Fylax \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD strážce, dohlížitel \eTD \eTR
+\bTR \bTD 1827 \eTD \bTD Fyle \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD rod, v řecké polis vnitřní dělení skupin občanů \eTD \eTR
+\bTR \bTD 1828 \eTD \bTD Gerousia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD rada starších v řecké polis \eTD \eTR
+\bTR \bTD 9927 \eTD \bTD Gerousiastes \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD člen rady starších \eTD \eTR
+\bTR \bTD 9992 \eTD \bTD Grafeus \eTD \bTD Související s kulturou \eTD \bTD Řecký \eTD \bTD písař, úředník \eTD \eTR
+\bTR \bTD 6809 \eTD \bTD Grammata \eTD \bTD Související s kulturou \eTD \bTD Řecký \eTD \bTD písmo, písmena, psaní, dopisy \eTD \eTR
+\bTR \bTD 1829 \eTD \bTD Grammateus \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD písař, úředník \eTD \eTR
+\bTR \bTD 1830 \eTD \bTD Gymnasiarches \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD představený gymnasia \eTD \eTR
+\bTR \bTD 1831 \eTD \bTD Gymnasion \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD veřejný prostor, v němž se mužští občané setkávali a společně trénovali, místo setkávání, místo výuky \eTD \eTR
+\bTR \bTD 1832 \eTD \bTD Hegemon \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD představený, nejvyšší velitel, titul spojený s římským císařem či guvernérem provincie \eTD \eTR
+\bTR \bTD 2623 \eTD \bTD Hegemonia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD politická moc, nadvláda, imperium \eTD \eTR
+\bTR \bTD 8271 \eTD \bTD Hippeus \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD jezdec, voják vyšší šarže \eTD \eTR
+\bTR \bTD 1834 \eTD \bTD Horkos \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD přísaha \eTD \eTR
+\bTR \bTD 1835 \eTD \bTD Horos \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD hraniční kámen \eTD \eTR
+\bTR \bTD 2922 \eTD \bTD Hypatos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Římský \eTD \bTD ekvivalent pro konzula \eTD \eTR
+\bTR \bTD 1837 \eTD \bTD Iatros \eTD \bTD Specifické povolání \eTD \bTD Řecký \eTD \bTD lékař, léčitel \eTD \eTR
+\bTR \bTD 3563 \eTD \bTD Kaisar \eTD \bTD Instituce \eTD \bTD Římský \eTD \bTD císař \eTD \eTR
+\bTR \bTD 1838 \eTD \bTD Katoikia \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD osídlení vojenského charakteru, často s vojenskou posádkou \eTD \eTR
+\bTR \bTD 8124 \eTD \bTD Kenturion \eTD \bTD Vojenství \eTD \bTD Římský \eTD \bTD římský centurion \eTD \eTR
+\bTR \bTD 1839 \eTD \bTD Kerykes \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD hlasatelé \eTD \eTR
+\bTR \bTD 7876 \eTD \bTD Kleronomos \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD dědic \eTD \eTR
+\bTR \bTD 9468 \eTD \bTD Komarchia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD vesnická samospráva \eTD \eTR
+\bTR \bTD 1840 \eTD \bTD Kome \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD vesnice, nejmenší jednotka samosprávy \eTD \eTR
+\bTR \bTD 8330 \eTD \bTD Kometai \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 7545 \eTD \bTD Metropolis \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD mateřské, hlavní město \eTD \eTR
+\bTR \bTD 15431 \eTD \bTD Nauarchos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD velitel námořnictva \eTD \eTR
+\bTR \bTD 2312 \eTD \bTD Nomofylax \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD ochránce práva a zákonů, strážce \eTD \eTR
+\bTR \bTD 1842 \eTD \bTD Nomos \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD zákon, regulace, nařízení \eTD \eTR
+\bTR \bTD 1843 \eTD \bTD Oikonomos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD finanční dohlížitel, správce \eTD \eTR
+\bTR \bTD 1844 \eTD \bTD Oikos \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD dům, základní finanční a správní jednotka řecké polis, domácnost \eTD \eTR
+\bTR \bTD 15054 \eTD \bTD Paidagogos \eTD \bTD Specifické povolání \eTD \bTD Řecký \eTD \bTD otrok doprovázející děti do vzdělávací instituce \eTD \eTR
+\bTR \bTD 2607 \eTD \bTD Paideutes \eTD \bTD Specifické povolání \eTD \bTD Řecký \eTD \bTD učitel, vyučujícící \eTD \eTR
+\bTR \bTD 2305 \eTD \bTD Patris \eTD \bTD Jméno místa \eTD \bTD Řecký \eTD \bTD vlast \eTD \eTR
+\bTR \bTD 4772 \eTD \bTD Patron \eTD \bTD Specifické povolání \eTD \bTD Římský \eTD \bTD patron \eTD \eTR
+\bTR \bTD 11580 \eTD \bTD Polemos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD válka \eTD \eTR
+\bTR \bTD 1846 \eTD \bTD Polis \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD městská obec \eTD \eTR
+\bTR \bTD 2320 \eTD \bTD Politai \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD občané polis \eTD \eTR
+\bTR \bTD 1847 \eTD \bTD Politeia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD ústava \eTD \eTR
+\bTR \bTD 8918 \eTD \bTD Politeuomenon \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD zastávat občanskou povinnost \eTD \eTR
+\bTR \bTD 3092 \eTD \bTD Pontarches \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD předseda provinciálního sněmu obcí na pobřeží Černého moře v římské době \eTD \eTR
+\bTR \bTD 12477 \eTD \bTD Pragmatikos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD obchodník, vykonavatel politické moci a rozhodnutí politické autority \eTD \eTR
+\bTR \bTD 2306 \eTD \bTD Presbeia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD vysoce postavený úřad \eTD \eTR
+\bTR \bTD 3408 \eTD \bTD Presbein \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD sloveso související se zsatávání funkce vyslance či vysoce postaveného úředníka \eTD \eTR
+\bTR \bTD 2585 \eTD \bTD Presbeutes kai \crlf antistrategos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Římský \eTD \bTD legatus pro praetore \eTD \eTR
+\bTR \bTD 2307 \eTD \bTD Presbys \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD úředník, vyslanec, představený \eTD \eTR
+\bTR \bTD 1848 \eTD \bTD Proedroi \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD předsedající úředníci, představitelé \eTD \eTR
+\bTR \bTD 3001 \eTD \bTD Prosgrafos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Římský \eTD \bTD lat. adscripticus, připsaný na seznam \eTD \eTR
+\bTR \bTD 1850 \eTD \bTD Prytaneis \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD předsedající úředníci státních institucí, prytanové \eTD \eTR
+\bTR \bTD 1851 \eTD \bTD Psefisma \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD rozhodutí, usnesení, výrok, nařízení \eTD \eTR
+\bTR \bTD 1854 \eTD \bTD Strategos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD vojenský velitel, úředník \eTD \eTR
+\bTR \bTD 11603 \eTD \bTD Strateuma \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD vojsko \eTD \eTR
+\bTR \bTD 3177 \eTD \bTD Stratiotes \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD voják \eTD \eTR
+\bTR \bTD 1855 \eTD \bTD Symmachia \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD vojenská aliance \eTD \eTR
+\bTR \bTD 2624 \eTD \bTD Symmachos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD spojenec \eTD \eTR
+\bTR \bTD 9871 \eTD \bTD Synarchia \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD společná úřednická funkce, spojená vláda a administrativní funkce \eTD \eTR
+\bTR \bTD 2309 \eTD \bTD Synedrion \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD shromáždění lidu, instituce \eTD \eTR
+\bTR \bTD 16320 \eTD \bTD Synedros \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD člen synedria \eTD \eTR
+\bTR \bTD 12034 \eTD \bTD Synkletikos \eTD \bTD Související s funkcí zastupitele \eTD \bTD Římský \eTD \bTD senátor \eTD \eTR
+\bTR \bTD 12150 \eTD \bTD Synkletos \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD římský senát \eTD \eTR
+\bTR \bTD 3193 \eTD \bTD Syntelonai \eTD \bTD Finanční \eTD \bTD Řecký \eTD \bTD skupina lidí společně platící daně \eTD \eTR
+\bTR \bTD 12353 \eTD \bTD Tameion \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD státní pokladna \eTD \eTR
+\bTR \bTD 1856 \eTD \bTD Tamias \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD pokladník, finanční úředník \eTD \eTR
+\bTR \bTD 6131 \eTD \bTD Thrakarches \eTD \bTD Související s funkcí zastupitele \eTD \bTD Římský \eTD \bTD vysoce postavený úředník - náboženský představitel v provinci Thracia  \eTD \eTR
+\bTR \bTD 2313 \eTD \bTD Trapeza \eTD \bTD Instituce \eTD \bTD Řecký \eTD \bTD finanční instituce \eTD \eTR
+\bTR \bTD 2681 \eTD \bTD Trierchia \eTD \bTD Související s funkcí zastupitele \eTD \bTD Řecký \eTD \bTD občasnká povinnost platit náklady na provoz triéry \eTD \eTR
+\bTR \bTD 12089 \eTD \bTD Trierchos \eTD \bTD Vojenství \eTD \bTD Řecký \eTD \bTD kapitán triéry \eTD \eTR
+\bTR \bTD 8531 \eTD \bTD Veteranos, \crlf Ouetranos, \crlf Beteranos \eTD \bTD Vojenství \eTD \bTD Římský \eTD \bTD veterán, vysloužilý voják \eTD \eTR
+\bTR \bTD 2635 \eTD \bTD Xenos \eTD \bTD Společenské postavení \eTD \bTD Řecký \eTD \bTD cizinec \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+\placetable[split][4_06]{Přehled hledaných honorifikačních termínů, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch]
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Honorifikační \crlf termín \eTD \bTD Typ \eTD \bTD Původ \eTD \bTD Krátký popis \eTD \eTR 
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 1973 \eTD \bTD Agathos aner \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD osobní kvality oceněného muže \eTD \eTR
+\bTR \bTD 2631 \eTD \bTD Aleitourgos, \crlf Aneisforos \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD bez povinnosti placení určitého druhu daní \eTD \eTR
+\bTR \bTD 6710 \eTD \bTD Andrias \eTD \bTD Vystavení \eTD \bTD Řecký \eTD \bTD socha \eTD \eTR
+\bTR \bTD 2331 \eTD \bTD Arete \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD osobní kvality \eTD \eTR
+\bTR \bTD 1977 \eTD \bTD Asylia \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD ochrana oceněného muže, nepostižitelnost \eTD \eTR
+\bTR \bTD 1978 \eTD \bTD Ateleia \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD vyjmutí z povinnosti platit daně \eTD \eTR
+\bTR \bTD 2322 \eTD \bTD Efodos \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo volného vstupu do městské rady a do jiných institucí \eTD \eTR
+\bTR \bTD 6254 \eTD \bTD Eikon \eTD \bTD Vystavení \eTD \bTD Řecký \eTD \bTD socha \eTD \eTR
+\bTR \bTD 1981 \eTD \bTD Eisagoge, \crlf exagoge \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo volného obchodování \eTD \eTR
+\bTR \bTD 1982 \eTD \bTD Eisplous, \crlf ekplous \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo volného přístupu do přístavu \eTD \eTR
+\bTR \bTD 1980 \eTD \bTD Ekona stesai \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD pocta zahrnující vystavení sochy \eTD \eTR
+\bTR \bTD 1983 \eTD \bTD Enktesis \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo umožňující vlastnictví půdy \eTD \eTR
+\bTR \bTD 2310 \eTD \bTD Epainesai \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD sloveso velebit, chvílit, vyznamenat \eTD \eTR
+\bTR \bTD 1984 \eTD \bTD Epainos \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD chvála \eTD \eTR
+\bTR \bTD 2316 \eTD \bTD Euergesia \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD dobrodinní \eTD \eTR
+\bTR \bTD 1987 \eTD \bTD Euergetes \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD člověk vykonávající dobrodinní \eTD \eTR
+\bTR \bTD 2311 \eTD \bTD Eunoia \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD dobrá vůle \eTD \eTR
+\bTR \bTD 1988 \eTD \bTD Eunous \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD člověk s dobrou vůlí \eTD \eTR
+\bTR \bTD 2327 \eTD \bTD Exagoge sitou \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo na stravování na náklady obce \eTD \eTR
+\bTR \bTD 1990 \eTD \bTD Filotimia \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD touha po poctách, ctižádost \eTD \eTR
+\bTR \bTD 3000 \eTD \bTD Filotimos \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD ctižádostivý \eTD \eTR
+\bTR \bTD 1993 \eTD \bTD Isoteleia \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo platit stejné daně jako plnoprávný občan \eTD \eTR
+\bTR \bTD 2308 \eTD \bTD Kalos kai agathos \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD typická formule vyzdvihující kladný charakter osobnosti, krásný a dobrý člověk \eTD \eTR
+\bTR \bTD 9600 \eTD \bTD Panegyris \eTD \bTD Vystavení \eTD \bTD Řecký \eTD \bTD slavnost, setkání \eTD \eTR
+\bTR \bTD 15941 \eTD \bTD Politeia \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD udělení občaství \eTD \eTR
+\bTR \bTD 1995 \eTD \bTD Prodikia \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo na přednostní soudní řízení \eTD \eTR
+\bTR \bTD 1996 \eTD \bTD Proedria \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD právo na místa vpředních řadách při veřejných setkáních, hrách a slavnostech \eTD \eTR
+\bTR \bTD 2427 \eTD \bTD Pronoia \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD dobrá vůle \eTD \eTR
+\bTR \bTD 1998 \eTD \bTD Prosodos pros \crlf ten boulen/\crlf demon/polin \eTD \bTD Pocty \eTD \bTD Řecký \eTD \bTD volný vstup na setkání občanů obce \eTD \eTR
+\bTR \bTD 1999 \eTD \bTD Prothymos \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD přátelsky nakloněný \eTD \eTR
+\bTR \bTD 2000 \eTD \bTD Proxenia \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD instituce hostinného přátelství \eTD \eTR
+\bTR \bTD 2001 \eTD \bTD Proxenos \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD hostinný přítel \eTD \eTR
+\bTR \bTD 11989 \eTD \bTD Soter \eTD \bTD Důvody pro udělení \eTD \bTD Řecký \eTD \bTD zachránce \eTD \eTR
+\bTR \bTD 2003 \eTD \bTD Stefanos \eTD \bTD Vystavení \eTD \bTD Řecký \eTD \bTD věnec, koruna \eTD \eTR
+\bTR \bTD 2004 \eTD \bTD Stefanosai \eTD \bTD Vystavení \eTD \bTD Řecký \eTD \bTD sloveso korunovat, vložit na hlavu věnec \eTD \eTR
+\bTR \bTD 2321 \eTD \bTD Time \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD pocta \eTD \eTR
+\bTR \bTD 11899 \eTD \bTD Timein \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD sloveso poctít, ctít \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+
+\placetable[split][4_07]{Přehled hledaných epigrafických formulí, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch]
+\bTABLEhead 
+\bTR \bTD Heurist ID \eTD \bTD Epigrafická formule \eTD \bTD Typ \eTD \bTD Původ \eTD \bTD Krátký popis \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 1902 \eTD \bTD Agalma \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD socha \eTD \eTR
+\bTR \bTD 1903 \eTD \bTD Agathe tyche \eTD \bTD Invokační formule \eTD \bTD Řecký \eTD \bTD epigrafická formule přející zdar a štěstí \eTD \eTR
+\bTR \bTD 1904 \eTD \bTD Anagrapsai \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD vytvoření nápisu \eTD \eTR
+\bTR \bTD 8743 \eTD \bTD Anatheinai \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD sloveso věnování, dedikace \eTD \eTR
+\bTR \bTD 1905 \eTD \bTD Anathema \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD votivní dar, socha \eTD \eTR
+\bTR \bTD 3446 \eTD \bTD Anestesen \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD sloveso vztyčení nápisu \eTD \eTR
+\bTR \bTD 1907 \eTD \bTD Anetheken \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD sloveso věnování, dedikace v minulosti \eTD \eTR
+\bTR \bTD 1919 \eTD \bTD Chaire \eTD \bTD Invokační formule \eTD \bTD Řecký \eTD \bTD pozdrav v singuláru \eTD \eTR
+\bTR \bTD 1920 \eTD \bTD Chairete \eTD \bTD Invokační formule \eTD \bTD Řecký \eTD \bTD pozdrav v plurálu \eTD \eTR
+\bTR \bTD 2592 \eTD \bTD Chalkoma \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD kovová destička \eTD \eTR
+\bTR \bTD 1921 \eTD \bTD Charin \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD pro, kvůli, díky \eTD \eTR
+\bTR \bTD 1922 \eTD \bTD Charisterion \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD vyjádření díků \eTD \eTR
+\bTR \bTD 9141 \eTD \bTD Choma \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD mohyla \eTD \eTR
+\bTR \bTD 9274 \eTD \bTD Chomatikon \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD mohylka \eTD \eTR
+\bTR \bTD 1908 \eTD \bTD Dedochthai \eTD \bTD Chod isntituce \eTD \bTD Řecký \eTD \bTD formule z usnesení, XX rozhodl ... \eTD \eTR
+\bTR \bTD 2894 \eTD \bTD Dis Manibus \eTD \bTD Funerální \eTD \bTD Římský \eTD \bTD  \eTD \eTR
+\bTR \bTD 1909 \eTD \bTD Doron \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD dar \eTD \eTR
+\bTR \bTD 1910 \eTD \bTD Edoxen \eTD \bTD Chod isntituce \eTD \bTD Řecký \eTD \bTD formule z usnesení, XX rozhodl ... \eTD \eTR
+\bTR \bTD 8345 \eTD \bTD Egrafe, \crlf Egrapsen \eTD \bTD Chod isntituce \eTD \bTD Řecký \eTD \bTD sloveso sepsání, navržení usnesení \eTD \eTR
+\bTR \bTD 1912 \eTD \bTD Eis stelen \crlf lithinen \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD na kamennou stélu \eTD \eTR
+\bTR \bTD 1914 \eTD \bTD Ektisen \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD postavit \eTD \eTR
+\bTR \bTD 2694 \eTD \bTD Epegrapsen \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD nesoucí nápis \eTD \eTR
+\bTR \bTD 9387 \eTD \bTD Epoiei \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD vytvořil, označení autorství \eTD \eTR
+\bTR \bTD 1916 \eTD \bTD Epoiesen \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD vytvořil, označení autorství \eTD \eTR
+\bTR \bTD 4879 \eTD \bTD Etheke \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD věnoval, označení dedikanta \eTD \eTR
+\bTR \bTD 1917 \eTD \bTD Eucharisterion \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD formula věnování \eTD \eTR
+\bTR \bTD 2351 \eTD \bTD Euchen \eTD \bTD Věnování \eTD \bTD Řecký \eTD \bTD modlitba, přání, slib \eTD \eTR
+\bTR \bTD 9843 \eTD \bTD Eutychos \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD šťastný, přání štěstí \eTD \eTR
+\bTR \bTD 1924 \eTD \bTD Kateskeuasen \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD zhotovil, nechal zhotovit \eTD \eTR
+\bTR \bTD 1925 \eTD \bTD Keimai \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD odpočívá zde XX \eTD \eTR
+\bTR \bTD 7038 \eTD \bTD Kion \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD sloup \eTD \eTR
+\bTR \bTD 1926 \eTD \bTD Larnax \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD sarkofág \eTD \eTR
+\bTR \bTD 3441 \eTD \bTD Mneias \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD památka \eTD \eTR
+\bTR \bTD 1927 \eTD \bTD Mnema,Mneme \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD památka, upomínka \eTD \eTR
+\bTR \bTD 1928 \eTD \bTD Mnemeion \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD památka, malá upomínka \eTD \eTR
+\bTR \bTD 8347 \eTD \bTD Mnemosyne \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD památka, paměť \eTD \eTR
+\bTR \bTD 1930 \eTD \bTD Parodita, \crlf Parodeita \eTD \bTD Invokační formule \eTD \bTD Řecký \eTD \bTD okolo jdoucí \eTD \eTR
+\bTR \bTD 1931 \eTD \bTD Psefizomai \eTD \bTD Chod isntituce \eTD \bTD Řecký \eTD \bTD schválit, odhlasovat, rozhodnout \eTD \eTR
+\bTR \bTD 1932 \eTD \bTD Sema \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD náhrobní kámen, označení místa pohřbu \eTD \eTR
+\bTR \bTD 1933 \eTD \bTD Stele \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD stéla \eTD \eTR
+\bTR \bTD 9264 \eTD \bTD Steleida \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD malá stéla \eTD \eTR
+\bTR \bTD 1934 \eTD \bTD Stesai \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD postavit, vystavit \eTD \eTR
+\bTR \bTD 1913 \eTD \bTD Telamon \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD stéla \eTD \eTR
+\bTR \bTD 1935 \eTD \bTD Theke \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD sarkofág \eTD \eTR
+\bTR \bTD 1936 \eTD \bTD Theoi \eTD \bTD Invokační formule \eTD \bTD Řecký \eTD \bTD božstva \eTD \eTR
+\bTR \bTD 1937 \eTD \bTD Theoi \crlf Katachthonioi \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD věnování podsvětním božstvům \eTD \eTR
+\bTR \bTD 8351 \eTD \bTD Tumulus \eTD \bTD Vystavení nápisů \eTD \bTD Řecký \eTD \bTD mohyla, tumulus \eTD \eTR
+\bTR \bTD 7978 \eTD \bTD Tymbeuein \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD pohřbít \eTD \eTR
+\bTR \bTD 7974 \eTD \bTD Tymbos \eTD \bTD Funerální \eTD \bTD Řecký \eTD \bTD hrob, mohyla \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+\placetable[split][4_08]{Přehled hledaných termínů s náboženskou tematikou, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch] 
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Termín s \crlf náboženskou \crlf tematikou \eTD \bTD Typ \eTD \bTD Původ \eTD \bTD Krátký popis \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 3745 \eTD \bTD Acheron \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Acherón, říční božstvo \eTD \eTR
+\bTR \bTD 2691 \eTD \bTD Agonothetes \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD předsedající náboženských soutěží \eTD \eTR
+\bTR \bTD 9308 \eTD \bTD Alfios \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Alfios, říční božstvo \eTD \eTR
+\bTR \bTD 2682 \eTD \bTD Anoubis \eTD \bTD Jiný \eTD \bTD Božstvo \eTD \bTD Anúbis, egyptské božstvo \eTD \eTR
+\bTR \bTD 1858 \eTD \bTD Aphrodite \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Afrodíté \eTD \eTR
+\bTR \bTD 1860 \eTD \bTD Apollo \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Apollón \eTD \eTR
+\bTR \bTD 8292 \eTD \bTD archibassara \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD vedoucí bakchnálií \eTD \eTR
+\bTR \bTD 3089 \eTD \bTD archiereia \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD hlavní kněžka \eTD \eTR
+\bTR \bTD 1862 \eTD \bTD archiereus \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD hlavní kněží \eTD \eTR
+\bTR \bTD 8290 \eTD \bTD archimystes \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD vedoucí komunity mystérií \eTD \eTR
+\bTR \bTD 1861 \eTD \bTD Ares \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Árés \eTD \eTR
+\bTR \bTD 1863 \eTD \bTD Artemis \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Artemis \eTD \eTR
+\bTR \bTD 6225 \eTD \bTD Asklepeion \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD chrám boha Asklépia \eTD \eTR
+\bTR \bTD 1864 \eTD \bTD Asklepius \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Asklépios \eTD \eTR
+\bTR \bTD 1865 \eTD \bTD athanatos \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD nesmrtelný \eTD \eTR
+\bTR \bTD 1866 \eTD \bTD Athena \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Athéna \eTD \eTR
+\bTR \bTD 12151 \eTD \bTD bakcheion \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD spolek vyznavačů Bakkcha \eTD \eTR
+\bTR \bTD 2479 \eTD \bTD Bakchos \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Bakchos \eTD \eTR
+\bTR \bTD 1868 \eTD \bTD bomos \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD oltář \eTD \eTR
+\bTR \bTD 14188 \eTD \bTD Bosporia \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD festival Bosporií \eTD \eTR
+\bTR \bTD 6799 \eTD \bTD Charites \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Charitky, Grácie \eTD \eTR
+\bTR \bTD 12908 \eTD \bTD christianos \eTD \bTD Jiný \eTD \bTD Role spojená s výkonem víry \eTD \bTD křesťan \eTD \eTR
+\bTR \bTD 3966 \eTD \bTD Christos \eTD \bTD Jiný \eTD \bTD Božstvo \eTD \bTD Ježís Kristus \eTD \eTR
+\bTR \bTD 12868 \eTD \bTD daimon \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD božstvo, daimón \eTD \eTR
+\bTR \bTD 1869 \eTD \bTD Demeter \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Déméter \eTD \eTR
+\bTR \bTD 7410 \eTD \bTD Dikaios \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD epitheton božstva v Anchiálu \eTD \eTR
+\bTR \bTD 2303 \eTD \bTD Dionysia \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD slavnosti boha Dionýsa \eTD \eTR
+\bTR \bTD 2593 \eTD \bTD Dionysion \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD chrám boha Dionýsa \eTD \eTR
+\bTR \bTD 1870 \eTD \bTD Dionysus \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Dionýsos \eTD \eTR
+\bTR \bTD 1871 \eTD \bTD Dioskuroi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Dioskúrové \eTD \eTR
+\bTR \bTD 3340 \eTD \bTD Dis Manibus \eTD \bTD Římský \eTD \bTD Božstvo \eTD \bTD podsvětní božstva \eTD \eTR
+\bTR \bTD 3123 \eTD \bTD Erato \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Erató \eTD \eTR
+\bTR \bTD 1872 \eTD \bTD Eros \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Érós \eTD \eTR
+\bTR \bTD 9152 \eTD \bTD Eumarides \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD hérós z Apollónie \eTD \eTR
+\bTR \bTD 10495 \eTD \bTD Gaia \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Gáia \eTD \eTR
+\bTR \bTD 8098 \eTD \bTD Ge \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Gé \eTD \eTR
+\bTR \bTD 1873 \eTD \bTD Great Mother \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Velká Matka \eTD \eTR
+\bTR \bTD 2732 \eTD \bTD Hades \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hádés \eTD \eTR
+\bTR \bTD 2683 \eTD \bTD Harpokrates \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Harpokratés \eTD \eTR
+\bTR \bTD 13356 \eTD \bTD Hecate \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hekaté \eTD \eTR
+\bTR \bTD 2697 \eTD \bTD Helios \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hélios \eTD \eTR
+\bTR \bTD 1874 \eTD \bTD Hephaestus \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hefaistos \eTD \eTR
+\bTR \bTD 1875 \eTD \bTD Hera \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Héra \eTD \eTR
+\bTR \bTD 1876 \eTD \bTD Heracles \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Héraklés \eTD \eTR
+\bTR \bTD 1877 \eTD \bTD Hermes \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hermés \eTD \eTR
+\bTR \bTD 16454 \eTD \bTD Heroon,Heroion \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD chrámek zasvěcený héroovi, héroon \eTD \eTR
+\bTR \bTD 1878 \eTD \bTD heros \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD hérós \eTD \eTR
+\bTR \bTD 1879 \eTD \bTD Hestia \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hestia \eTD \eTR
+\bTR \bTD 2325 \eTD \bTD hierea \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD náboženské slavnosti \eTD \eTR
+\bTR \bTD 3624 \eTD \bTD hiereia \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD kněžka \eTD \eTR
+\bTR \bTD 11534 \eTD \bTD hiereion \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD obětina, oběť \eTD \eTR
+\bTR \bTD 1880 \eTD \bTD hiereus \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD kněží \eTD \eTR
+\bTR \bTD 4304 \eTD \bTD Hierokeryx \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD hlasatel či pomocník při oběti \eTD \eTR
+\bTR \bTD 1881 \eTD \bTD hieron \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD svatyně, chrámek \eTD \eTR
+\bTR \bTD 4303 \eTD \bTD Hieroneikes \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD vítež náboženských slavností a závodů \eTD \eTR
+\bTR \bTD 12149 \eTD \bTD Homonoia \eTD \bTD Římský \eTD \bTD Božstvo \eTD \bTD Concordia, bohyně jednoty \eTD \eTR
+\bTR \bTD 3355 \eTD \bTD Horai \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hórai \eTD \eTR
+\bTR \bTD 7409 \eTD \bTD Hosios \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD epitheton božstva v Anchiálu \eTD \eTR
+\bTR \bTD 3129 \eTD \bTD Hygeia \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hygia \eTD \eTR
+\bTR \bTD 10954 \eTD \bTD Hypnos \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Hypnos \eTD \eTR
+\bTR \bTD 1882 \eTD \bTD Isis \eTD \bTD Jiný \eTD \bTD Božstvo \eTD \bTD Ísis \eTD \eTR
+\bTR \bTD 2594 \eTD \bTD Kapitolion \eTD \bTD Římský \eTD \bTD Místo spojené s výkonem víry \eTD \bTD Juppiter Kapitolský \eTD \eTR
+\bTR \bTD 3162 \eTD \bTD Karabasmos \eTD \bTD Thracian \eTD \bTD Epitheton \eTD \bTD hérós z pobřeží Černého moře \eTD \eTR
+\bTR \bTD 3744 \eTD \bTD Kekrops \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Kekrops \eTD \eTR
+\bTR \bTD 8291 \eTD \bTD kistoforos \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD nosič košíku při nábožsnkém průvodu \eTD \eTR
+\bTR \bTD 16676 \eTD \bTD Korre \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Koré \eTD \eTR
+\bTR \bTD 15949 \eTD \bTD Kybele \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Kybelé \eTD \eTR
+\bTR \bTD 3098 \eTD \bTD kyria \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD bohyně \eTD \eTR
+\bTR \bTD 1883 \eTD \bTD kyrios \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD bůh \eTD \eTR
+\bTR \bTD 3159 \eTD \bTD Manimazos \eTD \bTD Thracian \eTD \bTD Božstvo \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 3309 \eTD \bTD Meter (Cybele) \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Kybelé, Matka \eTD \eTR
+\bTR \bTD 1885 \eTD \bTD Meter theon \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Matka bohů \eTD \eTR
+\bTR \bTD 3054 \eTD \bTD Mithra \eTD \bTD Jiný \eTD \bTD Božstvo \eTD \bTD Mithra \eTD \eTR
+\bTR \bTD 1884 \eTD \bTD Moirai \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Moiry \eTD \eTR
+\bTR \bTD 2740 \eTD \bTD Musai/Mousai \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Múzy \eTD \eTR
+\bTR \bTD 5959 \eTD \bTD Myrsines \eTD \bTD Uncertain \eTD \bTD Božstvo \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 6713 \eTD \bTD Mystai \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD účastníci mystérií \eTD \eTR
+\bTR \bTD 1886 \eTD \bTD naos \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD chrám \eTD \eTR
+\bTR \bTD 2693 \eTD \bTD Neikonemesis \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Nemesis vítězná \eTD \eTR
+\bTR \bTD 1887 \eTD \bTD Nemesis \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Nemesis \eTD \eTR
+\bTR \bTD 14186 \eTD \bTD Nereidai \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Néreovny \eTD \eTR
+\bTR \bTD 14185 \eTD \bTD Nereus \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Néreus \eTD \eTR
+\bTR \bTD 11239 \eTD \bTD Nike \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Níké \eTD \eTR
+\bTR \bTD 6800 \eTD \bTD Nymfai \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Nymfy \eTD \eTR
+\bTR \bTD 10955 \eTD \bTD Oneiros \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD božstvo snu, Oneiros \eTD \eTR
+\bTR \bTD 6038 \eTD \bTD Ordianos \eTD \bTD Uncertain \eTD \bTD Epitheton \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 6969 \eTD \bTD Orpheus \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Orfeus \eTD \eTR
+\bTR \bTD 3127 \eTD \bTD Paian \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Paián \eTD \eTR
+\bTR \bTD 13808 \eTD \bTD Panakia \eTD \bTD Uncertain \eTD \bTD Božstvo \eTD \bTD Panakia, ženské božstvo \eTD \eTR
+\bTR \bTD 9655 \eTD \bTD Peierides \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD Múzy z Pierie \eTD \eTR
+\bTR \bTD 6049 \eTD \bTD Perkos \eTD \bTD Uncertain \eTD \bTD Božstvo \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 3555 \eTD \bTD Phoebus (Foibos) \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Foibos \eTD \eTR
+\bTR \bTD 8188 \eTD \bTD Phosphorion \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD svatyně bohyně Fosforos \eTD \eTR
+\bTR \bTD 3321 \eTD \bTD Phosphoros \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Fosforos \eTD \eTR
+\bTR \bTD 7215 \eTD \bTD Plouto \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Pluto \eTD \eTR
+\bTR \bTD 1890 \eTD \bTD pompe \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD průvod \eTD \eTR
+\bTR \bTD 2580 \eTD \bTD pontarches \eTD \bTD Římský \eTD \bTD Role spojená s výkonem víry \eTD \bTD velekněz z oblasti Černého moře \eTD \eTR
+\bTR \bTD 1891 \eTD \bTD Poseidon \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Poseidón \eTD \eTR
+\bTR \bTD 5970 \eTD \bTD Proastios \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 6086 \eTD \bTD Propylaios \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD jména héroa \eTD \eTR
+\bTR \bTD 2300 \eTD \bTD Pythia \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD slavnost Apollóna Pýthia \eTD \eTR
+\bTR \bTD 2967 \eTD \bTD Rhome,Rome \eTD \bTD Římský \eTD \bTD Božstvo \eTD \bTD božstva personifikace Říma \eTD \eTR
+\bTR \bTD 9031 \eTD \bTD Sabazios \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Sabazios \eTD \eTR
+\bTR \bTD 2786 \eTD \bTD Samothrakion \eTD \bTD Řecký \eTD \bTD Epitheton \eTD \bTD božstva ze Samothráky \eTD \eTR
+\bTR \bTD 1892 \eTD \bTD Sarapis / Serapis \eTD \bTD  \eTD \bTD Božstvo \eTD \bTD Serápis \eTD \eTR
+\bTR \bTD 2698 \eTD \bTD Selene \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Seléné \eTD \eTR
+\bTR \bTD 4231 \eTD \bTD Semele \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Semelé \eTD \eTR
+\bTR \bTD 12158 \eTD \bTD Sibylle \eTD \bTD Římský \eTD \bTD Role spojená s výkonem víry \eTD \bTD Sibylla \eTD \eTR
+\bTR \bTD 7185 \eTD \bTD Symposiastai \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD účastník symposia \eTD \eTR
+\bTR \bTD 6802 \eTD \bTD Symposion \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD symposion \eTD \eTR
+\bTR \bTD 2347 \eTD \bTD Synmystai \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD účastník mystérií \eTD \eTR
+\bTR \bTD 1893 \eTD \bTD tafos \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD hrob \eTD \eTR
+\bTR \bTD 6084 \eTD \bTD Tasages \eTD \bTD Uncertain \eTD \bTD Epitheton \eTD \bTD jméno héroa \eTD \eTR
+\bTR \bTD 3128 \eTD \bTD Telesphoros \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Telesforos \eTD \eTR
+\bTR \bTD 1894 \eTD \bTD thea \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD bohyně \eTD \eTR
+\bTR \bTD 5045 \eTD \bTD Thea Syria \eTD \bTD Jiný \eTD \bTD Božstvo \eTD \bTD syrská bohyně \eTD \eTR
+\bTR \bTD 2328 \eTD \bTD Theatron \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD divadlo \eTD \eTR
+\bTR \bTD 5075 \eTD \bTD Themis \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Themis \eTD \eTR
+\bTR \bTD 14193 \eTD \bTD Theoi \crlf apotropaioi \crlf kai alexikakoi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD ochraňující božstva \eTD \eTR
+\bTR \bTD 12683 \eTD \bTD Theoi \crlf epekooi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD nastolouchající božstva \eTD \eTR
+\bTR \bTD 6497 \eTD \bTD Theoi \crlf katachthonioi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD podsvětní božstva \eTD \eTR
+\bTR \bTD 8853 \eTD \bTD Theoi \crlf katoikidioi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD domácí božstva \eTD \eTR
+\bTR \bTD 9811 \eTD \bTD Theoi \crlf Olympioi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD olympská božstva \eTD \eTR
+\bTR \bTD 1895 \eTD \bTD Theoi \crlf Samothrakioi \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD samothrácká božstva \eTD \eTR
+\bTR \bTD 2296 \eTD \bTD theoroi \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD úředníci s náboženskou funkcí \eTD \eTR
+\bTR \bTD 1896 \eTD \bTD theos \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD božstvo \eTD \eTR
+\bTR \bTD 1897 \eTD \bTD Theos megalos \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Velký bůh \eTD \eTR
+\bTR \bTD 2629 \eTD \bTD Therapeutai \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD pomocníci, sloužící v kultu \eTD \eTR
+\bTR \bTD 14328 \eTD \bTD Thiasotes \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD členové náboženského spolku, průvod \eTD \eTR
+\bTR \bTD 1899 \eTD \bTD thysia \eTD \bTD Řecký \eTD \bTD Činnost spojená s výkonem víry \eTD \bTD oběť \eTD \eTR
+\bTR \bTD 11586 \eTD \bTD Thysiastai \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD obětující \eTD \eTR
+\bTR \bTD 2703 \eTD \bTD Triptolemos \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Triptolemos \eTD \eTR
+\bTR \bTD 12042 \eTD \bTD Tychaion \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD chrám bohyně Týché \eTD \eTR
+\bTR \bTD 1900 \eTD \bTD Tyche \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Týché \eTD \eTR
+\bTR \bTD 11536 \eTD \bTD Xoanon \eTD \bTD Řecký \eTD \bTD Místo spojené s výkonem víry \eTD \bTD ritiuální dřevěná socha \eTD \eTR
+\bTR \bTD 2652 \eTD \bTD Zakoros \eTD \bTD Řecký \eTD \bTD Role spojená s výkonem víry \eTD \bTD pomocník v chrámu \eTD \eTR
+\bTR \bTD 1901 \eTD \bTD Zeus \eTD \bTD Řecký \eTD \bTD Božstvo \eTD \bTD Zeus \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+\placetable[split][4_09]{Přehled hledaných termínů s náboženskou tematikou, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch] 
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Epitheton \crlf (podoba v databázi) \eTD \bTD Krátký popis \eTD \bTD Typ \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 10541 \eTD \bTD Adrasteia \eTD \bTD  nejčastěji spojováno s Nemesis \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11219 \eTD \bTD Aenaos \eTD \bTD spojováno s Nymfami, věčně trvající \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4034 \eTD \bTD Agoraios \eTD \bTD  ochránce veřejných shromáždění, ochránce pocestných \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16538 \eTD \bTD Ainios \eTD \bTD pocházející z Ainu \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14240 \eTD \bTD Aithrios \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13161 \eTD \bTD Alousades \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9050 \eTD \bTD Amazon \eTD \bTD spojováno s Artemidou \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14004 \eTD \bTD Anaios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8002 \eTD \bTD Anchialos \eTD \bTD z Anchiálu, spojováno s Nymfami \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8013 \eTD \bTD Aniketos (aneiketos) \eTD \bTD neporazitelný \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8156 \eTD \bTD Anthienos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10919 \eTD \bTD Aphosikakos \eTD \bTD odvracející zlo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14212 \eTD \bTD Archagetas \eTD \bTD kult předků z Sélymbrie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6836 \eTD \bTD Arselenos \eTD \bTD spojováno se Sabaziem \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 8662 \eTD \bTD Artakene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6979 \eTD \bTD Arzenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11513 \eTD \bTD Asdoulos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9032 \eTD \bTD Athyparenos \eTD \bTD spojováno se Sabaziem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6974 \eTD \bTD Aularchenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11555 \eTD \bTD Aulariokos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6549 \eTD \bTD Aularkenos \eTD \bTD místní božstvo z Mesámbrie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13149 \eTD \bTD Aulousadenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13810 \eTD \bTD Basilissa \eTD \bTD spojováno s Hygieí \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9723 \eTD \bTD Baskidithios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16095 \eTD \bTD Beeuchios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10486 \eTD \bTD Beisaletenos \eTD \bTD spojováno s Hérakleem v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8257 \eTD \bTD Birou\[?\] \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8530 \eTD \bTD Blekouros \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7398 \eTD \bTD Borkeithios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11983 \eTD \bTD Boulaios \eTD \bTD spojováno s institucí rady \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10313 \eTD \bTD Bourdapenos \eTD \bTD kult Nymf z Búrdapy \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10475 \eTD \bTD Byaiparene \eTD \bTD spojováno s Hérou v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11660 \eTD \bTD Chryseochaites \eTD \bTD spojováno s Asklépiem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8099 \eTD \bTD Chthonios \eTD \bTD chthonické božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 7510 \eTD \bTD Dabatopienos \eTD \bTD spojováno s Héfaistem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13500 \eTD \bTD Daiterenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16663 \eTD \bTD Derzis \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13809 \eTD \bTD Despoina \eTD \bTD ženské božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 6697 \eTD \bTD Dimeranos \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14337 \eTD \bTD Dionysobolos \eTD \bTD házející oštěp \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 4050 \eTD \bTD Dolichaios \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 6847 \eTD \bTD Dolichenos \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13476 \eTD \bTD Dooupyros \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8269 \eTD \bTD Dortazenos \eTD \bTD spojováno s Apollónem, místní božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10496 \eTD \bTD Doteira zoes \eTD \bTD spojováno s Persefóné \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13475 \eTD \bTD Drigesos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9594 \eTD \bTD Edeinene ? \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6577 \eTD \bTD Eisenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6732 \eTD \bTD Eithia \eTD \bTD spojováno s Hérou ? \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13786 \eTD \bTD Elafebolos \eTD \bTD epithet of Artemis \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14209 \eTD \bTD Eleneites \eTD \bTD spojováno s Dionýsem v Sélymbrii \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6281 \eTD \bTD Eleuthereus \eTD \bTD spojováno s Dionýsem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4037 \eTD \bTD Eleutherios \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 7211 \eTD \bTD Emfanestatos \eTD \bTD zjevující se mezi lidmi \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14266 \eTD \bTD Enaulios \eTD \bTD ochránce vnějšího dvora \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 9170 \eTD \bTD Enyalios \eTD \bTD související s Áreem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4039 \eTD \bTD Epekoos \eTD \bTD naslouchající božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4074 \eTD \bTD Epenor \eTD \bTD místní božstvo ? \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4038 \eTD \bTD Ephorios \eTD \bTD hraniční božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13224 \eTD \bTD Epifanes \eTD \bTD jasné božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16467 \eTD \bTD Eptaikenthos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8313 \eTD \bTD Estrakenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6531 \eTD \bTD Eukarpos \eTD \bTD spojováno s Dionýsem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8481 \eTD \bTD Geigon Aulousell \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8472 \eTD \bTD Geikaitienos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8453 \eTD \bTD Geikesenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8461 \eTD \bTD Geikethienos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8312 \eTD \bTD Geniakos \eTD \bTD místní božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8318 \eTD \bTD Genikos \eTD \bTD místní božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 7590 \eTD \bTD Genous Archegos \eTD \bTD kult předků, božstvo spojené s kolonizací \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16685 \eTD \bTD Gesienos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8465 \eTD \bTD Gikentienos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8457 \eTD \bTD Ginkisenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4040 \eTD \bTD Horios \eTD \bTD strážce hranic \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 6260 \eTD \bTD Hyperdexios \eTD \bTD vítězný, svrchovaný \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4036 \eTD \bTD Hypsistos \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 15007 \eTD \bTD Iatreine \eTD \bTD ženský ekvivalent lékaře \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 8049 \eTD \bTD Iatros \eTD \bTD lékař \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 11658 \eTD \bTD Kallinikos \eTD \bTD spojováno s Hérakleem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14301 \eTD \bTD Kallon \eTD \bTD spojováno s Dionýsem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6902 \eTD \bTD Kapetolios \eTD \bTD pocházející z Kapitolu \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13217 \eTD \bTD Kaprenos \eTD \bTD božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10567 \eTD \bTD Karistorenos \eTD \bTD spojováno s Diem a Héru poblíž v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11967 \eTD \bTD Karpodoter \eTD \bTD božstvo plodnosti \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 7987 \eTD \bTD Karsenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9234 \eTD \bTD Karsimiene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12650 \eTD \bTD Keiladebenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12627 \eTD \bTD Keiladeenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10500 \eTD \bTD Keilaideouenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12657 \eTD \bTD Keilaiskenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6568 \eTD \bTD Kempenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7955 \eTD \bTD Kendreisos / Kendrisos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6358 \eTD \bTD Keraunios \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8119 \eTD \bTD Kermillenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4048 \eTD \bTD Kersenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12636 \eTD \bTD Kiladeenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4970 \eTD \bTD Klaros \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13629 \eTD \bTD Kled\[?\]enos \eTD \bTD místní božstvo \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 6661 \eTD \bTD Kolofonios \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14272 \eTD \bTD Komatikos \eTD \bTD ochránce vesnic \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16561 \eTD \bTD Konos \eTD \bTD spojováno s Diem \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 10280 \eTD \bTD Kordenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7535 \eTD \bTD Kore \eTD \bTD ženské božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10482 \eTD \bTD Kouidos \eTD \bTD místní božstvo v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9049 \eTD \bTD Koulkoussenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6801 \eTD \bTD Kyprogeneus \eTD \bTD zrozený/á na Kypru \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8122 \eTD \bTD Kyrmillenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12664 \eTD \bTD K\[eilade\]enos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13354 \eTD \bTD Lampadeforos \eTD \bTD nesoucí pochodeň, spojováno s Hekaté \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4245 \eTD \bTD Lenaios \eTD \bTD spojováno s Dionýsem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8522 \eTD \bTD Letoios \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13630 \eTD \bTD Limenos \eTD \bTD ochraňující přístav \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 12114 \eTD \bTD Lofeites \eTD \bTD spojováno s Diem v Perinthu \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 12123 \eTD \bTD Lykios \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4072 \eTD \bTD Machaon \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6664 \eTD \bTD Maloforos \eTD \bTD spojováno s Ceres \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14236 \eTD \bTD Mamouzene \eTD \bTD spojováno s Velkou Matkou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4191 \eTD \bTD Maron \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4035 \eTD \bTD Mesopolites \eTD \bTD městský kult \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9204 \eTD \bTD Metrikos \eTD \bTD mateřský \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10656 \eTD \bTD Mytorgenes \eTD \bTD spojováno s Dionýsem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16547 \eTD \bTD Nikeforos \eTD \bTD spojováno s Athénou \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13355 \eTD \bTD Nyktofanes \eTD \bTD spojováno s Hekaté \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4071 \eTD \bTD Okkonenos \eTD \bTD spojováno s Diem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6729 \eTD \bTD Okonenos \eTD \bTD spojováno s Diem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4052 \eTD \bTD Olympia \eTD \bTD spojováno s Hérou \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4051 \eTD \bTD Olympios \eTD \bTD spojováno s Diem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8876 \eTD \bTD Ouerzelenos \eTD \bTD spojováno s Dionýsem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16670 \eTD \bTD Ouetespios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7262 \eTD \bTD Ourania \eTD \bTD ženské božstvo \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8132 \eTD \bTD Ourdenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16671 \eTD \bTD Outaspios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4865 \eTD \bTD Paianos \eTD \bTD spojováno s Asklépiem, Apollónem a Orfeem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4044 \eTD \bTD Paisoulenos \eTD \bTD spojováno s Diem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12926 \eTD \bTD Pallas \eTD \bTD spojováno s Athénou \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 14329 \eTD \bTD Parabolos \eTD \bTD spojováno s Dionýsem \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 7296 \eTD \bTD Patroos \eTD \bTD kult předků, otcovský \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4073 \eTD \bTD Periestos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 11793 \eTD \bTD Perseiades \eTD \bTD spojováno s Hérakleem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4041 \eTD \bTD Podalirios \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4045 \eTD \bTD Poenos \eTD \bTD spojováno s Apollónem \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 6352 \eTD \bTD Polias \eTD \bTD spojováno s Athénou \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 11955 \eTD \bTD Progonikos \eTD \bTD kult předků \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8321 \eTD \bTD Propylaios \eTD \bTD ochránce měst, městských bran \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4875 \eTD \bTD Pyrmeroulas \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 14914 \eTD \bTD Pythios \eTD \bTD spojováno s Apollónem \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 9036 \eTD \bTD Raniskelenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9999 \eTD \bTD Rasyperenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13743 \eTD \bTD Rhodopeis \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4068 \eTD \bTD Saldenos \eTD \bTD spojováno s Apollónem a Artemidou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4063 \eTD \bTD Saldobysenos \eTD \bTD spojováno s Asklépiem a Artemidou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4062 \eTD \bTD Saldokelenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4057 \eTD \bTD Saldoouissenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4058 \eTD \bTD Saldoousenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4055 \eTD \bTD Saldooussenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4069 \eTD \bTD Saldoouusenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4059 \eTD \bTD Saldouisenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4054 \eTD \bTD Saldousenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4064 \eTD \bTD Saldouusenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13817 \eTD \bTD Salenos \eTD \bTD epithet of local deity \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4061 \eTD \bTD Saltobysenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4060 \eTD \bTD Saltobyssenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4056 \eTD \bTD Saltouusenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 15902 \eTD \bTD Saprenos \eTD \bTD místní božstvo, z vesnice Saprisara, CIL VI 2933 \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6835 \eTD \bTD Sebazius \eTD \bTD jméno božstva \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 16665 \eTD \bTD Seinoulazies \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13530 \eTD \bTD Sellenos \eTD \bTD spojováno s Áreem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7315 \eTD \bTD Sgebdenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6909 \eTD \bTD Sikerenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4046 \eTD \bTD Sirenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10428 \eTD \bTD Skalpenos \eTD \bTD spojováno s Asklépiem v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8435 \eTD \bTD Skarsene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6742 \eTD \bTD Skelentene \eTD \bTD spojováno s Velkou Matkou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9415 \eTD \bTD Skodrenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10691 \eTD \bTD Skokelenos \eTD \bTD spojováno s Diem, Hérou a Afrodíté \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10465 \eTD \bTD Skopei\[?\] \eTD \bTD místní božstvo v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4065 \eTD \bTD Soldenos \eTD \bTD spojováno s Asklépiem a Hygieí \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4070 \eTD \bTD Soldoboouusenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10922 \eTD \bTD Solenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16470 \eTD \bTD Sonketene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4042 \eTD \bTD Soteira \eTD \bTD zachrákyně \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 4047 \eTD \bTD Soter \eTD \bTD zachránce \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8163 \eTD \bTD Souet\[oulenos\] \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10536 \eTD \bTD Souitoulenos \eTD \bTD místní božstvo v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10548 \eTD \bTD Souketene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10222 \eTD \bTD Souregethes \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8523 \eTD \bTD Spindeenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9808 \eTD \bTD Spinthopyrenos \eTD \bTD spojováno s Asklépiem v regionu Pautálie \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7393 \eTD \bTD Staraskenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10231 \eTD \bTD Sta\[?\] \eTD \bTD spojováno s Asklépiem \eTD \bTD Unknown \eTD \eTR
+\bTR \bTD 14289 \eTD \bTD Stomianos \eTD \bTD jméno božstva \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 10489 \eTD \bTD Storenos \eTD \bTD spojováno s Diem a Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16669 \eTD \bTD Stourouleos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9485 \eTD \bTD Straminenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16688 \eTD \bTD Stropoulas \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16482 \eTD \bTD Suidenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16466 \eTD \bTD Syria \eTD \bTD božstvo syrského původu \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 11547 \eTD \bTD Syroteres \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10447 \eTD \bTD Tadenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8872 \eTD \bTD Tarsozienos ? \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13541 \eTD \bTD Teradeenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10144 \eTD \bTD Tiditene \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 15564 \eTD \bTD Tisasenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 12125 \eTD \bTD Torontenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16578 \eTD \bTD Totoithenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6733 \eTD \bTD Tourme \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 13357 \eTD \bTD Trimorfos \eTD \bTD božstvo tří podob \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 13358 \eTD \bTD Triodos \eTD \bTD spojováno s Hekaté \eTD \bTD Regionální \eTD \eTR
+\bTR \bTD 8247 \eTD \bTD Zairdenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 16666 \eTD \bTD Zamazis \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10723 \eTD \bTD Zbelsourdos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4043 \eTD \bTD Zbelthiourdos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9041 \eTD \bTD Zelaenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10263 \eTD \bTD Zelsourdos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10306 \eTD \bTD Zemdrienos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 8244 \eTD \bTD Zerdenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 7344 \eTD \bTD Zgebdenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10862 \eTD \bTD Zgoulamenos \eTD \bTD spojováno s Apollónem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9200 \eTD \bTD Zinobastenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 4049 \eTD \bTD Zousyreithos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9588 \eTD \bTD Zydeenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 6351 \eTD \bTD Zygia \eTD \bTD spojováno s Hérou \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9602 \eTD \bTD Zylmyzdrienos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 10008 \eTD \bTD Zymdrenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9613 \eTD \bTD Zymedrenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9937 \eTD \bTD Zymlydrenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9611 \eTD \bTD Zymydrenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9828 \eTD \bTD Zymyzdenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9948 \eTD \bTD Zymyzdros \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9606 \eTD \bTD Zymzdrenos \eTD \bTD spojováno s Asklépiem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9856 \eTD \bTD Zysdrenos \eTD \bTD spojováno s Asklépiem, Hygieí a Télesforem \eTD \bTD Subregionální \eTD \eTR
+\bTR \bTD 9418 \eTD \bTD \[Let\]agenos \eTD \bTD místní božstvo \eTD \bTD Subregionální \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+\placetable[split][4_10]{Přehled použitých vyjádření kolektivní identity, jejich kulturní původ a krátký popis.}
+{\bTABLE[split=repeat,option=stretch] 
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Vyjádření \crlf kolektivní \crlf identity \eTD \bTD Typ \eTD \bTD Původ \eTD \bTD Krátký popis \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 2297 \eTD \bTD Abderites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Abdéry \eTD \eTR
+\bTR \bTD 13902 \eTD \bTD Abydenoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Abydu \eTD \eTR
+\bTR \bTD 3396 \eTD \bTD Achaioi \eTD \bTD Kmen \eTD \bTD Řecký \eTD \bTD Achájové \eTD \eTR
+\bTR \bTD 2576 \eTD \bTD Aiginetes \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Aigíny \eTD \eTR
+\bTR \bTD 16686 \eTD \bTD Ainetos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Ainu \eTD \eTR
+\bTR \bTD 2590 \eTD \bTD Ainioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Ainu \eTD \eTR
+\bTR \bTD 2299 \eTD \bTD Aitoloi \eTD \bTD Kmen \eTD \bTD Řecký \eTD \bTD Aitólové \eTD \eTR
+\bTR \bTD 2319 \eTD \bTD Akanthios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Akanthu \eTD \eTR
+\bTR \bTD 12043 \eTD \bTD Alexandreis \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD fýlé \eTD \eTR
+\bTR \bTD 13887 \eTD \bTD Alopekonesioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Alopekonnésu \eTD \eTR
+\bTR \bTD 8938 \eTD \bTD Amaseus \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 16675 \eTD \bTD Amastrianos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Amastris \eTD \eTR
+\bTR \bTD 2578 \eTD \bTD Amfipolites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Amfipole \eTD \eTR
+\bTR \bTD 14978 \eTD \bTD Anchialeos/oi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Anchiálu \eTD \eTR
+\bTR \bTD 4806 \eTD \bTD Ankyres \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Ankýry v Galatii \eTD \eTR
+\bTR \bTD 5388 \eTD \bTD Antiocheus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Antiocheie \eTD \eTR
+\bTR \bTD 16157 \eTD \bTD Apameias \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Apameie \eTD \eTR
+\bTR \bTD 6178 \eTD \bTD Apolloniates \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Apollónie \eTD \eTR
+\bTR \bTD 10075 \eTD \bTD Ardilenos \eTD \bTD Vesnice \eTD \bTD Nejistý \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 3019 \eTD \bTD Asianoi \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD z Asie \eTD \eTR
+\bTR \bTD 10148 \eTD \bTD Assyrios \eTD \bTD Území \eTD \bTD  \eTD \bTD z Assýrie \eTD \eTR
+\bTR \bTD 2022 \eTD \bTD Astai \eTD \bTD Kmen \eTD \bTD Thrácký \eTD \bTD kmen Astů \eTD \eTR
+\bTR \bTD 1789 \eTD \bTD Athenaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD z Athén \eTD \eTR
+\bTR \bTD 13303 \eTD \bTD Attikos \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD z Attiky \eTD \eTR
+\bTR \bTD 4794 \eTD \bTD Babylonios \eTD \bTD Město \eTD \bTD  \eTD \bTD z Babylónu \eTD \eTR
+\bTR \bTD 2274 \eTD \bTD Barbaroi \eTD \bTD Jiný \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 15387 \eTD \bTD Bathoneus \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD Hekatostys \eTD \eTR
+\bTR \bTD 16682 \eTD \bTD Bazitenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD Dana 2014, 28;  vesnice poblíž lokality Glava Panega \eTD \eTR
+\bTR \bTD 7640 \eTD \bTD Bazoparenoi \eTD \bTD Kmen \eTD \bTD Thrácký \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 10902 \eTD \bTD Bdekyrenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 10858 \eTD \bTD Bendiparoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 16673 \eTD \bTD Bessoparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 7297 \eTD \bTD Bithynoi \eTD \bTD Území \eTD \bTD Nejistý \eTD \bTD Bíthýnové \eTD \eTR
+\bTR \bTD 7992 \eTD \bTD Bizyenos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Bizyé \eTD \eTR
+\bTR \bTD 10724 \eTD \bTD Bolbabrienos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 8513 \eTD \bTD Bosagyrenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 10321 \eTD \bTD Bourdapenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD z lokality Búrdapa \eTD \eTR
+\bTR \bTD 7648 \eTD \bTD Bousiparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 10894 \eTD \bTD Brentoparoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 5756 \eTD \bTD Byzantios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Byzantia \eTD \eTR
+\bTR \bTD 2617 \eTD \bTD Chalkedonios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Chalkedónu \eTD \eTR
+\bTR \bTD 5383 \eTD \bTD Chersoneneites \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD obyvatelé Chersonésu \eTD \eTR
+\bTR \bTD 15565 \eTD \bTD Dadoparenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD  \eTD \eTR
+\bTR \bTD 13904 \eTD \bTD Dardaneioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 16126 \eTD \bTD Dardanis \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 14275 \eTD \bTD Delkanoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 15402 \eTD \bTD Deuteras \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 15519 \eTD \bTD Dionysias \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 2532 \eTD \bTD Dionysopolitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD Citizens of the city of Dionysopolis \eTD \eTR
+\bTR \bTD 3351 \eTD \bTD Dryai \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD obyvatelé města Drýs \eTD \eTR
+\bTR \bTD 3155 \eTD \bTD Dryitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Drys \eTD \eTR
+\bTR \bTD 8458 \eTD \bTD Dysyrenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 12046 \eTD \bTD Efesioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Efesu \eTD \eTR
+\bTR \bTD 10900 \eTD \bTD Eitrizenoi \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 13905 \eTD \bTD Elaiousioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Elaiúsa \eTD \eTR
+\bTR \bTD 5374 \eTD \bTD Epidamnios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Epidamnu \eTD \eTR
+\bTR \bTD 3071 \eTD \bTD Eresenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 6907 \eTD \bTD Ergissenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 3886 \eTD \bTD Eurysthenides \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Eurysthénu \eTD \eTR
+\bTR \bTD 13903 \eTD \bTD Flabiopoleitai \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Flaviopole \eTD \eTR
+\bTR \bTD 7966 \eTD \bTD Frygios \eTD \bTD Území \eTD \bTD  \eTD \bTD z Frýgie \eTD \eTR
+\bTR \bTD 2730 \eTD \bTD Galatai \eTD \bTD Kmen \eTD \bTD  \eTD \bTD Keltové z Galatie \eTD \eTR
+\bTR \bTD 10901 \eTD \bTD Geizagerenoi \eTD \bTD Vesnice \eTD \bTD Nejistý \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 7646 \eTD \bTD Gelouparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 8468 \eTD \bTD Geupasenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice \eTD \eTR
+\bTR \bTD 10806 \eTD \bTD Greseitoi (-ai) \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 8506 \eTD \bTD Hadrianopolitai \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatel Hadriánopole \eTD \eTR
+\bTR \bTD 5523 \eTD \bTD Heraites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 5725 \eTD \bTD Herakleiotes \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Hérakleie \eTD \eTR
+\bTR \bTD 6448 \eTD \bTD Herakleotes \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Hérakleie \eTD \eTR
+\bTR \bTD 13951 \eTD \bTD Herakleotes \crlf in Pontos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Hérakleie Pontské \eTD \eTR
+\bTR \bTD 12765 \eTD \bTD Hypepenos \eTD \bTD Město \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 9042 \eTD \bTD Illyrikos \eTD \bTD Kmen \eTD \bTD Řecký \eTD \bTD z Illýrie \eTD \eTR
+\bTR \bTD 3009 \eTD \bTD Istrianoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Istru \eTD \eTR
+\bTR \bTD 14317 \eTD \bTD Italikos \eTD \bTD Území \eTD \bTD  \eTD \bTD z oblasti provincie Italia \eTD \eTR
+\bTR \bTD 13928 \eTD \bTD Italos \eTD \bTD Území \eTD \bTD  \eTD \bTD z oblasti provincie Italia \eTD \eTR
+\bTR \bTD 3008 \eTD \bTD Kallatianoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Kallatidy \eTD \eTR
+\bTR \bTD 14404 \eTD \bTD Kallatianos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Kallatidy \eTD \eTR
+\bTR \bTD 15411 \eTD \bTD Kallichoriteus \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 13910 \eTD \bTD Kallipoleitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Kallipolis \eTD \eTR
+\bTR \bTD 16677 \eTD \bTD Kampanos \eTD \bTD Území \eTD \bTD Římský \eTD \bTD z Kampánie \eTD \eTR
+\bTR \bTD 16507 \eTD \bTD Kappadox \eTD \bTD Území \eTD \bTD  \eTD \bTD z Kappadokie \eTD \eTR
+\bTR \bTD 12914 \eTD \bTD Karros \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 11162 \eTD \bTD Kellenoi \eTD \bTD Město \eTD \bTD Thrácký \eTD \bTD obyvatellé Kellai \eTD \eTR
+\bTR \bTD 15406 \eTD \bTD Kerameus \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 13757 \eTD \bTD Kimbroi \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD Kimbrové \eTD \eTR
+\bTR \bTD 13927 \eTD \bTD Koilanoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Koila \eTD \eTR
+\bTR \bTD 16443 \eTD \bTD Koilenoi \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD obyvatelé města Koilé \eTD \eTR
+\bTR \bTD 11042 \eTD \bTD Kokeloneoi \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 14436 \eTD \bTD Koos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Kóu \eTD \eTR
+\bTR \bTD 6114 \eTD \bTD Koroulenoi \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 7643 \eTD \bTD Krasaloparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 15409 \eTD \bTD Krateineas \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 2820 \eTD \bTD Kres / Kretes \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD z Kréty \eTD \eTR
+\bTR \bTD 7721 \eTD \bTD Kymaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 2401 \eTD \bTD Kyrenaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Kyréné \eTD \eTR
+\bTR \bTD 5347 \eTD \bTD Kyzikenos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Kyziku \eTD \eTR
+\bTR \bTD 6777 \eTD \bTD Lakedaimonioi \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD obyvatelé Lakedaimónu \eTD \eTR
+\bTR \bTD 4022 \eTD \bTD Lakem\[onios\] \eTD \bTD Území \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 14081 \eTD \bTD Lampsakenos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Lampsaku \eTD \eTR
+\bTR \bTD 13948 \eTD \bTD Laodikeos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Laodíkeie \eTD \eTR
+\bTR \bTD 13908 \eTD \bTD Limnaioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 15163 \eTD \bTD Lydios \eTD \bTD Území \eTD \bTD  \eTD \bTD z Lýdie \eTD \eTR
+\bTR \bTD 2825 \eTD \bTD Lysimacheus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Lýsimacheie \eTD \eTR
+\bTR \bTD 13886 \eTD \bTD Madytioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Madytu \eTD \eTR
+\bTR \bTD 2007 \eTD \bTD Makedones \eTD \bTD Kmen \eTD \bTD Řecký \eTD \bTD Makedonci \eTD \eTR
+\bTR \bTD 5346 \eTD \bTD Markianopoleitai \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Marcianopole \eTD \eTR
+\bTR \bTD 2589 \eTD \bTD Maronitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Maróneie \eTD \eTR
+\bTR \bTD 15946 \eTD \bTD Mesambrianoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Mesámbrie \eTD \eTR
+\bTR \bTD 5313 \eTD \bTD Methymnaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Méthymny \eTD \eTR
+\bTR \bTD 14168 \eTD \bTD Milatioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Mílétu \eTD \eTR
+\bTR \bTD 8919 \eTD \bTD Montanos \eTD \bTD Město \eTD \bTD Thrácký \eTD \bTD obyvatelé Montany \eTD \eTR
+\bTR \bTD 11915 \eTD \bTD Monteianos \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Montany \eTD \eTR
+\bTR \bTD 10895 \eTD \bTD Mosypenoi \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 11594 \eTD \bTD Mysenos \eTD \bTD Území \eTD \bTD Řecký \eTD \bTD z Mýsie \eTD \eTR
+\bTR \bTD 4232 \eTD \bTD Neikaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Bíthýnské Níkaie \eTD \eTR
+\bTR \bTD 3356 \eTD \bTD Neikomedoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Bíthýnské Níkomédeie \eTD \eTR
+\bTR \bTD 5081 \eTD \bTD Neikopolitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Nicopolis \eTD \eTR
+\bTR \bTD 13756 \eTD \bTD Neinenai \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Neiné \eTD \eTR
+\bTR \bTD 15947 \eTD \bTD Neopolitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Neapolis \eTD \eTR
+\bTR \bTD 2990 \eTD \bTD Odessitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Odéssu \eTD \eTR
+\bTR \bTD 14175 \eTD \bTD Olbiopolites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Olbie \eTD \eTR
+\bTR \bTD 6655 \eTD \bTD Oulpianoi \crlf Anchialeoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Anchiálu \eTD \eTR
+\bTR \bTD 13946 \eTD \bTD Panitiai \eTD \bTD Město \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 14074 \eTD \bTD Pannonioi \eTD \bTD Území \eTD \bTD Nejistý \eTD \bTD z Pannonie \eTD \eTR
+\bTR \bTD 2502 \eTD \bTD Paroites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 3166 \eTD \bTD Pautaleotes \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Pautálie \eTD \eTR
+\bTR \bTD 3139 \eTD \bTD Peratikoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé části Byzantia \eTD \eTR
+\bTR \bTD 11902 \eTD \bTD Perinthioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Perinthu \eTD \eTR
+\bTR \bTD 10932 \eTD \bTD Petradenos \eTD \bTD Vesnice \eTD \bTD Nejistý \eTD \bTD z vesnice Petras \eTD \eTR
+\bTR \bTD 2823 \eTD \bTD Philippeus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Filipp \eTD \eTR
+\bTR \bTD 8961 \eTD \bTD Philippopoleites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Filippopole \eTD \eTR
+\bTR \bTD 15407 \eTD \bTD Philoktereas \eTD \bTD Jiný \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 8679 \eTD \bTD Phygeleus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD z Fygeleie, jižně od Efesu \eTD \eTR
+\bTR \bTD 10821 \eTD \bTD Pilinzenoi \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 3431 \eTD \bTD Ploteinopolitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Plotínúpole \eTD \eTR
+\bTR \bTD 9023 \eTD \bTD Pontiane \eTD \bTD Území \eTD \bTD Nejistý \eTD \bTD z Pontu \eTD \eTR
+\bTR \bTD 16551 \eTD \bTD Prianeus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 12229 \eTD \bTD Rhamnousios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD z Rhamnúntu \eTD \eTR
+\bTR \bTD 16074 \eTD \bTD Rodios/Rhodios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD z Rhodu \eTD \eTR
+\bTR \bTD 16052 \eTD \bTD Rodopes \eTD \bTD Území \eTD \bTD Thrácký \eTD \bTD z Rhodop \eTD \eTR
+\bTR \bTD 1791 \eTD \bTD Romaioi \eTD \bTD Město \eTD \bTD Římský \eTD \bTD Římané \eTD \eTR
+\bTR \bTD 14208 \eTD \bTD Salymbrianos \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Sélymbrie \eTD \eTR
+\bTR \bTD 2711 \eTD \bTD Samothrakioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD ze Samothráké \eTD \eTR
+\bTR \bTD 9628 \eTD \bTD Sardianoi \eTD \bTD Město \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 10773 \eTD \bTD Sekinenos \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 14164 \eTD \bTD Seleukeios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Seleukie \eTD \eTR
+\bTR \bTD 2052 \eTD \bTD Serdai \eTD \bTD Kmen \eTD \bTD Thrácký \eTD \bTD kmen Serdů \eTD \eTR
+\bTR \bTD 13901 \eTD \bTD Sestioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Séstu \eTD \eTR
+\bTR \bTD 8331 \eTD \bTD Sikinystyrenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice Sikinystera \eTD \eTR
+\bTR \bTD 10805 \eTD \bTD Skaptoparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice Skaptopara \eTD \eTR
+\bTR \bTD 8120 \eTD \bTD Skaskoparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice Skaskopara \eTD \eTR
+\bTR \bTD 10089 \eTD \bTD Skau\[rianos\] \eTD \bTD Kmen \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 7644 \eTD \bTD Skeptoi \eTD \bTD Vesnice \eTD \bTD Nejistý \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 13907 \eTD \bTD Skopaioi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé města Skopaia \eTD \eTR
+\bTR \bTD 16295 \eTD \bTD Skotoussaios \crlf Herakleotes \eTD \bTD Město \eTD \bTD Thrácký \eTD \bTD obyvatel města Skotúsa \eTD \eTR
+\bTR \bTD 11914 \eTD \bTD Sousionos \eTD \bTD Město \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 10781 \eTD \bTD Sportelenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice Sportéla \eTD \eTR
+\bTR \bTD 7642 \eTD \bTD Stratoparenoi \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD poblíž emporia Pizos \eTD \eTR
+\bTR \bTD 10652 \eTD \bTD Stronylenos \eTD \bTD Vesnice \eTD \bTD Thrácký \eTD \bTD obyvatelé vesnice Stroneilos \eTD \eTR
+\bTR \bTD 8947 \eTD \bTD Strymonios \eTD \bTD Území \eTD \bTD Thrácký \eTD \bTD z území okolo řeky Strýmón \eTD \eTR
+\bTR \bTD 11148 \eTD \bTD Syros \eTD \bTD Území \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 8058 \eTD \bTD Tarseus \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Tarsu \eTD \eTR
+\bTR \bTD 5316 \eTD \bTD Taurios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD z Tauridy \eTD \eTR
+\bTR \bTD 2315 \eTD \bTD Teoi \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 16642 \eTD \bTD Thasiai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Thasu \eTD \eTR
+\bTR \bTD 6201 \eTD \bTD Thessalos \eTD \bTD Kmen \eTD \bTD Řecký \eTD \bTD Thessal \eTD \eTR
+\bTR \bTD 4347 \eTD \bTD Thraika \eTD \bTD Kmen \eTD \bTD Thrácký \eTD \bTD Thrákyně \eTD \eTR
+\bTR \bTD 2011 \eTD \bTD Thrakes \eTD \bTD Kmen \eTD \bTD Thrácký \eTD \bTD Thrákové \eTD \eTR
+\bTR \bTD 5527 \eTD \bTD Tomeites \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Tomidy \eTD \eTR
+\bTR \bTD 3007 \eTD \bTD Tomitai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Tomidy \eTD \eTR
+\bTR \bTD 3145 \eTD \bTD Topeiritai \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatelé Topeiru \eTD \eTR
+\bTR \bTD 6683 \eTD \bTD Traianeoi \eTD \bTD Město \eTD \bTD Římský \eTD \bTD obyvatelé Augusty Traiany \eTD \eTR
+\bTR \bTD 7819 \eTD \bTD Trazyres \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\bTR \bTD 13087 \eTD \bTD Tyrios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD  \eTD \eTR
+\bTR \bTD 4797 \eTD \bTD Zmyrnaios \eTD \bTD Město \eTD \bTD Řecký \eTD \bTD obyvatel Smyrny \eTD \eTR
+\bTR \bTD 7779 \eTD \bTD \[?\]arakoi \eTD \bTD  \eTD \bTD Nejistý \eTD \bTD  \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+
+\placetable[split][4_11]{Přehled použitých geografickýc termínů, jejich charakteristika, známé umístění a krátký popis.}
+{\bTABLE[split=repeat,option=stretch] 
+\bTABLEhead
+\bTR \bTD Heurist ID \eTD \bTD Geografický \crlf termín \eTD \bTD Typ \eTD \bTD Krátký popis \eTD \bTD Moderní jméno \eTD \bTD Koordináty \crlf ({\em WKT} formát) \eTD \eTR
+\eTABLEhead
+\bTABLEbody
+\bTR \bTD 2093 \eTD \bTD Abdera \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Avdira \eTD \bTD POINT(24.9514602 40.9814734) \eTD \eTR
+\bTR \bTD 7085 \eTD \bTD Abritus \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD poblíž Razgradu \eTD \bTD POINT(26.5417788 43.5239399) \eTD \eTR
+\bTR \bTD 11635 \eTD \bTD Adramyt(t)ion \eTD \bTD Osídlení \eTD \bTD neznámé osídlení \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2699 \eTD \bTD Aigyptos \eTD \bTD Území \eTD \bTD stát \eTD \bTD Egypt \eTD \bTD POINT(31.2085533 30.0863254) \eTD \eTR
+\bTR \bTD 2094 \eTD \bTD Ainos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Enez \eTD \bTD POINT(26.084574 40.725024) \eTD \eTR
+\bTR \bTD 11644 \eTD \bTD Akras \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2059 \eTD \bTD Anchialos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Pomorie \eTD \bTD POINT(27.6155704 42.5680485) \eTD \eTR
+\bTR \bTD 2731 \eTD \bTD Apameia \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Dinar \eTD \bTD POINT(30.1540375 38.0610674) \eTD \eTR
+\bTR \bTD 7625 \eTD \bTD Apoulia \eTD \bTD Území \eTD \bTD region v Itálii \eTD \bTD Apoulia \eTD \bTD POINT(17.1011931 40.7928393) \eTD \eTR
+\bTR \bTD 3421 \eTD \bTD Apros / Apron \eTD \bTD Území \eTD \bTD osídlení v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 12856 \eTD \bTD Argaios \eTD \bTD Hora - pohoří \eTD \bTD hora \eTD \bTD hora v Kappadokii \eTD \bTD  \eTD \eTR
+\bTR \bTD 9450 \eTD \bTD Argedauon \eTD \bTD Osídlení \eTD \bTD město? \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 11634 \eTD \bTD Arseos \eTD \bTD Osídlení \eTD \bTD neznámé osídlení \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 12023 \eTD \bTD Asia \eTD \bTD Území \eTD \bTD provincie \eTD \bTD dnešní Turecko \eTD \bTD  \eTD \eTR
+\bTR \bTD 9168 \eTD \bTD Askanie \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Iznik, Turecko \eTD \bTD POINT(29.719743 40.429524) \eTD \eTR
+\bTR \bTD 13040 \eTD \bTD Astike \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD POINT(27.9217529 40.9840449) \eTD \eTR
+\bTR \bTD 2090 \eTD \bTD Athenai \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Athény \eTD \bTD POINT(23.7293097 37.9837155) \eTD \eTR
+\bTR \bTD 11533 \eTD \bTD Athioutike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 3002 \eTD \bTD Attike \eTD \bTD Území \eTD \bTD Attika \eTD \bTD Attika \eTD \bTD POINT(23.8952637 38.0264587) \eTD \eTR
+\bTR \bTD 2062 \eTD \bTD Augusta Traiana (Beroe) \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Stara Zagora \eTD \bTD POINT(25.6344644 42.4257769) \eTD \eTR
+\bTR \bTD 3437 \eTD \bTD Babylon \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Babylon \eTD \bTD POINT(52.6722336 36.5478455) \eTD \eTR
+\bTR \bTD 3152 \eTD \bTD Barilon? \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 13057 \eTD \bTD Bathonea \eTD \bTD Řeka \eTD \bTD řeka \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 7629 \eTD \bTD Bazopara \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 16641 \eTD \bTD Belana Praseon \eTD \bTD Území \eTD \bTD území \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 11532 \eTD \bTD Bioletike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 12053 \eTD \bTD Bithynia \eTD \bTD Území \eTD \bTD území \eTD \bTD Bíthýnia v Malé Asii \eTD \bTD  \eTD \eTR
+\bTR \bTD 7636 \eTD \bTD Bousipara \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 2105 \eTD \bTD Byzantion \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Istanbul \eTD \bTD POINT(28.9783589 41.0082376) \eTD \eTR
+\bTR \bTD 12051 \eTD \bTD Chartagenne \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Karthágo \eTD \bTD POINT(10.3329494 36.8625853) \eTD \eTR
+\bTR \bTD 2780 \eTD \bTD Chersonesos \eTD \bTD Území \eTD \bTD území \eTD \bTD dnešní Turecko \eTD \bTD  \eTD \eTR
+\bTR \bTD 6854 \eTD \bTD Dakia \eTD \bTD Území \eTD \bTD provincie \eTD \bTD dnešní Rumunsko \eTD \bTD  \eTD \eTR
+\bTR \bTD 10811 \eTD \bTD Debelt \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Debelt \eTD \bTD POINT(27.2673627 42.3917743) \eTD \eTR
+\bTR \bTD 2089 \eTD \bTD Delphi \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Delfy \eTD \bTD POINT(22.4940617 38.4800567) \eTD \eTR
+\bTR \bTD 2065 \eTD \bTD Dionysopolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Balčik \eTD \bTD POINT(28.1617188 43.4269047) \eTD \eTR
+\bTR \bTD 2066 \eTD \bTD Diospolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 16088 \eTD \bTD Discodouraterae \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD Gostilitsa \eTD \bTD  \eTD \eTR
+\bTR \bTD 8413 \eTD \bTD Dodoparon \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD poblíž Golyam Manastir \eTD \bTD POINT(26.3414383 42.2141841) \eTD \eTR
+\bTR \bTD 16684 \eTD \bTD Dourostorum \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Silistra \eTD \bTD POINT(27.2671901 44.1147271) \eTD \eTR
+\bTR \bTD 11529 \eTD \bTD Dresapaike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 12858 \eTD \bTD Efesos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Efesos \eTD \bTD POINT(27.3370743 37.9404069) \eTD \eTR
+\bTR \bTD 10899 \eTD \bTD Eitrizene \eTD \bTD Území \eTD \bTD vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2701 \eTD \bTD Eleusis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Eleusína poblíž Athén \eTD \bTD POINT(23.5412121 38.0422104) \eTD \eTR
+\bTR \bTD 13565 \eTD \bTD Emporion Thouidai \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD poblíž Slivenu \eTD \bTD POINT(26.322813 42.6819937) \eTD \eTR
+\bTR \bTD 16487 \eTD \bTD Ergiske \eTD \bTD Území \eTD \bTD území v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2702 \eTD \bTD Europa \eTD \bTD Území \eTD \bTD Evropa \eTD \bTD Evropa \eTD \bTD  \eTD \eTR
+\bTR \bTD 3454 \eTD \bTD Galatia \eTD \bTD Území \eTD \bTD území v Malé Asii \eTD \bTD dnešní Turecko \eTD \bTD  \eTD \eTR
+\bTR \bTD 7624 \eTD \bTD Geloupara \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 2164 \eTD \bTD Hadrianopolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Edirne \eTD \bTD POINT(26.5557145 41.6771297) \eTD \eTR
+\bTR \bTD 2162 \eTD \bTD Haimos \eTD \bTD Hora - pohoří \eTD \bTD pohoří Haimos \eTD \bTD Stara Planina \eTD \bTD POINT(25 43.25) \eTD \eTR
+\bTR \bTD 3348 \eTD \bTD Hebros \eTD \bTD Řeka \eTD \bTD řeka \eTD \bTD Marica \eTD \bTD  \eTD \eTR
+\bTR \bTD 2700 \eTD \bTD Hellas \eTD \bTD Území \eTD \bTD region \eTD \bTD Řecko \eTD \bTD POINT(22.835083 38.5266816) \eTD \eTR
+\bTR \bTD 2135 \eTD \bTD Herakleia Pontica \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Karadeniz Ereğli \eTD \bTD POINT(31.42026 41.279909) \eTD \eTR
+\bTR \bTD 2122 \eTD \bTD Istros \eTD \bTD Řeka \eTD \bTD řeka \eTD \bTD Dunaj \eTD \bTD POINT(26.8742272 44.0984174) \eTD \eTR
+\bTR \bTD 2068 \eTD \bTD Kabyle \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kabyle \eTD \bTD POINT(26.4784397 42.5474649) \eTD \eTR
+\bTR \bTD 14913 \eTD \bTD Kainon Frourion \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD  \eTD \bTD POINT(28.1830215 41.2248922) \eTD \eTR
+\bTR \bTD 2106 \eTD \bTD Kalchedon \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kadıköy \eTD \bTD POINT(29.08227 40.980141) \eTD \eTR
+\bTR \bTD 2069 \eTD \bTD Kallatis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Mangalia \eTD \bTD POINT(28.5741496 43.8152436) \eTD \eTR
+\bTR \bTD 11643 \eTD \bTD Karbateis \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2118 \eTD \bTD Kardia \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kardia \eTD \bTD POINT(26.6226196 40.3881354) \eTD \eTR
+\bTR \bTD 11538 \eTD \bTD Keirpara \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2596 \eTD \bTD Kos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kos \eTD \bTD POINT(27.2846317 36.8943802) \eTD \eTR
+\bTR \bTD 7626 \eTD \bTD Kourpisos \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 7622 \eTD \bTD Krasalopara \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 2107 \eTD \bTD Kyzikos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kyzikos \eTD \bTD POINT(27.8548444 40.39832) \eTD \eTR
+\bTR \bTD 10837 \eTD \bTD Ladikia \eTD \bTD Území \eTD \bTD území \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 6778 \eTD \bTD Lakedaimon \eTD \bTD Území \eTD \bTD Lakedaimón \eTD \bTD Lakedaimon, okolí Sparty \eTD \bTD POINT(22.4304771 37.0607937) \eTD \eTR
+\bTR \bTD 2088 \eTD \bTD Lesbos \eTD \bTD Území \eTD \bTD ostov, město \eTD \bTD Lesbos \eTD \bTD POINT(26.2777073 39.2645095) \eTD \eTR
+\bTR \bTD 12358 \eTD \bTD Lougdounon \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Lugdunum, Lyon \eTD \bTD POINT(4.8350573 45.7642149) \eTD \eTR
+\bTR \bTD 7627 \eTD \bTD Lykia \eTD \bTD Území \eTD \bTD území \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2166 \eTD \bTD Makedonia \eTD \bTD Území \eTD \bTD území \eTD \bTD  \eTD \bTD POINT(22.0027892 40.6170447) \eTD \eTR
+\bTR \bTD 11798 \eTD \bTD Markianopolis \eTD \bTD Osídlení \eTD \bTD území \eTD \bTD Marcianopolis, Devnya \eTD \bTD POINT(27.5583738 43.2197379) \eTD \eTR
+\bTR \bTD 2092 \eTD \bTD Maroneia \eTD \bTD Osídlení \eTD \bTD území \eTD \bTD Maroneia \eTD \bTD POINT(25.5171698 40.9044618) \eTD \eTR
+\bTR \bTD 6957 \eTD \bTD Maskiobria \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2071 \eTD \bTD Mesambria Pontica \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Nessebar \eTD \bTD POINT(27.7205593 42.6601365) \eTD \eTR
+\bTR \bTD 2428 \eTD \bTD Mestos (form of Nestos) \eTD \bTD Řeka \eTD \bTD řeka \eTD \bTD Néstos, Mesta \eTD \bTD  \eTD \eTR
+\bTR \bTD 15393 \eTD \bTD Mylassa \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Milas \eTD \bTD POINT(27.780795 37.311638) \eTD \eTR
+\bTR \bTD 2474 \eTD \bTD Neikaia \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Iznik \eTD \bTD POINT(28.0841017 38.1704637) \eTD \eTR
+\bTR \bTD 3657 \eTD \bTD Nikomedeia \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Izmit \eTD \bTD POINT(29.9295044 40.7659815) \eTD \eTR
+\bTR \bTD 3686 \eTD \bTD Nikopolis / Neikopolis pros Istro \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Nikjup \eTD \bTD POINT(25.5895185 43.2450152) \eTD \eTR
+\bTR \bTD 2074 \eTD \bTD Odessos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Varna \eTD \bTD POINT(27.9147333 43.2140504) \eTD \eTR
+\bTR \bTD 4969 \eTD \bTD Ogygia \eTD \bTD Území \eTD \bTD mýtické území \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 16683 \eTD \bTD Oiskos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Gigen \eTD \bTD POINT(24.48333 43.7) \eTD \eTR
+\bTR \bTD 11527 \eTD \bTD Olynthia (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2144 \eTD \bTD Olynthos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD  \eTD \bTD POINT(23.3426114 40.2911675) \eTD \eTR
+\bTR \bTD 12359 \eTD \bTD Oulokasseinon \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Velocassium \eTD \bTD  \eTD \eTR
+\bTR \bTD 3566 \eTD \bTD Oulpia Neikopolis \eTD \bTD Osídlení \eTD \bTD osídlení \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 7628 \eTD \bTD Pamfylia \eTD \bTD Území \eTD \bTD území \eTD \bTD dnešní Turecko \eTD \bTD  \eTD \eTR
+\bTR \bTD 10416 \eTD \bTD Pautalia \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Kjustendil \eTD \bTD POINT(22.6925611 42.28658) \eTD \eTR
+\bTR \bTD 7630 \eTD \bTD Peisidia \eTD \bTD Území \eTD \bTD území \eTD \bTD Pisidia, dnešní Turecko \eTD \bTD  \eTD \eTR
+\bTR \bTD 2598 \eTD \bTD Pentepolis \eTD \bTD Území \eTD \bTD skupina měst Z Thrákie \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2119 \eTD \bTD Perinthos \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Marmara Ereglisi \eTD \bTD POINT(27.95484 40.969332) \eTD \eTR
+\bTR \bTD 2636 \eTD \bTD Philippoi \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Philippi \eTD \bTD POINT(24.3386534 41.0251024) \eTD \eTR
+\bTR \bTD 2075 \eTD \bTD Philippopolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Plovdiv \eTD \bTD POINT(24.7452904 42.1354079) \eTD \eTR
+\bTR \bTD 14303 \eTD \bTD Philokterea \eTD \bTD Osídlení \eTD \bTD osídlení v Thrákii \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2076 \eTD \bTD Pistiros \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Pistiros \eTD \bTD POINT(24.0750155 42.2307172) \eTD \eTR
+\bTR \bTD 7603 \eTD \bTD Pizos \eTD \bTD Osídlení \eTD \bTD emporion \eTD \bTD poblíž města Stara Zagora \eTD \bTD POINT(25.5476546 42.1950308) \eTD \eTR
+\bTR \bTD 3427 \eTD \bTD Plotinopolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Didymoteicho \eTD \bTD POINT(26.4904015 41.3437186) \eTD \eTR
+\bTR \bTD 2080 \eTD \bTD Pontos \eTD \bTD Sea \eTD \bTD území, moře \eTD \bTD Černé moře \eTD \bTD POINT(34.299316 43.413029) \eTD \eTR
+\bTR \bTD 6853 \eTD \bTD Porolissum \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD osídlení v Rumunsku \eTD \bTD POINT(23.0670001 47.1898336) \eTD \eTR
+\bTR \bTD 13377 \eTD \bTD Raouenna \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Ravenna \eTD \bTD POINT(12.2052097 44.4206014) \eTD \eTR
+\bTR \bTD 2163 \eTD \bTD Rhodope \eTD \bTD Hora - pohoří \eTD \bTD pohoří Rhodopi \eTD \bTD Rhodopi \eTD \bTD POINT(24.574167 41.601111) \eTD \eTR
+\bTR \bTD 11528 \eTD \bTD Roimeletike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2081 \eTD \bTD Rome \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Řím \eTD \bTD POINT(12.4963655 41.9027835) \eTD \eTR
+\bTR \bTD 7989 \eTD \bTD Rysike \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2086 \eTD \bTD Samothrake \eTD \bTD Osídlení \eTD \bTD ostov, město \eTD \bTD Samothráké \eTD \bTD POINT(25.5917918 40.4476834) \eTD \eTR
+\bTR \bTD 8412 \eTD \bTD Sapaike \eTD \bTD Území \eTD \bTD území \eTD \bTD oblast okolo Abdéry \eTD \bTD POINT(24.9514602 40.9814734) \eTD \eTR
+\bTR \bTD 16672 \eTD \bTD Sardes \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Sardy \eTD \bTD POINT(28.1114445 38.4663784) \eTD \eTR
+\bTR \bTD 11535 \eTD \bTD Seletike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 7988 \eTD \bTD Selletike \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD v okolí města Marciánopolis \eTD \bTD  \eTD \eTR
+\bTR \bTD 2120 \eTD \bTD Selymbria \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Silivri \eTD \bTD POINT(28.247868 41.073678) \eTD \eTR
+\bTR \bTD 2078 \eTD \bTD Seuthopolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Koprinka \eTD \bTD POINT(25.3034842 42.6170941) \eTD \eTR
+\bTR \bTD 7619 \eTD \bTD Skedabria \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 10911 \eTD \bTD Skeiame \eTD \bTD Osídlení \eTD \bTD osídlení \eTD \bTD  \eTD \bTD POINT(23.2246685 41.6639997) \eTD \eTR
+\bTR \bTD 7623 \eTD \bTD Skepte \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 11642 \eTD \bTD Skerezis \eTD \bTD Osídlení \eTD \bTD osídlení \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 3439 \eTD \bTD Smyrna / Zmyrna \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Izmir \eTD \bTD POINT(27.1219826 38.4122732) \eTD \eTR
+\bTR \bTD 2091 \eTD \bTD Sparta \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Sparta \eTD \bTD POINT(22.430264 37.074461) \eTD \eTR
+\bTR \bTD 10627 \eTD \bTD Spinopara \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD  \eTD \bTD POINT(22.7822113 42.3239049) \eTD \eTR
+\bTR \bTD 7620 \eTD \bTD Stratopara \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 7634 \eTD \bTD Strouneilos \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD poblíž emporia Pizos, okolí města Stara Zagora \eTD \bTD  \eTD \eTR
+\bTR \bTD 14075 \eTD \bTD Syria \eTD \bTD Území \eTD \bTD území \eTD \bTD Syria \eTD \bTD  \eTD \eTR
+\bTR \bTD 2133 \eTD \bTD Teos \eTD \bTD Území \eTD \bTD město \eTD \bTD Sığacık \eTD \bTD POINT(26.777552 38.187557) \eTD \eTR
+\bTR \bTD 2332 \eTD \bTD Thessalonike \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Soluň - Thessaloniki \eTD \bTD POINT(22.9446064 40.6393495) \eTD \eTR
+\bTR \bTD 11530 \eTD \bTD Thoukysidantike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 2167 \eTD \bTD Thrake \eTD \bTD Území \eTD \bTD území \eTD \bTD Thrákie \eTD \bTD POINT(26.4086816 42.2640806) \eTD \eTR
+\bTR \bTD 3347 \eTD \bTD Traianoupolis \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD Traianoupoli  \eTD \bTD POINT(26.0320616 40.8648481) \eTD \eTR
+\bTR \bTD 12052 \eTD \bTD Troias \eTD \bTD Území \eTD \bTD území \eTD \bTD okolí Tróje \eTD \bTD  \eTD \eTR
+\bTR \bTD 2123 \eTD \bTD Tyras \eTD \bTD Osídlení \eTD \bTD město \eTD \bTD  Bilhorod-Dnistrovskyi \eTD \bTD POINT(30.3414908 46.1854516) \eTD \eTR
+\bTR \bTD 3125 \eTD \bTD Vicus Trullensium \eTD \bTD Osídlení \eTD \bTD vesnice \eTD \bTD Kunino \eTD \bTD POINT(23.997 43.18792) \eTD \eTR
+\bTR \bTD 10893 \eTD \bTD Zebastene \eTD \bTD Území \eTD \bTD thrácká vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 10892 \eTD \bTD Zerklene \eTD \bTD Území \eTD \bTD thrácká vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 11531 \eTD \bTD Zraike (strategia) \eTD \bTD Území \eTD \bTD stratégia \eTD \bTD  \eTD \bTD  \eTD \eTR
+\bTR \bTD 11194 \eTD \bTD Zylouzeny? \eTD \bTD Osídlení \eTD \bTD thrácká vesnice \eTD \bTD  \eTD \bTD  \eTD \eTR
+\eTABLEbody
+\eTABLE}
+
+
+\placetable[5_00]{Celkový počet záznamů v databázi Hellenization of Ancient Thrace, dále rozdělený dle jednotlivých druhů záznamů.}
+{\bTABLE
+\bTR \bTD {\em Hellenization of Ancient Thrace}: \crlf Druh záznamu v databázi \eTD \bTD Popis druhu záznamu \eTD \bTD Počet záznamů \eTD \eTR
+\bTR \bTD Person (epigraphic) \eTD \bTD Osoba vystupující na nápise \eTD \bTD 5464 \eTD \eTR
+\bTR \bTD Inscription Info \eTD \bTD Základní informace o nápise \eTD \bTD 4665 \eTD \eTR
+\bTR \bTD Personal name \eTD \bTD Osobní jméno \eTD \bTD 3956 \eTD \eTR
+\bTR \bTD Location data \eTD \bTD Záznamy o lokalitě, místě nálezu nápisu \eTD \bTD 678 \eTD \eTR
+\bTR \bTD Epithet \eTD \bTD Božské přízvisko \eTD \bTD 233 \eTD \eTR
+\bTR \bTD Collective Group name \eTD \bTD Vyjádření kolektivní identity \eTD \bTD 178 \eTD \eTR
+\bTR \bTD Religious keywords \eTD \bTD Hledaný termín s náboženskou tematikou \eTD \bTD 137 \eTD \eTR
+\bTR \bTD Geographic name \eTD \bTD Zeměpisné jméno \eTD \bTD 134 \eTD \eTR
+\bTR \bTD Administrative keywords \eTD \bTD Hledaný termín spojený s organizací společnosti \eTD \bTD 112 \eTD \eTR
+\bTR \bTD Formulaic keywords \eTD \bTD Typické epigrafické formule \eTD \bTD 49 \eTD \eTR
+\bTR \bTD Honorific keywords \eTD \bTD Hledaný termín se zaměřením na udílení poct \eTD \bTD 37 \eTD \eTR
+\bTR \bTD Person (modern author) \eTD \bTD Autor záznamu \eTD \bTD 3 \eTD \eTR
+\eTABLE}
+
+
+\placetable[5_01]{Stupeň dochování nápisu a celkový počet nápisů v jednotlivých kategoriích.}
+{\bTABLE
+\bTR \bTD Stupeň dochování nápisu \eTD \bTD Počet nápisů \eTD \bTD Procentuální zastoupení \crlf (100 \% = 4665 nápisů) \eTD \eTR
+\bTR \bTD Intaktní až lehce poničený (100-76 \% dochováno) \eTD \bTD 725 \eTD \bTD 15,54 \eTD \eTR
+\bTR \bTD Lehce poničený (75-51 \%) \eTD \bTD 549 \eTD \bTD 11,77 \eTD \eTR
+\bTR \bTD Těžce poničený (50-26 \%) \eTD \bTD 717 \eTD \bTD 15,37 \eTD \eTR
+\bTR \bTD Téměř zničený (25-1 \%) \eTD \bTD 1038 \eTD \bTD 22,25 \eTD \eTR
+\bTR \bTD Dochovaný pouze jako oklepek \eTD \bTD 45 \eTD \bTD 0,96 \eTD \eTR
+\bTR \bTD Dochovaný pouze jako kresba \eTD \bTD 194 \eTD \bTD 4,16 \eTD \eTR
+\bTR \bTD Ztracený, ale existuje záznam \eTD \bTD 145 \eTD \bTD 3,11 \eTD \eTR
+\bTR \bTD Nemožné určit stav dochování, informace neuvedena \eTD \bTD 1252 \eTD \bTD 26,84 \eTD \eTR
+\eTABLE}
+
+
+\placetable[5_02]{Celkový přehled nápisů dle jejich typologie a jejich průměrná délka.}
+{\bTABLE
+\bTR \bTD Typ nápisů \eTD \bTD Počet nápisů \eTD \bTD \% všech nápisů \crlf (100 \% = 4665 nápisů)\eTD \bTD Průměrná délka nápisů \crlf (počet řádků), aritm. průměr \eTD \bTD Průměrná délka nápisů \crlf (počet řádků), medián \eTD \eTR
+\bTR \bTD Soukromé \eTD \bTD 3609 \eTD \bTD 77,36 \eTD \bTD 3,71 \eTD \bTD 2 \eTD \eTR
+\bTR \bTD Veřejné \eTD \bTD 717 \eTD \bTD 15,36 \eTD \bTD 10,93 \eTD \bTD 8 \eTD \eTR
+\bTR \bTD Nemožné určit \eTD \bTD 339 \eTD \bTD 7,28 \eTD \bTD 2,96 \eTD \bTD 2 \eTD \eTR
+\eTABLE}
+
+
+\placetable[5_03]{Celkový přehled soukromých nápisů dle jejich typologie a jejich procentuální zastoupení.}
+{\bTABLE
+\bTR \bTD Typ soukromých nápisů \crlf (možnost kombinace hodnot, n>100 \%) \eTD \bTD Počet nápisů \eTD \bTD \% soukromých nápisů \crlf (n = 3609) \eTD \bTD \% všech nápisů \crlf (n = 4665)\eTD \eTR
+\bTR \bTD Funerální \eTD \bTD 1740 \eTD \bTD 48,21 \eTD \bTD 37,29 \eTD \eTR
+\bTR \bTD Dedikační \eTD \bTD 1777 \eTD \bTD 49,23 \eTD \bTD 38,09 \eTD \eTR
+\bTR \bTD Vlastnictví \eTD \bTD 29 \eTD \bTD 0,80 \eTD \bTD 0,62 \eTD \eTR
+\bTR \bTD Jiné \eTD \bTD 27 \eTD \bTD 0,75 \eTD \bTD 0,58 \eTD \eTR
+\bTR \bTD Neurčitelné \eTD \bTD 104 \eTD \bTD 2,88 \eTD \bTD 2,22 \eTD \eTR
+\eTABLE}
+
+\placetable[5_04]{Celkový přehled veřejných nápisů dle jejich typologie a jejich procentuální zastoupení.}
+{\bTABLE
+\bTR \bTD Typ veřejných nápisů \crlf (možnost kombinace hodnot, \crlf tj. součet je větší než 100 \%) \eTD \bTD Počet nápisů \eTD \bTD \% veřejných nápisů \crlf (n = 717) \eTD \bTD \% všech nápisů \crlf (n = 4665) \eTD \eTR
+\bTR \bTD Honorifikační \eTD \bTD 298 \eTD \bTD 41,56 \eTD \bTD 6,39 \eTD \eTR
+\bTR \bTD Seznamy \eTD \bTD 64 \eTD \bTD 8,92 \eTD \bTD 1,37 \eTD \eTR
+\bTR \bTD Státní dekrety, nařízení a zákony \eTD \bTD 110 \eTD \bTD 15,34 \eTD \bTD 2,35 \eTD \eTR
+\bTR \bTD Náboženské \eTD \bTD 53 \eTD \bTD 7,39 \eTD \bTD 1,14 \eTD \eTR
+\bTR \bTD Jiné \eTD \bTD 137 \eTD \bTD 19,10 \eTD \bTD 2,94 \eTD \eTR
+\bTR \bTD Nemožné určit \eTD \bTD 81 \eTD \bTD 11,29 \eTD \bTD 1,74 \eTD \eTR
+\eTABLE}
+
+
+\placetable[5_05]{Užití osobních jmen vyskytujících se na nápisech a jejich rozdělení dle pohlaví a vztahu k osobě, jejíž identita byla na nápise specifikována (rodič, prarodič, partner, individuální osobní jméno).}
+{\bTABLE
+\bTR \bTD Typ jména \eTD \bTD Nejasné \crlf jméno \eTD \bTD \% \eTD \bTD Ženské \crlf jméno \eTD \bTD \% \eTD \bTD Mužské \crlf jméno \eTD \bTD \% \eTD \bTD Celkem \crlf jmen \eTD \bTD Celkem \% \eTD \eTR
+\bTR \bTD Prarodič \eTD \bTD 2 \eTD \bTD 3,39 \% \eTD \bTD 3 \eTD \bTD 5,08 \% \eTD \bTD 54 \eTD \bTD 91,53 \% \eTD \bTD 59 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Rodič \eTD \bTD 130 \eTD \bTD 3,87 \% \eTD \bTD 128 \eTD \bTD 3,81 \% \eTD \bTD 3101 \eTD \bTD 92,32 \% \eTD \bTD 3359 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Partner \eTD \bTD 23 \eTD \bTD 4,97 \% \eTD \bTD 199 \eTD \bTD 42,98 \% \eTD \bTD 241 \eTD \bTD 52,05 \% \eTD \bTD 463 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Individuální jméno \eTD \bTD 473 \eTD \bTD 5,12 \% \eTD \bTD 1278 \eTD \bTD 13,84 \% \eTD \bTD 7483 \eTD \bTD 81,04 \% \eTD \bTD 9234 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Celkový poměr \eTD \bTD 628 \eTD \bTD 4,79 \% \eTD \bTD 1608 \eTD \bTD 12,26 \% \eTD \bTD 10879 \eTD \bTD 82,95 \% \eTD \bTD 13115 \eTD \bTD  \eTD \eTR
+\eTABLE}
+
+
+\placetable[5_06]{Přehled užitých osobních jmen dle jejich tradičního kulturního zařazení.}
+{\bTABLE
+\bTR \bTD Původ jména \eTD \bTD Počet jmen \eTD \bTD \% zastoupení \eTD \eTR
+\bTR \bTD Řecká jména \eTD \bTD 5424 \eTD \bTD 41,36 \% \eTD \eTR
+\bTR \bTD Thrácká i řecká jména \eTD \bTD 2 \eTD \bTD 0,02 \% \eTD \eTR
+\bTR \bTD Římská jména \eTD \bTD 4694 \eTD \bTD 35,79 \% \eTD \eTR
+\bTR \bTD Thrácká jména \eTD \bTD 1780 \eTD \bTD 13,57 \% \eTD \eTR
+\bTR \bTD Jména nejistého původu \eTD \bTD 1215 \eTD \bTD 9,26 \% \eTD \eTR
+\bTR \bTD Celkem \eTD \bTD 13115 \eTD \bTD 100,00 \% \eTD \eTR
+\eTABLE}
+
+\placetable[5_07]{Přehled původu osobních jmen v závislosti na typologii osobního jména a vztahu k osobě, jejíž identita byla na nápise specifikována (rodič, prarodič, partner, individuální osobní jméno).}
+{\bTABLE
+\bTR \bTD Typ jména \eTD \bTD Řecká jména \eTD \bTD Řecká-thrácká \crlf jména \eTD \bTD Římská jména \eTD \bTD Thrácká jména \eTD \bTD Nejistá jména \eTD \bTD Jména \crlf celkem \% \eTD \eTR
+\bTR \bTD Prarodič \eTD \bTD 0,61 \% \eTD \bTD 0 \% \eTD \bTD 0,26 \% \eTD \bTD 0,62 \% \eTD \bTD 0,25 \% \eTD \bTD 0,45 \% \eTD \eTR
+\bTR \bTD Rodič \eTD \bTD 37,78 \% \eTD \bTD 0 \% \eTD \bTD 7,65 \% \eTD \bTD 36,57 \% \eTD \bTD 24,69 \% \eTD \bTD 25,61 \% \eTD \eTR
+\bTR \bTD Partner \eTD \bTD 4,35 \% \eTD \bTD 0 \% \eTD \bTD 2,02 \% \eTD \bTD 4,21 \% \eTD \bTD 4,69 \% \eTD \bTD 3,53 \% \eTD \eTR
+\bTR \bTD Individuální jméno \eTD \bTD 57,26 \% \eTD \bTD 100,00 \% \eTD \bTD 90,07 \% \eTD \bTD 58,60 \% \eTD \bTD 70,37 \% \eTD \bTD 70,41 \% \eTD \eTR
+\bTR \bTD Celkem \eTD \bTD 100,00 \% \eTD \bTD 100,00 \% \eTD \bTD 100,00 \% \eTD \bTD 100,00 \% \eTD \bTD 100,00 \% \eTD \bTD 100,00 \% \eTD \eTR
+\eTABLE}
+
+\placetable[5_08]{Srovnání výskytu ženských a mužských jmen v závislosti na kulturním prostředí, z nějž osobní jména pocházela.}
+{\bTABLE
+\bTR \bTD Původ jména \eTD \bTD[nc=3] Počet jmen dle pohlaví \eTD \bTD [nc=3] \% zastoupení \eTD \bTD [nc=2] Celkem \eTD \eTR
+\bTR \bTD  \eTD \bTD {\bf Nejisté \crlf pohlaví} \eTD \bTD {\bf Ženská \crlf jména} \eTD \bTD {\bf Mužská \crlf jména} \eTD \bTD {\bf Nejisté \crlf pohlaví} \eTD \bTD {\bf Ženská \crlf jména} \eTD \bTD {\bf Mužská \crlf jména} \eTD \bTD {\bf Celkem \crlf jmen} \eTD \bTD {\bf Celkem \%}\eTD \eTR
+\bTR \bTD Řecká jména \eTD \bTD 41 \eTD \bTD 751 \eTD \bTD 4632 \eTD \bTD 0,76 \% \eTD \bTD 13,85 \% \eTD \bTD 85,40 \% \eTD \bTD 5424 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Thrácká i řecká \crlf jména \eTD \bTD 0 \eTD \bTD 0 \eTD \bTD 2 \eTD \bTD 0 \eTD \bTD 0 \eTD \bTD 100,00 \% \eTD \bTD 2 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Římská jména \eTD \bTD 14 \eTD \bTD 529 \eTD \bTD 4151 \eTD \bTD 0,30 \% \eTD \bTD 11,27 \% \eTD \bTD 88,43 \% \eTD \bTD 4694 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Thrácká jména \eTD \bTD 56 \eTD \bTD 188 \eTD \bTD 1536 \eTD \bTD 3,15 \% \eTD \bTD 10,56 \% \eTD \bTD 86,29 \% \eTD \bTD 1780 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Jména nejistého \crlf původu \eTD \bTD 517 \eTD \bTD 140 \eTD \bTD 558 \eTD \bTD 42,55 \% \eTD \bTD 11,52 \% \eTD \bTD 45,93 \% \eTD \bTD 1215 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Celkem \eTD \bTD 628 \eTD \bTD 1608 \eTD \bTD 10879 \eTD \bTD 4,79 \% \eTD \bTD 12,26 \% \eTD \bTD 82,95 \% \eTD \bTD 13115 \eTD \bTD 100,00 \% \eTD \eTR
+\eTABLE}
+
+\placetable[5_09]{Srovnání výskytu ženských a mužských jmen v závislosti na kulturním prostředí a na druhu jména (vztahu k osobě, jejíž identita byla na nápise specifikována).}
+{\bTABLE
+\bTR \bTD Původ jména \eTD \bTD[nc=4] Ženská jména \eTD \bTD[nc=4]  Mužská jména \eTD \bTD[nc=2] Celkem \eTD \eTR
+\bTR \bTD  \eTD \bTD {\bf Prarodič} \eTD \bTD {\bf Rodič} \eTD \bTD {\bf Partner} \eTD \bTD {\bf Individuální \crlf jméno} \eTD \bTD {\bf Prarodič} \eTD \bTD {\bf Rodič} \eTD \bTD {\bf Partner} \eTD \bTD {\bf Individuální \crlf jméno} \eTD \bTD {\bf Celkem \crlf jmen} \eTD \bTD {\bf Celkem \%} \eTD \eTR
+\bTR \bTD Řecká jména \eTD \bTD 0,04 \% \eTD \bTD 1,67 \% \eTD \bTD 1,58 \% \eTD \bTD 10,66 \% \eTD \bTD 0,58 \% \eTD \bTD 36,26 \% \eTD \bTD 2,81 \% \eTD \bTD 46,41 \% \eTD \bTD 5424 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Thrácká i řecká jména \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 0 \% \eTD \bTD 100,00 \% \eTD \bTD 2 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Římská jména \eTD \bTD 0,02 \% \eTD \bTD 0,41 \% \eTD \bTD 1,00 \% \eTD \bTD 9,87 \% \eTD \bTD 0,24 \% \eTD \bTD 7,26 \% \eTD \bTD 1,03 \% \eTD \bTD 80,17 \% \eTD \bTD 4694 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Thrácká jména \eTD \bTD 0 \% \eTD \bTD 0,87 \% \eTD \bTD 2,38 \% \eTD \bTD 7,66 \% \eTD \bTD 0,58 \% \eTD \bTD 36,14 \% \eTD \bTD 1,74 \% \eTD \bTD 50,64 \% \eTD \bTD 1780 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Jména nejistého původu \eTD \bTD 0 \% \eTD \bTD 0,57 \% \eTD \bTD 3,72 \% \eTD \bTD 15,76 \% \eTD \bTD 0,29 \% \eTD \bTD 26,65 \% \eTD \bTD 1,72 \% \eTD \bTD 51,29 \% \eTD \bTD 1215 \eTD \bTD 100,00 \% \eTD \eTR
+\bTR \bTD Celkem \eTD \bTD 0,02 \% \eTD \bTD 1,03 \% \eTD \bTD 1,59 \% \eTD \bTD 10,23 \% \eTD \bTD 0,43 \% \eTD \bTD 24,83 \% \eTD \bTD 1,93 \% \eTD \bTD 59,93 \% \eTD \bTD 13115 \eTD \bTD 100,00 \% \eTD \eTR
+\eTABLE}
+
+
+
+\placetable[7_01]{Srovnání celkového počtu epigrafických lokalit v jednotlivých stoletích dle šíře jejiSrovnání celkového počtu lokalit v jednotlivých stoletích dle Hansena {\em et al.} (2004) a dle Talberta (2000) s celkovým počtem epigraficky aktivních lokalit v daném období.}
+{\bTABLE
+\bTR \bTD Století \eTD \bTD Počet arch. \crlf lokalit dle \crlf Hansen {\em et al.} \crlf (2004) \eTD \bTD Počet arch. \crlf lokalit dle \crlf Talbert (2000) \eTD \bTD Celkový počet epigrafických lokalit s 1 a více nápisy \eTD \bTD Poměr epigraficky aktivních lokalit (Hansen {\em et al.} 2004) \eTD \bTD Poměr epigraficky aktivních lokalit (Talbert 2000) \eTD \eTR
+\bTR \bTD 7. st. př. n. l. \eTD \bTD 14 \eTD \bTD 19 \eTD \bTD \[1\] \eTD \bTD 7,14 \% \eTD \bTD 5,26 \% \eTD \eTR
+\bTR \bTD 6. st. př. n. l. \eTD \bTD 27 \eTD \bTD 19 \eTD \bTD 3 \eTD \bTD 11,11 \% \eTD \bTD 15,79 \% \eTD \eTR
+\bTR \bTD 5. st. př. n. l. \eTD \bTD 31 \eTD \bTD 73 \eTD \bTD 13 \eTD \bTD 41,93 \% \eTD \bTD 17,80 \% \eTD \eTR
+\bTR \bTD 4. st. př. n. l. \eTD \bTD 38 \eTD \bTD 73 \eTD \bTD 26 \eTD \bTD 68,42 \% \eTD \bTD 35,51 \% \eTD \eTR
+\eTABLE}
+
+
+
+
+
+\placetable[7_02]{Srovnání celkového počtu epigrafických lokalit v jednotlivých stoletích dle šíře jejich datace a typologie nápisu.}
+{\bTABLE
+\bTR \bTD Století\eTD \bTD Celkový počet epigrafických lokalit s 1 a více nápisy\eTD \bTD Počet nápisů datovaných s přesností do jednoho století\eTD \bTD Průměrný počet nápisů na lokalitu\eTD \bTD Počet soukromých nápisů\eTD \bTD Počet veřejných nápisů \eTD \eTR
+\bTR \bTD 7. st. př. n. l.\eTD \bTD\[1\]\eTD \bTD\[2\]\eTD \bTD\[2\]\eTD \bTD0\eTD \bTD\[2\] \eTD \eTR
+\bTR \bTD 6. st. př. n. l.\eTD \bTD3\eTD \bTD3\eTD \bTD1,0\eTD \bTD3\eTD \bTD0 \eTD \eTR
+\bTR \bTD 5. st. př. n. l.\eTD \bTD13\eTD \bTD60\eTD \bTD4,6\eTD \bTD55\eTD \bTD3 \eTD \eTR
+\bTR \bTD 4. st. př. n. l.\eTD \bTD26\eTD \bTD168\eTD \bTD6,5\eTD \bTD153\eTD \bTD9 \eTD \eTR
+\bTR \bTD 3. st. př. n. l.\eTD \bTD18\eTD \bTD117\eTD \bTD6,5\eTD \bTD79\eTD \bTD36 \eTD \eTR
+\bTR \bTD 2. st. př. n. l.\eTD \bTD23\eTD \bTD115\eTD \bTD5,0\eTD \bTD86\eTD \bTD25 \eTD \eTR
+\bTR \bTD 1. st. př. n. l.\eTD \bTD13\eTD \bTD69\eTD \bTD5,3\eTD \bTD50\eTD \bTD17 \eTD \eTR
+\eTABLE}
+
+
+
+\placetable[7_03]{Srovnání celkového počtu lokalit v Kazanlackém údolí v době pozdně železné a v době římské s celkovým počtem epigraficky aktivních lokalit v daném období.}
+{\bTABLE
+\bTR \bTD Období \eTD \bTD Počet lokalit \eTD \bTD Počet nápisů \eTD \bTD Počet lokalit \crlf s nápisy \eTD \bTD Poměr epigraficky \crlf aktivních lokalit \eTD \eTR
+\bTR \bTD Doba pozdně železná \crlf(500 - 0 př. n. l.) \eTD \bTD 38 \eTD \bTD 8 \eTD \bTD 4 \eTD \bTD 10,5 \% \eTD \eTR
+\bTR \bTD Doba římská \crlf(1- 400 n. l.) \eTD \bTD 23 \eTD \bTD 35 \eTD \bTD 5 \eTD \bTD 21,7 \% \eTD \eTR
+\eTABLE}
 
 
 
