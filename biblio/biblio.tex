@@ -9,7 +9,6 @@
 \stopluacode
 
 
-\usebtxdataset[dis_biblio_21June2017]
 \usebtxdefinitions[apa]
 
 \unprotect
@@ -48,10 +47,31 @@ etaldisplay=2,
 etallimit=3
 ]
 
+\usebtxdataset[teze_biblio_26June2017][teze_biblio_26June2017.bib]
+\usebtxdataset[epigraphic][epigraphic.bib]
+\usebtxdataset[secondary][dis_biblio_26June2017.bib]
 
 \startchapter[title=Bibliografie]
 
-\placelistofpublications[method=dataset]
+\section{Primární antické literární prameny}
+\placelistofpublications % aka \placebtxrendering
+[teze_biblio_26June2017] % rendering defined above
+[method=dataset] % i.e. all entries
+
+
+
+\section{Primární epigrafické prameny}
+\placelistofpublications % aka \placebtxrendering
+[epigraphic] % rendering defined above
+[method=dataset] % i.e. all entries
+
+
+\section{Sekundární prameny}
+\placelistofpublications % aka \placebtxrendering
+[secondary] % rendering defined above
+[method=dataset] % i.e. all entries
+
+
 \stopchapter
 
 

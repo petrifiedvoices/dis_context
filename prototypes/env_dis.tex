@@ -1,4 +1,4 @@
-cd\startenvironment env_dis
+\startenvironment env_dis
 \mainlanguage[cs]
 \enableregime[latin2]
 \enableregime[utf]
@@ -8,15 +8,7 @@ cd\startenvironment env_dis
 \setuppapersize[A4][A4]
 \setuplayout[location=singlesided, topspace=20mm, backspace=30mm, rightmargin=20mm, bottomspace=20mm, header=24pt, footer=24pt, width=fit, height=fit]
 
-\definefontfeature
-  [default]
-  [default]
-  [protrusion=quality,expansion=quality]
-
-
-\definefontfamily [myfamily] [serif] [Gentium] [protrusion=quality,expansion=quality]
-\setupbodyfont[myfamily, gentium]
-
+\setupbodyfont[gentium,12pt]
 \setupwhitespace[none]
 
 \setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
@@ -45,111 +37,23 @@ cd\startenvironment env_dis
 \setupitemize[autointro]    % prevent orphan list intro
 \setupitemize[indentnext=no]
 
-\setupalign[nothanging,hyphenated,justified, hz]
+\setupalign[nothanging,hyphenated,justified]
 \setupindenting[yes,medium,first]
 \setupitemize[indentnext=no]
 
-\setupfloat[figure][default={here,number}]
-\setupfloat[table][default={here,number}]
+\setupfloat[figure][default={here,number}, boffset=10pt]
+\setupfloat[table][default={here,number}, boffset=10pt]
 
-\setupcaption[table][location=bottom,align=middle]
-\setupcaptions[style={\tfx},align=middle,location=bottom]
+\setupcaption[table][location=top,align=right]
+\setupcaption[style={\tfx},align=left,location=bottom]
 
 \setupexternalfigures[location=default]
 
-\setupTABLE[c][each][align=flushleft]
-\setupTABLE[r][each][background=color,backgroundcolor=gray,style={\tfx\setupalign[nothyphenated, verytolerant, flushleft]  \setupinterlinespace[line=1.8ex]
-}, topframe=off, bottomframe=off]
+\setupTABLE[c][each][align=flushleft,style={\tfxx}]
+\setupTABLE[r][1][background=color,backgroundcolor=gray,style={\tfxx\bf}]
+\setupTABLE[align=middle,option=stretch]
 
-\setupTABLE[c][1][width=.2\textwidth]
-\setupTABLE[c][2][width=.8\textwidth]
-
-
-\setupTABLE[r][first][topframe=on]
-\setupTABLE[c][first][rightframe=off]
-\setupTABLE[c][last][leftframe=off]
-\setupTABLE[r][last][bottomframe=on]
-
-\setupTABLE[align=middle]
-\setupTABLE[split=repeat]
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
-
-\usemodule[database]
-
-
-\defineframed[noteframed]
-\setupframed[noteframed]
-  [width=\textwidth,
-   frame=on,
-   align=right,
-   %height=fit,
-   top=\hbox\bgroup,
-   bottom=\egroup]
-
-\defineseparatedlist[CSV]
-  [separator={~},
-   quotechar={},
-   left=\bTD,right=\eTD,
-   first=\bTR,last=\eTR,
-   before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
-
-
-\unprotect
-
-\def\citet{\dosingleempty\doCiteT}
-\def\doCiteT[#1]#2{%
-  \iffirstargument
-    \cite[alternative=authoryear,extras={, #1}][#2]%
-  \else
-    \cite[alternative=authoryear][#2]%
-  \fi
-}
-
-\def\citep{\dosingleempty\doCiteP}
-\def\doCiteP[#1]#2{%
-  \iffirstargument
-    \cite[alternative=authoryears,extras={, #1}][#2]%
-  \else
-    \cite[alternative=authoryears][#2]%
-  \fi
-}
-
-\define[1]\citeyear{\cite[alternative=year,left={},right={}][#1]}
-\define[1]\citeauthor{\cite[alternative=author,left={},right={}][#1]}
-
-\protect
-
-%\usebtxdataset[mkiv-publications.bib]
-
-
-% \definebtxdataset[standard]
-% \usebtxdataset[standard][sample.bib]
-
- \definebtxrendering
- [dataset=sample,
- method=local,
- alternative=apa]
-
-\usebtxdataset[sample.bib]
-\usebtxdefinitions[apa] % see p.15
-
-% \usemodule[bib]
-
-% \setupbibtex[database={sample.bib}]
-% \setuppublications[alternative=apa]
-% %\setuppublications[refcommand=authoryear]
-
-% \setupcite
-%        [authoryears]
-%        [pubsep={, },
-%         lastpubsep={ and },
-%         compress=yes,
-%         inbetween={ },
-%         left={(},
-%         right={)}]
-
-% \setupheadtext[en][pubs=References]
-%\setupbtxcitevariant[authoryears][inbetween={,}]
 
 \stopenvironment
