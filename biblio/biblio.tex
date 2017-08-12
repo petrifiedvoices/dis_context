@@ -12,6 +12,7 @@
 \def\textampersand{a}
 \protect
 
+\setuplocalinterlinespace[line=2.8ex] %spacing 1
 
 \setupbtxlabeltext
   [cz]
@@ -53,21 +54,20 @@ etallimit=3
 
 \starttext
 \startchapter[title=Bibliografie]
-\input knuth
-\cite[authoryear][ancient::Aeschines1919]
-\cite[authoryear][epigraphic::Gyuzelev2005]
+
 \section{Primární antické literární prameny}
+* Jméno antického autora je uvedeno v podobě jako má v citované publikaci 
+\crlf
+
 \placelistofpublications % aka \placebtxrendering
 [ancient] % rendering defined above
 [method=dataset] % i.e. all entries
-
 
 
 \section{Primární epigrafické prameny}
 \placelistofpublications % aka \placebtxrendering
 [epigraphic] % rendering defined above
 [method=dataset] % i.e. all entries
-
 
 \section{Sekundární prameny}
 \placelistofpublications % aka \placebtxrendering
