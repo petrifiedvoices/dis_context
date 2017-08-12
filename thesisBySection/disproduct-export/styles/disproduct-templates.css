@@ -1,3 +1,88 @@
 /* template for file disproduct */
 
 @namespace context url('%namespace%') ;
+
+
+/* element="description" detail="footnote" chain="footnote" */
+
+description[detail=footnote], div.description.footnote {
+    display: block ;
+}
+
+/* element="descriptioncontent" detail="" chain="" */
+
+descriptioncontent, div.descriptioncontent {
+    display: inline ;
+}
+
+/* element="descriptionsymbol" detail="footnote" chain="" */
+
+descriptionsymbol[detail=footnote], div.descriptionsymbol.footnote {
+    display: inline ;
+}
+
+/* element="descriptiontag" detail="" chain="" */
+
+descriptiontag, div.descriptiontag {
+    display: inline ;
+}
+
+/* element="document" detail="" chain="" */
+
+document, div.document {
+    display: block ;
+}
+
+/* element="link" detail="" chain="" */
+
+link, div.link {
+    display: inline ;
+}
+
+/* element="section" detail="chapter" chain="chapter" */
+
+section[detail=chapter], div.section.chapter {
+    display: block ;
+}
+
+/* element="section" detail="section" chain="section" */
+
+section[detail=section], div.section.section {
+    display: block ;
+}
+
+/* element="section" detail="subsection" chain="subsection" */
+
+section[detail=subsection], div.section.subsection {
+    display: block ;
+}
+
+/* element="section" detail="subsubsection" chain="subsubsection" */
+
+section[detail=subsubsection], div.section.subsubsection {
+    display: block ;
+}
+
+/* element="sectioncontent" detail="" chain="" */
+
+sectioncontent, div.sectioncontent {
+    display: block ;
+}
+
+/* element="sectionnumber" detail="" chain="" */
+
+sectionnumber, div.sectionnumber {
+    display: inline ;
+}
+
+/* element="sectiontitle" detail="" chain="" */
+
+sectiontitle, div.sectiontitle {
+    display: inline ;
+}
+
+/* element="sup" detail="" chain="" */
+
+sup, div.sup {
+    display: inline ;
+}

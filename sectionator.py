@@ -34,8 +34,8 @@ with codecs.open(components, 'w', "utf-8") as file:
 \setupinteraction
   [title=Hellénizace antické Thrákie ve světle epigrafických nálezů,
    subtitle=Hellenisation of Ancient Thrace based on epigraphical evidence,
-   author=Petra Janouchová,
-   keyword={epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost}]
+   author=Mgr. Petra Janouchová,
+   keyword={epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society}]
 
 %% For PDF/A
 \setupbackend[
