@@ -2,7 +2,7 @@ return {
  ["author"]="Mgr. Petra Janouchová",
  ["htmlfiles"]={ "disproduct-div.xhtml" },
  ["htmlroot"]="disproduct-div.xhtml",
- ["identifier"]="35980424-4c2b-8aca-a041-b0feb3dd8c1e",
+ ["identifier"]="5d20c4e0-4160-83c0-6e31-94636982d365",
  ["imagefile"]="styles/disproduct-images.css",
  ["imagepath"]="images",
  ["images"]={},

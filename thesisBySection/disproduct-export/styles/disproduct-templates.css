@@ -3,6 +3,18 @@
 @namespace context url('%namespace%') ;
 
 
+/* element="delimited" detail="blockquote-1" chain="" */
+
+delimited[detail=blockquote-1], div.delimited.blockquote-1 {
+    display: inline ;
+}
+
+/* element="delimitedcontent" detail="" chain="" */
+
+delimitedcontent, div.delimitedcontent {
+    display: inline ;
+}
+
 /* element="description" detail="footnote" chain="footnote" */
 
 description[detail=footnote], div.description.footnote {
@@ -31,6 +43,42 @@ descriptiontag, div.descriptiontag {
 
 document, div.document {
     display: block ;
+}
+
+/* element="float" detail="table" chain="table" */
+
+float[detail=table], div.float.table {
+    display: block ;
+}
+
+/* element="floatcontent" detail="" chain="" */
+
+floatcontent, div.floatcontent {
+    display: inline ;
+}
+
+/* element="item" detail="" chain="" */
+
+item, div.item {
+    display: block ;
+}
+
+/* element="itemcontent" detail="" chain="" */
+
+itemcontent, div.itemcontent {
+    display: inline ;
+}
+
+/* element="itemgroup" detail="itemize" chain="itemize" */
+
+itemgroup[detail=itemize], div.itemgroup.itemize {
+    display: block ;
+}
+
+/* element="itemtag" detail="" chain="" */
+
+itemtag, div.itemtag {
+    display: inline ;
 }
 
 /* element="link" detail="" chain="" */
