@@ -81,6 +81,12 @@ itemtag, div.itemtag {
     display: inline ;
 }
 
+/* element="link" detail="" chain="" */
+
+link, div.link {
+    display: inline ;
+}
+
 /* element="section" detail="chapter" chain="chapter" */
 
 section[detail=chapter], div.section.chapter {
