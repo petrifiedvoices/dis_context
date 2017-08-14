@@ -3,99 +3,63 @@
 @namespace context url('%namespace%') ;
 
 
-/* element="delimited" detail="blockquote-1" chain="" */
-
-delimited[detail=blockquote-1], div.delimited.blockquote-1 {
-    display: inline ;
-}
-
-/* element="delimitedcontent" detail="" chain="" */
-
-delimitedcontent, div.delimitedcontent {
-    display: inline ;
-}
-
-/* element="description" detail="footnote" chain="footnote" */
-
-description[detail=footnote], div.description.footnote {
-    display: block ;
-}
-
-/* element="descriptioncontent" detail="" chain="" */
-
-descriptioncontent, div.descriptioncontent {
-    display: inline ;
-}
-
-/* element="descriptionsymbol" detail="footnote" chain="" */
-
-descriptionsymbol[detail=footnote], div.descriptionsymbol.footnote {
-    display: inline ;
-}
-
-/* element="descriptiontag" detail="" chain="" */
-
-descriptiontag, div.descriptiontag {
-    display: inline ;
-}
-
 /* element="document" detail="" chain="" */
 
 document, div.document {
     display: block ;
 }
 
-/* element="item" detail="" chain="" */
+/* element="list" detail="" chain="" */
 
-item, div.item {
+list, div.list {
     display: block ;
 }
 
-/* element="itemcontent" detail="" chain="" */
+/* element="listcontent" detail="" chain="" */
 
-itemcontent, div.itemcontent {
+listcontent, div.listcontent {
     display: inline ;
 }
 
-/* element="itemgroup" detail="itemize" chain="itemize" */
+/* element="listitem" detail="chapter" chain="" */
 
-itemgroup[detail=itemize], div.itemgroup.itemize {
+listitem[detail=chapter], div.listitem.chapter {
     display: block ;
 }
 
-/* element="itemtag" detail="" chain="" */
+/* element="listitem" detail="section" chain="" */
 
-itemtag, div.itemtag {
+listitem[detail=section], div.listitem.section {
+    display: block ;
+}
+
+/* element="listitem" detail="subsection" chain="" */
+
+listitem[detail=subsection], div.listitem.subsection {
+    display: block ;
+}
+
+/* element="listitem" detail="subsubsection" chain="" */
+
+listitem[detail=subsubsection], div.listitem.subsubsection {
+    display: block ;
+}
+
+/* element="listpage" detail="" chain="" */
+
+listpage, div.listpage {
     display: inline ;
 }
 
-/* element="link" detail="" chain="" */
+/* element="listtag" detail="" chain="" */
 
-link, div.link {
+listtag, div.listtag {
     display: inline ;
 }
 
-/* element="section" detail="chapter" chain="chapter" */
+/* element="section" detail="title" chain="title" */
 
-section[detail=chapter], div.section.chapter {
-    display: block ;
-}
-
-/* element="section" detail="section" chain="section" */
-
-section[detail=section], div.section.section {
-    display: block ;
-}
-
-/* element="section" detail="subsection" chain="subsection" */
-
-section[detail=subsection], div.section.subsection {
-    display: block ;
-}
-
-/* element="section" detail="subsubsection" chain="subsubsection" */
-
-section[detail=subsubsection], div.section.subsubsection {
+section[detail=title], div.section.title {
     display: block ;
 }
 
@@ -105,38 +69,8 @@ sectioncontent, div.sectioncontent {
     display: block ;
 }
 
-/* element="sectionnumber" detail="" chain="" */
-
-sectionnumber, div.sectionnumber {
-    display: inline ;
-}
-
 /* element="sectiontitle" detail="" chain="" */
 
 sectiontitle, div.sectiontitle {
     display: inline ;
-}
-
-/* element="sup" detail="" chain="" */
-
-sup, div.sup {
-    display: inline ;
-}
-
-/* element="table" detail="" chain="" */
-
-table, div.table {
-    display: block ;
-}
-
-/* element="tablecell" detail="" chain="" */
-
-tablecell, div.tablecell {
-    display: inline ;
-}
-
-/* element="tablerow" detail="" chain="" */
-
-tablerow, div.tablerow {
-    display: block ;
 }
