@@ -1,0 +1,243 @@
+\environment env_dis
+
+
+\setupinteraction
+  [title=Teze disertační práce: Hellénizace antické Thrákie ve světle epigrafických nálezů,
+   subtitle=Hellenisation of Ancient Thrace based on epigraphical evidence,
+   author=Mgr. Petra Janouchová,
+   keyword={epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society}]
+
+\environment env_dis
+
+%% For PDF/A
+\setupbackend[
+format={pdf/a-1a:2005}, 
+profile={default_cmyk.icc,default_rgb.icc,default_gray.icc},
+intent=ISO coated v2 300\letterpercent\space (ECI)]
+
+%% Tagged PDF
+%% method=auto ==> default tags by Adobe
+\setupbackend[export=yes]
+\setupstructure[state=start,method=auto]
+
+\mainlanguage[cz]
+
+\startluacode
+        sorters.setlanguage("cz")
+\stopluacode
+
+
+\usebtxdefinitions[apa]
+
+\unprotect
+\def\textampersand{a}
+\protect
+
+\setupbtxlabeltext
+  [cz]
+  [apa:number={},
+   apa:edition={ed.}, % edición
+   apa:Editor={ed.}, % Ed./Eds.
+   apa:Editors={edd.},
+   apa:Volume={Vol.},   % Volumen
+   apa:Volumes={Vols.},
+   p={s.}, %single page
+   pp={s.} %prefix for pages
+   ] 
+
+\setupbtx
+[apa:cite:authoryear]
+[inbetween={\btxspace\space}]
+
+
+ \setupbtx
+ [apa:cite]
+ [left=,
+  right=,
+separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
+separator:3={\btxsemicolon},
+separator:4={\btxsemicolon},
+separator:names:2={\btxcomma},
+separator:names:3={\btxnobreakspace{a}\space},
+separator:names:4={\btxnobreakspace{a}\space},   
+etaldisplay=2,
+etallimit=3
+]
+
+\usebtxdataset[epigraphic][epigraphic.bib]
+\definebtxrendering[epigraphic][apa][dataset=epigraphic]
+\usebtxdataset[teze][teze.bib]
+\definebtxrendering[teze][apa][dataset=teze]
+\usebtxdataset[myself][myself.bib]
+\definebtxrendering[myself][apa][dataset=myself]
+
+
+
+\starttext
+\setuppagenumbering[location={}, state=stop]
+
+\startstandardmakeup[doublesided=no, page=yes, align=middle]
+\tfc\bf {Univerzita Karlova} \blank[2*big]
+\tfc\bf {Filozofická fakulta} 
+\vfill
+\tfb Ústav řeckých a latinských studií \blank
+\tfb studijní program: Historické vědy \blank
+\tfb studijní obor: Dějiny antického starověku \blank
+\vfill 
+\tfd\bf {Autoreferát (teze) disertační práce}
+\vfill 
+\tfb {\em Hellénizace antické Thrákie ve světle epigrafických nálezů} \blank[2*big]
+\tfb {\em Hellenisation of Ancient Thrace based on epigraphical evidence}
+\vfill
+\leftaligned{\tfb \em Vedoucí práce: PhDr. Jan Souček, CSc.}
+\vfill
+{\tfb \em \currentdate[year]} \hfill {\tfb \em Mgr. Petra Janouchová} 
+\vfill
+\stopstandardmakeup
+
+\completecontent
+\page[blank]
+\setuppagenumbering[location={footer,inmargin}, state=start]
+\setuppagenumber[number=0]
+
+\chapter{Autoreferát (teze) disertační práce}
+
+\section {Seznámení s problematikou}
+
+Oblast antické Thrákie sloužila jako důležitá spojnice na pomezí Evropy a Asie se stala svědkem řecké kolonizace, makedonské expanze a nadvlády a konečně mocenského vzestupu a krize římské říše. Thrácká společnost byla v přímém kontaktu s různorodými světy řeckých poleis, hellénistických vládců i římské říše, a to na bázi diplomatické, obchodní i vojenské. Vzájemná interakce obyvatel Thrákie různého kulturního původu ovlivňovala každodenní život aristokracie i běžných obyvatel, což vedlo k postupným změnám nejen ve struktuře společnosti, ale i v ideových a materiálních projevech tamní kultury.
+
+Téměř až do konce 20. století byla Thrákie v duchu oblíbených akulturačních teorií považována za sféru vlivu řecké kultury, což mělo za následek nevyhnutelnou hellénizaci místního obyvatelstva. Hellénizační přístup sloužil do nedávna jako univerzální vysvětlení kulturních změn, k nimž docházelo při kontaktu místního obyvatelstva s řeckým světem, který byl považován za civilizačně vyspělejší (např. Danov 1976; Samsaris 1980; Boardman 1980; Fol 1997; Bouzek et al. 1996; 2002; 2007; Archibald 1998; Tsetshladze 2006; Tiverios 2008; Sharankov 2011). Neřecké komunity pak v rámci postupného a nevratného procesu hellénizace přijímaly novou materiální kulturu a ideologické koncepty na úkor kultury i identity vlastní (Dietler 2005; Vranič 2014a; 2014b). Stejný přístup byl aplikován i na projevy epigrafické produkce, aniž by byla vzata v potaz specifika epigrafického materiálu a kriticky zhodnocena výpovědní hodnota nápisů v rámci dané problematiky. Užívání řeckého písma a vydávání nápisů v řeckém jazyce bylo automaticky považováno za jeden z typických znaků pořečtění thráckého obyvatelstva a přijetí řecké kultury za vlastní (Mihailov 1977, 343-344; Sharankov 2011, 135-145). Pouhá přítomnost řecky psaných textů na území Thrákie sloužila jako důkaz adopce řecké kultury, společenské organizace a v souvislosti s tím i řecké identity. Hellénizace obyvatelstva byla vnímána jako nevyhnutelný proces, který začal s příchodem řeckých kolonistů v 7. a 6. st. př. n. l., pokračoval v hellénistické době s aktivitami místní aristokracie a nabyl ještě větší intenzity pod římskou nadvládou. Zvyk vydávat nápisy byl v tehdejší společnosti natolik zakořeněn, že nevymizel ani s oslabením politického a kulturního vlivu řeckých obcí v 1. st. př. n. l. a 1. st. n. l., ale naopak se změnou politického uspořádání za římské nadvlády v následujících stoletích ještě zesílil. Tento jev bývá někdy také souhrnně nazýván termínem římská hellénizace, tedy jakési zintenzivnění hellénizačního procesu za pomoci infrastruktury římské říše (Vranič 2014a, 39).
+
+\section {Cíle a hypotézy}
+
+V disertační práci se snažím prokázat, že v Thrákii došlo k většímu rozšíření epigrafické produkce nikoliv v přímé souvislosti s šířením kulturního vlivu řecké společnosti, jevu taktéž jinak známého jako hellénizace, ale spíše jako jev související s aktivitami a měnící se společenskou organizací politických autorit v oblasti. Ve snaze o objektivní přístup vůči kontaktům řecko-římské a místní thrácké kultury přistupuji k mapování změn společnosti antické Thrákie na základě studia přímých pramenů v podobě dochovaných nápisů, které mají tutéž formu a obsah jako v době jejich vytvoření, a představují tak jedinečnou možnost náhledu do dávno zaniklé společnosti (Hansen 2001, 331-343; Pike 1954, 8-28; Cohen 2000, 5). Zasazení nápisů do časového a místního kontextu jednotlivých komunit mi umožňuje lépe zhodnotit konkrétní funkce, které nápisy v tehdejší společnosti zastávaly, a srovnat, jaké postavení epigrafická produkce zaujímala v thráckém, smíšeném či čistě řeckém prostředí (Dietler 2005, 66-68). Zajímají mě především změny politické organizace společnosti, proměňující se demografické složení struktury populace a epigrafické projevy kulturních zvyklostí v závislosti na probíhajících mezikulturních kontaktech a vzájemném ovlivňování thrácké a řecké, případně makedonské a římské společnosti.
+
+\section {Struktura disertace}
+
+V úvodní kapitole seznamuji čtenáře s geografickým rozsahem území Thrákie a charakterem obyvatel tak, jak o nich hovoří dochované antické literární prameny, ale i moderní sekundární literatura. Zaměřuji se zejména na vztahy mezi místním a nově příchozím obyvatelstvem a případnými souvisejícími změnami politického a kulturní uspořádání společnosti antické Thrákie. V druhé kapitole pojednávám o teoretických přístupech k problematice mezikulturních kontaktů a jejich projevů v materiální kultuře z pohledu archeologie a historických věd. Hlavní pozornost věnuji revizi hellénizačního přístupu, který byl v minulosti jedním z nejčastěji používaných teoretických konceptů. Zároveň v této kapitole představuji vybrané současné teoretické přístupy zabývající se mezikulturním kontaktem ve snaze nabídnout alternativní teoretický směr, který by se věnoval všem zúčastněným stranám stejnou měrou a zároveň akceptoval specifika epigrafického materiálu (Dietler 2005, 66-68). Ve třetí kapitole se zabývám charakterem a výpovědní hodnotou epigrafického materiálu, s důrazem na teoretické zhodnocení přínosu nápisů pro studium antické společnosti. Dále v této kapitole podrobněji představuji základní principy, s nimiž přistupuji ke studiu nápisů a informací na nich dochovaných.
+
+Ve čtvrté kapitole se zabývám použitou metodologií a organizací práce. Podrobně zde vysvětluji postup zvolený při sběhu dat a jejich následné analýzy za zachování principu ověřitelnosti výstupů a možnosti reprodukovat výsledky užité metody (Popper 2005, 57-73; Stewart Lowndes et al. 2017, 1-6; Marwick 2017, 424-434). V rámci analýzy epigrafického materiálu sleduji nejen kvantitativní výskyt nápisů v místě a čase, ale zároveň se zaměřuji na kvalitativní analýzu obsahu nápisů a jejich reflexi uspořádání tehdejší společnosti na základě výskytu charakteristických prvků. Za tímto účelem jsem shromáždila přes 4600 nápisů nalezených na území Thrákie v databázi Hellenization of Ancient Thrace, která je výchozím pramenným souborem této práce. Struktura databáze respektuje tradiční principy epigrafické disciplíny doplněné o moderní metodologické přístupy a technologie, zefektivňující analýzu velkého množství dat (O'Shea a Barker 1996, 13-19; Bodel 2001, 80-82). Epigrafická data jsou svou podstatou nedokonalá, často nekoherentní a velmi specifická. Z tohoto důvodu dochází ke statistickému zpracování nápisů relativně málo často, případně se badatelé věnují produkci pouze v římském období (MacMullen 1982; Meyer 1990; Saller a Shaw 1984; Prag 2002; Prag 2013; Korhonen 2011). Proto v současné práci vycházím z metod využívaných v rámci archeologických či antropologických studií a aplikuji je na epigrafický materiál (Bevan a Conolly 2006; Crema 2012; Woolf 1998, 81-83; Scheidel et al. 2012). Analýzy nápisů provádím s pomocí moderní mapovací a statistické technologie a metod, dosud používaných zejména v archeologickém prostředí (Gregory 2003; Gregory a Ell 2007; Hernandez, Guenter a Zender 2003; Marwick 2017, 434-450). Výsledky srovnávám s dochovanými literárními a archeologickými prameny ve snaze dotvořit celkový obraz proměn společnosti antické Thrákie. Uplatnění těchto metodologických postupů se projevuje v uspořádání a obsahu následujících tří analytických kapitol.
+
+Pátá kapitola nahlíží na analyzovaný soubor nápisů jako na celek a uvádí základní charakteristické rysy zpracovaných nápisů se zaměřením na publikační jazyk a šíření onomastických zvyků v jednotlivých komunitách. Šestá kapitola představuje chronologický přehled datovaných nápisů a předkládá detailní náhled na epigrafickou produkci v jednotlivých stoletích se zaměřením na proměňující se funkci nápisů a míru celkové epigrafické produkce v závislosti na společenské organizaci. V sedmé kapitole se zabývám rozmístěním nápisů v krajině, zejména pak jejich polohou vůči existujícímu osídlení a infrastruktuře (Woolf 1998, 80-82; Bodel 2001, 38-39). Specificky se zaměřuji na rozšiřování epigrafické aktivity jakožto jednoho z projevů nárůstu společensko-politické organizace v Thrákii, pozorovatelné zejména v římské době (Johnson 1973, 3-4; Tainter 1988, 111-126). V poslední osmé kapitole shrnuji výsledky současné práce a nastiňuji další možné směřování zvolené problematiky. Na text práce samotné navazují přílohy, které obsahují detailní informace k organizaci databáze, a zejména pak tabulky a grafy s výsledky analýz a soubor map časoprostorového rozmístění nápisů.
+
+\section {Závěry a přínos práce}
+
+V práci jsem na základě studia dochovaného epigrafického materiálu došla k závěru, že v dnešní době je teoretický koncept hellénizace do značné míry překonaný a jako interpretační rámec vysvětlující rozšíření epigrafické produkce v Thrákii nedostačující. Hellénizační přístup totiž představuje jednostranně zaměřený model, zatížený množstvím předsudků, který nereflektuje pestrost mezikulturních kontaktů v celé jejich šíři a nenabízí prostor pro aktivní zapojení thrácké populace v celém procesu kulturní změny (Dietler 2005, 55-57).
+
+Podoba epigrafické produkce a její rozšíření v antické Thrákii souvisí spíše s rozvojem tehdejšího společenského uspořádání, než s civilizačním vlivem řecké kultury. Většina nápisů je sice psána řecky a užitá terminologie taktéž pochází z řeckého prostředí, ale charakter epigrafické produkce nasvědčuje, že spíše než k nevědomému přebírání kulturních zvyklostí a transformaci thrácké společnosti směrem ke společnosti řecké docházelo k adopci písma a epigrafických zvyklostí jako propracovaného systému vyjadřování za uchování kulturní integrity a identity jednotlivých komunit. Nápisy a písmo obecně v tehdejší společnosti sloužily jako prostředek vyjadřování a zaznamenávání informací, který se rozšířil z řeckých měst na pobřeží směrem do progresivních komunit ve vnitrozemí v klasické a hellénistické době, avšak k jeho rozšíření do prakticky všech komunit došlo až pod vlivem sjednocující autority římské říše (Janouchová a Weissová 2015).
+
+\subsection {Rozvoj epigrafické produkce v Thrákii}
+
+Epigrafická produkce v thráckém kontextu se v klasické a hellénistické době omezovala na jedince z řad aristokracie, kteří se dostali do styku s řeckým světem, a tedy i zvykem publikovat nápisy, v rámci diplomatických styků či vojenské služby. Zvyk zhotovovat nápisy však tito jedinci nepřejali v podobě a společenské funkci, jakou nápisy zastávaly v řecky mluvících komunitách, ale došlo k přizpůsobení epigrafické produkce na podmínky tehdejší  thrácké kmenově uspořádané společnosti. Písmo zde primárně nesloužilo k šíření informací mezi širokou veřejností jako v případě nápisů z řeckých měst, ale bylo využíváno čistě pro potřeby úzkého okruhu aristokratů a sloužilo jako prostředek zvýšení společenského postavení (Tzochev 2016, 789-792). Nápisy z thráckého kontextu sloužily převážně soukromé funkci a měly čistě praktické využití, kdy označovaly obsah, hodnotu, majitele či autora předmětu. Tento fakt vypovídá jednak o odlišném společenském uspořádání thrácké a řecké společnosti, ale i o odlišném přístupu k písmu a zaznamenávání informací. Ve smíšených thrácko-řeckých či thrácko-makedonských komunitách došlo k adopci epigrafické produkce v podobě, v jaké jsme na ni zvyklí z řeckého světa. Většina nápisů sloužila k veřejnému vystavení a měla funerální funkci či v malé míře i votivní. Výjimečně se setkáváme i s nápisy vydávanými politickou autoritou, které byly určeny k regulaci ekonomicko-politické situace, nicméně celkový počet těchto nápisů je pouze v řádech kusů. V řeckých komunitách naopak epigrafická produkce relativně vzkvétala, a to se týče jak veřejných, tak soukromých nápisů, kterých se dochovaly stovky z jednotlivých řeckých poleis na thráckém území (Krauss 1980; Sayar 1998; Lajtar 2000; Velkov 2005; Gyuzelev 2002; 2005; 2013).
+
+K viditelnému přelomu v přístupu k epigrafické produkci došlo s příchodem římské administrativy v 1. st. n. l. V návaznosti na rozvoj politické organizace v době římské dochází k intenzifikaci epigrafické produkce, a to především v souvislosti s vytvořením potřebné infrastruktury a s tím souvisejícím větším zapojením obyvatelstva do zvyklosti zhotovovat nápisy do kamene. V předřímské době nápisy pocházely převážně z řeckých měst na pobřeží, případně z ekonomických a kulturních center ve vnitrozemí. V době římské epigrafická produkce pocházela z přímého okolí městských center, která se v této době začala objevovat ve zvýšené míře i ve vnitrozemí, a dále z okolí římských silnic, které sloužily pro přesuny vojsk i civilního obyvatelstva a výraznou měrou přispěly k propojení vzdálených regionů a nárůstu intenzity kulturních kontaktů. Urbanizace thráckého vnitrozemí měla na projevy epigrafické produkce přímý vliv, stejně tak jako centralizace politické moci, jevy obecně spojené s růstem společenské komplexity. V této době zároveň došlo k rozdělení práce, zintenzivnění produkce a zajištění potřebné infrastruktury nutné k produkci nápisů ve velkém měřítku (Johnson 1973, 3-5; Tainter 1988, 22-36).
+
+Jedním z hlavních důvodů nárůstu epigrafické produkce v římské době bylo zvýšené zapojení místních obyvatel do služeb římské armády, pozorovatelné již od 1. st. n. l. Veteráni, kteří se po dlouhé vojenské službě vraceli do Thrákie, s sebou přinesli nově získané kulturní zvyklosti související s jejich službou v armádě a pobytem na územích se zcela odlišnou kulturou (Boteva 2007; Ivanov 2008; Dana 2013; Tomas 2016). Je více než pravděpodobné, že za dobu služby vojáci získali alespoň základní stupeň gramotnosti a seznámili se se zvykem publikovat nápisy, což se po konci služby projevilo i ve změně přístupu k zhotovování nápisů. Na nápisech v římské době se taktéž objevuje větší zastoupení thráckých jmen než v době předřímské, což je přímý důsledek většího zapojení Thráků do epigrafické produkce. S větším zapojením Thráků souvisí i nárůst počtu dedikací věnovaných místním božstvům, zejména ve 2. a 3. st. n. l. Tento jev by mohl představovat nárůst uvědomění si thrácké identity, nicméně taktéž se může jednat o pouhý epigrafický záznam již existujícího trendu, který se podařilo zachytit právě díky aktivnímu zapojení větší části thrácké populace na produkci nápisů. Tím, že se Thrákové více zapojovali do chodu římské říše, zejména službou v armádě a civilní správě, se jim dostalo náležitého vzdělání a tím více se následně mohli zapojovat i do produkce nápisů, čemuž odpovídá i větší zastoupení thráckého prvku na dochovaných nápisech.
+
+\subsection {Nápisy jako měřítko hellénizace obyvatel Thrákie}
+
+Jeden ze základních rysů hellénizace, kdy dochází k postupné proměně původní identity osob a jejímu nahrazení identitou řeckou, není na nápisech z Thrákie pozorovatelný. Naopak, po celou dobu dochází ke kladení důrazu na lokální identitu a kontinuitu tradičních hodnot. Zejména v římské době se osoby více ztotožňují s politickou autoritou na úrovni měst a vesnických samospráv, státních i místních institucí a v neposlední řadě i s funkcemi zastávanými v římské armádě (Jarrett 1969; Derks 2009). Nápisy z římské doby vykazují několik společných rysů, které se nevyskytovaly v předcházejícím období a které jsou pozorovatelné i mimo Thrákii na území ostatních římských provincií. Společným rysem funerálních nápisů z římské doby je tendence spolu s identifikací zemřelého uvádět i členy rodiny či přátele, kteří nápis nechali zhotovit. V předřímské době je na nápisech uváděn pouze zemřelý či rodiče, případně partner. V římské době se tento okruh lidí značně rozšiřuje i na sourozence, vnuky a přátele, případně kolegy z armády. Je více než pravděpodobné, že se tak dělo z důvodů zajištění dědických práv a jako důsledek tehdy platných kulturních a právních norem. Dalším prvkem, pozorovatelným v době římské na celém území Thrákie, ale i mimo něj, je zvýšená snaha jedince prezentovat na nápisech dosažené společenské postavení a zapojení do institucionálních struktur tehdejší společnosti (Van Nijf 2015; Heller 2015). Děje se tak vědomou prezentací na nápisech ve formě konkrétní podoby osobního jména, dále ve formě uvádění dosažených životních úspěchů a společenského postavení, ale i ve formě identifikace s politickou či náboženskou komunitou. Podobně se objevuje ve velké míře na nápisech z této doby i zvyk udávat věk zemřelého, což je zvyk typický pro nápisy římské doby. Tyto trendy nejsou typické pouze pro nápisy z Thrákie, ale vyskytují se téměř na celém území římské říše a naznačují ovlivnění podoby epigrafické produkce tehdy platnými společenskými normami a společenskou organizací, kterou představovala centrální autorita římské říše (MacMullen 1982; Saller a Shaw 1984; Meyer 1990).
+
+Z výše řečeného je patrné, že k rozšíření epigrafické produkce v Thrákii nedošlo pouze jako nevyhnutelný důsledek řecké kulturní dominance v oblasti, jak předpokládá hellénizační přístup, ale spíše je na rozšíření nápisů vhodné nahlížet jako na jeden z průvodních jevů rozvíjející se společensko-politické organizace a struktury. Tento růst společenské komplexity měl za následek větší uplatnění zvyku zhotovovat nápisy na permanentní médium mezi tehdejší populací thráckého i nethráckého původu. Fakt, že většina nápisů byla i v římské době psána řecky poukazuje spíše na využití řečtiny v rámci navázání na již existující systém uchovávání a předávání informací, než na kulturní převahu řeckých komunit i několik staletí po té, co ztratily významné politicko-ekonomické postavení v oblasti. Tato práce tak do značné míry nabourává již tradičně vžitý obraz o thrácké společnosti jakožto o méně vyspělé kultuře pasivně přejímající materiální kulturu, jazyk a identitu řeckého světa. Tento pohled byl do velké míry ovlivněn studiem dochovaných  literárních pramenů, které na obyvatele Thrákie nahlížely z pohledu vnějšího pozorovatele a jejich popis je často ovlivněn kulturními předsudky a tehdejší politickou situací. 	
+
+\subsection {Další možné využití}
+
+Praktické využití pro spřízněné obory nabízí vytvořená elektronická databáze Hellenization of Ancient Thrace obsahující více než 4600 nápisů z oblasti Thrákie (Janouchová 2014). Databáze sjednocuje data z mnoha různých zdrojů a převádí je do jednotné formy a do anglického jazyka. V rámci principů a požadavků současného vědeckého výzkumu jsou data z databáze v neupravené podobě k dispozici volně na internetu a případní zájemci je mohou použít v rámci vlastního výzkumu. Tato epigrafická data jsou dostupná již v digitalizované podobě a připravená pro další analýzy a srovnání s dalšími soubory dat.  Archeologické projekty, které zpracovávají data z oblasti Thrákie, tak mohou snadno získat data o epigrafických nálezech z blízkosti konkrétní lokality či regionu. V takto kompletní podobě žádná jiná volně dostupná databáze v současné době neposkytuje data o místě nálezu nápisu, jeho obsahu a z něj vycházejících interpretacích, jako je datace, funkce a další relevantní informace.
+
+\section {Vybraná bibliografie}
+\setuplocalinterlinespace[line=2.8ex] %spacing 1
+\subsection{Primární epigrafické prameny}
+\placelistofpublications % aka \placebtxrendering
+[epigraphic] % rendering defined above
+[method=dataset] % i.e. all entries
+
+
+\subsection {Vybrané sekundární prameny}
+\placelistofpublications % aka \placebtxrendering
+[teze] % rendering defined above
+[method=dataset] % i.e. all entries
+
+\section {Přehled publikační a odborné činnosti (10/2011-06/2017)}
+
+\subsection {Publikace}
+\placelistofpublications % aka \placebtxrendering
+[myself] % rendering defined above
+[method=dataset] % i.e. all entries
+
+\subsection {Konference}
+\startitemize[n]
+
+\item ‘Compromising the (local) identity’, International Epigraphy Conference: XV Congressus Internationalis Epigraphiae Graecae et Latinae, Vídeň, 28. 8.-1. 9. 2017
+
+\item ‘INSCRIPTIONS TO GO: Mobile platform for offline epigraphic data collection’, poster, EAGLE 2016 International Conference on Digital and Traditional Epigraphy in Context. 27.-29. 1. 2016. Odeion – Sapienza, University of Rome 
+
+\item ‘Scripta Minora Stroynensia: the less visible epigraphic evidence from rural Thrace’, Postgraduate conference PeCla IV, Ústav pro klasickou archeologii, FFUK, Praha, 10.-11. 12. 2015
+
+\item ‘The Use of Writing in Funerary Context in Classical and Hellenistic Thrace’, spolu s B. Weissovou, 19th SOMA: Symposium on Mediterranean Archaeology 2015, Antalya - Kemer, Turkey, 12.-14. 11. 2015\
+
+\item ‘Database presentation: Hellenisation of Ancient Thrace’, Jednota klasických filologů, Praha, 29. 1. 2015 
+
+\item ‘Χαῖρε, παροδεῖτα: eloquent identity markers of death in Roman Thrace’, Imperialism and Identities at the Edges of the Roman World II, Petnica, Srbsko, 18.-21. 9. 2014
+
+\item ‘Speaking Mounds: Characteristics of Inscribed Objects in Burial Mounds in Selected Areas of Thrace’, Postgraduate conference PeCla II, Ústav pro klasickou archeologii, FFUK, Praha, spolu s B. Weissovou, 16.-17. 12. 2013, poster
+
+\item ‘The identity and self-identification on Greek inscriptions from Thrace’, 5th International Congress On Black Sea Antiquities The Danubian Lands between the Black, Aegean and Adriatic Seas, Bělehrad, Srbsko, 17. -21. 9. 2013, poster
+
+\item ‘Thracian Nymphs as presented by Greek inscriptions’, Postgraduate conference PeCla I, Ústav pro klasickou archeologii, FFUK, Praha, 11.-12. 12. 2012.
+
+\item ‘Thracian Goddess Bendis in Athens and in Thrace’, Laetae Segetes III, International PhD Student Conference, Masarykova Universita, Brno, 13.-16. 11. 2012 
+
+\item ‘Dodoparon Apollo sanctuary: typical or exceptional?’, ‘Settlement Life in Ancient Thrace’, 5th International Symposium, Jambol, Bulharsko, 7.-9. 11. 2012 
+
+\item ‘Greek Inscriptions in Ancient Thrace: Hellenization and Its Spatial Extent’, poster, International Epigraphy Conference: XIV Congressus Internationalis Epigraphiae Graecae et Latinae, Berlin, 27.-31. 8. 2012
+
+\item ‘Thracians in Athens: Friends or Strangers?’, International conference Classics Colloquium Europaeum, 21.-23. 10. 2011, Helsinki, Finsko.
+\stopitemize
+
+\subsection {Granty}
+
+\startitemize[n]
+
+\item GAUK 546813/2013, hlavní řešitel, ‘Řecko-Thrácká společnost ve světle epigrafických nálezů’, 2013-2014.
+
+\item GAUK 2086214/2014, spoluřešitel, hlavní řešitel Mgr. Petra Tušlová, FFUK, ‘Dokumentace římské keramiky z území provincií Trákie a Moesie Inferior’, 2014-2016.
+
+\item GAUK 626314/2014, spoluřešitel, hlavní řešitel Mgr. B. Weissová, ‘Vytvoření archeologické mapy mohyl ve starověké Thrákii’, 2014-2016.
+
+\item Vnitřní grant FFUK 2014-2015, spoluřešitel, hlavní řešitel Mgr. Petra Tušlová, FFUK, ‘Archeologický výzkum na lokalitě Strojno, Jambolský region, Bulharsko’, 2014-2015.
+\stopitemize
+
+\subsection {Terénní práce}
+
+\startitemize[n]
+\item Stroyno Excavation Project, Jambol, Bulharsko, červen – červenec 2015, Karlova Univerzita, Yambol Historical Museum, ved. Stefan Bakardzhiev, Mgr. Tušlová, Mgr. Weissová, data management, databáze, epigrafik, malé nálezy.
+
+\item Archaeological project Yambol region 2014, Jambol, Bulharsko, dokumentace archeologických nalezišť v Jambolském regionu, říjen 2014, Mgr. B. Weissová, Karlova Univerzita, GIS a data specialista.
+
+\item Stroyno Excavation Project, Jambol, Bulharsko, červen – červenec 2014, Karlova Univerzita, Yambol Historical Museum, ved. Stefan Bakardzhiev, Mgr. Tušlová, Mgr. Weissová, malé nálezy.
+
+\item Zagora Remote Sensing Project, University of Sydney and University of New South Wales, Zagora, Andros, Řecko, září – říjen 2013, Dr. Adéla Sobotková, GIS specialista, remote sensing.
+
+\item Preliminary field survey of ancient city of Troezen, Greece, září 2012, David Hill (University of Sydney), Shawn Ross a Adéla Sobotková, (University of New South Wales ). Terénní sběry, remote sensing, epigrafik.
+
+\item Tundzha Regional Archaeological Project 2011, říjen-prosinec 2011, Kazanlak Bulharsko, systematické pozemní sběry, remote sensing v okolí antiské Seuthopole, GIS.
+\stopitemize
+
+\subsection {Studijní pobyty}
+
+\startitemize[n]
+\item Mezinárodní studijní výměna: International Postgraduate Exchange at Macquarie University, Sydney, Austrálie, únor - srpen 2016
+
+\item Letní škola: Summer school of Greek culture and literature, European Culture Centre of Delphi, Greece, srpen 2014
+
+\item Letní škola: Summer school of Bulgarian language, University of St. Kliment Ohridski, Sofia, Bulgaria, červenec 2014, úroveň B1
+
+\item Workshop ‘Current Practices and New Directions in Digital Epigraphy’, EAGLE, Ljubljana, Slovinsko, únor 2014
+
+\item Letní škola: Summer school of interdisciplinary studies, University of Lancaster, workshop GIS in Humanities, Ian Gregory and Patricia Murrieta-Flores, červenec 2013
+
+\item Studijní pobyt v zahraniční: University of New South Wales, Sydney, Austrálie, únor – červen 2013
+
+\item Studijní pobyt v zahraniční: University of New South Wales, Sydney, Austrálie, únor – květen 2012
+\stopitemize
+\stoptext

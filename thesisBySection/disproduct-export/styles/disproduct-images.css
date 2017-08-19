@@ -1,3 +1,337 @@
 /* images for file disproduct */
 
 @namespace context url('%namespace%') ;
+
+
+image[id="image-1"], div.image[id="image-1"] {
+    display           : block ;
+    background-image  : url('../images/4.01a_Identification_100405.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 9.347cm ;
+    height            : 3.970cm ;
+}
+
+image[id="image-10"], div.image[id="image-10"] {
+    display           : block ;
+    background-image  : url('../images/4.10a_MethodDating.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 9.937cm ;
+}
+
+image[id="image-11"], div.image[id="image-11"] {
+    display           : block ;
+    background-image  : url('../images/5.01a_HAT_all_inscriptions_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-12"], div.image[id="image-12"] {
+    display           : block ;
+    background-image  : url('../images/6.01a_HAT_6thcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-13"], div.image[id="image-13"] {
+    display           : block ;
+    background-image  : url('../images/6.02a_HAT_5thcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-14"], div.image[id="image-14"] {
+    display           : block ;
+    background-image  : url('../images/6.03a_HAT_4thcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-15"], div.image[id="image-15"] {
+    display           : block ;
+    background-image  : url('../images/6.04a_HAT_3rdcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-16"], div.image[id="image-16"] {
+    display           : block ;
+    background-image  : url('../images/6.05a_HAT_2ndcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-17"], div.image[id="image-17"] {
+    display           : block ;
+    background-image  : url('../images/6.06a_HAT_1stcBC_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-18"], div.image[id="image-18"] {
+    display           : block ;
+    background-image  : url('../images/6.07a_HAT_1stcAD_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-19"], div.image[id="image-19"] {
+    display           : block ;
+    background-image  : url('../images/6.08a_HAT_2ndcAD_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-2"], div.image[id="image-2"] {
+    display           : block ;
+    background-image  : url('../images/4.02a_Heurist_Digitizer_100405.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 12.463cm ;
+    height            : 10.005cm ;
+}
+
+image[id="image-20"], div.image[id="image-20"] {
+    display           : block ;
+    background-image  : url('../images/6.09a_HAT_3rdcAD_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-21"], div.image[id="image-21"] {
+    display           : block ;
+    background-image  : url('../images/6.10a_HAT_4thcAD_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-22"], div.image[id="image-22"] {
+    display           : block ;
+    background-image  : url('../images/6.11a_HAT_5thcAD_CZ.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.014cm ;
+}
+
+image[id="image-23"], div.image[id="image-23"] {
+    display           : block ;
+    background-image  : url('../images/6.12a_Prehled_produkce_stoleti_koeficienty.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 9.635cm ;
+}
+
+image[id="image-24"], div.image[id="image-24"] {
+    display           : block ;
+    background-image  : url('../images/6.13a_Epi_produkce_typologie.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.800cm ;
+    height            : 9.844cm ;
+}
+
+image[id="image-25"], div.image[id="image-25"] {
+    display           : block ;
+    background-image  : url('../images/6.14a_Epi_produkce_soukrome.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 11.752cm ;
+}
+
+image[id="image-26"], div.image[id="image-26"] {
+    display           : block ;
+    background-image  : url('../images/7.01a_HAT_all_DEM.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-27"], div.image[id="image-27"] {
+    display           : block ;
+    background-image  : url('../images/7.02a_HAT_all_buffer_cities.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-28"], div.image[id="image-28"] {
+    display           : block ;
+    background-image  : url('../images/7.03a_HAT_all_buffer_roads_names.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-29"], div.image[id="image-29"] {
+    display           : block ;
+    background-image  : url('../images/7.04a_HeatMap_20km_NEW.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-3"], div.image[id="image-3"] {
+    display           : block ;
+    background-image  : url('../images/4.03a_Geography_51612.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 9.347cm ;
+    height            : 3.728cm ;
+}
+
+image[id="image-30"], div.image[id="image-30"] {
+    display           : block ;
+    background-image  : url('../images/7.05a_Productioncenters_20kmbuffer_scale.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-31"], div.image[id="image-31"] {
+    display           : block ;
+    background-image  : url('../images/7.06a_NonUrban_Productioncenters_5kmbuffer_scale.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-32"], div.image[id="image-32"] {
+    display           : block ;
+    background-image  : url('../images/7.07a_Cities_buffer_public_inscriptions_NEW.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-33"], div.image[id="image-33"] {
+    display           : block ;
+    background-image  : url('../images/7.08a_Milestones_date_20km_name.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.465cm ;
+}
+
+image[id="image-34"], div.image[id="image-34"] {
+    display           : block ;
+    background-image  : url('../images/7.09a_Cities_buffer_private_inscriptions_NEW.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-35"], div.image[id="image-35"] {
+    display           : block ;
+    background-image  : url('../images/7.10a_Funerary_citiesroads.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-36"], div.image[id="image-36"] {
+    display           : block ;
+    background-image  : url('../images/7.11a_Funerary_heatmap20km.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-37"], div.image[id="image-37"] {
+    display           : block ;
+    background-image  : url('../images/7.12a_Dedications_elevations_dem.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 14.799cm ;
+    height            : 10.463cm ;
+}
+
+image[id="image-4"], div.image[id="image-4"] {
+    display           : block ;
+    background-image  : url('../images/4.04a_Object_metadata_100105.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 9.347cm ;
+    height            : 7.675cm ;
+}
+
+image[id="image-5"], div.image[id="image-5"] {
+    display           : block ;
+    background-image  : url('../images/4.05a_Preservation.svg') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 19.417cm ;
+}
+
+image[id="image-6"], div.image[id="image-6"] {
+    display           : block ;
+    background-image  : url('../images/4.06a_ArchitecturalDecor.svg') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 13.013cm ;
+}
+
+image[id="image-7"], div.image[id="image-7"] {
+    display           : block ;
+    background-image  : url('../images/4.07a_FiguralDecor.svg') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 19.998cm ;
+}
+
+image[id="image-8"], div.image[id="image-8"] {
+    display           : block ;
+    background-image  : url('../images/4.08a_HAT_Delka_Intervalu_BW.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 11.248cm ;
+}
+
+image[id="image-9"], div.image[id="image-9"] {
+    display           : block ;
+    background-image  : url('../images/4.09a_HAT_Sire_Datace_procentualni_new.png') ;
+    background-size   : 100% auto ;
+    background-repeat : no-repeat ;
+    width             : 15.578cm ;
+    height            : 10.887cm ;
+}

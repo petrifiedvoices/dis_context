@@ -1,0 +1,11 @@
+/* styles for file teze */
+
+@namespace context url('%namespace%') ;
+
+
+document, div.document {
+    font-size  : 12pt !important ;
+    max-width  : 443.24582pt !important ;
+    text-width : justify !important ;
+    hyphens    : inherited !important ;
+}

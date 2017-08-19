@@ -1,0 +1,70 @@
+/* template for file teze */
+
+@namespace context url('%namespace%') ;
+
+
+/* element="document" detail="" chain="" */
+
+document, div.document {
+    display: block ;
+}
+
+/* element="list" detail="" chain="" */
+
+list, div.list {
+    display: block ;
+}
+
+/* element="listcontent" detail="" chain="" */
+
+listcontent, div.listcontent {
+    display: inline ;
+}
+
+/* element="listitem" detail="chapter" chain="" */
+
+listitem[detail=chapter], div.listitem.chapter {
+    display: block ;
+}
+
+/* element="listitem" detail="section" chain="" */
+
+listitem[detail=section], div.listitem.section {
+    display: block ;
+}
+
+/* element="listitem" detail="subsection" chain="" */
+
+listitem[detail=subsection], div.listitem.subsection {
+    display: block ;
+}
+
+/* element="listpage" detail="" chain="" */
+
+listpage, div.listpage {
+    display: inline ;
+}
+
+/* element="listtag" detail="" chain="" */
+
+listtag, div.listtag {
+    display: inline ;
+}
+
+/* element="section" detail="title" chain="title" */
+
+section[detail=title], div.section.title {
+    display: block ;
+}
+
+/* element="sectioncontent" detail="" chain="" */
+
+sectioncontent, div.sectioncontent {
+    display: block ;
+}
+
+/* element="sectiontitle" detail="" chain="" */
+
+sectiontitle, div.sectiontitle {
+    display: inline ;
+}

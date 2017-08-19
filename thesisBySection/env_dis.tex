@@ -1,6 +1,6 @@
 \startenvironment env_dis
 \mainlanguage[cs]
-\enableregime[latin2]
+%\enableregime[latin2]
 \enableregime[utf]
 \setupcolors[state=start] 
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
@@ -8,7 +8,14 @@
 \setuppapersize[A4][A4]
 \setuplayout[location=singlesided, topspace=20mm, backspace=30mm, rightmargin=20mm, bottomspace=20mm, header=24pt, footer=24pt, width=fit, height=fit]
 
-\setupbodyfont[gentium,12pt]
+
+\definefontfeature
+  [default]
+  [default]
+  [protrusion=quality,expansion=quality]
+\definefontfamily [myfamily] [serif] [Gentium] [protrusion=quality,expansion=quality]
+
+\setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
 
 \setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
@@ -26,9 +33,9 @@
 \setupnote[footnote][setups=footnote:interlinespace]
 
 \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfc]
-\setuphead[subsection]   [style=\tfb]
-\setuphead[subsubsection][style=\tfa]
+\setuphead[section]      [style=\tfa]
+\setuphead[subsection]   [style=\ita]
+\setuphead[subsubsection][style=\sc]
 
 \setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=yes,align={flushleft}]
 
@@ -37,7 +44,7 @@
 \setupitemize[autointro]    % prevent orphan list intro
 \setupitemize[indentnext=no]
 
-\setupalign[nothanging,hyphenated,justified]
+\setupalign[hz, hanging,hyphenated,justified]
 \setupindenting[yes,medium,first]
 \setupitemize[indentnext=no]
 
@@ -55,5 +62,17 @@
 
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
+
+\setuppagenumbering[alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
+\unprotect
+\usemodule[database]
+
+\defineseparatedlist[DelimitedTable]
+  [separator={~},
+   quotechar={},
+   left=\bTD,right=\eTD,
+   first=\bTR,last=\eTR,
+   before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
+\protect
 
 \stopenvironment

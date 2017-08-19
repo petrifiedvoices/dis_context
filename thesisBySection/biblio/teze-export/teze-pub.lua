@@ -1,0 +1,17 @@
+return {
+ ["author"]="Mgr. Petra Janouchová",
+ ["htmlfiles"]={ "teze-div.xhtml" },
+ ["htmlroot"]="teze-div.xhtml",
+ ["identifier"]="e18c2ca5-4ce5-a37a-5474-669a01fe9da1",
+ ["imagefile"]="styles/teze-images.css",
+ ["imagepath"]="images",
+ ["images"]={},
+ ["language"]="cs",
+ ["name"]="teze",
+ ["stylepath"]="styles",
+ ["styles"]={ "teze-defaults.css", "teze-images.css", "teze-styles.css" },
+ ["subtitle"]="Hellenisation of Ancient Thrace based on epigraphical evidence",
+ ["title"]="Teze disertační práce: Hellénizace antické Thrákie ve světle epigrafických nálezů",
+ ["xhtmlfiles"]={ "teze-tag.xhtml" },
+ ["xmlfiles"]={ "teze-raw.xml" },
+}
