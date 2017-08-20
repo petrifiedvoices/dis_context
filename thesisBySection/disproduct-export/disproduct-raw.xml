@@ -3,7 +3,7 @@
 <!--
 
     input filename   : disproduct
-    processing date  : 2017-08-20T00:32:35-14:00
+    processing date  : 2017-08-21T00:06:15-14:00
     context version  : 2017.06.06 13:22
     exporter version : 0.34
 
@@ -13,7 +13,7 @@
 <?xml-stylesheet type="text/css" href="styles/disproduct-images.css" ?>
 <?xml-stylesheet type="text/css" href="styles/disproduct-styles.css" ?>
 
-<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-08-20T00:32:35-14:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-08-21T00:06:15-14:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
  <metadata>
  </metadata>
 Univerzita Karlova Filozofická fakulta Disertační práce Vedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová Univerzita Karlova Filozofická fakultaÚstav řeckých a latinských studií studijní program: Historické vědy studijní obor: Dějiny antického starověku Disertační práceHellénizace antické Thrákie ve světle epigrafických nálezů Hellenisation of Ancient Thrace based on epigraphical evidenceVedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra JanouchováProhlášení: Prohlašuji, že jsem disertační práci napsal/a samostatně s využitím pouze uvedených a řádně citovaných pramenů a literatury a že práce nebyla využita v rámci jiného vysokoškolského studia či k získání jiného nebo stejného titulu. V Praze, dne Mgr. Petra JanouchováPoděkování: 
@@ -556,780 +556,780 @@ inscriptions; epigraphy; epigraphic production; Thrace; hellenization; cultural 
      <listcontent>Charakteristika epigrafické produkce v 6. st. př. n. l.</listcontent>
      <listpage>109</listpage>
     </listitem>
-    <listitem detail="subsection" internal="549">
+    <listitem detail="subsection" internal="554">
      <listtag>6.1.1</listtag>
      <listcontent>Typologie nápisů</listcontent>
-     <listpage>110</listpage>
+     <listpage>111</listpage>
     </listitem>
-    <listitem detail="subsection" internal="554">
+    <listitem detail="subsection" internal="559">
      <listtag>6.1.2</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>111</listpage>
     </listitem>
-    <listitem detail="section" internal="555">
+    <listitem detail="section" internal="560">
      <listtag>6.2</listtag>
      <listcontent>Charakteristika epigrafické produkce v 6. až 5. st. př. n. l.</listcontent>
-     <listpage>111</listpage>
+     <listpage>112</listpage>
     </listitem>
-    <listitem detail="subsection" internal="556">
+    <listitem detail="subsection" internal="561">
      <listtag>6.2.1</listtag>
      <listcontent>Typologie nápisů</listcontent>
-     <listpage>111</listpage>
+     <listpage>112</listpage>
     </listitem>
-    <listitem detail="subsection" internal="557">
+    <listitem detail="subsection" internal="562">
      <listtag>6.2.2</listtag>
      <listcontent>Shrnutí</listcontent>
-     <listpage>112</listpage>
-    </listitem>
-    <listitem detail="section" internal="558">
-     <listtag>6.3</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 5. st. př. n. l.</listcontent>
-     <listpage>112</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="569">
-     <listtag>6.3.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
      <listpage>113</listpage>
     </listitem>
-    <listitem detail="subsubsection" internal="572">
-     <listtag>6.3.1.1</listtag>
-     <listcontent>Primární funerální nápisy</listcontent>
-     <listpage>114</listpage>
+    <listitem detail="section" internal="563">
+     <listtag>6.3</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 5. st. př. n. l.</listcontent>
+     <listpage>113</listpage>
     </listitem>
-    <listitem detail="subsubsection" internal="577">
-     <listtag>6.3.1.2</listtag>
-     <listcontent>Sekundární funerální nápisy</listcontent>
-     <listpage>114</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="582">
-     <listtag>6.3.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
+    <listitem detail="subsection" internal="580">
+     <listtag>6.3.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>115</listpage>
     </listitem>
-    <listitem detail="subsection" internal="583">
-     <listtag>6.3.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
+    <listitem detail="subsubsection" internal="583">
+     <listtag>6.3.1.1</listtag>
+     <listcontent>Primární funerální nápisy</listcontent>
      <listpage>116</listpage>
     </listitem>
-    <listitem detail="subsection" internal="584">
-     <listtag>6.3.4</listtag>
-     <listcontent>Shrnutí</listcontent>
+    <listitem detail="subsubsection" internal="588">
+     <listtag>6.3.1.2</listtag>
+     <listcontent>Sekundární funerální nápisy</listcontent>
      <listpage>116</listpage>
     </listitem>
-    <listitem detail="section" internal="585">
-     <listtag>6.4</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 5. až 4. st. př. n. l.</listcontent>
+    <listitem detail="subsection" internal="593">
+     <listtag>6.3.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
      <listpage>117</listpage>
     </listitem>
-    <listitem detail="subsection" internal="590">
-     <listtag>6.4.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
+    <listitem detail="subsection" internal="594">
+     <listtag>6.3.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
      <listpage>118</listpage>
     </listitem>
     <listitem detail="subsection" internal="595">
+     <listtag>6.3.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>118</listpage>
+    </listitem>
+    <listitem detail="section" internal="596">
+     <listtag>6.4</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 5. až 4. st. př. n. l.</listcontent>
+     <listpage>119</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="604">
+     <listtag>6.4.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
+     <listpage>121</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="609">
      <listtag>6.4.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
-     <listpage>118</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="596">
-     <listtag>6.4.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
-     <listpage>118</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="597">
-     <listtag>6.4.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>119</listpage>
-    </listitem>
-    <listitem detail="section" internal="598">
-     <listtag>6.5</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 4. st. př. n. l.</listcontent>
-     <listpage>119</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="615">
-     <listtag>6.5.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
-     <listpage>121</listpage>
-    </listitem>
-    <listitem detail="subsubsection" internal="616">
-     <listtag>6.5.1.1</listtag>
-     <listcontent>Primární funerální nápisy</listcontent>
-     <listpage>121</listpage>
-    </listitem>
-    <listitem detail="subsubsection" internal="629">
-     <listtag>6.5.1.2</listtag>
-     <listcontent>Sekundární funerální nápisy</listcontent>
      <listpage>122</listpage>
     </listitem>
-    <listitem detail="subsection" internal="636">
-     <listtag>6.5.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
-     <listpage>123</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="637">
-     <listtag>6.5.3</listtag>
+    <listitem detail="subsection" internal="610">
+     <listtag>6.4.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
-     <listpage>123</listpage>
+     <listpage>122</listpage>
     </listitem>
-    <listitem detail="subsection" internal="644">
-     <listtag>6.5.4</listtag>
+    <listitem detail="subsection" internal="611">
+     <listtag>6.4.4</listtag>
      <listcontent>Shrnutí</listcontent>
-     <listpage>124</listpage>
+     <listpage>122</listpage>
     </listitem>
-    <listitem detail="section" internal="645">
-     <listtag>6.6</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 4. až 3. st. př. n. l.</listcontent>
+    <listitem detail="section" internal="612">
+     <listtag>6.5</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 4. st. př. n. l.</listcontent>
+     <listpage>122</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="635">
+     <listtag>6.5.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>125</listpage>
     </listitem>
-    <listitem detail="subsection" internal="650">
-     <listtag>6.6.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
+    <listitem detail="subsubsection" internal="636">
+     <listtag>6.5.1.1</listtag>
+     <listcontent>Primární funerální nápisy</listcontent>
+     <listpage>125</listpage>
+    </listitem>
+    <listitem detail="subsubsection" internal="649">
+     <listtag>6.5.1.2</listtag>
+     <listcontent>Sekundární funerální nápisy</listcontent>
      <listpage>126</listpage>
     </listitem>
-    <listitem detail="subsection" internal="653">
-     <listtag>6.6.2</listtag>
+    <listitem detail="subsection" internal="656">
+     <listtag>6.5.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
-     <listpage>126</listpage>
+     <listpage>127</listpage>
     </listitem>
-    <listitem detail="subsection" internal="660">
-     <listtag>6.6.3</listtag>
+    <listitem detail="subsection" internal="657">
+     <listtag>6.5.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
      <listpage>127</listpage>
     </listitem>
-    <listitem detail="subsection" internal="665">
-     <listtag>6.6.4</listtag>
+    <listitem detail="subsection" internal="664">
+     <listtag>6.5.4</listtag>
      <listcontent>Shrnutí</listcontent>
-     <listpage>127</listpage>
+     <listpage>128</listpage>
     </listitem>
-    <listitem detail="section" internal="666">
-     <listtag>6.7</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 3. st. př. n. l.</listcontent>
-     <listpage>127</listpage>
+    <listitem detail="section" internal="665">
+     <listtag>6.6</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 4. až 3. st. př. n. l.</listcontent>
+     <listpage>129</listpage>
     </listitem>
     <listitem detail="subsection" internal="673">
-     <listtag>6.7.1</listtag>
+     <listtag>6.6.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
-     <listpage>129</listpage>
-    </listitem>
-    <listitem detail="subsubsection" internal="674">
-     <listtag>6.7.1.1</listtag>
-     <listcontent>Primární funerální nápisy</listcontent>
-     <listpage>129</listpage>
-    </listitem>
-    <listitem detail="subsubsection" internal="681">
-     <listtag>6.7.1.2</listtag>
-     <listcontent>Sekundární funerální nápisy</listcontent>
-     <listpage>130</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="682">
-     <listtag>6.7.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
-     <listpage>130</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="687">
-     <listtag>6.7.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
      <listpage>131</listpage>
     </listitem>
-    <listitem detail="subsection" internal="702">
-     <listtag>6.7.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>133</listpage>
-    </listitem>
-    <listitem detail="section" internal="703">
-     <listtag>6.8</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 3. až 2. st. př. n. l.</listcontent>
-     <listpage>133</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="710">
-     <listtag>6.8.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
-     <listpage>134</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="717">
-     <listtag>6.8.2</listtag>
+    <listitem detail="subsection" internal="676">
+     <listtag>6.6.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
+     <listpage>131</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="683">
+     <listtag>6.6.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
+     <listpage>132</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="688">
+     <listtag>6.6.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>132</listpage>
+    </listitem>
+    <listitem detail="section" internal="689">
+     <listtag>6.7</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 3. st. př. n. l.</listcontent>
+     <listpage>133</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="702">
+     <listtag>6.7.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>135</listpage>
     </listitem>
-    <listitem detail="subsection" internal="720">
-     <listtag>6.8.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
+    <listitem detail="subsubsection" internal="703">
+     <listtag>6.7.1.1</listtag>
+     <listcontent>Primární funerální nápisy</listcontent>
+     <listpage>135</listpage>
+    </listitem>
+    <listitem detail="subsubsection" internal="710">
+     <listtag>6.7.1.2</listtag>
+     <listcontent>Sekundární funerální nápisy</listcontent>
      <listpage>136</listpage>
     </listitem>
-    <listitem detail="subsection" internal="725">
-     <listtag>6.8.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>136</listpage>
-    </listitem>
-    <listitem detail="section" internal="726">
-     <listtag>6.9</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 2. st. př. n. l.</listcontent>
-     <listpage>136</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="735">
-     <listtag>6.9.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
+    <listitem detail="subsection" internal="711">
+     <listtag>6.7.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
      <listpage>137</listpage>
     </listitem>
-    <listitem detail="subsection" internal="744">
-     <listtag>6.9.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
-     <listpage>138</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="747">
-     <listtag>6.9.3</listtag>
+    <listitem detail="subsection" internal="716">
+     <listtag>6.7.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
-     <listpage>138</listpage>
+     <listpage>137</listpage>
     </listitem>
-    <listitem detail="subsection" internal="750">
-     <listtag>6.9.4</listtag>
+    <listitem detail="subsection" internal="731">
+     <listtag>6.7.4</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>139</listpage>
     </listitem>
-    <listitem detail="section" internal="751">
-     <listtag>6.10</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 2. až 1. st. př. n. l.</listcontent>
+    <listitem detail="section" internal="732">
+     <listtag>6.8</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 3. až 2. st. př. n. l.</listcontent>
      <listpage>140</listpage>
     </listitem>
-    <listitem detail="subsection" internal="754">
-     <listtag>6.10.1</listtag>
+    <listitem detail="subsection" internal="745">
+     <listtag>6.8.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
-     <listpage>140</listpage>
+     <listpage>142</listpage>
     </listitem>
-    <listitem detail="subsection" internal="755">
-     <listtag>6.10.2</listtag>
+    <listitem detail="subsection" internal="752">
+     <listtag>6.8.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
-     <listpage>141</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="756">
-     <listtag>6.10.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
-     <listpage>141</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="757">
-     <listtag>6.10.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>142</listpage>
-    </listitem>
-    <listitem detail="section" internal="758">
-     <listtag>6.11</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 1. st. př. n. l.</listcontent>
-     <listpage>142</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="761">
-     <listtag>6.11.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
      <listpage>143</listpage>
     </listitem>
-    <listitem detail="subsection" internal="768">
-     <listtag>6.11.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
-     <listpage>144</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="773">
-     <listtag>6.11.3</listtag>
+    <listitem detail="subsection" internal="755">
+     <listtag>6.8.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
+     <listpage>143</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="760">
+     <listtag>6.8.4</listtag>
+     <listcontent>Shrnutí</listcontent>
      <listpage>144</listpage>
     </listitem>
-    <listitem detail="subsection" internal="778">
-     <listtag>6.11.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>145</listpage>
+    <listitem detail="section" internal="761">
+     <listtag>6.9</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 2. st. př. n. l.</listcontent>
+     <listpage>144</listpage>
     </listitem>
-    <listitem detail="section" internal="779">
-     <listtag>6.12</listtag>
-     <listcontent>Charakteristika epigrafické produkce 1. st. př. n. l. až 1. st. n. l.</listcontent>
-     <listpage>146</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="782">
-     <listtag>6.12.1</listtag>
+    <listitem detail="subsection" internal="779">
+     <listtag>6.9.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
      <listpage>146</listpage>
     </listitem>
-    <listitem detail="subsection" internal="783">
-     <listtag>6.12.2</listtag>
+    <listitem detail="subsection" internal="788">
+     <listtag>6.9.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
      <listpage>147</listpage>
     </listitem>
-    <listitem detail="subsection" internal="784">
-     <listtag>6.12.3</listtag>
+    <listitem detail="subsection" internal="791">
+     <listtag>6.9.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
      <listpage>147</listpage>
     </listitem>
-    <listitem detail="subsection" internal="793">
-     <listtag>6.12.4</listtag>
+    <listitem detail="subsection" internal="794">
+     <listtag>6.9.4</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>148</listpage>
     </listitem>
-    <listitem detail="section" internal="794">
-     <listtag>6.13</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 1. st. n. l.</listcontent>
+    <listitem detail="section" internal="795">
+     <listtag>6.10</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 2. až 1. st. př. n. l.</listcontent>
      <listpage>148</listpage>
     </listitem>
-    <listitem detail="subsection" internal="797">
-     <listtag>6.13.1</listtag>
+    <listitem detail="subsection" internal="801">
+     <listtag>6.10.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
-     <listpage>149</listpage>
+     <listpage>150</listpage>
     </listitem>
-    <listitem detail="subsection" internal="808">
-     <listtag>6.13.2</listtag>
+    <listitem detail="subsection" internal="802">
+     <listtag>6.10.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
      <listpage>150</listpage>
     </listitem>
-    <listitem detail="subsection" internal="817">
-     <listtag>6.13.3</listtag>
+    <listitem detail="subsection" internal="803">
+     <listtag>6.10.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
      <listpage>151</listpage>
     </listitem>
-    <listitem detail="subsection" internal="830">
-     <listtag>6.13.4</listtag>
+    <listitem detail="subsection" internal="804">
+     <listtag>6.10.4</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>152</listpage>
     </listitem>
-    <listitem detail="section" internal="831">
-     <listtag>6.14</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 1. st. n. l. až 2. st. n. l.</listcontent>
+    <listitem detail="section" internal="805">
+     <listtag>6.11</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 1. st. př. n. l.</listcontent>
      <listpage>152</listpage>
     </listitem>
-    <listitem detail="subsection" internal="838">
-     <listtag>6.14.1</listtag>
+    <listitem detail="subsection" internal="811">
+     <listtag>6.11.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
-     <listpage>153</listpage>
+     <listpage>154</listpage>
     </listitem>
-    <listitem detail="subsection" internal="847">
-     <listtag>6.14.2</listtag>
+    <listitem detail="subsection" internal="818">
+     <listtag>6.11.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
      <listpage>154</listpage>
     </listitem>
-    <listitem detail="subsection" internal="848">
-     <listtag>6.14.3</listtag>
+    <listitem detail="subsection" internal="823">
+     <listtag>6.11.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
-     <listpage>154</listpage>
+     <listpage>155</listpage>
     </listitem>
-    <listitem detail="subsection" internal="851">
-     <listtag>6.14.4</listtag>
+    <listitem detail="subsection" internal="828">
+     <listtag>6.11.4</listtag>
      <listcontent>Shrnutí</listcontent>
-     <listpage>155</listpage>
-    </listitem>
-    <listitem detail="section" internal="852">
-     <listtag>6.15</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 2. st. n. l.</listcontent>
-     <listpage>155</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="859">
-     <listtag>6.15.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
      <listpage>156</listpage>
     </listitem>
-    <listitem detail="subsection" internal="874">
-     <listtag>6.15.2</listtag>
+    <listitem detail="section" internal="829">
+     <listtag>6.12</listtag>
+     <listcontent>Charakteristika epigrafické produkce 1. st. př. n. l. až 1. st. n. l.</listcontent>
+     <listpage>156</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="835">
+     <listtag>6.12.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
+     <listpage>158</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="836">
+     <listtag>6.12.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
      <listpage>158</listpage>
     </listitem>
-    <listitem detail="subsection" internal="881">
-     <listtag>6.15.3</listtag>
+    <listitem detail="subsection" internal="837">
+     <listtag>6.12.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
-     <listpage>158</listpage>
+     <listpage>159</listpage>
     </listitem>
-    <listitem detail="subsection" internal="902">
-     <listtag>6.15.4</listtag>
+    <listitem detail="subsection" internal="846">
+     <listtag>6.12.4</listtag>
      <listcontent>Shrnutí</listcontent>
-     <listpage>161</listpage>
+     <listpage>159</listpage>
     </listitem>
-    <listitem detail="section" internal="903">
-     <listtag>6.16</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 2. st. n. l. až 3. st. n. l.</listcontent>
-     <listpage>161</listpage>
+    <listitem detail="section" internal="847">
+     <listtag>6.13</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 1. st. n. l.</listcontent>
+     <listpage>159</listpage>
     </listitem>
-    <listitem detail="subsection" internal="910">
-     <listtag>6.16.1</listtag>
+    <listitem detail="subsection" internal="853">
+     <listtag>6.13.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
+     <listpage>161</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="864">
+     <listtag>6.13.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
      <listpage>162</listpage>
     </listitem>
-    <listitem detail="subsection" internal="919">
-     <listtag>6.16.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
+    <listitem detail="subsection" internal="873">
+     <listtag>6.13.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
      <listpage>163</listpage>
     </listitem>
-    <listitem detail="subsection" internal="930">
-     <listtag>6.16.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
+    <listitem detail="subsection" internal="886">
+     <listtag>6.13.4</listtag>
+     <listcontent>Shrnutí</listcontent>
      <listpage>164</listpage>
     </listitem>
-    <listitem detail="subsection" internal="939">
-     <listtag>6.16.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>165</listpage>
+    <listitem detail="section" internal="887">
+     <listtag>6.14</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 1. st. n. l. až 2. st. n. l.</listcontent>
+     <listpage>164</listpage>
     </listitem>
-    <listitem detail="section" internal="940">
-     <listtag>6.17</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 3. st. n. l.</listcontent>
-     <listpage>165</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="947">
-     <listtag>6.17.1</listtag>
+    <listitem detail="subsection" internal="897">
+     <listtag>6.14.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
      <listpage>166</listpage>
     </listitem>
-    <listitem detail="subsection" internal="962">
-     <listtag>6.17.2</listtag>
+    <listitem detail="subsection" internal="906">
+     <listtag>6.14.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
+     <listpage>167</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="907">
+     <listtag>6.14.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
      <listpage>168</listpage>
     </listitem>
-    <listitem detail="subsection" internal="979">
-     <listtag>6.17.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
+    <listitem detail="subsection" internal="910">
+     <listtag>6.14.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>168</listpage>
+    </listitem>
+    <listitem detail="section" internal="911">
+     <listtag>6.15</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 2. st. n. l.</listcontent>
+     <listpage>168</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="924">
+     <listtag>6.15.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>170</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1008">
-     <listtag>6.17.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>173</listpage>
-    </listitem>
-    <listitem detail="section" internal="1009">
-     <listtag>6.18</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 3. st. n. l. až 4. st. n. l.</listcontent>
-     <listpage>174</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1014">
-     <listtag>6.18.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
-     <listpage>174</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1019">
-     <listtag>6.18.2</listtag>
+    <listitem detail="subsection" internal="939">
+     <listtag>6.15.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
-     <listpage>175</listpage>
+     <listpage>172</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1020">
-     <listtag>6.18.3</listtag>
+    <listitem detail="subsection" internal="946">
+     <listtag>6.15.3</listtag>
      <listcontent>Veřejné nápisy</listcontent>
-     <listpage>175</listpage>
+     <listpage>172</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1023">
-     <listtag>6.18.4</listtag>
+    <listitem detail="subsection" internal="967">
+     <listtag>6.15.4</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>175</listpage>
     </listitem>
-    <listitem detail="section" internal="1024">
-     <listtag>6.19</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 4. st. n. l.</listcontent>
-     <listpage>176</listpage>
+    <listitem detail="section" internal="968">
+     <listtag>6.16</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 2. st. n. l. až 3. st. n. l.</listcontent>
+     <listpage>175</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1025">
-     <listtag>6.19.1</listtag>
+    <listitem detail="subsection" internal="981">
+     <listtag>6.16.1</listtag>
      <listcontent>Funerální nápisy</listcontent>
-     <listpage>176</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1030">
-     <listtag>6.19.2</listtag>
-     <listcontent>Dedikační nápisy</listcontent>
      <listpage>177</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1031">
-     <listtag>6.19.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
-     <listpage>177</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1040">
-     <listtag>6.19.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>178</listpage>
-    </listitem>
-    <listitem detail="section" internal="1041">
-     <listtag>6.20</listtag>
-     <listcontent>Charakteristika epigrafické produkce ve 4. st. n. l. až 5. st. n. l.</listcontent>
-     <listpage>178</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1042">
-     <listtag>6.20.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
-     <listpage>178</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1049">
-     <listtag>6.20.2</listtag>
+    <listitem detail="subsection" internal="990">
+     <listtag>6.16.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
+     <listpage>178</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1001">
+     <listtag>6.16.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
      <listpage>179</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1054">
-     <listtag>6.20.3</listtag>
-     <listcontent>Veřejné nápisy</listcontent>
-     <listpage>180</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1055">
-     <listtag>6.20.4</listtag>
+    <listitem detail="subsection" internal="1010">
+     <listtag>6.16.4</listtag>
      <listcontent>Shrnutí</listcontent>
      <listpage>180</listpage>
     </listitem>
-    <listitem detail="section" internal="1056">
-     <listtag>6.21</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 5. st. n. l.</listcontent>
+    <listitem detail="section" internal="1011">
+     <listtag>6.17</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 3. st. n. l.</listcontent>
      <listpage>180</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1059">
-     <listtag>6.21.1</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>181</listpage>
-    </listitem>
-    <listitem detail="section" internal="1060">
-     <listtag>6.22</listtag>
-     <listcontent>Charakteristika epigrafické produkce v 5. st. n. l. až 6. st. n. l.</listcontent>
-     <listpage>181</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1067">
-     <listtag>6.22.1</listtag>
-     <listcontent>Shrnutí</listcontent>
+    <listitem detail="subsection" internal="1024">
+     <listtag>6.17.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>182</listpage>
     </listitem>
-    <listitem detail="section" internal="1068">
-     <listtag>6.23</listtag>
-     <listcontent>Nápisy z 6. až 8. st. n. l.</listcontent>
-     <listpage>182</listpage>
-    </listitem>
-    <listitem detail="section" internal="1071">
-     <listtag>6.24</listtag>
-     <listcontent>Epigrafická produkce a proměny společnosti</listcontent>
-     <listpage>183</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1072">
-     <listtag>6.24.1</listtag>
-     <listcontent>Proměny epigrafické produkce v závislosti na společenské organizaci a komplexitě</listcontent>
-     <listpage>183</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1073">
-     <listtag>6.24.2</listtag>
-     <listcontent>Soukromé vs. veřejné nápisy a role komplexní společnosti</listcontent>
+    <listitem detail="subsection" internal="1039">
+     <listtag>6.17.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
      <listpage>184</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1074">
-     <listtag>6.24.3</listtag>
-     <listcontent>Epigrafická produkce v jednotlivých obdobích</listcontent>
+    <listitem detail="subsection" internal="1056">
+     <listtag>6.17.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
      <listpage>186</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1077">
-      <listtag>7</listtag>
-     <listcontent>Mapování kulturních změn</listcontent>
+    <listitem detail="subsection" internal="1085">
+     <listtag>6.17.4</listtag>
+     <listcontent>Shrnutí</listcontent>
      <listpage>189</listpage>
     </listitem>
-    <listitem detail="section" internal="1078">
-     <listtag>7.1</listtag>
-     <listcontent>Prostorová analýza epigrafické produkce</listcontent>
-     <listpage>189</listpage>
+    <listitem detail="section" internal="1086">
+     <listtag>6.18</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 3. st. n. l. až 4. st. n. l.</listcontent>
+     <listpage>190</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1081">
-     <listtag>7.1.1</listtag>
-     <listcontent>Epigrafická produkční centra</listcontent>
-     <listpage>189</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1084">
-     <listtag>7.1.2</listtag>
-     <listcontent>Faktory ovlivňující rozmístění nápisů</listcontent>
-     <listpage>191</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1087">
-     <listtag>7.1.3</listtag>
-     <listcontent>Skupiny produkčních center nápisů</listcontent>
+    <listitem detail="subsection" internal="1097">
+     <listtag>6.18.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>192</listpage>
     </listitem>
-    <listitem detail="subsubsection" internal="1088">
-     <listtag>7.1.3.1</listtag>
-     <listcontent>Produkční centra městského charakteru</listcontent>
+    <listitem detail="subsection" internal="1102">
+     <listtag>6.18.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
      <listpage>192</listpage>
-    </listitem>
-    <listitem detail="subsubsection" internal="1093">
-     <listtag>7.1.3.2</listtag>
-     <listcontent>Produkční centra neměstského charakteru</listcontent>
-     <listpage>194</listpage>
-    </listitem>
-    <listitem detail="section" internal="1102">
-     <listtag>7.2</listtag>
-     <listcontent>Rozmístění nápisů v závislosti na jejich typologii</listcontent>
-     <listpage>195</listpage>
     </listitem>
     <listitem detail="subsection" internal="1103">
-     <listtag>7.2.1</listtag>
-     <listcontent>Veřejné nápisy jako produkt komplexní společnosti</listcontent>
-     <listpage>195</listpage>
+     <listtag>6.18.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
+     <listpage>192</listpage>
     </listitem>
     <listitem detail="subsection" internal="1106">
-     <listtag>7.2.2</listtag>
-     <listcontent>Soukromé nápisy a projevy kulturních zvyklostí</listcontent>
+     <listtag>6.18.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>193</listpage>
+    </listitem>
+    <listitem detail="section" internal="1107">
+     <listtag>6.19</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 4. st. n. l.</listcontent>
+     <listpage>193</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1108">
+     <listtag>6.19.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
+     <listpage>195</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1113">
+     <listtag>6.19.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
+     <listpage>195</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1114">
+     <listtag>6.19.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
+     <listpage>195</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1123">
+     <listtag>6.19.4</listtag>
+     <listcontent>Shrnutí</listcontent>
      <listpage>196</listpage>
     </listitem>
-    <listitem detail="subsubsection" internal="1107">
-     <listtag>7.2.2.1</listtag>
-     <listcontent>Funerální nápisy</listcontent>
-     <listpage>197</listpage>
+    <listitem detail="section" internal="1124">
+     <listtag>6.20</listtag>
+     <listcontent>Charakteristika epigrafické produkce ve 4. st. n. l. až 5. st. n. l.</listcontent>
+     <listpage>196</listpage>
     </listitem>
-    <listitem detail="subsubsection" internal="1114">
-     <listtag>7.2.2.2</listtag>
+    <listitem detail="subsection" internal="1125">
+     <listtag>6.20.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
+     <listpage>198</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1132">
+     <listtag>6.20.2</listtag>
      <listcontent>Dedikační nápisy</listcontent>
      <listpage>199</listpage>
     </listitem>
-    <listitem detail="section" internal="1119">
-     <listtag>7.3</listtag>
-     <listcontent>Srovnání epigrafické produkce s archeologickými daty</listcontent>
-     <listpage>200</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1122">
-     <listtag>7.3.1</listtag>
-     <listcontent>Příklad řeckých měst v Thrákii v 7. až 4. st. př. n. l.</listcontent>
-     <listpage>200</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1129">
-     <listtag>7.3.2</listtag>
-     <listcontent>Příklad z thráckého vnitrozemí: Kazanlacké údolí v době římské</listcontent>
-     <listpage>202</listpage>
-    </listitem>
-    <listitem detail="section" internal="1132">
-     <listtag>7.4</listtag>
-     <listcontent>Shrnutí</listcontent>
-     <listpage>204</listpage>
-    </listitem>
-    <listitem detail="chapter" internal="1133">
-      <listtag>8</listtag>
-     <listcontent>Závěr</listcontent>
-     <listpage>206</listpage>
-    </listitem>
-    <listitem detail="section" internal="1134">
-     <listtag>8.1</listtag>
-     <listcontent>Zhodnocení vlivu hellénizace na epigrafickou produkci v Thrákii</listcontent>
-     <listpage>206</listpage>
-    </listitem>
-    <listitem detail="section" internal="1135">
-     <listtag>8.2</listtag>
-     <listcontent>Charakter epigrafické produkce v Thrákii v předřímské době</listcontent>
-     <listpage>207</listpage>
-    </listitem>
-    <listitem detail="subsection" internal="1136">
-     <listtag>8.2.1</listtag>
-     <listcontent>Pobřežní komunity</listcontent>
-     <listpage>207</listpage>
-    </listitem>
     <listitem detail="subsection" internal="1137">
-     <listtag>8.2.2</listtag>
-     <listcontent>Vnitrozemské komunity</listcontent>
+     <listtag>6.20.3</listtag>
+     <listcontent>Veřejné nápisy</listcontent>
+     <listpage>199</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1138">
+     <listtag>6.20.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>199</listpage>
+    </listitem>
+    <listitem detail="section" internal="1139">
+     <listtag>6.21</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 5. st. n. l.</listcontent>
+     <listpage>199</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1142">
+     <listtag>6.21.1</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>201</listpage>
+    </listitem>
+    <listitem detail="section" internal="1143">
+     <listtag>6.22</listtag>
+     <listcontent>Charakteristika epigrafické produkce v 5. st. n. l. až 6. st. n. l.</listcontent>
+     <listpage>201</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1153">
+     <listtag>6.22.1</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>203</listpage>
+    </listitem>
+    <listitem detail="section" internal="1154">
+     <listtag>6.23</listtag>
+     <listcontent>Nápisy z 6. až 8. st. n. l.</listcontent>
+     <listpage>203</listpage>
+    </listitem>
+    <listitem detail="section" internal="1160">
+     <listtag>6.24</listtag>
+     <listcontent>Epigrafická produkce a proměny společnosti</listcontent>
+     <listpage>205</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1161">
+     <listtag>6.24.1</listtag>
+     <listcontent>Proměny epigrafické produkce v závislosti na společenské organizaci a komplexitě</listcontent>
+     <listpage>205</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1162">
+     <listtag>6.24.2</listtag>
+     <listcontent>Soukromé vs. veřejné nápisy a role komplexní společnosti</listcontent>
+     <listpage>206</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1163">
+     <listtag>6.24.3</listtag>
+     <listcontent>Epigrafická produkce v jednotlivých obdobích</listcontent>
      <listpage>208</listpage>
     </listitem>
-    <listitem detail="section" internal="1138">
-     <listtag>8.3</listtag>
-     <listcontent>Charakter epigrafické produkce v Thrákii v římské době</listcontent>
-     <listpage>209</listpage>
+    <listitem detail="chapter" internal="1166">
+      <listtag>7</listtag>
+     <listcontent>Mapování kulturních změn</listcontent>
+     <listpage>211</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1139">
-     <listtag>8.3.1</listtag>
-     <listcontent>Proměny identity a vliv řecké kultury</listcontent>
-     <listpage>210</listpage>
+    <listitem detail="section" internal="1167">
+     <listtag>7.1</listtag>
+     <listcontent>Prostorová analýza epigrafické produkce</listcontent>
+     <listpage>211</listpage>
     </listitem>
-    <listitem detail="section" internal="1140">
-     <listtag>8.4</listtag>
-     <listcontent>Zhodnocení použité metodologie</listcontent>
-     <listpage>212</listpage>
+    <listitem detail="subsection" internal="1170">
+     <listtag>7.1.1</listtag>
+     <listcontent>Epigrafická produkční centra</listcontent>
+     <listpage>211</listpage>
     </listitem>
-    <listitem detail="section" internal="1141">
-     <listtag>8.5</listtag>
-     <listcontent>Nastínění dalšího vývoje</listcontent>
+    <listitem detail="subsection" internal="1173">
+     <listtag>7.1.2</listtag>
+     <listcontent>Faktory ovlivňující rozmístění nápisů</listcontent>
      <listpage>213</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1142">
-      <listtag>9</listtag>
-     <listcontent>Seznam použitých zkratek</listcontent>
+    <listitem detail="subsection" internal="1176">
+     <listtag>7.1.3</listtag>
+     <listcontent>Skupiny produkčních center nápisů</listcontent>
      <listpage>214</listpage>
     </listitem>
-    <listitem detail="subsection" internal="1143">
-     <listtag>9.1</listtag>
-     <listcontent>Seznam zkratek antických autorů a děl</listcontent>
-     <listpage>215</listpage>
+    <listitem detail="subsubsection" internal="1177">
+     <listtag>7.1.3.1</listtag>
+     <listcontent>Produkční centra městského charakteru</listcontent>
+     <listpage>214</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1144">
-      <listtag>10</listtag>
-     <listcontent>Bibliografie</listcontent>
+    <listitem detail="subsubsection" internal="1182">
+     <listtag>7.1.3.2</listtag>
+     <listcontent>Produkční centra neměstského charakteru</listcontent>
      <listpage>216</listpage>
     </listitem>
-    <listitem detail="section" internal="1145">
-     <listtag>10.1</listtag>
-     <listcontent>Primární antické literární prameny</listcontent>
-     <listpage>216</listpage>
+    <listitem detail="section" internal="1191">
+     <listtag>7.2</listtag>
+     <listcontent>Rozmístění nápisů v závislosti na jejich typologii</listcontent>
+     <listpage>217</listpage>
     </listitem>
-    <listitem detail="section" internal="1185">
-     <listtag>10.2</listtag>
-     <listcontent>Primární epigrafické prameny</listcontent>
+    <listitem detail="subsection" internal="1192">
+     <listtag>7.2.1</listtag>
+     <listcontent>Veřejné nápisy jako produkt komplexní společnosti</listcontent>
+     <listpage>217</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1195">
+     <listtag>7.2.2</listtag>
+     <listcontent>Soukromé nápisy a projevy kulturních zvyklostí</listcontent>
      <listpage>218</listpage>
     </listitem>
-    <listitem detail="section" internal="1207">
-     <listtag>10.3</listtag>
-     <listcontent>Sekundární prameny</listcontent>
+    <listitem detail="subsubsection" internal="1196">
+     <listtag>7.2.2.1</listtag>
+     <listcontent>Funerální nápisy</listcontent>
      <listpage>219</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1620">
+    <listitem detail="subsubsection" internal="1203">
+     <listtag>7.2.2.2</listtag>
+     <listcontent>Dedikační nápisy</listcontent>
+     <listpage>221</listpage>
+    </listitem>
+    <listitem detail="section" internal="1208">
+     <listtag>7.3</listtag>
+     <listcontent>Srovnání epigrafické produkce s archeologickými daty</listcontent>
+     <listpage>222</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1211">
+     <listtag>7.3.1</listtag>
+     <listcontent>Příklad řeckých měst v Thrákii v 7. až 4. st. př. n. l.</listcontent>
+     <listpage>222</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1218">
+     <listtag>7.3.2</listtag>
+     <listcontent>Příklad z thráckého vnitrozemí: Kazanlacké údolí v době římské</listcontent>
+     <listpage>224</listpage>
+    </listitem>
+    <listitem detail="section" internal="1221">
+     <listtag>7.4</listtag>
+     <listcontent>Shrnutí</listcontent>
+     <listpage>226</listpage>
+    </listitem>
+    <listitem detail="chapter" internal="1222">
+      <listtag>8</listtag>
+     <listcontent>Závěr</listcontent>
+     <listpage>228</listpage>
+    </listitem>
+    <listitem detail="section" internal="1223">
+     <listtag>8.1</listtag>
+     <listcontent>Zhodnocení vlivu hellénizace na epigrafickou produkci v Thrákii</listcontent>
+     <listpage>228</listpage>
+    </listitem>
+    <listitem detail="section" internal="1224">
+     <listtag>8.2</listtag>
+     <listcontent>Charakter epigrafické produkce v Thrákii v předřímské době</listcontent>
+     <listpage>229</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1225">
+     <listtag>8.2.1</listtag>
+     <listcontent>Pobřežní komunity</listcontent>
+     <listpage>229</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1226">
+     <listtag>8.2.2</listtag>
+     <listcontent>Vnitrozemské komunity</listcontent>
+     <listpage>230</listpage>
+    </listitem>
+    <listitem detail="section" internal="1227">
+     <listtag>8.3</listtag>
+     <listcontent>Charakter epigrafické produkce v Thrákii v římské době</listcontent>
+     <listpage>231</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1228">
+     <listtag>8.3.1</listtag>
+     <listcontent>Proměny identity a vliv řecké kultury</listcontent>
+     <listpage>232</listpage>
+    </listitem>
+    <listitem detail="section" internal="1229">
+     <listtag>8.4</listtag>
+     <listcontent>Zhodnocení použité metodologie</listcontent>
+     <listpage>234</listpage>
+    </listitem>
+    <listitem detail="section" internal="1230">
+     <listtag>8.5</listtag>
+     <listcontent>Nastínění dalšího vývoje</listcontent>
+     <listpage>235</listpage>
+    </listitem>
+    <listitem detail="chapter" internal="1231">
+      <listtag>9</listtag>
+     <listcontent>Seznam použitých zkratek</listcontent>
+     <listpage>236</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="1232">
+     <listtag>9.1</listtag>
+     <listcontent>Seznam zkratek antických autorů a děl</listcontent>
+     <listpage>237</listpage>
+    </listitem>
+    <listitem detail="chapter" internal="1233">
+      <listtag>10</listtag>
+     <listcontent>Bibliografie</listcontent>
+     <listpage>238</listpage>
+    </listitem>
+    <listitem detail="section" internal="1234">
+     <listtag>10.1</listtag>
+     <listcontent>Primární antické literární prameny</listcontent>
+     <listpage>238</listpage>
+    </listitem>
+    <listitem detail="section" internal="1274">
+     <listtag>10.2</listtag>
+     <listcontent>Primární epigrafické prameny</listcontent>
+     <listpage>240</listpage>
+    </listitem>
+    <listitem detail="section" internal="1296">
+     <listtag>10.3</listtag>
+     <listcontent>Sekundární prameny</listcontent>
+     <listpage>241</listpage>
+    </listitem>
+    <listitem detail="chapter" internal="1709">
       <listtag>11</listtag>
      <listcontent>Apendix 1 - Tabulky</listcontent>
-     <listpage>249</listpage>
+     <listpage>271</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1646">
+    <listitem detail="chapter" internal="1735">
       <listtag>12</listtag>
      <listcontent>Apendix 2 - Mapy a grafy</listcontent>
-     <listpage>281</listpage>
+     <listpage>303</listpage>
     </listitem>
-    <listitem detail="chapter" internal="1684">
+    <listitem detail="chapter" internal="1773">
       <listtag>13</listtag>
      <listcontent>Apendix 3 - Zpracované nápisy</listcontent>
-     <listpage>303</listpage>
+     <listpage>325</listpage>
     </listitem>
-    <listitem detail="section" internal="1685">
+    <listitem detail="section" internal="1774">
      <listtag>13.1</listtag>
      <listcontent>I Aeg Thrace</listcontent>
-     <listpage>303</listpage>
+     <listpage>325</listpage>
     </listitem>
-    <listitem detail="section" internal="1686">
+    <listitem detail="section" internal="1775">
      <listtag>13.2</listtag>
      <listcontent>IG Bulg 1,2</listcontent>
-     <listpage>304</listpage>
+     <listpage>326</listpage>
     </listitem>
-    <listitem detail="section" internal="1687">
+    <listitem detail="section" internal="1776">
      <listtag>13.3</listtag>
      <listcontent>IG Bulg 2</listcontent>
-     <listpage>306</listpage>
+     <listpage>328</listpage>
     </listitem>
-    <listitem detail="section" internal="1688">
+    <listitem detail="section" internal="1777">
      <listtag>13.4</listtag>
      <listcontent>IG Bulg 3,1</listcontent>
-     <listpage>307</listpage>
+     <listpage>329</listpage>
     </listitem>
-    <listitem detail="section" internal="1689">
+    <listitem detail="section" internal="1778">
      <listtag>13.5</listtag>
      <listcontent>IG Bulg 3,2</listcontent>
-     <listpage>308</listpage>
+     <listpage>330</listpage>
     </listitem>
-    <listitem detail="section" internal="1690">
+    <listitem detail="section" internal="1779">
      <listtag>13.6</listtag>
      <listcontent>IG Bulg 4</listcontent>
-     <listpage>309</listpage>
+     <listpage>331</listpage>
     </listitem>
-    <listitem detail="section" internal="1691">
+    <listitem detail="section" internal="1780">
      <listtag>13.7</listtag>
      <listcontent>IG Bulg 5</listcontent>
-     <listpage>310</listpage>
+     <listpage>332</listpage>
     </listitem>
-    <listitem detail="section" internal="1692">
+    <listitem detail="section" internal="1781">
      <listtag>13.8</listtag>
      <listcontent>Perinthos-Herakleia</listcontent>
-     <listpage>311</listpage>
+     <listpage>333</listpage>
     </listitem>
-    <listitem detail="section" internal="1693">
+    <listitem detail="section" internal="1782">
      <listtag>13.9</listtag>
      <listcontent>IK Sestos</listcontent>
-     <listpage>312</listpage>
+     <listpage>334</listpage>
     </listitem>
-    <listitem detail="section" internal="1694">
+    <listitem detail="section" internal="1783">
      <listtag>13.10</listtag>
      <listcontent>IK Byzantion</listcontent>
-     <listpage>312</listpage>
+     <listpage>334</listpage>
     </listitem>
-    <listitem detail="section" internal="1695">
+    <listitem detail="section" internal="1784">
      <listtag>13.11</listtag>
      <listcontent>Other - Jiné zdroje</listcontent>
-     <listpage>313</listpage>
+     <listpage>335</listpage>
     </listitem>
    </list>
   </sectioncontent>
