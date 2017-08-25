@@ -201,6 +201,12 @@ section[detail=section], div.section.section {
     display: block ;
 }
 
+/* element="section" detail="subject" chain="subject" */
+
+section[detail=subject], div.section.subject {
+    display: block ;
+}
+
 /* element="section" detail="subsection" chain="subsection" */
 
 section[detail=subsection], div.section.subsection {
