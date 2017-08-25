@@ -3,10 +3,136 @@
 @namespace context url('%namespace%') ;
 
 
+/* element="description" detail="footnote" chain="footnote" */
+
+description[detail=footnote], div.description.footnote {
+    display: block ;
+}
+
+/* element="descriptioncontent" detail="" chain="" */
+
+descriptioncontent, div.descriptioncontent {
+    display: inline ;
+}
+
+/* element="descriptionsymbol" detail="footnote" chain="" */
+
+descriptionsymbol[detail=footnote], div.descriptionsymbol.footnote {
+    display: inline ;
+}
+
+/* element="descriptiontag" detail="" chain="" */
+
+descriptiontag, div.descriptiontag {
+    display: inline ;
+}
+
 /* element="document" detail="" chain="" */
 
 document, div.document {
     display: block ;
+}
+
+/* element="float" detail="figure" chain="figure" */
+
+float[detail=figure], div.float.figure {
+    display: block ;
+}
+
+/* element="float" detail="table" chain="table" */
+
+float[detail=table], div.float.table {
+    display: block ;
+}
+
+/* element="floatcaption" detail="" chain="" */
+
+floatcaption, div.floatcaption {
+    display: inline ;
+}
+
+/* element="floatcontent" detail="" chain="" */
+
+floatcontent, div.floatcontent {
+    display: inline ;
+}
+
+/* element="floatlabel" detail="figure" chain="" */
+
+floatlabel[detail=figure], div.floatlabel.figure {
+    display: inline ;
+}
+
+/* element="floatlabel" detail="table" chain="" */
+
+floatlabel[detail=table], div.floatlabel.table {
+    display: inline ;
+}
+
+/* element="floatnumber" detail="figure" chain="" */
+
+floatnumber[detail=figure], div.floatnumber.figure {
+    display: inline ;
+}
+
+/* element="floatnumber" detail="table" chain="" */
+
+floatnumber[detail=table], div.floatnumber.table {
+    display: inline ;
+}
+
+/* element="floattext" detail="" chain="" */
+
+floattext, div.floattext {
+    display: inline ;
+}
+
+/* element="image" detail="" chain="" */
+
+image, div.image {
+    display: inline ;
+}
+
+/* element="item" detail="" chain="" */
+
+item, div.item {
+    display: block ;
+}
+
+/* element="itemcontent" detail="" chain="" */
+
+itemcontent, div.itemcontent {
+    display: inline ;
+}
+
+/* element="itemgroup" detail="itemize" chain="itemize" */
+
+itemgroup[detail=itemize], div.itemgroup.itemize {
+    display: block ;
+}
+
+/* element="itemtag" detail="" chain="" */
+
+itemtag, div.itemtag {
+    display: inline ;
+}
+
+/* element="line" detail="" chain="" */
+
+line, div.line {
+    display: inline ;
+}
+
+/* element="lines" detail="lines" chain="lines" */
+
+lines[detail=lines], div.lines.lines {
+    display: block ;
+}
+
+/* element="link" detail="" chain="" */
+
+link, div.link {
+    display: inline ;
 }
 
 /* element="list" detail="" chain="" */
@@ -19,6 +145,12 @@ list, div.list {
 
 listcontent, div.listcontent {
     display: inline ;
+}
+
+/* element="listitem" detail="btx-apa" chain="" */
+
+listitem[detail=btx-apa], div.listitem.btx-apa {
+    display: block ;
 }
 
 /* element="listitem" detail="chapter" chain="" */
@@ -57,6 +189,30 @@ listtag, div.listtag {
     display: inline ;
 }
 
+/* element="section" detail="chapter" chain="chapter" */
+
+section[detail=chapter], div.section.chapter {
+    display: block ;
+}
+
+/* element="section" detail="section" chain="section" */
+
+section[detail=section], div.section.section {
+    display: block ;
+}
+
+/* element="section" detail="subsection" chain="subsection" */
+
+section[detail=subsection], div.section.subsection {
+    display: block ;
+}
+
+/* element="section" detail="subsubsection" chain="subsubsection" */
+
+section[detail=subsubsection], div.section.subsubsection {
+    display: block ;
+}
+
 /* element="section" detail="title" chain="title" */
 
 section[detail=title], div.section.title {
@@ -69,8 +225,38 @@ sectioncontent, div.sectioncontent {
     display: block ;
 }
 
+/* element="sectionnumber" detail="" chain="" */
+
+sectionnumber, div.sectionnumber {
+    display: inline ;
+}
+
 /* element="sectiontitle" detail="" chain="" */
 
 sectiontitle, div.sectiontitle {
     display: inline ;
+}
+
+/* element="sup" detail="" chain="" */
+
+sup, div.sup {
+    display: inline ;
+}
+
+/* element="table" detail="" chain="" */
+
+table, div.table {
+    display: block ;
+}
+
+/* element="tablecell" detail="" chain="" */
+
+tablecell, div.tablecell {
+    display: inline ;
+}
+
+/* element="tablerow" detail="" chain="" */
+
+tablerow, div.tablerow {
+    display: block ;
 }
