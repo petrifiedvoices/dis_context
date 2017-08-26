@@ -11,9 +11,18 @@
 \chapter{Test}
 \input knuth
 
-Crossref 1: \in[document1::document1], \in[document1::cow]
+Crossref 1: \about[document1]
+
+Crossref 2: \about[apendix2]
+
+Crossref 3: \in[apendix2:::tab1] \in[tab1] \about[7.07a] \in[7.07a]
+
+
 \stoptext
 
-\component {document1}
-\component document2
+% \component {../thesisBySection/Mapování kulturních změn/chapter-Mapování kulturních změn}
+% \component {../thesisBySection/Mapování kulturních změn/section-rozmístění-nápisů-v-závislosti-na-jejich-typologii}
+% \stopchapter
+\component document1
+\component apendix2
 \stopproduct
