@@ -3,6 +3,9 @@
 %\enableregime[latin2]
 \enableregime[utf]
 \setupcolors[state=start] 
+
+%\usepath[{.}, {..}, {../thesisBySection}]
+
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style=normal]
 
 \setuppapersize[A4][A4]
@@ -39,7 +42,7 @@
 
 \setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=yes,align={flushleft}]
 \setuphead[chapter][prefix=+]
-
+\setupreferencing[state=start, prefix=+, interaction=all, autofile=yes]
 \definedescription[description][headstyle=bold, style=normal, location=hanging, width=broad, margin=1cm]
 
 \setupitemize[autointro]    % prevent orphan list intro

@@ -1,6 +1,19 @@
 \environment env_dis.tex
+\usepath[{./}]
+
+\startproduct crossRef
 \starttext
-\component {../thesisBySection/Mapování kulturních změn/chapter-Mapování kulturních změn.tex}
-\component {../thesisBySection/Mapování kulturních změn/section-rozmístění-nápisů-v-závislosti-na-jejich-typologii.tex}
-\component {../thesisBySection/Apendix2/Apendix2.tex}
+\title{bigtest}
+
+\completecontent[criterium=all]
+
+
+\chapter{Test}
+\input knuth
+
+Crossref 1: \in[document1::document1], \in[document1::cow]
 \stoptext
+
+\component document1
+\component document2
+\stopproduct
