@@ -1,0 +1,19 @@
+\environment env_dis.tex
+\usepath[{./}]
+
+\startproduct crossRef
+\starttext
+\title{bigtest}
+
+\completecontent[criterium=all]
+
+
+\chapter{Test}
+\input knuth
+
+Crossref 1: \in[document1::document1], \in[document1::cow]
+\stoptext
+
+\component {document1}
+\component document2
+\stopproduct
