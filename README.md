@@ -18,6 +18,8 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * thesisBySection - parsed text of the disseration to chapters and subchapters for easier compiling in ConTeXt
   * the typesetting environment (env_dis.tex)
   * the disertation product (dis_product.tex)
+* sectinator.py + sectinator.sh - Python script parsing the text of the dissertation by chapters and subchapters
+* convert.sh - script converting .docx to .tex, the format needed to parse the original dissertation document
 
 ## Dissertation:
 * the link to the data used to write this dissertation can be found at https://github.com/petrajanouchova/hat_project
