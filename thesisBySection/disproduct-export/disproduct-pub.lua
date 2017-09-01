@@ -8,14 +8,14 @@ return {
  ["images"]={
   ["image>1"]={
    ["element"]="image",
-   ["height"]="11.367cm",
+   ["height"]="10.715cm",
    ["id"]="image-1",
-   ["name"]="1.01a_Thrace_geo.png",
+   ["name"]="1.01a_ThraceOverview.png",
    ["namespace"]="",
    ["page"]=1,
-   ["url"]="../images/1.01a_Thrace_geo.png",
-   ["used"]="",
-   ["width"]="15.156cm",
+   ["url"]="../images/1.01a_ThraceOverview.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/1.01a_ThraceOverview.png",
+   ["width"]="15.157cm",
   },
   ["image>10"]={
    ["element"]="image",
@@ -25,7 +25,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.09a_HAT_Sire_Datace_procentualni_new.png",
-   ["used"]="/home/petra/context/Apendix2/4.09a_HAT_Sire_Datace_procentualni_new.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.09a_HAT_Sire_Datace_procentualni_new.png",
    ["width"]="15.156cm",
   },
   ["image>11"]={
@@ -36,7 +36,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.10a_MethodDating.png",
-   ["used"]="/home/petra/context/Apendix2/4.10a_MethodDating.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.10a_MethodDating.png",
    ["width"]="15.156cm",
   },
   ["image>12"]={
@@ -47,7 +47,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/5.01a_HAT_all_inscriptions_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/5.01a_HAT_all_inscriptions_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/5.01a_HAT_all_inscriptions_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>13"]={
@@ -58,7 +58,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.01a_HAT_6thcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.01a_HAT_6thcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.01a_HAT_6thcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>14"]={
@@ -69,7 +69,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.02a_HAT_5thcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.02a_HAT_5thcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.02a_HAT_5thcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>15"]={
@@ -80,7 +80,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.03a_HAT_4thcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.03a_HAT_4thcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.03a_HAT_4thcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>16"]={
@@ -91,7 +91,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.04a_HAT_3rdcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.04a_HAT_3rdcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.04a_HAT_3rdcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>17"]={
@@ -102,7 +102,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.05a_HAT_2ndcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.05a_HAT_2ndcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.05a_HAT_2ndcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>18"]={
@@ -113,7 +113,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.06a_HAT_1stcBC_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.06a_HAT_1stcBC_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.06a_HAT_1stcBC_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>19"]={
@@ -124,7 +124,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.07a_HAT_1stcAD_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.07a_HAT_1stcAD_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.07a_HAT_1stcAD_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>2"]={
@@ -135,7 +135,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.01a_Identification_100405.png",
-   ["used"]="/home/petra/context/Apendix2/4.01a_Identification_100405.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.01a_Identification_100405.png",
    ["width"]="9.094cm",
   },
   ["image>20"]={
@@ -146,7 +146,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.08a_HAT_2ndcAD_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.08a_HAT_2ndcAD_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.08a_HAT_2ndcAD_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>21"]={
@@ -157,7 +157,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.09a_HAT_3rdcAD_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.09a_HAT_3rdcAD_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.09a_HAT_3rdcAD_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>22"]={
@@ -168,7 +168,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.10a_HAT_4thcAD_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.10a_HAT_4thcAD_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.10a_HAT_4thcAD_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>23"]={
@@ -179,7 +179,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.11a_HAT_5thcAD_CZ.png",
-   ["used"]="/home/petra/context/Apendix2/6.11a_HAT_5thcAD_CZ.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.11a_HAT_5thcAD_CZ.png",
    ["width"]="15.157cm",
   },
   ["image>24"]={
@@ -190,7 +190,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.12a_Prehled_produkce_stoleti_koeficienty.png",
-   ["used"]="/home/petra/context/Apendix2/6.12a_Prehled_produkce_stoleti_koeficienty.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.12a_Prehled_produkce_stoleti_koeficienty.png",
    ["width"]="15.156cm",
   },
   ["image>25"]={
@@ -201,7 +201,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.13a_Epi_produkce_typologie.png",
-   ["used"]="/home/petra/context/Apendix2/6.13a_Epi_produkce_typologie.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.13a_Epi_produkce_typologie.png",
    ["width"]="15.157cm",
   },
   ["image>26"]={
@@ -212,7 +212,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/6.14a_Epi_produkce_soukrome.png",
-   ["used"]="/home/petra/context/Apendix2/6.14a_Epi_produkce_soukrome.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/6.14a_Epi_produkce_soukrome.png",
    ["width"]="15.156cm",
   },
   ["image>27"]={
@@ -223,7 +223,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.01a_HAT_all_DEM.png",
-   ["used"]="/home/petra/context/Apendix2/7.01a_HAT_all_DEM.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.01a_HAT_all_DEM.png",
    ["width"]="15.157cm",
   },
   ["image>28"]={
@@ -234,7 +234,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.02a_HAT_all_buffer_cities.png",
-   ["used"]="/home/petra/context/Apendix2/7.02a_HAT_all_buffer_cities.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.02a_HAT_all_buffer_cities.png",
    ["width"]="15.157cm",
   },
   ["image>29"]={
@@ -245,7 +245,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.03a_HAT_all_buffer_roads_names.png",
-   ["used"]="/home/petra/context/Apendix2/7.03a_HAT_all_buffer_roads_names.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.03a_HAT_all_buffer_roads_names.png",
    ["width"]="15.157cm",
   },
   ["image>3"]={
@@ -256,7 +256,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.02a_Heurist_Digitizer_100405.png",
-   ["used"]="/home/petra/context/Apendix2/4.02a_Heurist_Digitizer_100405.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.02a_Heurist_Digitizer_100405.png",
    ["width"]="9.094cm",
   },
   ["image>30"]={
@@ -267,7 +267,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.04a_HeatMap_20km_NEW.png",
-   ["used"]="/home/petra/context/Apendix2/7.04a_HeatMap_20km_NEW.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.04a_HeatMap_20km_NEW.png",
    ["width"]="15.157cm",
   },
   ["image>31"]={
@@ -278,7 +278,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.05a_Productioncenters_20kmbuffer_scale.png",
-   ["used"]="/home/petra/context/Apendix2/7.05a_Productioncenters_20kmbuffer_scale.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.05a_Productioncenters_20kmbuffer_scale.png",
    ["width"]="15.157cm",
   },
   ["image>32"]={
@@ -289,7 +289,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.06a_NonUrban_Productioncenters_5kmbuffer_scale.png",
-   ["used"]="/home/petra/context/Apendix2/7.06a_NonUrban_Productioncenters_5kmbuffer_scale.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.06a_NonUrban_Productioncenters_5kmbuffer_scale.png",
    ["width"]="15.157cm",
   },
   ["image>33"]={
@@ -300,7 +300,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.07a_Cities_buffer_public_inscriptions_NEW.png",
-   ["used"]="/home/petra/context/Apendix2/7.07a_Cities_buffer_public_inscriptions_NEW.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.07a_Cities_buffer_public_inscriptions_NEW.png",
    ["width"]="15.157cm",
   },
   ["image>34"]={
@@ -311,7 +311,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.08a_Milestones_date_20km_name.png",
-   ["used"]="/home/petra/context/Apendix2/7.08a_Milestones_date_20km_name.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.08a_Milestones_date_20km_name.png",
    ["width"]="15.156cm",
   },
   ["image>35"]={
@@ -322,7 +322,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.09a_Cities_buffer_private_inscriptions_NEW.png",
-   ["used"]="/home/petra/context/Apendix2/7.09a_Cities_buffer_private_inscriptions_NEW.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.09a_Cities_buffer_private_inscriptions_NEW.png",
    ["width"]="15.157cm",
   },
   ["image>36"]={
@@ -333,7 +333,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.10a_Funerary_citiesroads.png",
-   ["used"]="/home/petra/context/Apendix2/7.10a_Funerary_citiesroads.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.10a_Funerary_citiesroads.png",
    ["width"]="15.157cm",
   },
   ["image>37"]={
@@ -344,7 +344,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.11a_Funerary_heatmap20km.png",
-   ["used"]="/home/petra/context/Apendix2/7.11a_Funerary_heatmap20km.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.11a_Funerary_heatmap20km.png",
    ["width"]="15.157cm",
   },
   ["image>38"]={
@@ -355,7 +355,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/7.12a_Dedications_elevations_dem.png",
-   ["used"]="/home/petra/context/Apendix2/7.12a_Dedications_elevations_dem.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/7.12a_Dedications_elevations_dem.png",
    ["width"]="15.157cm",
   },
   ["image>4"]={
@@ -366,7 +366,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.03a_Geography_51612.png",
-   ["used"]="/home/petra/context/Apendix2/4.03a_Geography_51612.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.03a_Geography_51612.png",
    ["width"]="9.094cm",
   },
   ["image>5"]={
@@ -377,7 +377,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.04a_Object_metadata_100105.png",
-   ["used"]="/home/petra/context/Apendix2/4.04a_Object_metadata_100105.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.04a_Object_metadata_100105.png",
    ["width"]="9.094cm",
   },
   ["image>6"]={
@@ -388,7 +388,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.05a_Preservation.svg",
-   ["used"]="/home/petra/context/Apendix2/4.05a_Preservation.pdf",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.05a_Preservation.pdf",
    ["width"]="15.156cm",
   },
   ["image>7"]={
@@ -399,7 +399,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.06a_ArchitecturalDecor.svg",
-   ["used"]="/home/petra/context/Apendix2/4.06a_ArchitecturalDecor.pdf",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.06a_ArchitecturalDecor.pdf",
    ["width"]="15.156cm",
   },
   ["image>8"]={
@@ -410,7 +410,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.07a_FiguralDecor.svg",
-   ["used"]="/home/petra/context/Apendix2/4.07a_FiguralDecor.pdf",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.07a_FiguralDecor.pdf",
    ["width"]="15.156cm",
   },
   ["image>9"]={
@@ -421,7 +421,7 @@ return {
    ["namespace"]="",
    ["page"]=1,
    ["url"]="../images/4.08a_HAT_Delka_Intervalu_BW.png",
-   ["used"]="/home/petra/context/Apendix2/4.08a_HAT_Delka_Intervalu_BW.png",
+   ["used"]="/home/petra/Github/dis_context/thesisBySection/Apendix2/4.08a_HAT_Delka_Intervalu_BW.png",
    ["width"]="15.156cm",
   },
  },

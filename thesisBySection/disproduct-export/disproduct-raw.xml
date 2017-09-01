@@ -3,7 +3,7 @@
 <!--
 
     input filename   : disproduct
-    processing date  : 2017-09-01T09:04:29+02:00
+    processing date  : 2017-09-01T10:13:53+02:00
     context version  : 2017.06.06 13:22
     exporter version : 0.34
 
@@ -13,7 +13,7 @@
 <?xml-stylesheet type="text/css" href="styles/disproduct-images.css" ?>
 <?xml-stylesheet type="text/css" href="styles/disproduct-styles.css" ?>
 
-<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-09-01T09:04:29+02:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-09-01T10:13:53+02:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
  <metadata>
  </metadata>
 Univerzita Karlova Filozofická fakulta Disertační práce Vedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová Univerzita Karlova Filozofická fakultaÚstav řeckých a latinských studií studijní program: Historické vědy studijní obor: Dějiny antického starověku Disertační práceHellénizace antické Thrákie ve světle epigrafických nálezů Hellenisation of Ancient Thrace based on epigraphical evidenceVedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová 
@@ -14984,7 +14984,7 @@ Zgusta, L. (1980). Die Rolle des Griechischen in römischen Kaiserreich. In G. N
       <sectioncontent>
        <float detail="figure" chain="figure" explicit="1.01a" implicit="1742" prefix="Apendix2" reference="1.01a">
         <floatcaption><floatlabel detail="figure">Obrázek </floatlabel><floatnumber detail="figure">12.1</floatnumber> <floattext>Přibližné území antické Thrákie dle literárních pramenů, geografický reliéf, nejvýznamnější řeky a antická města.</floattext></floatcaption>
-         <floatcontent><image height="11.367cm" id="image-1" label="11.367cm" name="1.01a_Thrace_geo.png" width="15.156cm"></image></floatcontent>
+         <floatcontent><image height="10.715cm" id="image-1" label="10.715cm" name="1.01a_ThraceOverview.png" width="15.157cm"></image></floatcontent>
        </float>
        <float detail="figure" chain="figure" explicit="4.01a" implicit="1743" prefix="Apendix2" reference="4.01a">
         <floatcaption><floatlabel detail="figure">Obrázek </floatlabel><floatnumber detail="figure">12.2</floatnumber> <floattext>Ukázka identifikačních záznamů v databázi Hellenization of Ancient Thrace, vytvořené v softwaru Heurist Scholar. Nápis SEG 49:992 = 100405.</floattext></floatcaption>
