@@ -1,4 +1,4 @@
-\startenvironment env_dis
+\startenvironment env_dis_double
 \mainlanguage[cs]
 %\enableregime[latin2]
 \enableregime[utf]
@@ -6,9 +6,10 @@
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
 
 \setuppapersize[A4][A4]
-\setuplayout[location=singlesided, topspace=20mm, backspace=35mm, rightmargin=15mm, bottomspace=20mm, header=20pt, footer=20pt, width=fit, height=fit]
-\definelayout[double][location=doublesided, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=30mm, width=fit, height=fit]
+\setuplayout[single][location=singlesided, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=20mm, width=fit, height=fit]
+\definelayout[double][location=doublesided, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=40mm, width=fit, height=fit]
 
+\setupwhitespace[none]
 
 \definefontfeature
   [default]
@@ -17,16 +18,13 @@
 \definefontfamily [myfamily] [serif] [Gentium] [protrusion=quality,expansion=quality]
 
 \setupbodyfont[myfamily,12pt]
-\setupwhitespace[none]
-
-\setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
 
 %\setupinterlinespace[big] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] %spacing 1
 \setuplocalinterlinespace[line=3.5ex]
 %\setupinterlinespace[line=4.2ex] %spacing 2
 
-​\setupfootnotedefinition[headstyle=bold, contrastcolor=blue, color=black, location=singlesided, 10pt, line=2.8ex]
+​\setupfootnotedefinition[headstyle=bold, contrastcolor=blue, color=black, location=doublelesided, 10pt, line=2.8ex]
 \startsetups[footnote:interlinespace]
  \setupinterlinespace[line=1.5ex]
 \stopsetups
