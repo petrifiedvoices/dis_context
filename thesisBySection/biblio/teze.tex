@@ -1,4 +1,4 @@
-\environment env_dis_double %doublepages
+\environment env_dis
 
 \setupinteraction
   [title=Teze disertační práce: Hellénizace antické Thrákie ve světle epigrafických nálezů,
@@ -69,7 +69,6 @@ etallimit=3
 \definebtxrendering[myself][apa][dataset=myself]
 
 
-
 \starttext
 \setuppagenumbering[location={}, state=stop]
 
@@ -93,8 +92,9 @@ etallimit=3
 \stopstandardmakeup
 
 \completecontent
-\page[blank]
-\setuppagenumbering[location={footer,inmargin}, state=start]
+%\page[blank]
+\setuplayout[double] %doublepages
+\setuppagenumbering[alternative=doublesided, location={footer,inmargin}, state=start]
 \setuppagenumber[number=0]
 
 \chapter{Autoreferát (teze) disertační práce}
@@ -162,7 +162,7 @@ Praktické využití pro spřízněné obory nabízí vytvořená elektronická 
 [method=dataset] % i.e. all entries
 
 \subsection {Konference}
-\startitemize[n]
+\startitemize[n, packed]
 
 \item ‘Thracians in Athens: Friends or Strangers?’, {\em International conference Classics Colloquium Europaeum}, 21.-23. 10. 2011, Helsinki, Finsko.
 
@@ -193,7 +193,7 @@ Praktické využití pro spřízněné obory nabízí vytvořená elektronická 
 
 \subsection {Granty}
 
-\startitemize[n]
+\startitemize[n, packed]
 
 \item GAUK 546813/2013, hlavní řešitel, ‘Řecko-Thrácká společnost ve světle epigrafických nálezů’, 2013-2014.
 
@@ -206,7 +206,7 @@ Praktické využití pro spřízněné obory nabízí vytvořená elektronická 
 
 \subsection {Terénní práce}
 
-\startitemize[n]
+\startitemize[n, packed]
 
 \item {\em Tundzha Regional Archaeological Project 2011}, říjen-prosinec 2011, Kazanlak Bulharsko, systematické pozemní sběry, remote sensing v okolí antiské Seuthopole, GIS.
 
@@ -224,7 +224,7 @@ Praktické využití pro spřízněné obory nabízí vytvořená elektronická 
 
 \subsection {Studijní pobyty}
 
-\startitemize[n]
+\startitemize[n, packed]
 \item Studijní pobyt v zahraniční: University of New South Wales, Sydney, Austrálie, únor – květen 2012
 
 \item Studijní pobyt v zahraniční: University of New South Wales, Sydney, Austrálie, únor – červen 2013
