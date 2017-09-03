@@ -72,7 +72,7 @@ etallimit=3
 \starttext
 \setuppagenumbering[location={}, state=stop]
 
-\startstandardmakeup[doublesided=no, page=yes, align=middle]
+\startstandardmakeup[doublesided=yes, page=yes, align=middle]
 \tfc\bf {Univerzita Karlova} \blank[2*big]
 \tfc\bf {Filozofická fakulta} 
 \vfill
@@ -90,12 +90,11 @@ etallimit=3
 {\tfb \em \currentdate[year]} \hfill {\tfb \em Mgr. Petra Janouchová} 
 \vfill
 \stopstandardmakeup
-
+\setuppagenumber[number=-1]
 \completecontent
-%\page[blank]
+
 \setuplayout[double] %doublepages
 \setuppagenumbering[alternative=doublesided, location={footer,inmargin}, state=start]
-\setuppagenumber[number=0]
 
 \chapter{Autoreferát (teze) disertační práce}
 

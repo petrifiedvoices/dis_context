@@ -1,25 +1,23 @@
 \startenvironment env_dis
-\mainlanguage[cs]
-%\enableregime[latin2]
+\mainlanguage[cz]
+
 \enableregime[utf]
 \setupcolors[state=start] 
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
 
 \setuppapersize[A4][A4]
-\setuplayout[location=singlesided, topspace=20mm, backspace=35mm, rightmargin=15mm, bottomspace=20mm, header=20pt, footer=20pt, width=fit, height=fit]
-\definelayout[double][location=doublesided, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=30mm, width=fit, height=fit]
+\setuplayout[location=singlesided, topspace=20mm, backspace=40mm, rightmargin=5mm, bottomspace=20mm, header=10pt, footer=10pt, width=fit, height=fit]
+\definelayout[double][location=doublesided]%, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=30mm, width=fit, height=fit]
 
 
 \definefontfeature
   [default]
   [default]
   [protrusion=quality,expansion=quality]
-\definefontfamily [myfamily] [serif] [Gentium] [protrusion=quality,expansion=quality]
+\definefontfamily [myfamily][serif][Gentium Book Basic][protrusion=quality,expansion=quality]
 
 \setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
-
-\setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
 
 %\setupinterlinespace[big] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] %spacing 1
@@ -64,7 +62,7 @@
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
-\setuppagenumbering[alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
+\setuppagenumbering[alternative=singlesided,location={footer},style={\ss\tfx},way=bytext]
 \unprotect
 \usemodule[database]
 
@@ -75,5 +73,8 @@
    first=\bTR,last=\eTR,
    before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
 \protect
+
+\placebookmarks[chapter,section,subsection]
+\setupcombinedlist[content][list={chapter,section,subsection}]
 
 \stopenvironment
