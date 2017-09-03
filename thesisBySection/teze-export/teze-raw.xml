@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+    input filename   : teze
+    processing date  : 2017-09-03T09:55:27+02:00
+    context version  : 2017.06.06 13:22
+    exporter version : 0.34
+
+-->
+
+<?xml-stylesheet type="text/css" href="styles/teze-defaults.css" ?>
+<?xml-stylesheet type="text/css" href="styles/teze-images.css" ?>
+<?xml-stylesheet type="text/css" href="styles/teze-styles.css" ?>
+
+<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-09-03T09:55:27+02:00" file="teze" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Teze disertační práce: Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
+ <metadata>
+ </metadata>
+Univerzita Karlova Filozofická fakultaÚstav řeckých a latinských studií studijní program: Historické vědy studijní obor: Dějiny antického starověku Autoreferát (teze) disertační práceHellénizace antické Thrákie ve světle epigrafických nálezů Hellenisation of Ancient Thrace based on epigraphical evidenceVedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová
+ <section detail="title" chain="title" explicit="content" implicit="1" level="2" reference="content">
+  <sectiontitle>Obsah</sectiontitle>
+  <sectioncontent>
+   <list>
+    <listitem detail="chapter" internal="2">
+     <listtag>1</listtag>
+     <listcontent>Autoreferát (teze) disertační práce</listcontent>
+     <listpage>2</listpage>
+    </listitem>
+    <listitem detail="section" internal="3">
+     <listtag>1.1</listtag>
+     <listcontent>Seznámení s problematikou</listcontent>
+     <listpage>2</listpage>
+    </listitem>
+    <listitem detail="section" internal="38">
+     <listtag>1.2</listtag>
+     <listcontent>Cíle a hypotézy</listcontent>
+     <listpage>3</listpage>
+    </listitem>
+    <listitem detail="section" internal="47">
+     <listtag>1.3</listtag>
+     <listcontent>Struktura disertace</listcontent>
+     <listpage>3</listpage>
+    </listitem>
+    <listitem detail="section" internal="96">
+     <listtag>1.4</listtag>
+     <listcontent>Závěry a přínos práce</listcontent>
+     <listpage>5</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="101">
+     <listtag>1.4.1</listtag>
+     <listcontent>Rozvoj epigrafické produkce v Thrákii</listcontent>
+     <listpage>5</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="130">
+     <listtag>1.4.2</listtag>
+     <listcontent>Nápisy jako měřítko hellénizace obyvatel Thrákie</listcontent>
+     <listpage>7</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="145">
+     <listtag>1.4.3</listtag>
+     <listcontent>Další možné využití</listcontent>
+     <listpage>8</listpage>
+    </listitem>
+    <listitem detail="section" internal="148">
+     <listtag>1.5</listtag>
+     <listcontent>Vybraná bibliografie</listcontent>
+     <listpage>8</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="149">
+     <listtag>1.5.1</listtag>
+     <listcontent>Primární epigrafické prameny</listcontent>
+     <listpage>8</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="171">
+     <listtag>1.5.2</listtag>
+     <listcontent>Vybrané sekundární prameny</listcontent>
+     <listpage>10</listpage>
+    </listitem>
+    <listitem detail="section" internal="257">
+     <listtag>1.6</listtag>
+     <listcontent>Přehled publikační a odborné činnosti (10/2011-06/2017)</listcontent>
+     <listpage>15</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="258">
+     <listtag>1.6.1</listtag>
+     <listcontent>Publikace</listcontent>
+     <listpage>15</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="268">
+     <listtag>1.6.2</listtag>
+     <listcontent>Konference</listcontent>
+     <listpage>16</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="269">
+     <listtag>1.6.3</listtag>
+     <listcontent>Granty</listcontent>
+     <listpage>17</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="270">
+     <listtag>1.6.4</listtag>
+     <listcontent>Terénní práce</listcontent>
+     <listpage>17</listpage>
+    </listitem>
+    <listitem detail="subsection" internal="271">
+     <listtag>1.6.5</listtag>
+     <listcontent>Studijní pobyty</listcontent>
+     <listpage>17</listpage>
+    </listitem>
+   </list>
+  </sectioncontent>
+ </section>
+</document>
