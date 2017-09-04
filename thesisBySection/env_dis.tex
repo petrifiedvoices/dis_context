@@ -14,7 +14,7 @@
   [default]
   [default]
   [protrusion=quality,expansion=quality]
-\definefontfamily [myfamily][serif][Gentium Book Basic][protrusion=quality,expansion=quality]
+\definefontfamily[myfamily][serif][gentium][protrusion=quality,expansion=quality]
 
 \setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
@@ -76,5 +76,55 @@
 
 \placebookmarks[chapter,section,subsection]
 \setupcombinedlist[content][list={chapter,section,subsection}]
+
+\usebtxdataset[ancient][ancient.bib]
+\definebtxrendering[ancient][apa][dataset=ancient]
+\usebtxdataset[epigraphic][epigraphic.bib]
+\definebtxrendering[epigraphic][apa][dataset=epigraphic]
+\usebtxdataset[secondary][secondary.bib]
+\definebtxrendering[secondary][apa][dataset=secondary]
+
+\startluacode
+        sorters.setlanguage("cz")
+\stopluacode
+
+
+\usebtxdefinitions[apa]
+
+\unprotect
+\def\textampersand{a}
+\protect
+
+\setupbtxlabeltext
+  [cz]
+  [apa:number={},
+   apa:edition={ed.}, % edición
+   apa:Editor={ed.}, % Ed./Eds.
+   apa:Editors={edd.},
+   apa:Volume={Vol.},   % Volumen
+   apa:Volumes={Vols.},
+   p={}, %single page
+   pp={} %prefix for pages
+   ] 
+
+\setupbtx
+[apa:cite:authoryear]
+[inbetween={\btxspace\space}]
+
+
+ \setupbtx
+ [apa:cite]
+ [left=,
+  right=,
+separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
+separator:3={\btxsemicolon},
+separator:4={\btxsemicolon},
+separator:names:2={\btxcomma},
+separator:names:3={\btxnobreakspace{a}\space},
+separator:names:4={\btxnobreakspace{a}\space},   
+etaldisplay=2,
+etallimit=3
+]
+
 
 \stopenvironment
