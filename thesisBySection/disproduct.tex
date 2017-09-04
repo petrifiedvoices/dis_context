@@ -20,11 +20,13 @@ intent=ISO coated v2 300\letterpercent\space (ECI)]
 \setupstructure[state=start,method=auto]
 
 \startproduct dis_product
-
+\setuppagenumbering[state=stop]
+\setupuserpagenumber[numberconversion=romannumerals]
 \component frontmatter/titlepage.tex
 \completecontent
 \page[blank]
-\setuppagenumbering[location={footer,inmargin}, state=start]
+\setuppagenumbering[state=start, location={footer, right}]
+\setupuserpagenumber[numberconversion=numbers]
 \setuppagenumber[number=0]
 
 \component {Úvod/chapter-Úvod.tex}
