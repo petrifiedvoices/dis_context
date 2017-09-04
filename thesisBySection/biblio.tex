@@ -1,66 +1,14 @@
 \mainlanguage[cz]
 \environment env_dis
 
-\startluacode
-        sorters.setlanguage("cz")
-\stopluacode
-
-
-\usebtxdefinitions[apa]
-
-\unprotect
-\def\textampersand{a}
-\protect
-
-\setuplocalinterlinespace[line=2.8ex] %spacing 1
-
-\setupbtxlabeltext
-  [cz]
-  [apa:number={},
-   apa:edition={ed.}, % edición
-   apa:Editor={ed.}, % Ed./Eds.
-   apa:Editors={edd.},
-   apa:Volume={Vol.},   % Volumen
-   apa:Volumes={Vols.},
-   p={}, %single page
-   pp={} %prefix for pages
-   ] 
-
-\setupbtx
-[apa:cite:authoryear]
-[inbetween={\btxspace\space}]
-
-
- \setupbtx
- [apa:cite]
- [left=,
-  right=,
-separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
-separator:3={\btxsemicolon},
-separator:4={\btxsemicolon},
-separator:names:2={\btxcomma},
-separator:names:3={\btxnobreakspace{a}\space},
-separator:names:4={\btxnobreakspace{a}\space},   
-etaldisplay=2,
-etallimit=3
-]
-
-\usebtxdataset[ancient][ancient.bib]
-\definebtxrendering[ancient][apa][dataset=ancient]
-\usebtxdataset[epigraphic][epigraphic.bib]
-\definebtxrendering[epigraphic][apa][dataset=epigraphic]
-\usebtxdataset[secondary][secondary.bib]
-\definebtxrendering[secondary][apa][dataset=secondary]
-
 \starttext
 \startchapter[title={Použité zkratky a bibliografie}, reference={bibliografie}, marking={Seznam použitých zkratek a bibliografie}]
 
-<<<<<<< HEAD
+
 \setuplocalinterlinespace[line=2.8ex] %spacing 1
-\setuplayout[double]
-=======
+%\setuplayout[double]
+
 \setuplayout[location=doublesided]
->>>>>>> 0dc3ab56de1e60c762fe274808398048b53fe7bb
 \setuppagenumbering[alternative=doublesided]
 \unprotect
 \usemodule[database]

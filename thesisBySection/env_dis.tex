@@ -9,7 +9,6 @@
 \setuplayout[location=singlesided, topspace=20mm, backspace=40mm, rightmargin=5mm, bottomspace=20mm, header=10pt, footer=10pt, width=fit, height=fit]
 \definelayout[double][location=doublesided]%, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=30mm, width=fit, height=fit]
 
-
 \definefontfeature
   [default]
   [default]
@@ -77,13 +76,6 @@
 \placebookmarks[chapter,section,subsection]
 \setupcombinedlist[content][list={chapter,section,subsection}]
 
-\usebtxdataset[ancient][ancient.bib]
-\definebtxrendering[ancient][apa][dataset=ancient]
-\usebtxdataset[epigraphic][epigraphic.bib]
-\definebtxrendering[epigraphic][apa][dataset=epigraphic]
-\usebtxdataset[secondary][secondary.bib]
-\definebtxrendering[secondary][apa][dataset=secondary]
-
 \startluacode
         sorters.setlanguage("cz")
 \stopluacode
@@ -126,5 +118,12 @@ etaldisplay=2,
 etallimit=3
 ]
 
+
+\usebtxdataset[ancient][ancient.bib]
+\definebtxrendering[ancient][apa][dataset=ancient]
+\usebtxdataset[epigraphic][epigraphic.bib]
+\definebtxrendering[epigraphic][apa][dataset=epigraphic]
+\usebtxdataset[secondary][secondary.bib]
+\definebtxrendering[secondary][apa][dataset=secondary]
 
 \stopenvironment

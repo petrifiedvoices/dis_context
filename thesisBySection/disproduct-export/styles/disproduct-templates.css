@@ -33,90 +33,6 @@ document, div.document {
     display: block ;
 }
 
-/* element="float" detail="figure" chain="figure" */
-
-float[detail=figure], div.float.figure {
-    display: block ;
-}
-
-/* element="float" detail="table" chain="table" */
-
-float[detail=table], div.float.table {
-    display: block ;
-}
-
-/* element="floatcaption" detail="" chain="" */
-
-floatcaption, div.floatcaption {
-    display: inline ;
-}
-
-/* element="floatcontent" detail="" chain="" */
-
-floatcontent, div.floatcontent {
-    display: inline ;
-}
-
-/* element="floatlabel" detail="figure" chain="" */
-
-floatlabel[detail=figure], div.floatlabel.figure {
-    display: inline ;
-}
-
-/* element="floatlabel" detail="table" chain="" */
-
-floatlabel[detail=table], div.floatlabel.table {
-    display: inline ;
-}
-
-/* element="floatnumber" detail="figure" chain="" */
-
-floatnumber[detail=figure], div.floatnumber.figure {
-    display: inline ;
-}
-
-/* element="floatnumber" detail="table" chain="" */
-
-floatnumber[detail=table], div.floatnumber.table {
-    display: inline ;
-}
-
-/* element="floattext" detail="" chain="" */
-
-floattext, div.floattext {
-    display: inline ;
-}
-
-/* element="image" detail="" chain="" */
-
-image, div.image {
-    display: inline ;
-}
-
-/* element="item" detail="" chain="" */
-
-item, div.item {
-    display: block ;
-}
-
-/* element="itemcontent" detail="" chain="" */
-
-itemcontent, div.itemcontent {
-    display: inline ;
-}
-
-/* element="itemgroup" detail="itemize" chain="itemize" */
-
-itemgroup[detail=itemize], div.itemgroup.itemize {
-    display: block ;
-}
-
-/* element="itemtag" detail="" chain="" */
-
-itemtag, div.itemtag {
-    display: inline ;
-}
-
 /* element="line" detail="" chain="" */
 
 line, div.line {
@@ -241,22 +157,4 @@ sectiontitle, div.sectiontitle {
 
 sup, div.sup {
     display: inline ;
-}
-
-/* element="table" detail="" chain="" */
-
-table, div.table {
-    display: block ;
-}
-
-/* element="tablecell" detail="" chain="" */
-
-tablecell, div.tablecell {
-    display: inline ;
-}
-
-/* element="tablerow" detail="" chain="" */
-
-tablerow, div.tablerow {
-    display: block ;
 }
