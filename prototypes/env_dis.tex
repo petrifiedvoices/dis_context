@@ -9,7 +9,7 @@
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style=normal]
 
 \setuppapersize[A4][A4]
-\setuplayout[location=singlesided, topspace=20mm, backspace=30mm, rightmargin=20mm, bottomspace=20mm, header=24pt, footer=24pt, width=fit, height=fit]
+\setuplayout[location=singlesided, topspace=10mm, backspace=30mm, rightmargin=20mm, bottomspace=10mm, header=10mm, footer=10mm, width=fit, height=fit]
 
 
 \definefontfeature
@@ -21,7 +21,9 @@
 \setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
 
-\setuppagenumbering[alternative=singlesided, location={footer,inmargin}]
+%\setuppagenumbering[alternative=singlesided, location={footer}]
+
+\setuppagenumbering[alternative=singlesided,style={\ss\tfx},way=bytext]
 
 %\setupinterlinespace[big] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] %spacing 1
@@ -67,7 +69,6 @@
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
-\setuppagenumbering[alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
 \unprotect
 \usemodule[database]
 
