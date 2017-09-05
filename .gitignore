@@ -1,6 +1,6 @@
 *.tuc
 *.log
-disproduct-export/
+disproduct-export/*
 disproduct.pdf
 *.xhtml
 *.xml
