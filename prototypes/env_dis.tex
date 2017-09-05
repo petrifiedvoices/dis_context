@@ -3,35 +3,20 @@
 
 \enableregime[utf]
 \setupcolors[state=start] 
-
-%\usepath[{.}, {..}, {../thesisBySection}]
-
-\setupinteraction[state=start, color=blue, contrastcolor=blue, style=normal]
-\placebookmarks [chapter,section,subsection]
-                [chapter]
-
+\setupinteraction[state=start, color=blue, contrastcolor=blue, style={\tf}]
 
 \setuppapersize[A4][A4]
-\setuplayout[location=singlesided, topspace=10mm, backspace=30mm, rightmargin=20mm, bottomspace=10mm, header=10mm, footer=10mm, width=fit, height=fit]
-
-% \showsetups
-% \showlayout
-% \showframe
-% \showmakeup
+\setuplayout[location=singlesided, topspace=20mm, backspace=40mm, rightmargin=5mm, bottomspace=20mm, header=10pt, footer=14pt, width=fit, height=fit]
+\definelayout[double][location=doublesided]%, topspace=20mm, bottomspace=20mm, header=20pt, footer=20pt, backspace=30mm, width=fit, height=fit]
 
 \definefontfeature
   [default]
   [default]
   [protrusion=quality,expansion=quality]
-\definefontfamily [myfamily] [serif] [Gentium Plus] [protrusion=quality,expansion=quality, it=gentiumplusitalic, bf=gentiumbasicbold, sl=gentiumbasicitalic, bi=gentiumbasicpsbolditalic]
-
+\definefontfamily[myfamily][serif][gentium][protrusion=quality,expansion=quality]
 
 \setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
-
-%\setuppagenumbering[alternative=singlesided, location={footer}]
-
-\setuppagenumbering[alternative=singlesided,style={\ss\tfx},way=bytext, location={footer, right}]
 
 %\setupinterlinespace[big] %spacing 1.5
 %\setuplocalinterlinespace[line=2.8ex] %spacing 1
@@ -50,9 +35,8 @@
 \setuphead[subsection]   [style=\ita]
 \setuphead[subsubsection][style=\sc]
 
-\setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=yes,align={flushleft}, prefix=+]
+\setuphead[chapter, section, subsection, subsubsection][incrementnumber=yes,number=yes,align={flushleft}]
 
-\setupreferencing[state=start, prefix=+, interaction=all, autofile=page, left=, right=, convertfile=yes]
 \definedescription[description][headstyle=bold, style=normal, location=hanging, width=broad, margin=1cm]
 
 \setupitemize[autointro]    % prevent orphan list intro
@@ -77,6 +61,7 @@
 
 \setupregister[n=4,interaction=pagenumber,indicator=no, compress=yes]
 
+\setuppagenumbering[alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
 \unprotect
 \usemodule[database]
 
@@ -87,5 +72,62 @@
    first=\bTR,last=\eTR,
    before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
 \protect
+
+\placebookmarks[chapter,section,subsection]
+\setupcombinedlist[content][list={chapter,section,subsection}]
+
+\startluacode
+        sorters.setlanguage("cz")
+\stopluacode
+
+
+\usebtxdefinitions[apa]
+
+\unprotect
+\def\textampersand{a}
+\protect
+
+\setupbtxlabeltext
+  [cz]
+  [apa:number={},
+   apa:edition={ed.}, % edición
+   apa:Editor={ed.}, % Ed./Eds.
+   apa:Editors={edd.},
+   apa:Volume={Vol.},   % Volumen
+   apa:Volumes={Vols.},
+   p={}, %single page
+   pp={} %prefix for pages
+   ] 
+
+\setupbtx
+[apa:cite:authoryear]
+[inbetween={\btxspace\space}]
+
+
+ \setupbtx
+ [apa:cite]
+ [left=,
+  right=,
+separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
+separator:3={\btxsemicolon},
+separator:4={\btxsemicolon},
+separator:names:2={\btxcomma},
+separator:names:3={\btxnobreakspace{a}\space},
+separator:names:4={\btxnobreakspace{a}\space},   
+etaldisplay=2,
+etallimit=3
+]
+
+
+\usebtxdataset[ancient][ancient.bib]
+\definebtxrendering[ancient][apa][dataset=ancient]
+\usebtxdataset[epigraphic][epigraphic.bib]
+\definebtxrendering[epigraphic][apa][dataset=epigraphic]
+\usebtxdataset[secondary][secondary.bib]
+\definebtxrendering[secondary][apa][dataset=secondary]
+\usebtxdataset[teze][teze.bib]
+\definebtxrendering[teze][apa][dataset=teze]
+\usebtxdataset[myself][myself.bib]
+\definebtxrendering[myself][apa][dataset=myself]
 
 \stopenvironment
