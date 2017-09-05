@@ -3,7 +3,7 @@
 <!--
 
     input filename   : disproduct
-    processing date  : 2017-09-04T19:04:21+02:00
+    processing date  : 2017-09-05T12:26:44+02:00
     context version  : 2017.06.06 13:22
     exporter version : 0.34
 
@@ -13,7 +13,7 @@
 <?xml-stylesheet type="text/css" href="styles/disproduct-images.css" ?>
 <?xml-stylesheet type="text/css" href="styles/disproduct-styles.css" ?>
 
-<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-09-04T19:04:21+02:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<document author="Mgr. Petra Janouchová" context="2017.06.06 13:22" date="2017-09-05T12:26:44+02:00" file="disproduct" keywords="epigrafika, Thrákie, kulturní kontakt, nápisy, epigrafická produkce, komplexní společnost, změny společnosti, digital humanities, hellénizace, insriptions, epigraphy, epigraphic production, Thrace, hellenization, cultural contact, socia change, complex society" language="cs" subtitle="Hellenisation of Ancient Thrace based on epigraphical evidence" title="Hellénizace antické Thrákie ve světle epigrafických nálezů" version="0.34" xmlns:m="http://www.w3.org/1998/Math/MathML">
  <metadata>
  </metadata>
 Univerzita Karlova Filozofická fakulta Disertační práce Vedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová Univerzita Karlova Filozofická fakultaÚstav řeckých a latinských studií studijní program: Historické vědy studijní obor: Dějiny antického starověku Disertační práceHellénizace antické Thrákie ve světle epigrafických nálezů Hellenisation of Ancient Thrace based on epigraphical evidenceVedoucí práce: PhDr. Jan Souček, CSc. 2017 Mgr. Petra Janouchová 
@@ -1172,17 +1172,17 @@ inscriptions; epigraphy; epigraphic production; Thrace; hellenization; cultural 
       <listitem detail="section" internal="2008">
        <listtag>12.10</listtag>
        <listcontent>IK Byzantion</listcontent>
-       <listpage>309</listpage>
+       <listpage>308</listpage>
       </listitem>
       <listitem detail="section" internal="2009">
        <listtag>12.11</listtag>
        <listcontent>Other - Jiné zdroje</listcontent>
-       <listpage>310</listpage>
+       <listpage>309</listpage>
       </listitem>
       <listitem detail="chapter" internal="2010">
         <listtag>13</listtag>
        <listcontent>Rejstřík</listcontent>
-       <listpage>313</listpage>
+       <listpage>311</listpage>
       </listitem>
      </list>
     </sectioncontent>
@@ -20637,369 +20637,370 @@ Nejistý
           <line>SEG 47:1061,4 = 16656</line>
           <line>SEG 47:1061,5 = 16660</line>
          </lines>
-         <section detail="chapter" chain="chapter" explicit="index" implicit="2010" level="2" prefix="Apendix3" reference="index">
-          <sectionnumber>13</sectionnumber>
-           <sectiontitle>Rejstřík</sectiontitle>
-          <sectioncontent>
-           <register detail="index" chain="index">
-            <registersection>
-             <registerentries>
-              <registerentry>
-               <registercontent>Abdéra</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(99)" location="99" prefix="Apendix3">16</link></registerfrompage>–<registertopage><link destination="internal(109)" location="109" prefix="Apendix3">17</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Apollón</registercontent>
-               <registerpages><registerpage><link destination="internal(1157)" location="1157" prefix="Apendix3">167</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1386)" location="1386" prefix="Apendix3">201</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Apollónia Pontská</registercontent>
-               <registerpages><registerpage><link destination="internal(729)" location="729" prefix="Apendix3">115</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1376)" location="1376" prefix="Apendix3">200</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Asklépios</registercontent>
-               <registerpages><registerpage><link destination="internal(1162)" location="1162" prefix="Apendix3">168</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1381)" location="1381" prefix="Apendix3">201</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>administrativa</registercontent>
-               <registerpages><registerpage><link destination="internal(320)" location="320" prefix="Apendix3">54</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(599)" location="599" prefix="Apendix3">94</link></registerfrompage>– <registertopage><link destination="internal(600)" location="600" prefix="Apendix3">95</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1123)" location="1123" prefix="Apendix3">164</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1230)" location="1230" prefix="Apendix3">176</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1340)" location="1340" prefix="Apendix3">191</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1352)" location="1352" prefix="Apendix3">195</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>akulturace</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(185)" location="185" prefix="Apendix3">31</link></registerfrompage>–<registertopage><link destination="internal(198)" location="198" prefix="Apendix3">32</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>archeologie</registercontent>
-               <registerpages><registerpage><link destination="internal(236)" location="236" prefix="Apendix3">39</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1419)" location="1419" prefix="Apendix3">208</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Bíthýnie</registercontent>
-               <registerpages><registerpage><link destination="internal(927)" location="927" prefix="Apendix3">137</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1130)" location="1130" prefix="Apendix3">164</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1350)" location="1350" prefix="Apendix3">194</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Byzantion</registercontent>
-               <registerpages><registerpage><link destination="internal(958)" location="958" prefix="Apendix3">143</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(984)" location="984" prefix="Apendix3">147</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1371)" location="1371" prefix="Apendix3">200</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>centralizace</registercontent>
-               <registerpages><registerpage><link destination="internal(172)" location="172" prefix="Apendix3">26</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1229)" location="1229" prefix="Apendix3">176</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1342)" location="1342" prefix="Apendix3">191</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1362)" location="1362" prefix="Apendix3">197</link></registerfrompage>–<registertopage><link destination="internal(1363)" location="1363" prefix="Apendix3">198</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>databáze</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(399)" location="399" prefix="Apendix3">69</link></registerfrompage>–<registertopage><link destination="internal(410)" location="410" prefix="Apendix3">70</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(424)" location="424" prefix="Apendix3">72</link></registerfrompage>–<registertopage><link destination="internal(437)" location="437" prefix="Apendix3">73</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(454)" location="454" prefix="Apendix3">75</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>dekorace</registercontent>
-               <registerpages><registerpage><link destination="internal(567)" location="567" prefix="Apendix3">89</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>epigrafická produkce</registercontent>
-               <registerpages><registerpage><link destination="internal(545)" location="545" prefix="Apendix3">87</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(977)" location="977" prefix="Apendix3">146</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1276)" location="1276" prefix="Apendix3">181</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1338)" location="1338" prefix="Apendix3">190</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1359)" location="1359" prefix="Apendix3">196</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1418)" location="1418" prefix="Apendix3">207</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Filippopolis</registercontent>
-               <registerpages><registerpage><link destination="internal(1082)" location="1082" prefix="Apendix3">159</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1368)" location="1368" prefix="Apendix3">199</link></registerfrompage>– <registertopage><link destination="internal(1372)" location="1372" prefix="Apendix3">200</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>funerální zvyklosti</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(573)" location="573" prefix="Apendix3">91</link></registerfrompage>–<registertopage><link destination="internal(578)" location="578" prefix="Apendix3">92</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1398)" location="1398" prefix="Apendix3">204</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>GIS</registercontent>
-               <registerpages><registerpage><link destination="internal(491)" location="491" prefix="Apendix3">79</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>geografie</registercontent>
-               <registerpages><registerpage><link destination="internal(22)" location="22" prefix="Apendix3">6</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1364)" location="1364" prefix="Apendix3">198</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Hellenization of Ancient Thrace</registercontent>
-               <registerpages><registerpage><link destination="internal(400)" location="400" prefix="Apendix3">69</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(420)" location="420" prefix="Apendix3">71</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(546)" location="546" prefix="Apendix3">87</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1455)" location="1455" prefix="Apendix3">219</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Heurist</registercontent>
-               <registerpages><registerpage><link destination="internal(415)" location="415" prefix="Apendix3">71</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Hérakleia Sintská</registercontent>
-               <registerpages><registerpage><link destination="internal(948)" location="948" prefix="Apendix3">141</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1443)" location="1443" prefix="Apendix3">216</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>habitus</registercontent>
-               <registerpages><registerpage><link destination="internal(301)" location="301" prefix="Apendix3">48</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(339)" location="339" prefix="Apendix3">58</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>hellénizace</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(202)" location="202" prefix="Apendix3">32</link></registerfrompage>–<registertopage><link destination="internal(218)" location="218" prefix="Apendix3">34</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(220)" location="220" prefix="Apendix3">36</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(230)" location="230" prefix="Apendix3">38</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(237)" location="237" prefix="Apendix3">40</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1434)" location="1434" prefix="Apendix3">213</link></registerfrompage>–<registertopage><link destination="internal(1436)" location="1436" prefix="Apendix3">214</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1449)" location="1449" prefix="Apendix3">217</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>hybridizace</registercontent>
-               <registerpages><registerpage><link destination="internal(284)" location="284" prefix="Apendix3">45</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>identita</registercontent>
-               <registerpages><registerpage><link destination="internal(633)" location="633" prefix="Apendix3">100</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1450)" location="1450" prefix="Apendix3">217</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>infrastruktura</registercontent>
-               <registerpages><registerpage><link destination="internal(327)" location="327" prefix="Apendix3">56</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1235)" location="1235" prefix="Apendix3">176</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Jirečkova linie</registercontent>
-               <registerpages><registerpage><link destination="internal(609)" location="609" prefix="Apendix3">96</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Kabylé</registercontent>
-               <registerpages><registerpage><link destination="internal(815)" location="815" prefix="Apendix3">124</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(837)" location="837" prefix="Apendix3">127</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>komplexní společnost</registercontent>
-               <registerpages><registerpage><link destination="internal(319)" location="319" prefix="Apendix3">54</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(326)" location="326" prefix="Apendix3">56</link></registerfrompage>–<registertopage><link destination="internal(332)" location="332" prefix="Apendix3">57</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(364)" location="364" prefix="Apendix3">62</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(377)" location="377" prefix="Apendix3">64</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1439)" location="1439" prefix="Apendix3">215</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1446)" location="1446" prefix="Apendix3">217</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>křesťanství</registercontent>
-               <registerpages><registerpage><link destination="internal(1279)" location="1279" prefix="Apendix3">182</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1302)" location="1302" prefix="Apendix3">185</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1313)" location="1313" prefix="Apendix3">187</link></registerfrompage>–<registertopage><link destination="internal(1335)" location="1335" prefix="Apendix3">189</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1353)" location="1353" prefix="Apendix3">195</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>kulturní kontakt</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(270)" location="270" prefix="Apendix3">44</link></registerfrompage>– <registertopage><link destination="internal(283)" location="283" prefix="Apendix3">45</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(296)" location="296" prefix="Apendix3">47</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>latina</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(624)" location="624" prefix="Apendix3">98</link></registerfrompage>–<registertopage><link destination="internal(626)" location="626" prefix="Apendix3">99</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>literární prameny</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(19)" location="19" prefix="Apendix3">5</link></registerfrompage>–<registertopage><link destination="internal(28)" location="28" prefix="Apendix3">6</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(52)" location="52" prefix="Apendix3">8</link></registerfrompage>–<registertopage><link destination="internal(66)" location="66" prefix="Apendix3">9</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(88)" location="88" prefix="Apendix3">13</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(93)" location="93" prefix="Apendix3">15</link></registerfrompage>–<registertopage><link destination="internal(96)" location="96" prefix="Apendix3">16</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registerentries>
-              <registerentry>
-               <registercontent>Maróneia</registercontent>
-               <registerpages><registerpage><link destination="internal(114)" location="114" prefix="Apendix3">18</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1049)" location="1049" prefix="Apendix3">155</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>makedonská kolonizace</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(138)" location="138" prefix="Apendix3">21</link></registerfrompage>–<registertopage><link destination="internal(149)" location="149" prefix="Apendix3">23</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(838)" location="838" prefix="Apendix3">127</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1348)" location="1348" prefix="Apendix3">193</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1442)" location="1442" prefix="Apendix3">216</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>middle ground theory</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(271)" location="271" prefix="Apendix3">44</link></registerfrompage>–<registertopage><link destination="internal(280)" location="280" prefix="Apendix3">45</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>náboženské zvyklosti</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(580)" location="580" prefix="Apendix3">93</link></registerfrompage>–<registertopage><link destination="internal(585)" location="585" prefix="Apendix3">94</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(816)" location="816" prefix="Apendix3">124</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1063)" location="1063" prefix="Apendix3">157</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1380)" location="1380" prefix="Apendix3">201</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1410)" location="1410" prefix="Apendix3">206</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>network theory</registercontent>
-               <registerpages><registerpage><link destination="internal(277)" location="277" prefix="Apendix3">45</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>nosič nápisu</registercontent>
-               <registerpages><registerpage><link destination="internal(443)" location="443" prefix="Apendix3">74</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(560)" location="560" prefix="Apendix3">89</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>občanství</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(153)" location="153" prefix="Apendix3">24</link></registerfrompage>–<registertopage><link destination="internal(162)" location="162" prefix="Apendix3">25</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1052)" location="1052" prefix="Apendix3">156</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>onomastické tradice</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(635)" location="635" prefix="Apendix3">100</link></registerfrompage>–<registertopage><link destination="internal(643)" location="643" prefix="Apendix3">102</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1451)" location="1451" prefix="Apendix3">218</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Perinthos</registercontent>
-               <registerpages><registerpage><link destination="internal(1003)" location="1003" prefix="Apendix3">150</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1299)" location="1299" prefix="Apendix3">185</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1375)" location="1375" prefix="Apendix3">200</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Pistiros</registercontent>
-               <registerpages><registerpage><link destination="internal(753)" location="753" prefix="Apendix3">118</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(802)" location="802" prefix="Apendix3">123</link></registerfrompage>–<registertopage><link destination="internal(810)" location="810" prefix="Apendix3">124</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(836)" location="836" prefix="Apendix3">127</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(873)" location="873" prefix="Apendix3">131</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>postkolonialismus</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(263)" location="263" prefix="Apendix3">43</link></registerfrompage>– <registertopage><link destination="internal(282)" location="282" prefix="Apendix3">45</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>řecká kolonizace</registercontent>
-               <registerpages><registerpage><link destination="internal(108)" location="108" prefix="Apendix3">17</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(125)" location="125" prefix="Apendix3">19</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(672)" location="672" prefix="Apendix3">106</link></registerfrompage>–<registertopage><link destination="internal(678)" location="678" prefix="Apendix3">107</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(728)" location="728" prefix="Apendix3">115</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1345)" location="1345" prefix="Apendix3">193</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1425)" location="1425" prefix="Apendix3">209</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>řečtina</registercontent>
-               <registerpages><registerpage><link destination="internal(608)" location="608" prefix="Apendix3">96</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(625)" location="625" prefix="Apendix3">99</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1452)" location="1452" prefix="Apendix3">218</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>řeka Hebros</registercontent>
-               <registerpages><registerpage><link destination="internal(1413)" location="1413" prefix="Apendix3">206</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>řeka Tonzos</registercontent>
-               <registerpages><registerpage><link destination="internal(1431)" location="1431" prefix="Apendix3">210</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>římská armáda</registercontent>
-               <registerpages><registerpage><link destination="internal(156)" location="156" prefix="Apendix3">24</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1010)" location="1010" prefix="Apendix3">151</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1069)" location="1069" prefix="Apendix3">158</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1096)" location="1096" prefix="Apendix3">161</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1341)" location="1341" prefix="Apendix3">191</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1349)" location="1349" prefix="Apendix3">194</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1447)" location="1447" prefix="Apendix3">217</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>římská kolonizace</registercontent>
-               <registerpages><registerpage><link destination="internal(165)" location="165" prefix="Apendix3">26</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>římské silnice</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(168)" location="168" prefix="Apendix3">26</link></registerfrompage>–<registertopage><link destination="internal(173)" location="173" prefix="Apendix3">27</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1035)" location="1035" prefix="Apendix3">153</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1393)" location="1393" prefix="Apendix3">203</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1401)" location="1401" prefix="Apendix3">205</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1445)" location="1445" prefix="Apendix3">217</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Serdica</registercontent>
-               <registerpages><registerpage><link destination="internal(1081)" location="1081" prefix="Apendix3">159</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>Seuthopolis</registercontent>
-               <registerpages><registerpage><link destination="internal(754)" location="754" prefix="Apendix3">118</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(803)" location="803" prefix="Apendix3">123</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(851)" location="851" prefix="Apendix3">129</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(870)" location="870" prefix="Apendix3">131</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>smíšená manželství</registercontent>
-               <registerpages><registerpage><link destination="internal(645)" location="645" prefix="Apendix3">102</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>statistické zpracování</registercontent>
-               <registerpages><registerpage><link destination="internal(383)" location="383" prefix="Apendix3">66</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(391)" location="391" prefix="Apendix3">68</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(505)" location="505" prefix="Apendix3">80</link></registerfrompage>–<registertopage><link destination="internal(524)" location="524" prefix="Apendix3">84</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(650)" location="650" prefix="Apendix3">105</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1454)" location="1454" prefix="Apendix3">219</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>Thrákové</registercontent>
-               <registerpages><registerpage><link destination="internal(36)" location="36" prefix="Apendix3">7</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1068)" location="1068" prefix="Apendix3">158</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>technické řešení</registercontent>
-               <registerpages><registerpage><link destination="internal(412)" location="412" prefix="Apendix3">71</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>thrácká aristokracie</registercontent>
-               <registerpages><registerpage><link destination="internal(235)" location="235" prefix="Apendix3">39</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(258)" location="258" prefix="Apendix3">42</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(698)" location="698" prefix="Apendix3">110</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(712)" location="712" prefix="Apendix3">112</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(777)" location="777" prefix="Apendix3">119</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(791)" location="791" prefix="Apendix3">121</link></registerfrompage>–<registertopage><link destination="internal(795)" location="795" prefix="Apendix3">122</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(886)" location="886" prefix="Apendix3">133</link></registerfrompage>–<registertopage><link destination="internal(894)" location="894" prefix="Apendix3">134</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1339)" location="1339" prefix="Apendix3">190</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1441)" location="1441" prefix="Apendix3">215</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>thrácká populace</registercontent>
-               <registerpages><registerpage><link destination="internal(639)" location="639" prefix="Apendix3">101</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>thrácké kmeny</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(43)" location="43" prefix="Apendix3">7</link></registerfrompage>–<registertopage><link destination="internal(51)" location="51" prefix="Apendix3">8</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>thrácký jezdec</registercontent>
-               <registerpages><registerpage><link destination="internal(568)" location="568" prefix="Apendix3">90</link></registerpage></registerpages>
-              </registerentry>
-              <registerentry>
-               <registercontent>tria nomina</registercontent>
-               <registerpages><registerpage><link destination="internal(638)" location="638" prefix="Apendix3">100</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(642)" location="642" prefix="Apendix3">102</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1007)" location="1007" prefix="Apendix3">151</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1351)" location="1351" prefix="Apendix3">195</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>urbanizace</registercontent>
-               <registerpages><registerpage><link destination="internal(166)" location="166" prefix="Apendix3">26</link></registerpage></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-            <registersection>
-             <registertag> </registertag>
-             <registerentries>
-              <registerentry>
-               <registercontent>world-systems theory</registercontent>
-               <registerpages><registerpagerange><registerfrompage><link destination="internal(239)" location="239" prefix="Apendix3">40</link></registerfrompage>–<registertopage><link destination="internal(259)" location="259" prefix="Apendix3">42</link></registertopage></registerpagerange></registerpages>
-              </registerentry>
-             </registerentries>
-            </registersection>
-           </register>
-          </sectioncontent>
-         </section>
+         </sectioncontent>
+       </section>
+       <section detail="chapter" chain="chapter" explicit="index" implicit="2010" level="2" reference="index">
+        <sectionnumber>13</sectionnumber>
+         <sectiontitle>Rejstřík</sectiontitle>
+        <sectioncontent>
+         <register detail="index" chain="index">
+          <registersection>
+           <registerentries>
+            <registerentry>
+             <registercontent>Abdéra</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(99)" location="99" prefix="section-nastínění-dalšího-vývoje">16</link></registerfrompage>–<registertopage><link destination="internal(109)" location="109" prefix="section-nastínění-dalšího-vývoje">17</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Apollón</registercontent>
+             <registerpages><registerpage><link destination="internal(1157)" location="1157" prefix="section-nastínění-dalšího-vývoje">167</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1386)" location="1386" prefix="section-nastínění-dalšího-vývoje">201</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Apollónia Pontská</registercontent>
+             <registerpages><registerpage><link destination="internal(729)" location="729" prefix="section-nastínění-dalšího-vývoje">115</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1376)" location="1376" prefix="section-nastínění-dalšího-vývoje">200</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Asklépios</registercontent>
+             <registerpages><registerpage><link destination="internal(1162)" location="1162" prefix="section-nastínění-dalšího-vývoje">168</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1381)" location="1381" prefix="section-nastínění-dalšího-vývoje">201</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>administrativa</registercontent>
+             <registerpages><registerpage><link destination="internal(320)" location="320" prefix="section-nastínění-dalšího-vývoje">54</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(599)" location="599" prefix="section-nastínění-dalšího-vývoje">94</link></registerfrompage>–<registertopage><link destination="internal(600)" location="600" prefix="section-nastínění-dalšího-vývoje">95</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1123)" location="1123" prefix="section-nastínění-dalšího-vývoje">164</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1230)" location="1230" prefix="section-nastínění-dalšího-vývoje">176</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1340)" location="1340" prefix="section-nastínění-dalšího-vývoje">191</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1352)" location="1352" prefix="section-nastínění-dalšího-vývoje">195</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>akulturace</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(185)" location="185" prefix="section-nastínění-dalšího-vývoje">31</link></registerfrompage>–<registertopage><link destination="internal(198)" location="198" prefix="section-nastínění-dalšího-vývoje">32</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>archeologie</registercontent>
+             <registerpages><registerpage><link destination="internal(236)" location="236" prefix="section-nastínění-dalšího-vývoje">39</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1419)" location="1419" prefix="section-nastínění-dalšího-vývoje">208</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Bíthýnie</registercontent>
+             <registerpages><registerpage><link destination="internal(927)" location="927" prefix="section-nastínění-dalšího-vývoje">137</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1130)" location="1130" prefix="section-nastínění-dalšího-vývoje">164</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1350)" location="1350" prefix="section-nastínění-dalšího-vývoje">194</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Byzantion</registercontent>
+             <registerpages><registerpage><link destination="internal(958)" location="958" prefix="section-nastínění-dalšího-vývoje">143</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(984)" location="984" prefix="section-nastínění-dalšího-vývoje">147</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1371)" location="1371" prefix="section-nastínění-dalšího-vývoje">200</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>centralizace</registercontent>
+             <registerpages><registerpage><link destination="internal(172)" location="172" prefix="section-nastínění-dalšího-vývoje">26</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1229)" location="1229" prefix="section-nastínění-dalšího-vývoje">176</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1342)" location="1342" prefix="section-nastínění-dalšího-vývoje">191</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1362)" location="1362" prefix="section-nastínění-dalšího-vývoje">197</link></registerfrompage>–<registertopage><link destination="internal(1363)" location="1363" prefix="section-nastínění-dalšího-vývoje">198</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>databáze</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(399)" location="399" prefix="section-nastínění-dalšího-vývoje">69</link></registerfrompage>–<registertopage><link destination="internal(410)" location="410" prefix="section-nastínění-dalšího-vývoje">70</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(424)" location="424" prefix="section-nastínění-dalšího-vývoje">72</link></registerfrompage>–<registertopage><link destination="internal(437)" location="437" prefix="section-nastínění-dalšího-vývoje">73</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(454)" location="454" prefix="section-nastínění-dalšího-vývoje">75</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>dekorace</registercontent>
+             <registerpages><registerpage><link destination="internal(567)" location="567" prefix="section-nastínění-dalšího-vývoje">89</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>epigrafická produkce</registercontent>
+             <registerpages><registerpage><link destination="internal(545)" location="545" prefix="section-nastínění-dalšího-vývoje">87</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(977)" location="977" prefix="section-nastínění-dalšího-vývoje">146</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1276)" location="1276" prefix="section-nastínění-dalšího-vývoje">181</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1338)" location="1338" prefix="section-nastínění-dalšího-vývoje">190</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1359)" location="1359" prefix="section-nastínění-dalšího-vývoje">196</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1418)" location="1418" prefix="section-nastínění-dalšího-vývoje">207</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Filippopolis</registercontent>
+             <registerpages><registerpage><link destination="internal(1082)" location="1082" prefix="section-nastínění-dalšího-vývoje">159</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1368)" location="1368" prefix="section-nastínění-dalšího-vývoje">199</link></registerfrompage>–<registertopage><link destination="internal(1372)" location="1372" prefix="section-nastínění-dalšího-vývoje">200</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>funerální zvyklosti</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(573)" location="573" prefix="section-nastínění-dalšího-vývoje">91</link></registerfrompage>–<registertopage><link destination="internal(578)" location="578" prefix="section-nastínění-dalšího-vývoje">92</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1398)" location="1398" prefix="section-nastínění-dalšího-vývoje">204</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>GIS</registercontent>
+             <registerpages><registerpage><link destination="internal(491)" location="491" prefix="section-nastínění-dalšího-vývoje">79</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>geografie</registercontent>
+             <registerpages><registerpage><link destination="internal(22)" location="22" prefix="section-nastínění-dalšího-vývoje">6</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1364)" location="1364" prefix="section-nastínění-dalšího-vývoje">198</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Hellenization of Ancient Thrace</registercontent>
+             <registerpages><registerpage><link destination="internal(400)" location="400" prefix="section-nastínění-dalšího-vývoje">69</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(420)" location="420" prefix="section-nastínění-dalšího-vývoje">71</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(546)" location="546" prefix="section-nastínění-dalšího-vývoje">87</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1455)" location="1455" prefix="section-nastínění-dalšího-vývoje">219</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Heurist</registercontent>
+             <registerpages><registerpage><link destination="internal(415)" location="415" prefix="section-nastínění-dalšího-vývoje">71</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Hérakleia Sintská</registercontent>
+             <registerpages><registerpage><link destination="internal(948)" location="948" prefix="section-nastínění-dalšího-vývoje">141</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1443)" location="1443" prefix="section-nastínění-dalšího-vývoje">216</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>habitus</registercontent>
+             <registerpages><registerpage><link destination="internal(301)" location="301" prefix="section-nastínění-dalšího-vývoje">48</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(339)" location="339" prefix="section-nastínění-dalšího-vývoje">58</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>hellénizace</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(202)" location="202" prefix="section-nastínění-dalšího-vývoje">32</link></registerfrompage>–<registertopage><link destination="internal(218)" location="218" prefix="section-nastínění-dalšího-vývoje">34</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(220)" location="220" prefix="section-nastínění-dalšího-vývoje">36</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(230)" location="230" prefix="section-nastínění-dalšího-vývoje">38</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(237)" location="237" prefix="section-nastínění-dalšího-vývoje">40</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1434)" location="1434" prefix="section-nastínění-dalšího-vývoje">213</link></registerfrompage>–<registertopage><link destination="internal(1436)" location="1436" prefix="section-nastínění-dalšího-vývoje">214</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1449)" location="1449" prefix="section-nastínění-dalšího-vývoje">217</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>hybridizace</registercontent>
+             <registerpages><registerpage><link destination="internal(284)" location="284" prefix="section-nastínění-dalšího-vývoje">45</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>identita</registercontent>
+             <registerpages><registerpage><link destination="internal(633)" location="633" prefix="section-nastínění-dalšího-vývoje">100</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1450)" location="1450" prefix="section-nastínění-dalšího-vývoje">217</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>infrastruktura</registercontent>
+             <registerpages><registerpage><link destination="internal(327)" location="327" prefix="section-nastínění-dalšího-vývoje">56</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1235)" location="1235" prefix="section-nastínění-dalšího-vývoje">176</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Jirečkova linie</registercontent>
+             <registerpages><registerpage><link destination="internal(609)" location="609" prefix="section-nastínění-dalšího-vývoje">96</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Kabylé</registercontent>
+             <registerpages><registerpage><link destination="internal(815)" location="815" prefix="section-nastínění-dalšího-vývoje">124</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(837)" location="837" prefix="section-nastínění-dalšího-vývoje">127</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>komplexní společnost</registercontent>
+             <registerpages><registerpage><link destination="internal(319)" location="319" prefix="section-nastínění-dalšího-vývoje">54</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(326)" location="326" prefix="section-nastínění-dalšího-vývoje">56</link></registerfrompage>–<registertopage><link destination="internal(332)" location="332" prefix="section-nastínění-dalšího-vývoje">57</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(364)" location="364" prefix="section-nastínění-dalšího-vývoje">62</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(377)" location="377" prefix="section-nastínění-dalšího-vývoje">64</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1439)" location="1439" prefix="section-nastínění-dalšího-vývoje">215</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1446)" location="1446" prefix="section-nastínění-dalšího-vývoje">217</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>křesťanství</registercontent>
+             <registerpages><registerpage><link destination="internal(1279)" location="1279" prefix="section-nastínění-dalšího-vývoje">182</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1302)" location="1302" prefix="section-nastínění-dalšího-vývoje">185</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(1313)" location="1313" prefix="section-nastínění-dalšího-vývoje">187</link></registerfrompage>–<registertopage><link destination="internal(1335)" location="1335" prefix="section-nastínění-dalšího-vývoje">189</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1353)" location="1353" prefix="section-nastínění-dalšího-vývoje">195</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>kulturní kontakt</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(270)" location="270" prefix="section-nastínění-dalšího-vývoje">44</link></registerfrompage>–<registertopage><link destination="internal(283)" location="283" prefix="section-nastínění-dalšího-vývoje">45</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(296)" location="296" prefix="section-nastínění-dalšího-vývoje">47</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>latina</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(624)" location="624" prefix="section-nastínění-dalšího-vývoje">98</link></registerfrompage>–<registertopage><link destination="internal(626)" location="626" prefix="section-nastínění-dalšího-vývoje">99</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>literární prameny</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(19)" location="19" prefix="section-nastínění-dalšího-vývoje">5</link></registerfrompage>–<registertopage><link destination="internal(28)" location="28" prefix="section-nastínění-dalšího-vývoje">6</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(52)" location="52" prefix="section-nastínění-dalšího-vývoje">8</link></registerfrompage>–<registertopage><link destination="internal(66)" location="66" prefix="section-nastínění-dalšího-vývoje">9</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(88)" location="88" prefix="section-nastínění-dalšího-vývoje">13</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(93)" location="93" prefix="section-nastínění-dalšího-vývoje">15</link></registerfrompage>–<registertopage><link destination="internal(96)" location="96" prefix="section-nastínění-dalšího-vývoje">16</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Maróneia</registercontent>
+             <registerpages><registerpage><link destination="internal(114)" location="114" prefix="section-nastínění-dalšího-vývoje">18</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1049)" location="1049" prefix="section-nastínění-dalšího-vývoje">155</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>makedonská kolonizace</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(138)" location="138" prefix="section-nastínění-dalšího-vývoje">21</link></registerfrompage>–<registertopage><link destination="internal(149)" location="149" prefix="section-nastínění-dalšího-vývoje">23</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(838)" location="838" prefix="section-nastínění-dalšího-vývoje">127</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1348)" location="1348" prefix="section-nastínění-dalšího-vývoje">193</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1442)" location="1442" prefix="section-nastínění-dalšího-vývoje">216</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>middle ground theory</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(271)" location="271" prefix="section-nastínění-dalšího-vývoje">44</link></registerfrompage>–<registertopage><link destination="internal(280)" location="280" prefix="section-nastínění-dalšího-vývoje">45</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>náboženské zvyklosti</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(580)" location="580" prefix="section-nastínění-dalšího-vývoje">93</link></registerfrompage>–<registertopage><link destination="internal(585)" location="585" prefix="section-nastínění-dalšího-vývoje">94</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(816)" location="816" prefix="section-nastínění-dalšího-vývoje">124</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1063)" location="1063" prefix="section-nastínění-dalšího-vývoje">157</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1380)" location="1380" prefix="section-nastínění-dalšího-vývoje">201</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1410)" location="1410" prefix="section-nastínění-dalšího-vývoje">206</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>network theory</registercontent>
+             <registerpages><registerpage><link destination="internal(277)" location="277" prefix="section-nastínění-dalšího-vývoje">45</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>nosič nápisu</registercontent>
+             <registerpages><registerpage><link destination="internal(443)" location="443" prefix="section-nastínění-dalšího-vývoje">74</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(560)" location="560" prefix="section-nastínění-dalšího-vývoje">89</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>občanství</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(153)" location="153" prefix="section-nastínění-dalšího-vývoje">24</link></registerfrompage>–<registertopage><link destination="internal(162)" location="162" prefix="section-nastínění-dalšího-vývoje">25</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1052)" location="1052" prefix="section-nastínění-dalšího-vývoje">156</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>onomastické tradice</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(635)" location="635" prefix="section-nastínění-dalšího-vývoje">100</link></registerfrompage>–<registertopage><link destination="internal(643)" location="643" prefix="section-nastínění-dalšího-vývoje">102</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1451)" location="1451" prefix="section-nastínění-dalšího-vývoje">218</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Perinthos</registercontent>
+             <registerpages><registerpage><link destination="internal(1003)" location="1003" prefix="section-nastínění-dalšího-vývoje">150</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1299)" location="1299" prefix="section-nastínění-dalšího-vývoje">185</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1375)" location="1375" prefix="section-nastínění-dalšího-vývoje">200</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Pistiros</registercontent>
+             <registerpages><registerpage><link destination="internal(753)" location="753" prefix="section-nastínění-dalšího-vývoje">118</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(802)" location="802" prefix="section-nastínění-dalšího-vývoje">123</link></registerfrompage>–<registertopage><link destination="internal(810)" location="810" prefix="section-nastínění-dalšího-vývoje">124</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(836)" location="836" prefix="section-nastínění-dalšího-vývoje">127</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(873)" location="873" prefix="section-nastínění-dalšího-vývoje">131</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>postkolonialismus</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(263)" location="263" prefix="section-nastínění-dalšího-vývoje">43</link></registerfrompage>–<registertopage><link destination="internal(282)" location="282" prefix="section-nastínění-dalšího-vývoje">45</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>řecká kolonizace</registercontent>
+             <registerpages><registerpage><link destination="internal(108)" location="108" prefix="section-nastínění-dalšího-vývoje">17</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(125)" location="125" prefix="section-nastínění-dalšího-vývoje">19</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(672)" location="672" prefix="section-nastínění-dalšího-vývoje">106</link></registerfrompage>–<registertopage><link destination="internal(678)" location="678" prefix="section-nastínění-dalšího-vývoje">107</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(728)" location="728" prefix="section-nastínění-dalšího-vývoje">115</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1345)" location="1345" prefix="section-nastínění-dalšího-vývoje">193</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1425)" location="1425" prefix="section-nastínění-dalšího-vývoje">209</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>řečtina</registercontent>
+             <registerpages><registerpage><link destination="internal(608)" location="608" prefix="section-nastínění-dalšího-vývoje">96</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(625)" location="625" prefix="section-nastínění-dalšího-vývoje">99</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1452)" location="1452" prefix="section-nastínění-dalšího-vývoje">218</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>řeka Hebros</registercontent>
+             <registerpages><registerpage><link destination="internal(1413)" location="1413" prefix="section-nastínění-dalšího-vývoje">206</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>řeka Tonzos</registercontent>
+             <registerpages><registerpage><link destination="internal(1431)" location="1431" prefix="section-nastínění-dalšího-vývoje">210</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>římská armáda</registercontent>
+             <registerpages><registerpage><link destination="internal(156)" location="156" prefix="section-nastínění-dalšího-vývoje">24</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1010)" location="1010" prefix="section-nastínění-dalšího-vývoje">151</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1069)" location="1069" prefix="section-nastínění-dalšího-vývoje">158</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1096)" location="1096" prefix="section-nastínění-dalšího-vývoje">161</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1341)" location="1341" prefix="section-nastínění-dalšího-vývoje">191</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1349)" location="1349" prefix="section-nastínění-dalšího-vývoje">194</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1447)" location="1447" prefix="section-nastínění-dalšího-vývoje">217</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>římská kolonizace</registercontent>
+             <registerpages><registerpage><link destination="internal(165)" location="165" prefix="section-nastínění-dalšího-vývoje">26</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>římské silnice</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(168)" location="168" prefix="section-nastínění-dalšího-vývoje">26</link></registerfrompage>–<registertopage><link destination="internal(173)" location="173" prefix="section-nastínění-dalšího-vývoje">27</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1035)" location="1035" prefix="section-nastínění-dalšího-vývoje">153</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1393)" location="1393" prefix="section-nastínění-dalšího-vývoje">203</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1401)" location="1401" prefix="section-nastínění-dalšího-vývoje">205</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1445)" location="1445" prefix="section-nastínění-dalšího-vývoje">217</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Serdica</registercontent>
+             <registerpages><registerpage><link destination="internal(1081)" location="1081" prefix="section-nastínění-dalšího-vývoje">159</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>Seuthopolis</registercontent>
+             <registerpages><registerpage><link destination="internal(754)" location="754" prefix="section-nastínění-dalšího-vývoje">118</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(803)" location="803" prefix="section-nastínění-dalšího-vývoje">123</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(851)" location="851" prefix="section-nastínění-dalšího-vývoje">129</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(870)" location="870" prefix="section-nastínění-dalšího-vývoje">131</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>smíšená manželství</registercontent>
+             <registerpages><registerpage><link destination="internal(645)" location="645" prefix="section-nastínění-dalšího-vývoje">102</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>statistické zpracování</registercontent>
+             <registerpages><registerpage><link destination="internal(383)" location="383" prefix="section-nastínění-dalšího-vývoje">66</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(391)" location="391" prefix="section-nastínění-dalšího-vývoje">68</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(505)" location="505" prefix="section-nastínění-dalšího-vývoje">80</link></registerfrompage>–<registertopage><link destination="internal(524)" location="524" prefix="section-nastínění-dalšího-vývoje">84</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(650)" location="650" prefix="section-nastínění-dalšího-vývoje">105</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1454)" location="1454" prefix="section-nastínění-dalšího-vývoje">219</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>Thrákové</registercontent>
+             <registerpages><registerpage><link destination="internal(36)" location="36" prefix="section-nastínění-dalšího-vývoje">7</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1068)" location="1068" prefix="section-nastínění-dalšího-vývoje">158</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>technické řešení</registercontent>
+             <registerpages><registerpage><link destination="internal(412)" location="412" prefix="section-nastínění-dalšího-vývoje">71</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>thrácká aristokracie</registercontent>
+             <registerpages><registerpage><link destination="internal(235)" location="235" prefix="section-nastínění-dalšího-vývoje">39</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(258)" location="258" prefix="section-nastínění-dalšího-vývoje">42</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(698)" location="698" prefix="section-nastínění-dalšího-vývoje">110</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(712)" location="712" prefix="section-nastínění-dalšího-vývoje">112</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(777)" location="777" prefix="section-nastínění-dalšího-vývoje">119</link></registerpage><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(791)" location="791" prefix="section-nastínění-dalšího-vývoje">121</link></registerfrompage>–<registertopage><link destination="internal(795)" location="795" prefix="section-nastínění-dalšího-vývoje">122</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpagerange><registerfrompage><link destination="internal(886)" location="886" prefix="section-nastínění-dalšího-vývoje">133</link></registerfrompage>–<registertopage><link destination="internal(894)" location="894" prefix="section-nastínění-dalšího-vývoje">134</link></registertopage></registerpagerange><registerseparator>,</registerseparator><registerpage><link destination="internal(1339)" location="1339" prefix="section-nastínění-dalšího-vývoje">190</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1441)" location="1441" prefix="section-nastínění-dalšího-vývoje">215</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>thrácká populace</registercontent>
+             <registerpages><registerpage><link destination="internal(639)" location="639" prefix="section-nastínění-dalšího-vývoje">101</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>thrácké kmeny</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(43)" location="43" prefix="section-nastínění-dalšího-vývoje">7</link></registerfrompage>–<registertopage><link destination="internal(51)" location="51" prefix="section-nastínění-dalšího-vývoje">8</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>thrácký jezdec</registercontent>
+             <registerpages><registerpage><link destination="internal(568)" location="568" prefix="section-nastínění-dalšího-vývoje">90</link></registerpage></registerpages>
+            </registerentry>
+            <registerentry>
+             <registercontent>tria nomina</registercontent>
+             <registerpages><registerpage><link destination="internal(638)" location="638" prefix="section-nastínění-dalšího-vývoje">100</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(642)" location="642" prefix="section-nastínění-dalšího-vývoje">102</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1007)" location="1007" prefix="section-nastínění-dalšího-vývoje">151</link></registerpage><registerseparator>,</registerseparator><registerpage><link destination="internal(1351)" location="1351" prefix="section-nastínění-dalšího-vývoje">195</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>urbanizace</registercontent>
+             <registerpages><registerpage><link destination="internal(166)" location="166" prefix="section-nastínění-dalšího-vývoje">26</link></registerpage></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+          <registersection>
+           <registertag> </registertag>
+           <registerentries>
+            <registerentry>
+             <registercontent>world-systems theory</registercontent>
+             <registerpages><registerpagerange><registerfrompage><link destination="internal(239)" location="239" prefix="section-nastínění-dalšího-vývoje">40</link></registerfrompage>–<registertopage><link destination="internal(259)" location="259" prefix="section-nastínění-dalšího-vývoje">42</link></registertopage></registerpagerange></registerpages>
+            </registerentry>
+           </registerentries>
+          </registersection>
+         </register>
         </sectioncontent>
        </section>
       </sectioncontent>

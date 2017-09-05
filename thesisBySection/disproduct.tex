@@ -23,7 +23,8 @@ intent=ISO coated v2 300\letterpercent\space (ECI)]
 \component frontmatter/titlepage.tex
 \completecontent
 \page[blank]
-\setuppagenumbering[state=start, location={footer, right}]
+\setuppagenumbering[state=start,alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
+
 \setupuserpagenumber[numberconversion=numbers]
 \setuppagenumber[number=0]
 
@@ -100,6 +101,12 @@ intent=ISO coated v2 300\letterpercent\space (ECI)]
 \component {Apendix1/Apendix1.tex}
 \component {Apendix2/Apendix2.tex}
 \component {Apendix3/Apendix3.tex}
+\component {Index.tex}
+
+
+\setupregister[index][n=2,style=sansbold]
+\setuplocalinterlinespace[line=2.8ex] %spacing 1
+\completeindex
 
 \stopproduct	           
 	           
