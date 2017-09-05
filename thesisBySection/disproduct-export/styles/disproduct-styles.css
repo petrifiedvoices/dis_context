@@ -3,8 +3,7 @@
 @namespace context url('%namespace%') ;
 
 
-document,
-div.document {
+document, div.document {
     font-size  : 12pt !important ;
     max-width  : 431.24144pt !important ;
     text-width : justify !important ;
