@@ -5,336 +5,385 @@
 
 /* element="description" detail="footnote" chain="footnote" */
 
-description[detail=footnote], div.description.footnote {
+description[detail=footnote],
+div.description.footnote {
     display: block ;
 }
 
 /* element="descriptioncontent" detail="" chain="" */
 
-descriptioncontent, div.descriptioncontent {
+descriptioncontent,
+div.descriptioncontent {
     display: inline ;
 }
 
 /* element="descriptionsymbol" detail="footnote" chain="" */
 
-descriptionsymbol[detail=footnote], div.descriptionsymbol.footnote {
+descriptionsymbol[detail=footnote],
+div.descriptionsymbol.footnote {
     display: inline ;
 }
 
 /* element="descriptiontag" detail="" chain="" */
 
-descriptiontag, div.descriptiontag {
+descriptiontag,
+div.descriptiontag {
     display: inline ;
 }
 
 /* element="document" detail="" chain="" */
 
-document, div.document {
+document,
+div.document {
     display: block ;
 }
 
 /* element="float" detail="figure" chain="figure" */
 
-float[detail=figure], div.float.figure {
+float[detail=figure],
+div.float.figure {
     display: block ;
 }
 
 /* element="float" detail="table" chain="table" */
 
-float[detail=table], div.float.table {
+float[detail=table],
+div.float.table {
     display: block ;
 }
 
 /* element="floatcaption" detail="" chain="" */
 
-floatcaption, div.floatcaption {
+floatcaption,
+div.floatcaption {
     display: inline ;
 }
 
 /* element="floatcontent" detail="" chain="" */
 
-floatcontent, div.floatcontent {
+floatcontent,
+div.floatcontent {
     display: inline ;
 }
 
 /* element="floatlabel" detail="figure" chain="" */
 
-floatlabel[detail=figure], div.floatlabel.figure {
+floatlabel[detail=figure],
+div.floatlabel.figure {
     display: inline ;
 }
 
 /* element="floatlabel" detail="table" chain="" */
 
-floatlabel[detail=table], div.floatlabel.table {
+floatlabel[detail=table],
+div.floatlabel.table {
     display: inline ;
 }
 
 /* element="floatnumber" detail="figure" chain="" */
 
-floatnumber[detail=figure], div.floatnumber.figure {
+floatnumber[detail=figure],
+div.floatnumber.figure {
     display: inline ;
 }
 
 /* element="floatnumber" detail="table" chain="" */
 
-floatnumber[detail=table], div.floatnumber.table {
+floatnumber[detail=table],
+div.floatnumber.table {
     display: inline ;
 }
 
 /* element="floattext" detail="" chain="" */
 
-floattext, div.floattext {
+floattext,
+div.floattext {
     display: inline ;
 }
 
 /* element="image" detail="" chain="" */
 
-image, div.image {
+image,
+div.image {
     display: inline ;
 }
 
 /* element="item" detail="" chain="" */
 
-item, div.item {
+item,
+div.item {
     display: block ;
 }
 
 /* element="itemcontent" detail="" chain="" */
 
-itemcontent, div.itemcontent {
+itemcontent,
+div.itemcontent {
     display: inline ;
 }
 
 /* element="itemgroup" detail="itemize" chain="itemize" */
 
-itemgroup[detail=itemize], div.itemgroup.itemize {
+itemgroup[detail=itemize],
+div.itemgroup.itemize {
     display: block ;
 }
 
 /* element="itemtag" detail="" chain="" */
 
-itemtag, div.itemtag {
+itemtag,
+div.itemtag {
     display: inline ;
 }
 
 /* element="line" detail="" chain="" */
 
-line, div.line {
+line,
+div.line {
     display: inline ;
 }
 
 /* element="lines" detail="lines" chain="lines" */
 
-lines[detail=lines], div.lines.lines {
+lines[detail=lines],
+div.lines.lines {
     display: block ;
 }
 
 /* element="link" detail="" chain="" */
 
-link, div.link {
+link,
+div.link {
     display: inline ;
 }
 
 /* element="list" detail="" chain="" */
 
-list, div.list {
+list,
+div.list {
     display: block ;
 }
 
 /* element="listcontent" detail="" chain="" */
 
-listcontent, div.listcontent {
+listcontent,
+div.listcontent {
     display: inline ;
 }
 
 /* element="listitem" detail="btx-apa" chain="" */
 
-listitem[detail=btx-apa], div.listitem.btx-apa {
+listitem[detail=btx-apa],
+div.listitem.btx-apa {
     display: block ;
 }
 
 /* element="listitem" detail="chapter" chain="" */
 
-listitem[detail=chapter], div.listitem.chapter {
+listitem[detail=chapter],
+div.listitem.chapter {
     display: block ;
 }
 
 /* element="listitem" detail="section" chain="" */
 
-listitem[detail=section], div.listitem.section {
+listitem[detail=section],
+div.listitem.section {
     display: block ;
 }
 
 /* element="listitem" detail="subsection" chain="" */
 
-listitem[detail=subsection], div.listitem.subsection {
+listitem[detail=subsection],
+div.listitem.subsection {
     display: block ;
 }
 
 /* element="listpage" detail="" chain="" */
 
-listpage, div.listpage {
+listpage,
+div.listpage {
     display: inline ;
 }
 
 /* element="listtag" detail="" chain="" */
 
-listtag, div.listtag {
+listtag,
+div.listtag {
     display: inline ;
 }
 
 /* element="register" detail="index" chain="index" */
 
-register[detail=index], div.register.index {
+register[detail=index],
+div.register.index {
     display: block ;
 }
 
 /* element="registercontent" detail="" chain="" */
 
-registercontent, div.registercontent {
+registercontent,
+div.registercontent {
     display: inline ;
 }
 
 /* element="registerentries" detail="" chain="" */
 
-registerentries, div.registerentries {
+registerentries,
+div.registerentries {
     display: block ;
 }
 
 /* element="registerentry" detail="" chain="" */
 
-registerentry, div.registerentry {
+registerentry,
+div.registerentry {
     display: block ;
-}
-
-/* element="registerfrompage" detail="" chain="" */
-
-registerfrompage, div.registerfrompage {
-    display: inline ;
 }
 
 /* element="registerlocation" detail="index" chain="" */
 
-registerlocation[detail=index], div.registerlocation.index {
+registerlocation[detail=index],
+div.registerlocation.index {
     display: inline ;
 }
 
 /* element="registerpage" detail="" chain="" */
 
-registerpage, div.registerpage {
+registerpage,
+div.registerpage {
     display: inline ;
 }
 
 /* element="registerpagerange" detail="" chain="" */
 
-registerpagerange, div.registerpagerange {
+registerpagerange,
+div.registerpagerange {
     display: inline ;
 }
 
 /* element="registerpages" detail="" chain="" */
 
-registerpages, div.registerpages {
+registerpages,
+div.registerpages {
     display: inline ;
 }
 
 /* element="registersection" detail="" chain="" */
 
-registersection, div.registersection {
+registersection,
+div.registersection {
     display: block ;
 }
 
 /* element="registerseparator" detail="" chain="" */
 
-registerseparator, div.registerseparator {
+registerseparator,
+div.registerseparator {
     display: inline ;
 }
 
 /* element="registertag" detail="" chain="" */
 
-registertag, div.registertag {
-    display: inline ;
-}
-
-/* element="registertopage" detail="" chain="" */
-
-registertopage, div.registertopage {
+registertag,
+div.registertag {
     display: inline ;
 }
 
 /* element="section" detail="chapter" chain="chapter" */
 
-section[detail=chapter], div.section.chapter {
+section[detail=chapter],
+div.section.chapter {
     display: block ;
 }
 
 /* element="section" detail="section" chain="section" */
 
-section[detail=section], div.section.section {
+section[detail=section],
+div.section.section {
     display: block ;
 }
 
 /* element="section" detail="subject" chain="subject" */
 
-section[detail=subject], div.section.subject {
+section[detail=subject],
+div.section.subject {
     display: block ;
 }
 
 /* element="section" detail="subsection" chain="subsection" */
 
-section[detail=subsection], div.section.subsection {
+section[detail=subsection],
+div.section.subsection {
     display: block ;
 }
 
 /* element="section" detail="subsubsection" chain="subsubsection" */
 
-section[detail=subsubsection], div.section.subsubsection {
+section[detail=subsubsection],
+div.section.subsubsection {
     display: block ;
 }
 
 /* element="section" detail="title" chain="title" */
 
-section[detail=title], div.section.title {
+section[detail=title],
+div.section.title {
+    display: block ;
+}
+
+/* element="sectioncaption" detail="" chain="" */
+
+sectioncaption,
+div.sectioncaption {
     display: block ;
 }
 
 /* element="sectioncontent" detail="" chain="" */
 
-sectioncontent, div.sectioncontent {
+sectioncontent,
+div.sectioncontent {
     display: block ;
 }
 
 /* element="sectionnumber" detail="" chain="" */
 
-sectionnumber, div.sectionnumber {
+sectionnumber,
+div.sectionnumber {
     display: inline ;
 }
 
 /* element="sectiontitle" detail="" chain="" */
 
-sectiontitle, div.sectiontitle {
+sectiontitle,
+div.sectiontitle {
     display: inline ;
 }
 
 /* element="sup" detail="" chain="" */
 
-sup, div.sup {
+sup,
+div.sup {
     display: inline ;
 }
 
 /* element="table" detail="" chain="" */
 
-table, div.table {
+table,
+div.table {
     display: block ;
 }
 
 /* element="tablecell" detail="" chain="" */
 
-tablecell, div.tablecell {
+tablecell,
+div.tablecell {
     display: inline ;
 }
 
 /* element="tablerow" detail="" chain="" */
 
-tablerow, div.tablerow {
+tablerow,
+div.tablerow {
     display: block ;
 }
