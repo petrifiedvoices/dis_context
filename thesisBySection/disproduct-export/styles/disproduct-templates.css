@@ -147,12 +147,15 @@ listcontent, div.listcontent {
     display: inline ;
 }
 
+<<<<<<< HEAD
 /* element="listitem" detail="btx-apa" chain="" */
 
 listitem[detail=btx-apa], div.listitem.btx-apa {
     display: block ;
 }
 
+=======
+>>>>>>> f176431605e1cdcf3fa604b0b00566e8c3e8a071
 /* element="listitem" detail="chapter" chain="" */
 
 listitem[detail=chapter], div.listitem.chapter {
@@ -168,6 +171,13 @@ listitem[detail=section], div.listitem.section {
 /* element="listitem" detail="subsection" chain="" */
 
 listitem[detail=subsection], div.listitem.subsection {
+    display: block ;
+}
+
+/* element="listitem" detail="subsubsection" chain="" */
+
+listitem[detail=subsubsection],
+div.listitem.subsubsection {
     display: block ;
 }
 

@@ -1,22 +1,30 @@
 \startenvironment env_dis
-\mainlanguage[cs]
-%\enableregime[latin2]
+\mainlanguage[cz]
+
 \enableregime[utf]
 \setupcolors[state=start] 
 
 %\usepath[{.}, {..}, {../thesisBySection}]
 
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style=normal]
+\placebookmarks [chapter,section,subsection]
+                [chapter]
+
 
 \setuppapersize[A4][A4]
 \setuplayout[location=singlesided, topspace=10mm, backspace=30mm, rightmargin=20mm, bottomspace=10mm, header=10mm, footer=10mm, width=fit, height=fit]
 
+% \showsetups
+% \showlayout
+% \showframe
+% \showmakeup
 
 \definefontfeature
   [default]
   [default]
   [protrusion=quality,expansion=quality]
 \definefontfamily [myfamily] [serif] [Gentium Plus] [protrusion=quality,expansion=quality, it=gentiumplusitalic, bf=gentiumbasicbold, sl=gentiumbasicitalic, bi=gentiumbasicpsbolditalic]
+
 
 \setupbodyfont[myfamily,12pt]
 \setupwhitespace[none]
@@ -57,8 +65,8 @@
 \setupfloat[figure][default={here,number}, boffset=10pt]
 \setupfloat[table][default={here,number}, boffset=10pt]
 
-\setupcaption[table][location=top,align=right]
-\setupcaption[style={\tfx},align=left,location=bottom]
+\setupcaption[location=top,align=flushleft,width=fit,style={\tfx}]
+
 
 \setupexternalfigures[location=default]
 
