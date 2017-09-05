@@ -18,12 +18,12 @@ intent=ISO coated v2 300\letterpercent\space (ECI)]
 \setupstructure[state=start,method=auto]
 
 \startproduct dis_product
-\setuppagenumbering[state=stop]
+\setuppagenumbering[alternative=singlesided,style={\ss\tfx},way=bytext, location={footer, right}, state=stop]
 \setupuserpagenumber[numberconversion=romannumerals]
 \component frontmatter/titlepage.tex
 \completecontent
 \page[blank]
-\setuppagenumbering[state=start,alternative=singlesided,location={footer,right},style={\ss\tfx},way=bytext]
+\setuppagenumbering[alternative=singlesided,style={\ss\tfx},way=bytext, location={footer, right}, state=start]
 
 \setupuserpagenumber[numberconversion=numbers]
 \setuppagenumber[number=0]

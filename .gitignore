@@ -2,3 +2,5 @@
 *.log
 disproduct-export/
 disproduct.pdf
+*.xhtml
+*.xml
