@@ -7,12 +7,11 @@
 %\usepath[{.}, {..}, {../thesisBySection}]
 
 \setupinteraction[state=start, color=blue, contrastcolor=blue, style=normal]
-\placebookmarks [chapter,section,subsection]
-                [chapter]
+
 
 
 \setuppapersize[A4][A4]
-\setuplayout[location=singlesided, topspace=10mm, backspace=30mm, rightmargin=20mm, bottomspace=10mm, header=10mm, footer=10mm, width=fit, height=fit]
+\setuplayout[location=singlesided, topspace=10mm, backspace=40mm, rightmargin=5mm, bottomspace=10mm, header=10mm, footer=10mm, width=fit, height=fit]
 
 % \showsetups
 % \showlayout
@@ -87,5 +86,64 @@
    first=\bTR,last=\eTR,
    before=\bTABLE\bTABLEbody,after=\eTABLEbody\eTABLE]
 \protect
+
+
+
+\placebookmarks[chapter,section,subsection]
+\setupcombinedlist[content][list={chapter,section,subsection}]
+
+\startluacode
+        sorters.setlanguage("cz")
+\stopluacode
+
+
+\usebtxdefinitions[apa]
+
+\unprotect
+\def\textampersand{a}
+\protect
+
+\setupbtxlabeltext
+  [cz]
+  [apa:number={},
+   apa:edition={ed.}, % edición
+   apa:Editor={ed.}, % Ed./Eds.
+   apa:Editors={edd.},
+   apa:Volume={Vol.},   % Volumen
+   apa:Volumes={Vols.},
+   p={}, %single page
+   pp={} %prefix for pages
+   ] 
+
+\setupbtx
+[apa:cite:authoryear]
+[inbetween={\btxspace\space}]
+
+
+ \setupbtx
+ [apa:cite]
+ [left=,
+  right=,
+separator:2={\btxsemicolon}, % :0 and :1 - between items of a list
+separator:3={\btxsemicolon},
+separator:4={\btxsemicolon},
+separator:names:2={\btxcomma},
+separator:names:3={\btxnobreakspace{a}\space},
+separator:names:4={\btxnobreakspace{a}\space},   
+etaldisplay=2,
+etallimit=3
+]
+
+
+\usebtxdataset[ancient][ancient.bib]
+\definebtxrendering[ancient][apa][dataset=ancient]
+\usebtxdataset[epigraphic][epigraphic.bib]
+\definebtxrendering[epigraphic][apa][dataset=epigraphic]
+\usebtxdataset[secondary][secondary.bib]
+\definebtxrendering[secondary][apa][dataset=secondary]
+\usebtxdataset[teze][teze.bib]
+\definebtxrendering[teze][apa][dataset=teze]
+\usebtxdataset[myself][myself.bib]
+\definebtxrendering[myself][apa][dataset=myself]
 
 \stopenvironment

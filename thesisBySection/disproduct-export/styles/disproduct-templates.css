@@ -171,6 +171,13 @@ div.listcontent {
     display: inline ;
 }
 
+/* element="listitem" detail="btx-apa" chain="" */
+
+listitem[detail=btx-apa],
+div.listitem.btx-apa {
+    display: block ;
+}
+
 /* element="listitem" detail="chapter" chain="" */
 
 listitem[detail=chapter],
@@ -189,13 +196,6 @@ div.listitem.section {
 
 listitem[detail=subsection],
 div.listitem.subsection {
-    display: block ;
-}
-
-/* element="listitem" detail="subsubsection" chain="" */
-
-listitem[detail=subsubsection],
-div.listitem.subsubsection {
     display: block ;
 }
 
