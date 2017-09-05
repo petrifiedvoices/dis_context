@@ -149,25 +149,10 @@ listcontent, div.listcontent {
 
 /* element="listitem" detail="btx-apa" chain="" */
 
-listitem[detail=btx-apa],
-div.listitem.btx-apa {
-    display: block ;
-}
-
-=======
-<<<<<<< HEAD
-/* element="listitem" detail="btx-apa" chain="" */
-
 listitem[detail=btx-apa], div.listitem.btx-apa {
     display: block ;
 }
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f176431605e1cdcf3fa604b0b00566e8c3e8a071
->>>>>>> 03ad5174e8cd67f51ac9da26ba5fb7db76687226
->>>>>>> e9e833bc36732b99fa3e791d3445b1321deb40a0
 /* element="listitem" detail="chapter" chain="" */
 
 listitem[detail=chapter], div.listitem.chapter {
