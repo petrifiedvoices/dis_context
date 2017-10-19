@@ -23,4 +23,4 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 
 ## Dissertation:
 * the link to the data used to write this dissertation can be found at https://github.com/petrajanouchova/hat_project
-* to be submitted in September 2017 in Czech, English version is scheduled for 2018 
+* submitted at Charles University in September 2017 in Czech, defense scheduled for late 2017. English version is scheduled for 2018 
