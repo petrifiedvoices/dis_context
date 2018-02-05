@@ -1,10 +1,14 @@
 # The Hellenisation of Ancient Thrace Project
-OSF: https://osf.io/fjnw5/ & DOI: DOI 10.17605/OSF.IO/FJNW5
+OSF: https://osf.io/fjnw5/ & DOI 10.17605/OSF.IO/FJNW5
 
-## Author of the dissertation: 
-**Petra Janouchová** (petra.janouchova@gmail.com)
-* Doctoral Candidate at Chales University, Prague, Czech Republic (2011-2017)
+## Author: 
+**Petra Janouchová, PhD** (petra.janouchova@gmail.com) 
+
+<a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
+* PhD, Charles University, Prague, Czech Republic (2011-2017)
 * Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016- )
+* Academia.edu: https://mq.academia.edu/PetraJanouchova
+* Twitter: @pettulda
 
 ## Author of the technical solution / Sectinator: 
 **Brian Ballsun-Stanton** (https://github.com/Denubis)
@@ -23,5 +27,6 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * convert.sh - script converting .docx to .tex, the format needed to parse the original dissertation document
 
 ## Dissertation:
-* the link to the data used to write this dissertation can be found at https://github.com/petrajanouchova/hat_project
-* submitted at Charles University in September 2017 in Czech, defense scheduled for late 2017. English version is scheduled for 2018 
+* Link to the data used to write this dissertation can be found at https://github.com/petrajanouchova/hat_project
+* Defense 14 Dec 2017 in Czech, English version of the text is scheduled for 2018 
+* Preliminary results published in various articles (access via OSF: https://osf.io/fjnw5/) 
