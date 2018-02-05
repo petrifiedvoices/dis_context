@@ -11,7 +11,7 @@ OSF: https://osf.io/fjnw5/ & DOI 10.17605/OSF.IO/FJNW5
 * Twitter: @pettulda
 
 ## Author of the technical solution / Sectinator: 
-**Brian Ballsun-Stanton** (https://github.com/Denubis)
+**Brian Ballsun-Stanton, PhD** (https://github.com/Denubis)
 
 ## The Aim:
 The database has been populated with epigraphic data from a geographic area broadly conceived as falling within Ancient Thrace in a manner that crosses national and linguistic boundaries, and with an emphasis on the spatio-temporal attributes of individual inscriptions. The database makes possible the quantified analysis of more than 4600 inscriptions and their attributes, and is available for use and reuse by other scholars in epigraphy, philology, archaeology and other disciplines.
